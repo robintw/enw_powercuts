@@ -17,7 +17,7 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        curl -k https://www.enwl.co.uk/api/power-outages/search?pageSize=1000&pageNumber=1&includeCurrent=true&includeResolved=false&includeTodaysPlanned=false&includeFuturePlanned=false&includeCancelledPlanned=false | jq . > outages.json
+        curl -k https://www.enwl.co.uk/api/power-outages/search?pageSize=1000&pageNumber=1&includeCurrent=true&includeResolved=false&includeTodaysPlanned=false&includeFuturePlanned=false&includeCancelledPlanned=false > outages.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
