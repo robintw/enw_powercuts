@@ -74,7 +74,7 @@
       "region": "Hindpool, Barrow-In-Furness",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": null,
       "consumersOff": 79,
       "estimatedTimeOfRestoration": "2025-11-01T01:48:00",
       "estimatedTimeOfRestorationMajority": "2025-11-01T01:48:00",
@@ -110,24 +110,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241148627",
+      "faultNumber": "INC 1241148594",
       "multipleFaultNumbers": null,
-      "date": "2025-11-05T12:18:50",
-      "region": "Birchwood, Warrington",
+      "date": "2025-11-05T11:52:21",
+      "region": "Seneley Green, St. Helens",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 97,
-      "estimatedTimeOfRestoration": "2025-11-05T18:17:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-05T18:17:00",
+      "previousFaultStatus": null,
+      "consumersOff": 47,
+      "estimatedTimeOfRestoration": "2025-11-05T17:52:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-05T17:52:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.426446,
-        "lng": -2.505159
+        "lat": 53.492832,
+        "lng": -2.671855
       },
       "outageLocations": null,
-      "AffectedPostcodes": " WA3 6TE, WA3 6TF, WA3 6TH, WA3 6TA, WA3 6TB, WA3 6TD, WA3 6TN",
+      "AffectedPostcodes": " WN4 0SR, WN4 0SS, WN4 0SJ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -158,7 +158,7 @@
       "region": "Blackburn Central, Blackburn With Darwen",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 4,
       "estimatedTimeOfRestoration": "2025-11-05T16:18:00",
       "estimatedTimeOfRestorationMajority": "2025-11-05T16:18:00",
@@ -200,7 +200,7 @@
       "region": "Bryning-With-Warton, Fylde",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 30,
       "estimatedTimeOfRestoration": "2025-11-05T18:38:00",
       "estimatedTimeOfRestorationMajority": "2025-11-05T18:38:00",
@@ -242,7 +242,7 @@
       "region": "Maryport, Allerdale",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 32,
       "estimatedTimeOfRestoration": "2025-11-05T14:30:00",
       "estimatedTimeOfRestorationMajority": "2025-11-05T14:30:00",
@@ -284,7 +284,7 @@
       "region": "Coldhurst, Oldham",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": null,
       "consumersOff": 64,
       "estimatedTimeOfRestoration": "2025-11-05T18:01:00",
       "estimatedTimeOfRestorationMajority": "2025-11-05T18:01:00",
@@ -326,7 +326,7 @@
       "region": "Bryn, Wigan",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": null,
       "consumersOff": 136,
       "estimatedTimeOfRestoration": "2025-11-05T17:38:00",
       "estimatedTimeOfRestorationMajority": "2025-11-05T17:38:00",
@@ -341,6 +341,90 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241148666",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-05T11:40:04",
+      "region": "Clayton-Le-Woods, Chorley",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 88,
+      "estimatedTimeOfRestoration": "2025-11-05T17:40:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-05T17:40:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.693519,
+        "lng": -2.670130
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR25 5TT, PR25 5UJ, PR25 5UH",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241148627",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-05T12:18:50",
+      "region": "Birchwood, Warrington",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 97,
+      "estimatedTimeOfRestoration": "2025-11-05T18:17:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-05T18:17:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.426446,
+        "lng": -2.505159
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " WA3 6TE, WA3 6TF, WA3 6TH, WA3 6TA, WA3 6TB, WA3 6TD, WA3 6TN",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -350,7 +434,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 7,
+  "TotalResults": 9,
   "ShowPolygons": false,
   "Regions": [
     {
