@@ -117,61 +117,19 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 6,
+      "consumersOff": 4,
       "estimatedTimeOfRestoration": "2025-11-05T16:18:00",
       "estimatedTimeOfRestorationMajority": "2025-11-05T16:18:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.759591,
-        "lng": -2.507493
+        "lat": 53.747378,
+        "lng": -2.484063
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB2 2DG, BB2 1JQ",
+      "AffectedPostcodes": " BB2 2DG",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241148475",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-05T10:20:37",
-      "region": "Chisworth, High Peak",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 32,
-      "estimatedTimeOfRestoration": "2025-11-05T13:30:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-05T13:30:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.426678,
-        "lng": -2.017108
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " SK6 5NT, SK13 5RZ, SK13 5RU, SK6 5RX, SK6 5RZ, SK6 5RY, SK13 5RT, SK13 5SA, SK13 5RS, SK6 5JQ, SK14 6RX, SK13 5DN",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -212,48 +170,6 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " CA15 7DE, CA15 7DF",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241148525",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-05T10:54:19",
-      "region": "Wilmslow, Cheshire East",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 30,
-      "estimatedTimeOfRestoration": "2025-11-05T16:54:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-05T16:54:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.322238,
-        "lng": -2.240907
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " SK9 5JB, SK9 5HZ, SK9 5JD, SK9 5HW",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -341,6 +257,48 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241148627",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-05T12:18:50",
+      "region": "Birchwood, Warrington",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 97,
+      "estimatedTimeOfRestoration": "2025-11-05T18:17:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-05T18:17:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.426446,
+        "lng": -2.505159
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " WA3 6TE, WA3 6TF, WA3 6TH, WA3 6TA, WA3 6TB, WA3 6TD, WA3 6TN",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -350,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 7,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
