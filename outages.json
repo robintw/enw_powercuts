@@ -96,7 +96,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -110,26 +110,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241148388",
+      "faultNumber": "INC 1241148435",
       "multipleFaultNumbers": null,
-      "date": "2025-11-05T09:37:21",
-      "region": "Colby, Eden",
+      "date": "2025-11-05T10:04:18",
+      "region": "Bradshaw, Bolton",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
       "previousFaultStatus": null,
-      "consumersOff": 4,
-      "estimatedTimeOfRestoration": "2025-11-05T15:37:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-05T15:37:00",
+      "consumersOff": 34,
+      "estimatedTimeOfRestoration": "2025-11-05T13:04:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-05T13:04:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.577580,
-        "lng": -2.528645
+        "lat": 53.619457,
+        "lng": -2.398996
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA16 6BB",
+      "AffectedPostcodes": " BL2 4JS, BL7 9AX, BL2 4JR, BL2 4JP, BL7 9AU",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -152,26 +152,68 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241148359",
+      "faultNumber": "INC 1241148400",
       "multipleFaultNumbers": null,
-      "date": "2025-11-05T09:22:00",
-      "region": "Murton, Eden",
+      "date": "2025-11-05T09:44:42",
+      "region": "Maryport, Allerdale",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 15,
-      "estimatedTimeOfRestoration": "2025-11-05T15:21:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-05T15:21:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 29,
+      "estimatedTimeOfRestoration": "2025-11-05T13:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-05T13:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.003183,
-        "lng": -2.195082
+        "lat": 54.711020,
+        "lng": -3.479893
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA16 6LP, SK13 6PL",
+      "AffectedPostcodes": " CA15 7DE, CA15 7DF",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241148418",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-05T09:55:48",
+      "region": "Dalton Town With Newton, Barrow-In-Furness",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 577,
+      "estimatedTimeOfRestoration": "2025-11-05T12:55:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-05T12:55:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.159973,
+        "lng": -3.174359
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA15 8ET, LA15 8EZ, LA15 8EP, LA15 8JD, LA15 8HN, LA15 8HQ, LA15 8HR, LA15 8HH, LA15 8HS, LA15 8ES, LA15 8EX, LA15 8EU, LA15 8HW, LA15 8UB, LA15 8HX, LA15 8HJ, LA15 8EW, LA15 8HY, LA15 8JB, LA15 8HE, LA15 8UD, LA15 8HU, LA15 8HF, LA15 8HL, LA15 8HP, LA15 8HG, LA15 8JY, LA15 8EN, LA15 8XW, LA15 8JJ, LA15 8ER, LA15 8EY",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     }
   ],
@@ -182,7 +224,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 3,
+  "TotalResults": 4,
   "ShowPolygons": false,
   "Regions": [
     {
