@@ -118,8 +118,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 92,
-      "estimatedTimeOfRestoration": "2025-11-06T18:30:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-06T18:30:00",
+      "estimatedTimeOfRestoration": "2025-11-06T18:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-06T18:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -172,6 +172,48 @@
       "AffectedPostcodes": " BB9 7BS, BB9 7DB",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241149334",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-06T14:58:57",
+      "region": "Orton, Carlisle",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 31,
+      "estimatedTimeOfRestoration": "2025-11-06T21:30:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-06T21:30:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.857816,
+        "lng": -3.032900
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " CA5 6LJ, CA5 6LQ, CA5 6LS",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "O/HM",
       "addressMpanList": null
     },
     {
@@ -392,7 +434,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 8,
+  "TotalResults": 9,
   "ShowPolygons": false,
   "Regions": [
     {
