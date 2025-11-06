@@ -95,7 +95,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -128,7 +128,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " BB2 4RH, BB2 4RL, BB2 4PF, BB2 4RQ, BB2 4NE, BB2 4RF, BB2 4NT, BB2 4LU, BB2 4SB, BB2 4NP, BB2 4LZ, BB2 4RJ, BB2 4NS, BB2 4NL, BB2 4RG, BB2 4PD, BB2 4ND, BB2 4NQ, BB2 4NG, BB2 4PQ, BB2 4NA, BB2 4NR, BB2 4NJ, BB2 4NN, BB2 4NW, BB2 4NH, BB2 4NU, BB2 4PE, BB2 4QS, BB2 4SA",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
@@ -172,48 +172,6 @@
       "AffectedPostcodes": " BB9 7BS, BB9 7DB",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241149334",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-06T14:58:57",
-      "region": "Orton, Carlisle",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 31,
-      "estimatedTimeOfRestoration": "2025-11-06T21:30:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-06T21:30:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.857816,
-        "lng": -3.032900
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " CA5 6LJ, CA5 6LQ, CA5 6LS",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "O/HM",
       "addressMpanList": null
     },
     {
@@ -424,6 +382,48 @@
       "AffectedPostcodes": " M29 7PT, M29 7PZ, M29 7PU, M29 7QE, M29 7QB, M29 7QD, M29 8RP",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241149438",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-06T17:53:07",
+      "region": "Thornley-With-Wheatley, Ribble Valley",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 123,
+      "estimatedTimeOfRestoration": "2025-11-06T20:53:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-06T20:53:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.879788,
+        "lng": -2.588118
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR3 2QE, PR3 2TS, PR3 2GH, PR3 2TH, PR3 2QL, PR3 2DR, PR3 2GL, PR3 2GA, PR3 2QH, PR3 2GN, BB7 3AT, PR3 2QD, PR3 2TP, PR3 2GP, PR3 2QQ, PR3 2QB, PR3 2GD, PR3 2GJ, PR3 2QF, PR3 2QA, PR3 2QW, PR3 2TR, PR3 2TQ, PR3 2QU, BB7 3DQ, PR3 2QG, PR3 2GQ, PR3 2QR, BB7 3AU, PR3 2QP, PR3 2DP, PR3 2QY, PR3 2QN, PR3 2HH, PR3 2TJ, BB7 3BN, PR3 2QT, PR3 2QX, PR3 2GR, PR3 2QS, PR3 2GE, PR3 2RD, PR3 2TE, PR3 2NZ, PR3 2GS, PR3 2ER, PR3 2LY, PR4 2WN, PR3 2HR, PR3 2SY",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     }
   ],
