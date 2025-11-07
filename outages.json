@@ -95,48 +95,6 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241149458",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-06T19:35:03",
-      "region": "Alston Moor, Eden",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 28,
-      "estimatedTimeOfRestoration": "2025-11-07T03:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-07T03:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.797454,
-        "lng": -2.368648
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " CA9 3LB, CA9 3LD, CA9 3TP, CA9 3LG, CA9 3LF, CA9 3LE, CA9 3LQ, CA9 3LX, CA9 3LZ, CA9 3LY, CA9 3LH, CA9 3LL, CA9 3LW, CA9 3LJ, CA9 3LN, CA9 3LP, CA9 3PY, CA9 3NA, CA9 3LS, CA9 3LR, CA9 3PW, CA9 3PQ, CA9 3PU, CA9 3PS, CA9 3PL, CA9 3PH, CA9 3PG, CA9 3PT, CA9 3SW, CA9 3PR, CA9 3PP, CA9 3PF, CA9 3PJ, CA9 3PE, CA9 3AE, CA9 3PZ, CA9 3QA, CA9 3PD, CA9 3PN, CA9 3TH, CA9 3NP, CA9 3NT, CA9 1AQ, CA9 3PA, CA9 3NS, CA9 3LU, CA9 3NR, CA9 3LT",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
       "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
@@ -159,7 +117,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 52,
+      "consumersOff": 24,
       "estimatedTimeOfRestoration": "2025-11-07T05:00:00",
       "estimatedTimeOfRestorationMajority": "2025-11-07T05:00:00",
       "information": "",
@@ -214,6 +172,48 @@
       "AffectedPostcodes": " CA22 2QG, CA22 2QN",
       "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241149537",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-07T03:21:10",
+      "region": "Longsight, Manchester",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 78,
+      "estimatedTimeOfRestoration": "2025-11-07T06:21:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-07T06:21:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.461493,
+        "lng": -2.190898
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M12 4JU, M12 4JX",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     }
   ],
