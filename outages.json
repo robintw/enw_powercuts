@@ -110,66 +110,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125279740",
+      "faultNumber": "INC 125279754",
       "multipleFaultNumbers": null,
-      "date": "2025-11-07T17:30:46",
-      "region": "North Middleton, Rochdale",
+      "date": "2025-11-07T17:59:32",
+      "region": "Seneley Green, St. Helens",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
       "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 90,
-      "estimatedTimeOfRestoration": "2025-11-07T23:30:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-07T23:30:00",
+      "consumersOff": 172,
+      "estimatedTimeOfRestoration": "2025-11-07T23:59:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-07T23:59:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.557554,
-        "lng": -2.200008
+        "lat": 53.490951,
+        "lng": -2.668350
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M24 5DL, M24 5DD, M24 5DB, M24 5DE",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125279704",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-07T16:35:16",
-      "region": "Claremont, Blackpool",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 9,
-      "estimatedTimeOfRestoration": "2025-11-07T22:35:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-07T22:35:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.828760,
-        "lng": -3.054206
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " FY1 2JF",
+      "AffectedPostcodes": " WN4 0RN, WN4 0SZ, WN4 0RW, WN4 0RR, WN4 0RP, WN4 0RS, WN4 0RT",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -199,8 +157,8 @@
       "date": "2025-11-07T16:52:10",
       "region": "Lower Holker, South Lakeland",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 53,
       "estimatedTimeOfRestoration": "2025-11-07T19:52:00",
       "estimatedTimeOfRestorationMajority": "2025-11-07T19:52:00",
@@ -212,6 +170,48 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " LA11 7NG, LA11 7LS, LA11 7LT, LA11 7LU, LA11 7PJ, LA11 7LL, LA11 7LR",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125279756",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-07T18:06:16",
+      "region": "Lower Holker, South Lakeland",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 378,
+      "estimatedTimeOfRestoration": "2025-11-07T21:06:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-07T21:06:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.174005,
+        "lng": -2.970689
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA11 7LP, LA11 7LH, LA11 7NB, LA11 7JU, LA11 7LQ, LA11 7JZ, LA11 7LE, LA11 7LJ, LA11 7LW, LA11 7LR, LA11 7ND, LA11 7LF, LA11 7JY, LA11 7NF, LA11 7JX, LA11 7LG, LA11 7NY, LA11 7SF, LA11 7PT",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -244,8 +244,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 14,
-      "estimatedTimeOfRestoration": "2025-11-07T21:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-07T21:00:00",
+      "estimatedTimeOfRestoration": "2025-11-07T19:10:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-07T19:10:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -370,8 +370,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 6,
-      "estimatedTimeOfRestoration": "2025-11-07T19:04:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-07T19:04:00",
+      "estimatedTimeOfRestoration": "2025-11-08T00:00:01",
+      "estimatedTimeOfRestorationMajority": "2025-11-08T00:00:01",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -380,6 +380,48 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " PR25 5UJ, PR25 5UH",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125279704",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-07T16:35:16",
+      "region": "Claremont, Blackpool",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 9,
+      "estimatedTimeOfRestoration": "2025-11-07T22:35:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-07T22:35:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.828760,
+        "lng": -3.054206
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " FY1 2JF",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -392,7 +434,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 8,
+  "TotalResults": 9,
   "ShowPolygons": false,
   "Regions": [
     {
