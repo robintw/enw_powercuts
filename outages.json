@@ -95,7 +95,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -128,7 +128,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " CA9 3LB, CA9 3LD, CA9 3TP, CA9 3LG, CA9 3LF, CA9 3LE, CA9 3LQ, CA9 3LX, CA9 3LZ, CA9 3LY, CA9 3LH, CA9 3LL, CA9 3LW, CA9 3LJ, CA9 3LN, CA9 3LP, CA9 3PY, CA9 3NA, CA9 3LS, CA9 3LR, CA9 3PW, CA9 3PQ, CA9 3PU, CA9 3PS, CA9 3PL, CA9 3PH, CA9 3PG, CA9 3PT, CA9 3SW, CA9 3PR, CA9 3PP, CA9 3PF, CA9 3PJ, CA9 3PE, CA9 3AE, CA9 3PZ, CA9 3QA, CA9 3PD, CA9 3PN, CA9 3TH, CA9 3NP, CA9 3NT, CA9 1AQ, CA9 3PA, CA9 3NS, CA9 3LU, CA9 3NR, CA9 3LT",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
@@ -159,7 +159,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 105,
+      "consumersOff": 52,
       "estimatedTimeOfRestoration": "2025-11-07T05:00:00",
       "estimatedTimeOfRestorationMajority": "2025-11-07T05:00:00",
       "information": "",
@@ -170,48 +170,6 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " LA12 8DY, LA12 8EB, LA12 8EA, LA12 8EQ, LA12 8EG, LA12 7PW, LA12 8DA, LA12 8ER, LA12 8DU, LA12 7PP, LA12 8ES, LA12 8EF, LA12 8EU, LA12 8EH, LA12 7SZ, LA12 8DX, LA12 7PR, LA12 8BZ, LA12 8DJ, LA12 8DE, LA12 8EE, LA12 7PQ, LA12 8ED, LA12 7TA, LA12 8DB, LA12 8AJ, LA12 7PN, LA12 8ET, LA12 8DZ, LA12 8EP, LA12 8BY, LA12 8DT, LA12 7PH, LA12 7RA, LA12 9PQ, LA12 8HP, LA12 8DP, LA12 8EN, LA12 8DG, LA12 8EW",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241149355",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-06T15:21:36",
-      "region": "Hyde Godley, Tameside",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 214,
-      "estimatedTimeOfRestoration": "2025-11-07T03:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-07T03:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.452340,
-        "lng": -2.059897
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " SK14 3BW, SK14 2PE, SK14 3SA, SK14 2PW, SK14 1ZZ, SK14 2SP, SK14 3SG, SK14 2PH, SK14 2ST, SK14 2JB, SK14 3BD, SK14 2PS, SK14 2SN, SK14 2PX, SK14 2QB, SK14 3FR, SK14 3AZ, SK14 3SH, SK14 2SW, SK14 3SW, SK14 2PL, SK14 3AX, SK14 2SX, SK14 2NT, SK14 2PU, SK14 3SF, SK14 2PG, SK14 3BP, SK14 2SU, SK14 2PR, SK14 2PN, SK14 2BS, SK14 3SB, SK14 3DA, SK14 3SJ, SK14 2SY, SK14 3BU, SK14 3BJ, SK14 2PJ, SK14 2QA, SK14 3BH, SK14 3SE, SK14 2QQ, SK14 2PZ, SK14 2SS, SK14 2SL, SK14 2PT, SK14 3BL, SK14 3GA, SK14 2PQ, SK14 5PU, SK14 2SR, SK14 8PR, SK14 2QE, SK14 3BS, SK14 3SD, SK14 1RT, SK14 2NY, SK14 2JP, SK14 3BX, SK14 3BQ, SK14 2NH, SK14 2PF, SK14 3BZ, SK14 2PP, SK14 1NX, SK14 2BE",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -266,7 +224,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 4,
   "ShowPolygons": false,
   "Regions": [
     {
