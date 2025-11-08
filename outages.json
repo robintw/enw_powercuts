@@ -221,8 +221,8 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -236,26 +236,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125280087",
+      "faultNumber": "INC 125280177",
       "multipleFaultNumbers": null,
-      "date": "2025-11-08T14:00:10",
-      "region": "Marple North, Stockport",
+      "date": "2025-11-08T19:29:59",
+      "region": "Aighton, Bailey And Chaigley, Ribble Valley",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 4,
-      "estimatedTimeOfRestoration": null,
-      "estimatedTimeOfRestorationMajority": null,
+      "consumersOff": 34,
+      "estimatedTimeOfRestoration": "2025-11-08T22:29:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-08T22:29:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.406257,
-        "lng": -2.051170
+        "lat": 53.884047,
+        "lng": -2.481675
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK6 5EJ",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "O/HM",
+      "AffectedPostcodes": " BB7 3LT, BB7 3LX, PR3 2TS, BB7 3LU",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
