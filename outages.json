@@ -68,24 +68,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125280524",
+      "faultNumber": "INC 125280848",
       "multipleFaultNumbers": null,
-      "date": "2025-11-10T04:07:31",
-      "region": "Whicham, Copeland",
+      "date": "2025-11-10T15:41:08",
+      "region": "Bootle, Copeland",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 33,
-      "estimatedTimeOfRestoration": "2025-11-10T16:30:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-10T16:30:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 14,
+      "estimatedTimeOfRestoration": "2025-11-10T18:41:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-10T18:41:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.249069,
-        "lng": -3.345069
+        "lat": 54.248375,
+        "lng": -3.327418
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA19 5UR, LA19 5UT, LA19 5UP, LA18 5LR, LA19 1UP, LA18 5YR, LA19 5UW, LA18 4NY, LA18 5HH",
+      "AffectedPostcodes": " LA19 5UE, LA19 5TF, LA19 5UF, LA19 5UG",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -110,24 +110,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125280830",
+      "faultNumber": "INC 125280524",
       "multipleFaultNumbers": null,
-      "date": "2025-11-10T14:35:48",
-      "region": "Arthuret, Carlisle",
+      "date": "2025-11-10T04:07:31",
+      "region": "Whicham, Copeland",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 4,
-      "estimatedTimeOfRestoration": "2025-11-10T17:35:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-10T17:35:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 33,
+      "estimatedTimeOfRestoration": "2025-11-10T22:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-10T22:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 55.031289,
-        "lng": -2.852380
+        "lat": 54.249069,
+        "lng": -3.345069
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA6 5TX, CA6 5TY",
+      "AffectedPostcodes": " LA19 5UR, LA19 5UT, LA19 5UP, LA18 5LR, LA19 1UP, LA18 5YR, LA19 5UW, LA18 4NY, LA18 5HH",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -152,16 +152,58 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 125280850",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-10T15:44:12",
+      "region": "Cheetham, Manchester",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 15,
+      "estimatedTimeOfRestoration": "2025-11-10T21:44:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-10T21:44:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.493139,
+        "lng": -2.237494
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M8 8QG, M8 8GF, M8 8QN, M8 8RD, M8 8RG",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": true,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 125280842",
       "multipleFaultNumbers": null,
       "date": "2025-11-10T12:51:00",
       "region": "Bootle, Copeland",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 27,
-      "estimatedTimeOfRestoration": "2025-11-10T18:51:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-10T18:51:00",
+      "estimatedTimeOfRestoration": "2025-11-10T15:51:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-10T15:51:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -170,8 +212,8 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " LA19 5UF, LA19 5UE, LA19 5UB, LA19 5UJ, LA19 5TG",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
+      "UnderReviewStatusTimeCheck": true,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -215,6 +257,48 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125280844",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-10T15:26:02",
+      "region": "Cadishead & Lower Irlam, Salford",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 24,
+      "estimatedTimeOfRestoration": "2025-11-10T21:26:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-10T21:26:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.427082,
+        "lng": -2.438057
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M44 5DX, M44 5UL, M44 5FA, M44 5DT, M44 5FG",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -224,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
