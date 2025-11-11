@@ -96,7 +96,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -110,26 +110,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125281258",
+      "faultNumber": "INC 125281294",
       "multipleFaultNumbers": null,
-      "date": "2025-11-11T12:03:41",
-      "region": "Staveley-In-Cartmel, South Lakeland",
+      "date": "2025-11-11T12:22:24",
+      "region": "Coal Clough With Deerplay, Burnley",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 27,
-      "estimatedTimeOfRestoration": "2025-11-11T18:03:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-11T18:03:00",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 212,
+      "estimatedTimeOfRestoration": "2025-11-11T15:22:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-11T15:22:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.267746,
-        "lng": -2.955366
+        "lat": 53.781818,
+        "lng": -2.259603
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA12 8NH, LA12 8NJ",
+      "AffectedPostcodes": " BB11 5FL, BB11 5FF, BB11 5FG, BB11 5FJ, BB11 5FN",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -152,24 +152,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125281259",
+      "faultNumber": "INC 125281302",
       "multipleFaultNumbers": null,
-      "date": "2025-11-11T12:03:45",
-      "region": "Colton, South Lakeland",
+      "date": "2025-11-11T12:26:45",
+      "region": "Mellor, Ribble Valley",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
       "previousFaultStatus": null,
-      "consumersOff": 4,
-      "estimatedTimeOfRestoration": "2025-11-11T18:03:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-11T18:03:00",
+      "consumersOff": 31,
+      "estimatedTimeOfRestoration": "2025-11-11T18:26:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-11T18:26:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.270403,
-        "lng": -2.970338
+        "lat": 53.772188,
+        "lng": -2.502912
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA12 8AW, LA12 8AN",
+      "AffectedPostcodes": " BB2 7EE, BB2 7EF, BB2 7ED",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -236,97 +236,13 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125281263",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-11T12:03:52",
-      "region": "Staveley-In-Cartmel, South Lakeland",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 11,
-      "estimatedTimeOfRestoration": "2025-11-11T18:03:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-11T18:03:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.267514,
-        "lng": -2.962237
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " LA12 8ND, LA12 8NT, LA12 8NL",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125281264",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-11T12:03:55",
-      "region": "Staveley-In-Cartmel, South Lakeland",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 14,
-      "estimatedTimeOfRestoration": "2025-11-11T18:03:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-11T18:03:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.261063,
-        "lng": -2.961729
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " LA12 8NU",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
       "faultNumber": "INC 125281185",
       "multipleFaultNumbers": null,
       "date": "2025-11-11T11:03:09",
       "region": "Westward, Allerdale",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 7,
       "estimatedTimeOfRestoration": "2025-11-11T17:03:00",
       "estimatedTimeOfRestorationMajority": "2025-11-11T17:03:00",
@@ -367,8 +283,8 @@
       "date": "2025-11-11T11:47:59",
       "region": "Bourne, Wyre",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 65,
       "estimatedTimeOfRestoration": "2025-11-11T17:47:00",
       "estimatedTimeOfRestorationMajority": "2025-11-11T17:47:00",
@@ -404,24 +320,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125281236",
+      "faultNumber": "INC 125281000",
       "multipleFaultNumbers": null,
-      "date": "2025-11-11T11:48:26",
-      "region": "Bamber Bridge East, South Ribble",
+      "date": "2025-11-11T06:13:31",
+      "region": "Bramhall South And Woodford, Stockport",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 24,
-      "estimatedTimeOfRestoration": "2025-11-11T17:45:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-11T17:45:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 20,
+      "estimatedTimeOfRestoration": "2025-11-11T14:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-11T14:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.732375,
-        "lng": -2.652343
+        "lat": 53.363286,
+        "lng": -2.173814
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR5 6YH, PR5 6ZH",
+      "AffectedPostcodes": " SK7 2AE, SK7 2AP, SK7 2AR, SK7 2AA, SK7 2AS",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -431,7 +347,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -446,25 +362,25 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125281000",
+      "faultNumber": "INC 125281286",
       "multipleFaultNumbers": null,
-      "date": "2025-11-11T06:13:31",
-      "region": "Bramhall South And Woodford, Stockport",
+      "date": "2025-11-11T12:18:00",
+      "region": "Arnside, South Lakeland",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 20,
-      "estimatedTimeOfRestoration": "2025-11-11T12:13:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-11T12:13:00",
+      "consumersOff": 37,
+      "estimatedTimeOfRestoration": "2025-11-11T20:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-11T20:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.363286,
-        "lng": -2.173814
+        "lat": 54.189090,
+        "lng": -2.769699
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK7 2AE, SK7 2AP, SK7 2AR, SK7 2AA, SK7 2AS",
-      "UnderReviewStatusTimeCheck": true,
+      "AffectedPostcodes": " LA5 0HJ, LA6 2SF, LA6 1BT, LA5 0HH, LA5 0HG, LA5 0HQ",
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     }
@@ -476,7 +392,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 10,
+  "TotalResults": 8,
   "ShowPolygons": false,
   "Regions": [
     {
