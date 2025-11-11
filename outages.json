@@ -118,8 +118,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 13,
-      "estimatedTimeOfRestoration": "2025-11-11T01:30:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-11T01:30:00",
+      "estimatedTimeOfRestoration": "2025-11-11T04:30:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-11T04:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -138,7 +138,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -152,26 +152,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125280939",
+      "faultNumber": "INC 125280965",
       "multipleFaultNumbers": null,
-      "date": "2025-11-10T22:45:55",
-      "region": "Warton, Lancaster",
+      "date": "2025-11-11T01:48:22",
+      "region": "Earnshaw Bridge, South Ribble",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 47,
-      "estimatedTimeOfRestoration": "2025-11-11T01:45:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-11T01:45:00",
+      "consumersOff": 78,
+      "estimatedTimeOfRestoration": "2025-11-11T07:48:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-11T07:48:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.148312,
-        "lng": -2.762649
+        "lat": 53.693463,
+        "lng": -2.717647
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA5 9QG, LA5 9QQ, LA5 9QF, LA5 9PT",
+      "AffectedPostcodes": " PR25 1XJ, PR25 1XN, PR25 1XL, PR25 1XP, PR25 1XR, PR25 1QD",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     }
   ],
