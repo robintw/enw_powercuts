@@ -96,7 +96,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -110,26 +110,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241150301",
+      "faultNumber": "INC 1241150308",
       "multipleFaultNumbers": null,
-      "date": "2025-11-12T13:28:20",
-      "region": "Milnthorpe, South Lakeland",
+      "date": "2025-11-12T13:31:00",
+      "region": "Coldhurst, Oldham",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 12,
-      "estimatedTimeOfRestoration": "2025-11-12T16:28:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-12T16:28:00",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 115,
+      "estimatedTimeOfRestoration": "2025-11-12T19:31:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-12T19:31:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.238889,
-        "lng": -2.733888
+        "lat": 53.547496,
+        "lng": -2.116730
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA7 7LT, LA7 7NJ",
+      "AffectedPostcodes": " OL1 2AN, OL1 2XB, OL1 2XD, OL1 2AW, OL1 2AL, OL1 2DP, OL1 2XN, OL1 2DD, OL1 2XP, OL1 2DE",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
