@@ -74,7 +74,7 @@
       "region": "Windermere, South Lakeland",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 74,
       "estimatedTimeOfRestoration": "2025-11-12T16:42:00",
       "estimatedTimeOfRestorationMajority": "2025-11-12T16:42:00",
@@ -86,6 +86,48 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " LA23 3HP, LA23 3EY, LA23 3EP, LA23 3EU, LA23 3ET, LA23 3EX, LA23 3HH, LA23 3HD, LA23 3EL, LA23 3HB",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241150430",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-12T15:44:14",
+      "region": "Wilpshire, Ribble Valley",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 23,
+      "estimatedTimeOfRestoration": "2025-11-12T18:44:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-12T18:44:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.794469,
+        "lng": -2.482917
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BB1 9ET, BB6 8BW, BB6 8BQ, BB1 9EP, BB1 9EY, BB1 9EU, PR3 3ZQ, BB1 9EW, BB1 9EQ, BB6 8AD, BB1 2LW, BB1 9ER, BB6 8AF, BB1 9ES, PR3 3XU, PR3 3YA, BB1 9EN, BB6 8AB",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -116,7 +158,7 @@
       "region": "Walkden South, Salford",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 6,
       "estimatedTimeOfRestoration": "2025-11-12T18:00:00",
       "estimatedTimeOfRestorationMajority": "2025-11-12T18:00:00",
@@ -158,8 +200,8 @@
       "region": "Castle Sowerby, Eden",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
-      "consumersOff": 41,
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 21,
       "estimatedTimeOfRestoration": "2025-11-12T17:35:00",
       "estimatedTimeOfRestorationMajority": "2025-11-12T17:35:00",
       "information": "",
@@ -169,7 +211,7 @@
         "lng": -2.990791
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA5 7DY, CA5 7DZ, CA7 8JB, CA7 8JA, CA7 8JG, CA7 8HP, CA7 8HZ, CA5 7EB, CA7 8HY",
+      "AffectedPostcodes": " CA5 7DY, CA5 7DZ, CA7 8JB, CA7 8HP, CA7 8HZ, CA7 8JA, CA5 7EB, CA7 8HY, CA7 8JG",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -200,7 +242,7 @@
       "region": "Chorley North West, Chorley",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 9,
       "estimatedTimeOfRestoration": "2025-11-12T19:36:00",
       "estimatedTimeOfRestorationMajority": "2025-11-12T19:36:00",
@@ -224,7 +266,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 5,
   "ShowPolygons": false,
   "Regions": [
     {
