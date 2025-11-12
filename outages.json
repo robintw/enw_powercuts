@@ -116,7 +116,7 @@
       "region": "Allhallows, Allerdale",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 21,
       "estimatedTimeOfRestoration": "2025-11-12T20:15:00",
       "estimatedTimeOfRestorationMajority": "2025-11-12T20:15:00",
@@ -130,132 +130,6 @@
       "AffectedPostcodes": " CA7 1BP, CA7 1BW",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "O/HM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241150430",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-12T15:44:14",
-      "region": "Wilpshire, Ribble Valley",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 5,
-      "estimatedTimeOfRestoration": "2025-11-12T19:15:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-12T19:15:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.794469,
-        "lng": -2.482917
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " BB1 9ET, BB6 8BW, BB6 8BQ, BB1 9EP, BB1 9EY, BB1 9EU, PR3 3ZQ, BB1 9EW, BB1 9EQ, BB6 8AD, BB1 2LW, BB1 9ER, BB6 8AF, BB1 9ES, PR3 3XU, PR3 3YA, BB1 9EN, BB6 8AB",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241150474",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-12T16:45:43",
-      "region": "Hollinwood, Oldham",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 20,
-      "estimatedTimeOfRestoration": "2025-11-12T19:45:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-12T19:45:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.510762,
-        "lng": -2.118604
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " OL8 3NZ, OL8 3JD, OL8 3JA, M35 9NJ, OL8 3JE, OL8 3JN",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241150515",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-12T18:58:42",
-      "region": "Ribby-With-Wrea, Fylde",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": null,
-      "consumersOff": 11,
-      "estimatedTimeOfRestoration": "2025-11-13T00:58:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-13T00:58:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.777566,
-        "lng": -2.912837
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " PR4 2NA, PR4 2NB",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -299,48 +173,6 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241150498",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-12T18:19:40",
-      "region": "Higher Irlam & Peel Green, Salford",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 8,
-      "estimatedTimeOfRestoration": "2025-11-13T00:19:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-13T00:19:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.456370,
-        "lng": -2.416664
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M44 6QG, M44 6HX, M44 6HY",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -350,7 +182,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 7,
+  "TotalResults": 3,
   "ShowPolygons": false,
   "Regions": [
     {
