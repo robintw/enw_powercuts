@@ -157,8 +157,8 @@
       "date": "2025-11-13T20:29:07",
       "region": "Denton West, Tameside",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 108,
       "estimatedTimeOfRestoration": "2025-11-14T02:28:00",
       "estimatedTimeOfRestorationMajority": "2025-11-14T02:28:00",
@@ -200,7 +200,7 @@
       "region": "Burton-In-Kendal, South Lakeland",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 23,
       "estimatedTimeOfRestoration": "2025-11-14T01:21:00",
       "estimatedTimeOfRestorationMajority": "2025-11-14T01:21:00",
@@ -236,24 +236,66 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241150965",
+      "faultNumber": "INC 1241151241",
       "multipleFaultNumbers": null,
-      "date": "2025-11-13T12:41:35",
-      "region": "Drigg And Carleton, Copeland",
+      "date": "2025-11-13T20:34:18",
+      "region": "Central Rochdale, Rochdale",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 53,
-      "estimatedTimeOfRestoration": "2025-11-13T22:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-13T22:00:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 22,
+      "estimatedTimeOfRestoration": "2025-11-14T02:34:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-14T02:34:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.385123,
-        "lng": -3.409021
+        "lat": 53.614991,
+        "lng": -2.147055
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA19 1UG, CA19 1UQ, CA19 1YF, CA19 1YE, CA19 1UH, CA19 1UJ, CA19 1TD",
+      "AffectedPostcodes": " OL16 2AX, OL16 2AB, OL16 2AU, OL16 2BG, OL16 2AP, OL16 2AR, OL16 2AT, OL16 2AW, OL16 1UD, OL16 2AS",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241151245",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-13T20:49:14",
+      "region": "Workington, Allerdale",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 94,
+      "estimatedTimeOfRestoration": "2025-11-14T02:49:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-14T02:49:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.631566,
+        "lng": -3.559798
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " CA14 3TS, CA14 3TF, CA14 3TN, CA14 3TW, CA14 3XL, CA14 3XN, CA14 3TR",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -285,7 +327,7 @@
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 670,
+      "consumersOff": 17,
       "estimatedTimeOfRestoration": "2025-11-13T22:47:00",
       "estimatedTimeOfRestorationMajority": "2025-11-13T22:47:00",
       "information": "",
@@ -350,7 +392,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 7,
+  "TotalResults": 8,
   "ShowPolygons": false,
   "Regions": [
     {
