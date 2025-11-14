@@ -53,6 +53,48 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
+      "UnderReview": true,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241151051",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-13T14:13:15",
+      "region": "Moss Side, Manchester",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 134,
+      "estimatedTimeOfRestoration": null,
+      "estimatedTimeOfRestorationMajority": null,
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.454742,
+        "lng": -2.238726
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M14 7NA, M14 4JE, M14 4TS, M14 4NW, M14 4JL, M14 4JF, M14 4JJ, M14 4WH, M14 4JQ, M14 4JT, M14 4JN, M14 4WF, M14 4UB, M14 4WE, M14 4UD, M14 4SN, M14 4WB, M14 4AN, M14 4RA",
+      "UnderReviewStatusTimeCheck": true,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
       "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
@@ -86,90 +128,6 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " LA8 9AP, LA8 9AR, LA8 9AQ, LA8 9AW, LA8 9AY, LA8 9AT, LA8 9AX, LA8 9AG, LA8 9AZ, LA8 9AU, LA8 9JU",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241151403",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-14T08:58:37",
-      "region": "Wigan West, Wigan",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 27,
-      "estimatedTimeOfRestoration": "2025-11-14T14:58:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-14T14:58:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.548591,
-        "lng": -2.643645
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " WN6 7TW, WN6 7DU",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241151405",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-14T08:59:18",
-      "region": "Sedbergh, South Lakeland",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 16,
-      "estimatedTimeOfRestoration": "2025-11-14T11:59:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-14T11:59:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.349162,
-        "lng": -2.474518
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " LA10 5LZ, LA10 5LY, LA10 5ND",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -236,24 +194,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241151413",
+      "faultNumber": "INC 1241151343",
       "multipleFaultNumbers": null,
-      "date": "2025-11-14T09:03:19",
-      "region": "Cliburn, Eden",
+      "date": "2025-11-14T06:56:01",
+      "region": "Roosecote, Barrow-In-Furness",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 28,
-      "estimatedTimeOfRestoration": "2025-11-14T15:03:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-14T15:03:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 24,
+      "estimatedTimeOfRestoration": "2025-11-14T12:56:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-14T12:56:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.618670,
-        "lng": -2.640156
+        "lat": 54.118356,
+        "lng": -3.186504
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA10 3AL, CA10 3AQ, CA10 3AH, CA10 3BW",
+      "AffectedPostcodes": " LA13 0JT, LA13 0LJ, LA13 0RN, LA13 0JU, LA13 0JB",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -278,24 +236,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241151343",
+      "faultNumber": "INC 1241151430",
       "multipleFaultNumbers": null,
-      "date": "2025-11-14T06:56:01",
-      "region": "Roosecote, Barrow-In-Furness",
+      "date": "2025-11-14T09:17:46",
+      "region": "Belah & Kingmoor, Carlisle",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 24,
-      "estimatedTimeOfRestoration": "2025-11-14T12:56:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-14T12:56:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 19,
+      "estimatedTimeOfRestoration": "2025-11-14T15:04:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-14T15:04:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.118356,
-        "lng": -3.186504
+        "lat": 54.919232,
+        "lng": -2.940936
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA13 0JT, LA13 0LJ, LA13 0RN, LA13 0JU, LA13 0JB",
+      "AffectedPostcodes": " CA3 0AH",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -308,7 +266,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 6,
+  "TotalResults": 5,
   "ShowPolygons": false,
   "Regions": [
     {
