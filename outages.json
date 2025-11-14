@@ -117,7 +117,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 52,
+      "consumersOff": 37,
       "estimatedTimeOfRestoration": "2025-11-14T12:48:00",
       "estimatedTimeOfRestorationMajority": "2025-11-14T12:48:00",
       "information": "",
@@ -158,7 +158,7 @@
       "region": "Winmarleigh, Wyre",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Preparing to send team",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 14,
       "estimatedTimeOfRestoration": "2025-11-14T12:50:00",
       "estimatedTimeOfRestorationMajority": "2025-11-14T12:50:00",
@@ -222,6 +222,48 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241151603",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-14T11:35:57",
+      "region": "Barnfield, Hyndburn",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 11,
+      "estimatedTimeOfRestoration": "2025-11-14T17:28:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-14T17:28:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.746279,
+        "lng": -2.341714
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BB5 2DJ, BB5 2DG, BB5 2DL, BB5 2DZ",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -241,8 +283,8 @@
       "date": "2025-11-14T11:08:46",
       "region": "Pott Shrigley, Cheshire East",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 20,
       "estimatedTimeOfRestoration": "2025-11-14T14:08:00",
       "estimatedTimeOfRestorationMajority": "2025-11-14T14:08:00",
@@ -283,8 +325,8 @@
       "date": "2025-11-14T11:14:31",
       "region": "Blackburn South East, Blackburn With Darwen",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 46,
       "estimatedTimeOfRestoration": "2025-11-14T17:14:00",
       "estimatedTimeOfRestorationMajority": "2025-11-14T17:14:00",
@@ -389,7 +431,49 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241151584",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-14T11:23:28",
+      "region": "Didsbury East, Manchester",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 50,
+      "estimatedTimeOfRestoration": "2025-11-14T17:23:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-14T17:23:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.404107,
+        "lng": -2.232925
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M20 5QA, M20 5QS, M20 5QT, M20 5QW, M20 5QX, M20 5GS, M20 5GH",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
       "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
       "UpdateInfo": null,
       "CTAs": [
@@ -411,18 +495,18 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 46,
-      "estimatedTimeOfRestoration": "2025-11-14T11:30:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-14T11:30:00",
+      "consumersOff": 13,
+      "estimatedTimeOfRestoration": "2025-11-14T12:30:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-14T12:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.688238,
-        "lng": -2.216600
+        "lat": 53.687550,
+        "lng": -2.219571
       },
       "outageLocations": null,
-      "AffectedPostcodes": " OL13 0HW, OL13 0JH, OL13 0JJ, OL13 0JL, OL13 0JS, OL13 0HZ, OL13 0JA, OL13 0JB",
-      "UnderReviewStatusTimeCheck": true,
+      "AffectedPostcodes": " OL13 0JS, OL13 0JL, OL13 0JJ",
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "O/HM",
       "addressMpanList": null
     },
@@ -474,7 +558,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -488,26 +572,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241151349",
+      "faultNumber": "INC 1241151590",
       "multipleFaultNumbers": null,
-      "date": "2025-11-14T06:55:20",
-      "region": "Inskip-With-Sowerby, Wyre",
+      "date": "2025-11-14T11:28:12",
+      "region": "Barnfield, Hyndburn",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 130,
-      "estimatedTimeOfRestoration": "2025-11-14T12:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-14T12:00:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 13,
+      "estimatedTimeOfRestoration": "2025-11-14T17:28:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-14T17:28:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.820562,
-        "lng": -2.823539
+        "lat": 53.752107,
+        "lng": -2.334458
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR4 3YH, PR4 3XB, PR4 0TT, PR4 3ZJ, PR3 0XH, PR4 0TU, PR4 3YJ, PR4 0UA, PR4 0TQ, PR4 0TJ, PR4 0BH, PR4 0TD, PR4 0TE, PR4 0UB, PR4 0TH, PR4 0UF, PR4 4AT, PR4 0TP, PR4 0TL, PR4 0FU, PR4 0DX",
+      "AffectedPostcodes": " BB5 2DH",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -535,7 +619,7 @@
       "date": "2025-11-14T11:01:04",
       "region": "Bollington, Cheshire East",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
       "previousFaultStatus": "Preparing to send team",
       "consumersOff": 12,
       "estimatedTimeOfRestoration": "2025-11-14T17:01:00",
@@ -560,7 +644,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 12,
+  "TotalResults": 14,
   "ShowPolygons": false,
   "Regions": [
     {
