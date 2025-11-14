@@ -578,7 +578,7 @@
       "region": "New Mills, High Peak",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Preparing to send team",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 382,
       "estimatedTimeOfRestoration": "2025-11-15T16:00:00",
       "estimatedTimeOfRestorationMajority": "2025-11-15T16:00:00",
@@ -703,8 +703,8 @@
       "date": "2025-11-14T20:57:07",
       "region": "North Manor, Bury",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 34,
       "estimatedTimeOfRestoration": "2025-11-14T23:57:00",
       "estimatedTimeOfRestorationMajority": "2025-11-14T23:57:00",
@@ -908,48 +908,6 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241151751",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-14T13:55:21",
-      "region": "Bulk, Lancaster",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 25,
-      "estimatedTimeOfRestoration": "2025-11-14T23:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-14T23:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.033080,
-        "lng": -2.742611
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " LA2 9HD, LA1 3JJ, LA2 9EB, LA2 0RQ, LA2 9HL, LA2 9EL, LA2 9EF, LA2 9EJ, LA2 9HQ, LA2 0BL, LA2 9HN, LA2 0QA, LA1 3PG, LA2 0PZ, LA1 3JN, LA2 0QB, LA1 3PE, LA2 9EN, LA2 9EH, LA2 9EP, LA2 0QL, LA2 9LY, LA1 3JY, LA2 9EA, LA2 9HH, LA2 0QW, LA1 3SW, LA2 0BN, LA2 0QN, LA2 0QY, LA2 9AS, LA2 0PX, LA2 0QQ, LA2 9HG, LA2 9EE, LA2 9LU, LA2 0QP, LA2 0QF, LA2 9LS, LA2 9EG, LA2 0QD, LA2 0BJ, LA2 0QS, LA2 9EQ, LA2 0QE, LA2 0RG, LA2 0QT, LA2 0QJ, LA2 0QG, LA2 0QR, LA1 3EB, LA2 9EW, LA2 8EX, LA1 3RQ, LA2 6LR, LA2 9BQ, LA2 0RE, LA2 9ER, LA2 0PY, LA2 9ED, LA2 9ES, LA1 3JL, LA2 0JZ, LA2 0JY, LA1 3RA, LA2 9HJ, LA1 4JE, LA2 8EQ, LA2 6RH, LA2 9LX, LA2 9GH",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
       "faultNumber": "INC 1241151874",
       "multipleFaultNumbers": null,
       "date": "2025-11-14T16:15:02",
@@ -1000,8 +958,8 @@
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
       "consumersOff": 87,
-      "estimatedTimeOfRestoration": "2025-11-15T14:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-15T14:00:00",
+      "estimatedTimeOfRestoration": "2025-11-15T16:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-15T16:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -1010,90 +968,6 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " CA4 9SJ, CA8 9DD, CA4 9RZ, CA8 9DH, CA10 1JY, CA4 9SG, CA4 9RT, CA4 9RS, CA4 9RX, CA4 9DQ, CA4 9RP, CA4 9RG, CA4 9RR, CA4 9SF, CA6 4NJ, CA4 9SE, CA4 9RY, CA8 9DG, CA10 1JH, CA4 0HU, CA8 9AF, CA4 9RU, CA4 9ST, CA8 9AE, CA4 9RF, CA10 1JU",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241151999",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-14T19:16:26",
-      "region": "Nelson, Pendle",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 102,
-      "estimatedTimeOfRestoration": "2025-11-15T01:16:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-15T01:16:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.843316,
-        "lng": -2.202693
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " BB9 8RH, BB9 8TX, BB9 8RQ, BB9 8EP, BB9 8EJ, BB9 8LH, BB9 8ER, BB9 8SD, BB9 8HS, BB9 8HY, BB9 8RW, BB9 8RR, BB9 8EH",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241152081",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-14T21:21:05",
-      "region": "Ashton St. Michael's, Tameside",
-      "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 313,
-      "estimatedTimeOfRestoration": "2025-11-15T00:20:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-15T00:20:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.505756,
-        "lng": -2.079915
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " OL6 8DX, OL6 8AP, OL6 8DT, OL6 8DG, OL6 8BQ, OL6 9FQ, OL6 8DP, OL6 8XL, OL6 8DA, OL6 9FN, OL6 8XE, OL6 9FJ, OL6 8BT, OL6 9FR, OL6 8XF, OL6 8BW, OL6 9HL, OL6 8DB, OL6 8ES, OL6 9DR, OL6 8BU, OL6 9FS, OL6 9FW, OL6 9DU, OL6 8XJ, OL6 8BH, OL6 8BJ, OL6 8DU, OL6 8BY, OL6 8HD, OL6 8XN, OL6 8DD, OL6 8XH, OL6 9FL, OL6 8DF, OL6 9FT, OL6 9EH, OL6 9AQ, OL6 8AF, OL6 8DL, OL6 8BL, OL6 8BZ, OL6 8BS, OL6 8XQ, OL6 8XG, OL6 8DZ, OL6 8AR, OL6 9FH, OL6 8BN, OL6 8DY, OL6 8HE, OL6 8XD, OL6 8AA, OL6 9EJ, OL6 8BP, OL6 9AD, OL6 8DE, OL6 8DW, OL6 8ET, OL6 9FG, OL6 8XB, OL6 8AD, OL6 8AE, OL6 8BX, OL6 9FU, OL5 0JE, OL6 9EQ, OL6 9FP, OL6 9HN, OL6 9AB, OL6 8AG, OL6 9AG, OL6 8AB, OL6 8UR, OL6 9EL, OL6 9AE, OL6 8AZ, OL6 9EE, OL6 9AA, OL6 9DX, OL8 8HE, OL6 8EL",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -1123,8 +997,8 @@
       "date": "2025-11-14T20:25:37",
       "region": "Kirkby Lonsdale, South Lakeland",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 11,
       "estimatedTimeOfRestoration": "2025-11-14T23:25:00",
       "estimatedTimeOfRestorationMajority": "2025-11-14T23:25:00",
@@ -1148,7 +1022,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 26,
+  "TotalResults": 23,
   "ShowPolygons": false,
   "Regions": [
     {
