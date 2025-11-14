@@ -127,7 +127,7 @@
         "lng": -2.101358
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK10 4LD, SK10 4JZ, SK10 4NU, SK10 4NY, SK10 4PQ, SK12 1TG, SK10 4PG, SK10 4JU, SK12 1TQ, SK10 4NX, SK12 1TH, SK10 4LB, SK10 4PL, SK12 1UE, SK10 4LA, SK10 4PA, SK10 4NT, SK10 4NB, SK10 4PH, SK10 5SF, SK10 5QU, SK10 4LE, SK10 5SA, SK12 1SR, SK10 4PJ, SK10 5SE, SK10 4PF, SK10 4PB, SK10 5SG, SK12 1TF, SK10 4JX",
+      "AffectedPostcodes": " SK12 1SR, SK10 4PJ, SK10 5SE, SK10 4PF, SK10 4PB, SK10 5SG, SK12 1TF, SK10 4JX, SK10 4LD, SK10 4JZ, SK10 4NU, SK10 4NY, SK10 4PQ, SK12 1TG, SK10 4PG, SK10 4JU, SK12 1TQ, SK10 4NX, SK12 1TH, SK10 4LB, SK10 4PL, SK12 1UE, SK10 4LA, SK10 4PA, SK10 4NT, SK10 4NB, SK10 4PH, SK10 5SF, SK10 5QU, SK10 4LE, SK10 5SA",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -283,8 +283,8 @@
       "date": "2025-11-14T12:46:33",
       "region": "Strickland Roger, South Lakeland",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": null,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 11,
       "estimatedTimeOfRestoration": "2025-11-14T18:46:00",
       "estimatedTimeOfRestorationMajority": "2025-11-14T18:46:00",
@@ -367,19 +367,19 @@
       "date": "2025-11-14T12:47:01",
       "region": "North Rode, Cheshire East",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 89,
       "estimatedTimeOfRestoration": "2025-11-14T15:47:00",
       "estimatedTimeOfRestorationMajority": "2025-11-14T15:47:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.196411,
-        "lng": -2.153781
+        "lat": 53.222938,
+        "lng": -2.185115
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CW12 2PR, CW12 2PA, CW12 2PG, CW12 2FU, CW12 2NY, CW12 2PH, SK11 0PW, CW12 2PE, SK11 0PP, CW12 2PD, CW12 2PL, CW12 2PF, CW12 2PJ, CW12 2PB",
+      "AffectedPostcodes": " CW12 2PR, CW12 2PA, CW12 2PG, CW12 2FU, CW12 2NY, CW12 2PH, SK11 0PW, CW12 2PE, SK11 0PP, CW12 2PD, CW12 2PL, CW12 2PF, CW12 2PJ, CW12 2PB, SK11 9HA, SK11 9RQ, SK11 9RF, SK11 9HD, SK11 9RU, SK11 9ER, SK11 9QQ, SK11 9QY, SK11 9PY, SK11 9HR, SK11 9QP, SK11 9ET, SK11 9EW, SK11 9JN, SK11 9PS, SK11 9HG, SK11 9RT, SK11 9RA, SK11 9RB, SK11 9RY, SK11 9QN, CW12 2NS, SK11 9RR, SK11 9EU, SK11 9HT, SK11 9RG, SK11 9QZ, SK11 9HH, SK11 9QR, SK11 9HQ, SK11 9HS, SK11 9RD, SK11 9QL, SK11 9JB, SK11 9RS, SK11 9QJ, SK11 9LZ, SK11 9HE, SK11 9QU, SK11 9RJ, SK11 9HX, SK11 9HF, CW12 2NW, SK11 9HP, SK11 9QS, SK11 9JD, SK11 9HY, SK11 9HL, CW12 2NU, SK11 9EZ, SK11 9JA, SK11 9JR, SK11 9RE, SK11 9RX, SK11 9RZ, SK11 9JF, SK11 9JW, CW12 2FQ, SK11 9JE, SK11 9PT, CW12 2NT, SK11 9EX, SK11 9EJ, SK11 9HU, SK11 9HN, SK11 9JP, SK11 9NA, SK11 7UE, SK11 9ND, CW12 2NX, SK11 9HW, SK11 9EY, CW12 2NG, M12 4DY, SK11 9ES, SK11 9LY, SK11 9LH, SK9 7AL, SK11 9RN, CW12 2NL, SK11 9HZ, SK11 9QX",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -683,48 +683,6 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241151668",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-14T12:30:52",
-      "region": "Eccleshill, Blackburn With Darwen",
-      "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 13,
-      "estimatedTimeOfRestoration": "2025-11-14T18:20:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-14T18:20:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.711682,
-        "lng": -2.448520
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " BB3 3PQ",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
       "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
@@ -787,8 +745,8 @@
       "date": "2025-11-14T11:01:04",
       "region": "Bollington, Cheshire East",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 3,
       "estimatedTimeOfRestoration": "2025-11-14T17:01:00",
       "estimatedTimeOfRestorationMajority": "2025-11-14T17:01:00",
@@ -812,7 +770,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 18,
+  "TotalResults": 17,
   "ShowPolygons": false,
   "Regions": [
     {
