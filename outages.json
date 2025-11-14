@@ -152,24 +152,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241151241",
+      "faultNumber": "INC 1241151181",
       "multipleFaultNumbers": null,
-      "date": "2025-11-13T20:34:18",
-      "region": "Central Rochdale, Rochdale",
+      "date": "2025-11-13T18:20:34",
+      "region": "Gorton & Abbey Hey, Manchester",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 22,
-      "estimatedTimeOfRestoration": "2025-11-14T02:34:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-14T02:34:00",
+      "consumersOff": 3,
+      "estimatedTimeOfRestoration": "2025-11-14T03:30:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-14T03:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.614991,
-        "lng": -2.147055
+        "lat": 53.468607,
+        "lng": -2.181021
       },
       "outageLocations": null,
-      "AffectedPostcodes": " OL16 2AX, OL16 2AB, OL16 2AU, OL16 2BG, OL16 2AP, OL16 2AR, OL16 2AT, OL16 2AW, OL16 1UD, OL16 2AS",
+      "AffectedPostcodes": " M18 8DB",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -194,24 +194,108 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241151181",
+      "faultNumber": "INC 1241151141",
       "multipleFaultNumbers": null,
-      "date": "2025-11-13T18:20:34",
-      "region": "Gorton & Abbey Hey, Manchester",
+      "date": "2025-11-13T16:23:11",
+      "region": "Leigh East, Wigan",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 3,
-      "estimatedTimeOfRestoration": "2025-11-14T03:30:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-14T03:30:00",
+      "consumersOff": 14,
+      "estimatedTimeOfRestoration": "2025-11-14T01:30:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-14T01:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.468607,
-        "lng": -2.181021
+        "lat": 53.497733,
+        "lng": -2.518652
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M18 8DB",
+      "AffectedPostcodes": " WN7 1DP, WN7 1EB, WN7 1ED, WN7 1EE, WN7 1DY, WN7 1EG, WN7 1EQ, WN7 1QH",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241151265",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-13T23:40:53",
+      "region": "Kirkby Ireleth, South Lakeland",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 55,
+      "estimatedTimeOfRestoration": "2025-11-14T02:40:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-14T02:40:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.242241,
+        "lng": -3.168481
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA17 7XY, LA17 7YB, LA17 7YA, LA17 7UN, LA17 7XZ, LA17 7XX, LA17 7UJ, LA17 7UL",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241151268",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-14T00:28:02",
+      "region": "Central Rochdale, Rochdale",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 19,
+      "estimatedTimeOfRestoration": "2025-11-14T06:28:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-14T06:28:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.614991,
+        "lng": -2.147055
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL16 2AX, OL16 2AB, OL16 2AU, OL16 2BG, OL16 2AP, OL16 2AR, OL16 2AT, OL16 2AW, OL16 1UD, OL16 2AS",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -224,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
@@ -250,6 +334,9 @@
     },
     {
       "name": "bury"
+    },
+    {
+      "name": "buxworth and brownside"
     },
     {
       "name": "carlisle"
