@@ -1020,7 +1020,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -1037,23 +1037,23 @@
       "faultNumber": "INC 1241152169",
       "multipleFaultNumbers": null,
       "date": "2025-11-15T01:49:40",
-      "region": "Nateby, Wyre",
+      "region": "Cabus, Wyre",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 4,
-      "estimatedTimeOfRestoration": "2025-11-15T07:49:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-15T07:49:00",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 29,
+      "estimatedTimeOfRestoration": "2025-11-15T16:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-15T16:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.910190,
-        "lng": -2.796394
+        "lat": 53.919721,
+        "lng": -2.798999
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR3 0JQ",
+      "AffectedPostcodes": " PR3 0JQ, PR3 0DQ, PR3 0JT, PR3 0JR, PR3 0JS, PR3 0JT",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -1251,7 +1251,7 @@
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
       "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 67,
+      "consumersOff": 94,
       "estimatedTimeOfRestoration": "2025-11-15T08:29:00",
       "estimatedTimeOfRestorationMajority": "2025-11-15T08:29:00",
       "information": "",
@@ -1328,24 +1328,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241152148",
+      "faultNumber": "INC 1241152198",
       "multipleFaultNumbers": null,
-      "date": "2025-11-15T00:53:53",
-      "region": "Nateby, Wyre",
+      "date": "2025-11-15T03:15:07",
+      "region": "Macclesfield, Cheshire East",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
       "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 10,
-      "estimatedTimeOfRestoration": "2025-11-15T06:53:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-15T06:53:00",
+      "consumersOff": 7,
+      "estimatedTimeOfRestoration": "2025-11-15T09:14:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-15T09:14:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.918211,
-        "lng": -2.799704
+        "lat": 53.270168,
+        "lng": -2.174837
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR3 0JR, PR3 0JQ, PR3 0JS",
+      "AffectedPostcodes": " SK10 4RJ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -1370,24 +1370,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241152149",
+      "faultNumber": "INC 1241152202",
       "multipleFaultNumbers": null,
-      "date": "2025-11-15T00:54:00",
-      "region": "Winmarleigh, Wyre",
+      "date": "2025-11-15T03:25:11",
+      "region": "Droylsden East, Tameside",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
       "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 11,
-      "estimatedTimeOfRestoration": "2025-11-15T06:53:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-15T06:53:00",
+      "consumersOff": 84,
+      "estimatedTimeOfRestoration": "2025-11-15T09:24:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-15T09:24:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.924188,
-        "lng": -2.799144
+        "lat": 53.487356,
+        "lng": -2.127232
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR3 0JT, PR3 0JT",
+      "AffectedPostcodes": " M43 7ES, M43 7EX, M43 7EU, M43 7ER, M43 7ET",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
