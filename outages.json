@@ -432,48 +432,6 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241152109",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-14T22:40:45",
-      "region": "Ingleton, Craven",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 20,
-      "estimatedTimeOfRestoration": "2025-11-15T22:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-15T22:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.153937,
-        "lng": -2.467882
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " LA6 3ER, LA6 3HY, LA6 3EP",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "O/HM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -508,6 +466,48 @@
       "AffectedPostcodes": " BL8 3QQ, BL8 3QJ, BL8 3QL, BL8 3QP, BL8 3QG, BL8 4BW, BL2 4LS, BL8 4AG, BL8 4HL, BL8 3PT, BL2 4JG, BL8 4PR, BL8 4LA, BL8 3QE, BL8 4AJ, BL8 4FB, BL8 3PH, BL8 3PE, BL8 4BX, BL8 4HP, BL8 3PX, BL8 3QS, BL8 4BU, BL8 3PN, BL8 3QF, BL2 4LJ, BL8 3PY, BL8 3PU, BL8 4AQ, BL8 3QA, BL8 3PF, BL8 4FA, BL8 4BN, BL8 3PW, BL8 4FZ, BL2 4JD, BL8 3QT, BL8 4PS, BL8 3FU, BL2 4JQ, BL8 3PG, BL8 4HT, BL8 3PP, BL8 3QR, BL8 3QH, BL8 3PJ, BL8 3QB, BL2 4LP, BL8 4HS, BL2 4LR, BL8 4LH, BL8 3PR, BL2 4LL, BL8 4AF, BL8 3PZ, BL8 3AH, BL8 3PL, BL8 3QU",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241152109",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-14T22:40:45",
+      "region": "Ingleton, Craven",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 20,
+      "estimatedTimeOfRestoration": "2025-11-15T22:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-15T22:00:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.153937,
+        "lng": -2.467882
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA6 3ER, LA6 3HY, LA6 3EP",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "O/HM",
       "addressMpanList": null
     },
     {
