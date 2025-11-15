@@ -157,7 +157,7 @@
       "date": "2025-11-14T19:22:24",
       "region": "Kirkby Lonsdale, South Lakeland",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
       "previousFaultStatus": "Preparing to send team",
       "consumersOff": 14,
       "estimatedTimeOfRestoration": "2025-11-15T16:00:00",
@@ -619,8 +619,8 @@
       "date": "2025-11-14T22:40:45",
       "region": "Ingleton, Craven",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 20,
       "estimatedTimeOfRestoration": "2025-11-15T16:00:00",
       "estimatedTimeOfRestorationMajority": "2025-11-15T16:00:00",
@@ -997,61 +997,19 @@
       "date": "2025-11-15T08:03:21",
       "region": "Whitewell, Rossendale",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 415,
-      "estimatedTimeOfRestoration": "2025-11-15T11:03:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-15T11:03:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.725310,
-        "lng": -2.248884
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " BB4 9RB, BB4 9PL, BB4 9QR, BB4 9RJ, BB4 9RA, BB4 9QT, BB4 9UH, BB4 9PZ, BB4 9RU, BB4 9QS, BB4 9PT, BB4 9RZ, BB4 9PP, BB4 9NQ, BB4 9NL, BB4 9QX, BB4 9QD, BB4 9QZ, BB4 9NJ, BB4 9PS, BB4 9QB, BB4 9RG, BB4 9QF, BB4 9QY, BB4 9PX, BB4 9QU, BB4 9NG, BB4 9PQ, BB4 9PB, BB4 9RE, BB4 9NH, BB4 9QW, BB4 9PN, BB4 9PW, BB4 9QP, BB4 9PR, BB4 4EJ, BB4 9QG, BB4 9QN, BB4 9PY, BB4 9RT, BB4 9PJ",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241152252",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-15T08:03:49",
-      "region": "Whitewell, Rossendale",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 165,
       "estimatedTimeOfRestoration": "2025-11-15T11:03:00",
       "estimatedTimeOfRestorationMajority": "2025-11-15T11:03:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.714857,
-        "lng": -2.250899
+        "lat": 53.722526,
+        "lng": -2.249505
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB4 9RL, BB4 9NF, BB4 9PG, BB4 9PE, BB4 9PQ, BB4 9NT, BB4 9QA, BB4 9PD, BB4 9PU, BB4 9LP, BB4 9HT, BB4 9RT, BB4 9NE, BB4 9LQ, BB4 9PF, BB4 9LT",
+      "AffectedPostcodes": " BB4 9RB, BB4 9PL, BB4 9QR, BB4 9RJ, BB4 9RA, BB4 9QT, BB4 9UH, BB4 9PZ, BB4 9RU, BB4 9QS, BB4 9PT, BB4 9RZ, BB4 9PP, BB4 9NQ, BB4 9NL, BB4 9QX, BB4 9QD, BB4 9QZ, BB4 9NJ, BB4 9PS, BB4 9QB, BB4 9RG, BB4 9QF, BB4 9QY, BB4 9PX, BB4 9QU, BB4 9NG, BB4 9PQ, BB4 9PB, BB4 9RE, BB4 9NH, BB4 9QW, BB4 9PN, BB4 9PW, BB4 9QP, BB4 9PR, BB4 4EJ, BB4 9QG, BB4 9QN, BB4 9PY, BB4 9RT, BB4 9PJ, BB4 9RL, BB4 9NF, BB4 9PG, BB4 9PE, BB4 9NT, BB4 9QA, BB4 9PD, BB4 9PU, BB4 9LP, BB4 9HT, BB4 9NE, BB4 9LQ, BB4 9PF, BB4 9LT",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -1096,6 +1054,48 @@
       "AffectedPostcodes": " WN5 7QR",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "O/HM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241152255",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-15T08:10:42",
+      "region": "Long Preston, Craven",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 51,
+      "estimatedTimeOfRestoration": "2025-11-15T14:10:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-15T14:10:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.023235,
+        "lng": -2.230454
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BD23 4NG, BD23 4ND, BD23 4JY, BD23 4QZ, BD23 4NL, BD23 4NB, BD23 4NF, BD23 4NH, BD23 4NS, BD23 4NN, BD23 4NA, BD23 4NJ",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -1207,8 +1207,8 @@
       "date": "2025-11-15T05:26:27",
       "region": "Hopwood Hall, Rochdale",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 15,
       "estimatedTimeOfRestoration": "2025-11-15T11:26:00",
       "estimatedTimeOfRestorationMajority": "2025-11-15T11:26:00",
@@ -1419,17 +1419,17 @@
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
       "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 16,
+      "consumersOff": 23,
       "estimatedTimeOfRestoration": "2025-11-15T09:40:00",
       "estimatedTimeOfRestorationMajority": "2025-11-15T09:40:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.233599,
-        "lng": -2.243655
+        "lat": 53.232941,
+        "lng": -2.248982
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK11 9LW, SK11 9LL, SK11 9LR, SK11 9LH",
+      "AffectedPostcodes": " SK11 9LW, SK11 9LL, SK11 9LR, SK11 9LH, SK11 9LP, SK11 9DE",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "O/HM",
       "addressMpanList": null
@@ -1460,7 +1460,7 @@
       "region": "Droylsden East, Tameside",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Preparing to send team",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 84,
       "estimatedTimeOfRestoration": "2025-11-15T16:00:00",
       "estimatedTimeOfRestorationMajority": "2025-11-15T16:00:00",
@@ -1501,8 +1501,8 @@
       "date": "2025-11-15T01:35:46",
       "region": "Nether Wyresdale, Wyre",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 9,
       "estimatedTimeOfRestoration": "2025-11-15T16:00:00",
       "estimatedTimeOfRestorationMajority": "2025-11-15T16:00:00",
