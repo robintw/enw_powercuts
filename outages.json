@@ -369,7 +369,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 80,
+      "consumersOff": 40,
       "estimatedTimeOfRestoration": "2025-11-15T18:00:00",
       "estimatedTimeOfRestorationMajority": "2025-11-15T18:00:00",
       "information": "",
@@ -432,48 +432,6 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241152068",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-14T20:57:07",
-      "region": "North Manor, Bury",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 33,
-      "estimatedTimeOfRestoration": "2025-11-15T16:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-15T16:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.612003,
-        "lng": -2.348379
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " BL8 3QQ, BL8 3QJ, BL8 3QL, BL8 3QP, BL8 3QG, BL8 4BW, BL2 4LS, BL8 4AG, BL8 4HL, BL8 3PT, BL2 4JG, BL8 4PR, BL8 4LA, BL8 3QE, BL8 4AJ, BL8 4FB, BL8 3PH, BL8 3PE, BL8 4BX, BL8 4HP, BL8 3PX, BL8 3QS, BL8 4BU, BL8 3PN, BL8 3QF, BL2 4LJ, BL8 3PY, BL8 3PU, BL8 4AQ, BL8 3QA, BL8 3PF, BL8 4FA, BL8 4BN, BL8 3PW, BL8 4FZ, BL2 4JD, BL8 3QT, BL8 4PS, BL8 3FU, BL2 4JQ, BL8 3PG, BL8 4HT, BL8 3PP, BL8 3QR, BL8 3QH, BL8 3PJ, BL8 3QB, BL2 4LP, BL8 4HS, BL2 4LR, BL8 4LH, BL8 3PR, BL2 4LL, BL8 4AF, BL8 3PZ, BL8 3AH, BL8 3PL, BL8 3QU",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
       "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
       "UpdateInfo": null,
       "CTAs": [
@@ -508,6 +466,48 @@
       "AffectedPostcodes": " LA6 3ER, LA6 3HY, LA6 3EP",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "O/HM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241152068",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-14T20:57:07",
+      "region": "North Manor, Bury",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 33,
+      "estimatedTimeOfRestoration": "2025-11-15T16:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-15T16:00:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.612003,
+        "lng": -2.348379
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BL8 3QQ, BL8 3QJ, BL8 3QL, BL8 3QP, BL8 3QG, BL8 4BW, BL2 4LS, BL8 4AG, BL8 4HL, BL8 3PT, BL2 4JG, BL8 4PR, BL8 4LA, BL8 3QE, BL8 4AJ, BL8 4FB, BL8 3PH, BL8 3PE, BL8 4BX, BL8 4HP, BL8 3PX, BL8 3QS, BL8 4BU, BL8 3PN, BL8 3QF, BL2 4LJ, BL8 3PY, BL8 3PU, BL8 4AQ, BL8 3QA, BL8 3PF, BL8 4FA, BL8 4BN, BL8 3PW, BL8 4FZ, BL2 4JD, BL8 3QT, BL8 4PS, BL8 3FU, BL2 4JQ, BL8 3PG, BL8 4HT, BL8 3PP, BL8 3QR, BL8 3QH, BL8 3PJ, BL8 3QB, BL2 4LP, BL8 4HS, BL2 4LR, BL8 4LH, BL8 3PR, BL2 4LL, BL8 4AF, BL8 3PZ, BL8 3AH, BL8 3PL, BL8 3QU",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -674,48 +674,6 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " CA4 9SJ, CA8 9DD, CA4 9RZ, CA8 9DH, CA10 1JY, CA4 9SG, CA4 9RT, CA4 9RS, CA4 9RX, CA4 9DQ, CA4 9RP, CA4 9RG, CA4 9RR, CA4 9SF, CA6 4NJ, CA4 9SE, CA4 9RY, CA8 9DG, CA10 1JH, CA4 0HU, CA8 9AF, CA4 9RU, CA4 9ST, CA8 9AE, CA4 9RF, CA10 1JU",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241152414",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-15T12:04:23",
-      "region": "Saddleworth, Oldham",
-      "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 92,
-      "estimatedTimeOfRestoration": "2025-11-15T20:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-15T20:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.551426,
-        "lng": -2.012825
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " OL3 5JS, OL3 5JT, OL3 6LW, OL3 5JU, OL3 6LP, OL3 5JW, OL3 6LX, M12 6BG, OL3 5JX, OL3 5JP, OL3 5JQ, OL3 5JR",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -1093,7 +1051,7 @@
         "lng": -2.179472
       },
       "outageLocations": null,
-      "AffectedPostcodes": " OL12 8TX, OL12 8TT, OL12 8XH, OL12 8XL, OL12 8XG, OL12 8TY, OL12 8BQ, OL12 8UY, OL12 8TU",
+      "AffectedPostcodes": " OL12 8TX, OL12 8TT, OL12 8XL, OL12 8XG, OL12 8TY, OL12 8BQ, OL12 8UY, OL12 8TU, OL12 8XH",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -1148,7 +1106,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 26,
+  "TotalResults": 25,
   "ShowPolygons": false,
   "Regions": [
     {
