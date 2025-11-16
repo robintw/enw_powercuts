@@ -236,24 +236,150 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241153078",
+      "faultNumber": "INC 1241153089",
       "multipleFaultNumbers": null,
-      "date": "2025-11-16T19:38:12",
-      "region": "Bury East, Bury",
+      "date": "2025-11-16T20:41:31",
+      "region": "Catterlen, Eden",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 59,
-      "estimatedTimeOfRestoration": "2025-11-17T01:38:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-17T01:38:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 17,
+      "estimatedTimeOfRestoration": "2025-11-17T02:41:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-17T02:41:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.593466,
-        "lng": -2.296356
+        "lat": 54.693438,
+        "lng": -2.800062
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BL9 0AS, BL9 0AD, BL9 0NT, BL9 0NU",
+      "AffectedPostcodes": " CA11 0BQ, CA11 0BA, CA11 0BJ",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241153090",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-16T20:41:31",
+      "region": "Catterlen, Eden",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 14,
+      "estimatedTimeOfRestoration": "2025-11-17T02:41:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-17T02:41:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.692969,
+        "lng": -2.801707
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " CA11 0BQ, CA11 0BG, CA11 0BJ",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241153092",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-16T20:41:40",
+      "region": "Catterlen, Eden",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 18,
+      "estimatedTimeOfRestoration": "2025-11-17T02:41:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-17T02:41:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.691641,
+        "lng": -2.803233
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " CA11 0BQ",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241153096",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-16T20:41:51",
+      "region": "Catterlen, Eden",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 8,
+      "estimatedTimeOfRestoration": "2025-11-17T02:41:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-17T02:41:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.689741,
+        "lng": -2.810052
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " CA11 0BD, CA11 0BQ, CA11 0BE",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -306,7 +432,49 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers fix the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241153098",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-16T20:41:58",
+      "region": "Catterlen, Eden",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 12,
+      "estimatedTimeOfRestoration": "2025-11-17T02:41:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-17T02:41:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.696127,
+        "lng": -2.794928
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " CA11 0BJ",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -327,19 +495,19 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 24,
-      "estimatedTimeOfRestoration": "2025-11-16T22:25:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-16T22:25:00",
+      "consumersOff": 39,
+      "estimatedTimeOfRestoration": "2025-11-17T22:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-17T22:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.919352,
-        "lng": -2.775589
+        "lat": 53.858020,
+        "lng": -2.753741
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR3 1BG, PR3 1AB, PR3 1AW, PR3 1AJ",
+      "AffectedPostcodes": " PR3 1BG, PR3 1AB, PR3 1AW, PR3 1AJ, PR3 1YD, PR3 1AD, PR3 12G, PR25 3ZG, PR5 3ZG",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GS",
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     }
   ],
@@ -350,7 +518,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 7,
+  "TotalResults": 11,
   "ShowPolygons": false,
   "Regions": [
     {
