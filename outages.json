@@ -305,7 +305,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
       "UpdateInfo": null,
       "CTAs": [
@@ -327,18 +327,18 @@
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 146,
-      "estimatedTimeOfRestoration": "2025-11-16T14:16:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-16T14:16:00",
+      "consumersOff": 11,
+      "estimatedTimeOfRestoration": "2025-11-17T00:07:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-17T00:07:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.550506,
-        "lng": -2.007526
+        "lat": 53.560474,
+        "lng": -1.998295
       },
       "outageLocations": null,
-      "AffectedPostcodes": " OL3 6BT, OL3 6AX, OL3 6BQ, OL3 6BE, OL3 6EY, OL3 6BS, OL3 6AQ, OL3 6AW, OL3 6AU, OL3 6DL, OL3 6DN, OL3 6ET, OL3 6AT, OL3 6AP, OL3 6BD, OL3 6AN, OL3 6AL, OL3 6BH, OL3 6AZ, OL3 6AH, OL3 6BX, OL4 3BP, OL3 6HS",
-      "UnderReviewStatusTimeCheck": true,
+      "AffectedPostcodes": " OL3 6AT, OL3 6AP, OL3 6AZ",
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "O/HM",
       "addressMpanList": null
     },
@@ -367,7 +367,7 @@
       "date": "2025-11-16T13:24:26",
       "region": "Kearsley, Bolton",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
+      "faultStatus": "We're on site",
       "previousFaultStatus": "Team on their way",
       "consumersOff": 76,
       "estimatedTimeOfRestoration": "2025-11-16T19:24:00",
@@ -411,7 +411,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 122,
+      "consumersOff": 628,
       "estimatedTimeOfRestoration": "2025-11-16T16:00:00",
       "estimatedTimeOfRestorationMajority": "2025-11-16T16:00:00",
       "information": "",
@@ -422,6 +422,48 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " PR3 6AE, PR3 6HE, PR3 6DF, FY6 0HN, PR3 6SD, PR3 6SQ, PR3 6DA, PR3 6AL, PR3 6BU, PR3 6HD, PR3 6BP, PR3 6BN, PR3 0LB, PR3 6DG, PR3 0LE, PR3 6AR, FY6 0NU, PR3 6SN, FY6 0PQ, PR3 6SJ, PR3 6BZ, PR3 6BY, PR3 6HX, PR3 6BA, PR3 6AQ, PR3 6AS, PR3 6AY, PR3 6HH, FY6 0PG, FY6 0NR, PR3 6BX, PR3 6SR, PR3 6AX, FY6 0NP, PR3 6AH, PR3 6DH, PR3 0LT, PR3 6SS, FY6 0NT, PR3 6HS, PR3 0FU, PR3 6BB, PR3 0LD, PR3 6HB, PR3 0LJ, FY6 0NS, FY6 0PE, PR3 0LH, PR3 0LA, PR3 5JE, PR3 2QJ, PR3 6SP, FY6 0EJ, PR3 1YE, FY6 0RB, PR3 6SA, PR3 6SB, PR3 6SH, PR3 6DE, PR3 6SU",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241153004",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-16T15:38:30",
+      "region": "Nateby, Wyre",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 1135,
+      "estimatedTimeOfRestoration": "2025-11-16T18:38:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-16T18:38:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.939868,
+        "lng": -2.780846
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA2 0EJ, LA2 0HA, PR3 0FR, PR3 0AS, PR3 1AE, PR3 0BH, PR3 0AB, PR3 0BL, PR3 0BD, PR3 0AU, LA2 0EW, PR3 0JU, LA2 0EH, PR3 0FJ, LA2 0GZ, LA2 0HE, PR3 0FP, LA2 0HB, PR3 0AL, PR3 0JY, LA2 0EF, PR3 0BE, PR3 0AA, PR3 0AE, PR3 1AA, LA2 0EL, PR3 0JX, PR3 0LD, PR3 1BY, LA2 0ES, PR3 0FQ, LA2 0EG, PR3 0AX, PR3 0BA, PR3 0LA, PR3 1ZB, PR3 0BS, PR3 1DD, PR3 0BP, LA2 0EP, PR3 0AN, PR3 0AR, PR3 0BG, PR3 0AG, PR3 0DB, PR3 0BB, PR3 0FG, PR3 0JL, PR3 0AF, PR3 0BQ, LA2 0HQ, PR3 0JP, PR3 0FN, PR3 0BJ, LA2 0HF, PR2 5ZZ, PR3 0AQ, PR3 0DD, PR3 1AH, PR3 1DE, PR3 0BX, LA2 0ER, PR3 0AH, LA2 0HG, LA2 0ET, PR3 0AT, PR3 0FE, PR3 0FH, PR3 1DR, LA2 9DE, LA2 0HH, PR3 0JN, PR3 0JJ, LA2 0KT, OL11 4AB, PR3 0AP, PR3 0AJ, LA2 0EN, PR3 0BN, PR3 0DR, PR3 6AT, PR3 0BW, PR3 0AY, LA2 0BF, PR3 1RS, LA2 0HW, LA2 0HD, LA2 0EQ, PR3 0FF, PR3 0FD, PR3 0AW, PR3 0JR, PR3 0JT",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -476,7 +518,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 10,
+  "TotalResults": 11,
   "ShowPolygons": false,
   "Regions": [
     {
