@@ -160,8 +160,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 23,
-      "estimatedTimeOfRestoration": "2025-11-17T16:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-17T16:00:00",
+      "estimatedTimeOfRestoration": "2025-11-17T15:15:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-17T15:15:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -256,6 +256,48 @@
       "AffectedPostcodes": " SK10 4PH, SK10 4PA, SK10 4PJ, SK10 4PF, SK10 4PE, SK10 4PD",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": true,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241153357",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-17T10:30:31",
+      "region": "Bollington, Cheshire East",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 62,
+      "estimatedTimeOfRestoration": "2025-11-17T13:30:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-17T13:30:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.319379,
+        "lng": -2.096219
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK10 5RU, SK10 4PJ, SK10 5DA, SK10 4PF, SK10 5SE, SK10 5SL, SK10 5SG, SK12 1TF, SK10 5RD, SK10 4LD, SK10 4JZ, SK10 4NU, SK10 4JX, SK10 5RT, SK10 5QZ, SK10 4PQ, SK10 4NY, SK10 5RZ, SK10 5SQ, SK12 1TQ, SK12 1TH, SK10 4PB, SK10 5RX, SK10 5QU, SK12 1UE, SK10 5SJ, SK10 4PG, SK12 1TG, SK10 4PA, SK10 5SR, SK10 5SD, SK10 4NX, SK10 5SA, SK10 5JT, SK12 1SR, SK10 5RB, SK10 4JU, SK10 4NT, SK10 5DE, SK10 5BZ, SK10 4LB, SK10 4PL, SK10 5RA, SK10 4LA, SK10 5RH, SK10 5SH, SK10 4NB, SK10 5RR, SK10 4PH, SK10 5SB, SK10 5SF, SK10 5RS, SK10 5DD, SK10 5BY, SK10 4LE, SK10 5SN",
+      "UnderReviewStatusTimeCheck": true,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -392,7 +434,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 8,
+  "TotalResults": 9,
   "ShowPolygons": false,
   "Regions": [
     {
