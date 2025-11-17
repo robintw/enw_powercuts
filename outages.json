@@ -159,7 +159,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 44,
+      "consumersOff": 23,
       "estimatedTimeOfRestoration": "2025-11-17T16:00:00",
       "estimatedTimeOfRestorationMajority": "2025-11-17T16:00:00",
       "information": "",
@@ -257,6 +257,90 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241153373",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-17T09:51:28",
+      "region": "Claremont, Salford",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 34,
+      "estimatedTimeOfRestoration": "2025-11-17T15:51:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-17T15:51:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.502817,
+        "lng": -2.327993
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M27 5LU, M27 5LT",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241153375",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-17T10:54:54",
+      "region": "Bradshaw, Bolton",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 567,
+      "estimatedTimeOfRestoration": "2025-11-17T13:54:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-17T13:54:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.606552,
+        "lng": -2.390215
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BL2 3QY, BL2 3QT, BL2 3QF, BL2 3PY, BL2 3LT, BL2 3QS, BL2 3NB, BL2 3ND, BL2 4LD, BL2 3NE, BL2 3LY, BL2 3QX, BL2 3LS, BL2 3NJ, BL2 3PZ, BL2 3QB, BL2 3LX, BL2 3NH, BL2 3QU, BL2 3NA, BL2 3NF, BL2 3QA, BL2 4LA, BL2 3LU, BL2 3QJ, BL2 3NG, BL2 3LZ, BL2 3RZ, BB7 1AW, BL2 3QQ, BL2 4LB, BL2 1EX",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -266,7 +350,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 7,
   "ShowPolygons": false,
   "Regions": [
     {
