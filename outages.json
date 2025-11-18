@@ -53,6 +53,48 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241152315",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-15T09:56:54",
+      "region": "Chadderton Central, Oldham",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 8,
+      "estimatedTimeOfRestoration": "2025-11-18T21:30:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-18T21:30:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.543934,
+        "lng": -2.143489
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL9 9HF",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
       "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
@@ -87,90 +129,6 @@
       "outageLocations": null,
       "AffectedPostcodes": " FY6 8JF, FY6 8JX, FY6 8JH, FY6 8JU, FY6 8JS",
       "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241153373",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-17T09:51:28",
-      "region": "Swinton Park, Salford",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 5,
-      "estimatedTimeOfRestoration": "2025-11-18T16:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-18T16:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.502600,
-        "lng": -2.328180
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M27 5LU",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125281785",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-18T16:43:06",
-      "region": "Chadderton Central, Oldham",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 104,
-      "estimatedTimeOfRestoration": "2025-11-18T22:43:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-18T22:43:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.544326,
-        "lng": -2.145169
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " OL9 9HN, OL9 9HH, OL9 9HQ, OL9 9HF, OL9 9HG, OL9 0LS, OL9 9HB, OL9 9EN, OL9 9SZ, OL9 9SY, OL9 9HW, OL9 9HE",
-      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -285,7 +243,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 118,
+      "consumersOff": 119,
       "estimatedTimeOfRestoration": "2025-11-18T18:40:00",
       "estimatedTimeOfRestorationMajority": "2025-11-18T18:40:00",
       "information": "",
@@ -452,8 +410,8 @@
       "region": "Ashton Hurst, Tameside",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 5,
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 9,
       "estimatedTimeOfRestoration": "2025-11-18T17:30:00",
       "estimatedTimeOfRestorationMajority": "2025-11-18T17:30:00",
       "information": "",
@@ -476,7 +434,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 10,
+  "TotalResults": 9,
   "ShowPolygons": false,
   "Regions": [
     {
