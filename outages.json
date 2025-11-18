@@ -46,59 +46,15 @@
   "OverviewDescription": "Important information on the power cut in your area, <b>please read</b>:",
   "TrackPowerCutLabel": "Get Updates",
   "TrackPowerCutLink": null,
-  "ResultType": null,
-  "Items": [
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241153627",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-17T15:56:45",
-      "region": "Stacksteads, Rossendale",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 8,
-      "estimatedTimeOfRestoration": "2025-11-18T01:30:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-18T01:30:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.712681,
-        "lng": -2.222079
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " OL13 8NL, OL13 8RF, OL13 8RD, OL13 8RG, OL13 8NW, BB4 9RY, OL13 8RA, BB4 9RT, BB4 9SA, BB4 9SB, OL13 8EP, OL13 8ND, OL13 8NN, OL13 8QZ, BB4 9RX, OL13 8SA, BB4 9RZ, OL13 8RE",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    }
-  ],
+  "ResultType": "NoOutageFound",
+  "Items": [],
   "Markers": null,
   "AvailableItemTypes": [
-    "CurrentFault",
     "ResolvedFault",
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 1,
+  "TotalResults": 0,
   "ShowPolygons": false,
   "Regions": [
     {
