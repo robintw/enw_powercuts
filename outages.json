@@ -325,8 +325,8 @@
       "date": "2025-11-19T04:13:41",
       "region": "Shear Brow & Corporation Park, Blackburn With Darwen",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 64,
       "estimatedTimeOfRestoration": "2025-11-19T10:13:00",
       "estimatedTimeOfRestorationMajority": "2025-11-19T10:13:00",
@@ -782,48 +782,6 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125282089",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-19T04:28:12",
-      "region": "Wigan Central, Wigan",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 53,
-      "estimatedTimeOfRestoration": "2025-11-19T10:26:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-19T10:26:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.557438,
-        "lng": -2.632905
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " WN1 2DF, WN1 2EJ, WN1 2EL, WN1 2EN",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
       "faultNumber": "INC 125282009",
       "multipleFaultNumbers": null,
       "date": "2025-11-19T04:25:50",
@@ -866,24 +824,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125281928",
+      "faultNumber": "INC 125282089",
       "multipleFaultNumbers": null,
-      "date": "2025-11-19T04:08:56",
-      "region": "Withington, Manchester",
+      "date": "2025-11-19T04:28:12",
+      "region": "Wigan Central, Wigan",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
       "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 690,
-      "estimatedTimeOfRestoration": "2025-11-19T10:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-19T10:00:00",
+      "consumersOff": 53,
+      "estimatedTimeOfRestoration": "2025-11-19T10:26:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-19T10:26:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.427380,
-        "lng": -2.221908
+        "lat": 53.557438,
+        "lng": -2.632905
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M20 4UA, M20 4XT, M20 4XQ, M20 4UX, M20 4XP, M20 4XU, M20 4HX, M20 4XR, M20 4XG, M20 4XW, M20 4UB, M20 4DD, M20 4UY, M20 4UG, M20 4UN, M20 4US, M20 4UE, M20 4UD, M20 4UH, M20 4UJ, M20 4UP, M20 4XX, M20 4TZ, M20 4UR, M20 4XL, M20 4XN, M20 4XF, M20 4UL, M20 4UQ, M20 4RG, M20 4TX, M20 4TU, M20 4TY",
+      "AffectedPostcodes": " WN1 2DF, WN1 2EJ, WN1 2EL, WN1 2EN",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -1040,7 +998,7 @@
       "region": "Haydock, St. Helens",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 17,
       "estimatedTimeOfRestoration": "2025-11-19T11:04:00",
       "estimatedTimeOfRestorationMajority": "2025-11-19T11:04:00",
@@ -1052,6 +1010,48 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " WA11 0XB, WA11 0UY, WA11 0XA",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125282140",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-19T05:19:59",
+      "region": "Douglas, Wigan",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 51,
+      "estimatedTimeOfRestoration": "2025-11-19T11:19:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-19T11:19:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.544784,
+        "lng": -2.634897
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " WN3 4AB, WN3 4BZ, WN1 1BA, WN1 1SE, WN1 1BB, WN1 1JU, WN1 1BE, WN1 1LP",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
