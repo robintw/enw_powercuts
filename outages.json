@@ -194,6 +194,48 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 125283431",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-21T09:25:37",
+      "region": "Blackrod, Bolton",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 30,
+      "estimatedTimeOfRestoration": "2025-11-21T15:25:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-21T15:25:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.597213,
+        "lng": -2.539473
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BL6 5BH, BL6 5TZ, BL6 5BE, BL6 5BN, BL7 0EL",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 125283391",
       "multipleFaultNumbers": null,
       "date": "2025-11-21T08:39:05",
@@ -236,24 +278,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125283397",
+      "faultNumber": "INC 125283393",
       "multipleFaultNumbers": null,
-      "date": "2025-11-21T09:03:29",
-      "region": "Shear Brow & Corporation Park, Blackburn With Darwen",
+      "date": "2025-11-21T09:01:09",
+      "region": "Samlesbury & Walton, South Ribble",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 33,
-      "estimatedTimeOfRestoration": "2025-11-21T15:03:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-21T15:03:00",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 18,
+      "estimatedTimeOfRestoration": "2025-11-21T15:01:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-21T15:01:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.755416,
-        "lng": -2.492651
+        "lat": 53.748376,
+        "lng": -2.661334
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB1 8BF, BB1 8BB",
+      "AffectedPostcodes": " PR5 4BJ, PR5 4BH, PR5 4BN",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -266,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
