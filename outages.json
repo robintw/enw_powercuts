@@ -54,6 +54,48 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125283773",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-21T18:40:56",
+      "region": "Ancoats & Beswick, Manchester",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 998,
+      "estimatedTimeOfRestoration": "2025-11-21T21:40:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-21T21:40:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.487273,
+        "lng": -2.242424
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M1 2FW, M4 7AJ, M1 2FX, M1 2EW, M1 2NE, M4 7DR, M1 2FS, M1 2EX, M1 2EY, M4 7DP, M1 2FT, M4 7BH, M1 2NP, M4 7BL, M4 7DQ, M4 7DD, M1 2FU, M4 7EX, M4 7AA, M4 7DN, M4 7FN, M1 2NL, M4 7BP, M4 7AL, M4 7DE, M3 6GB, M4 7DG, M4 7BN, M1 2JQ, M4 7DA, M4 7BE, M4 6DE, M4 7DL, M4 7DS, M4 7EQ, M1 2NG, M1 2FF, M4 7LH, M4 7EA, M2 1HL, M4 5AZ, M4 7AN, M4 7AU, M4 6DU, M4 7AH, M1 2GH",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -159,7 +201,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 8,
+      "consumersOff": 9,
       "estimatedTimeOfRestoration": "2025-11-21T23:00:00",
       "estimatedTimeOfRestorationMajority": "2025-11-21T23:00:00",
       "information": "",
@@ -200,7 +242,7 @@
       "region": "Weaste & Seedley, Salford",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 61,
       "estimatedTimeOfRestoration": "2025-11-22T00:25:00",
       "estimatedTimeOfRestorationMajority": "2025-11-22T00:25:00",
@@ -266,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
