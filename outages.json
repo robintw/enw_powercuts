@@ -54,7 +54,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -68,26 +68,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125283773",
+      "faultNumber": "INC 125283781",
       "multipleFaultNumbers": null,
-      "date": "2025-11-21T18:40:56",
-      "region": "Ancoats & Beswick, Manchester",
+      "date": "2025-11-21T18:46:30",
+      "region": "Milkstone & Deeplish, Rochdale",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 998,
-      "estimatedTimeOfRestoration": "2025-11-21T21:40:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-21T21:40:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 64,
+      "estimatedTimeOfRestoration": "2025-11-22T00:46:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-22T00:46:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.487273,
-        "lng": -2.242424
+        "lat": 53.610339,
+        "lng": -2.158548
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M1 2FW, M4 7AJ, M1 2FX, M1 2EW, M1 2NE, M4 7DR, M1 2FS, M1 2EX, M1 2EY, M4 7DP, M1 2FT, M4 7BH, M1 2NP, M4 7BL, M4 7DQ, M4 7DD, M1 2FU, M4 7EX, M4 7AA, M4 7DN, M4 7FN, M1 2NL, M4 7BP, M4 7AL, M4 7DE, M3 6GB, M4 7DG, M4 7BN, M1 2JQ, M4 7DA, M4 7BE, M4 6DE, M4 7DL, M4 7DS, M4 7EQ, M1 2NG, M1 2FF, M4 7LH, M4 7EA, M2 1HL, M4 5AZ, M4 7AN, M4 7AU, M4 6DU, M4 7AH, M1 2GH",
+      "AffectedPostcodes": " OL11 1HH, OL11 1EB, OL11 1HL, OL11 1HP, OL11 1HR, OL11 1HN, OL11 3TZ, OL11 3SW, OL11 3UB, OL11 1HW",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -115,19 +115,19 @@
       "date": "2025-11-21T17:40:49",
       "region": "Westhoughton, Bolton",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 47,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 3,
       "estimatedTimeOfRestoration": "2025-11-21T23:40:00",
       "estimatedTimeOfRestorationMajority": "2025-11-21T23:40:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.560166,
-        "lng": -2.527195
+        "lat": 53.559605,
+        "lng": -2.524151
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BL5 3QE, BL5 3QF, BL5 3QQ, BL5 3PD, BL5 3QG, BL5 3BL, BL5 3PA, BL5 3NA",
+      "AffectedPostcodes": " BL5 3QF",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -241,8 +241,8 @@
       "date": "2025-11-21T18:25:41",
       "region": "Weaste & Seedley, Salford",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 61,
       "estimatedTimeOfRestoration": "2025-11-22T00:25:00",
       "estimatedTimeOfRestorationMajority": "2025-11-22T00:25:00",
