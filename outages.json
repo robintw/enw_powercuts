@@ -74,7 +74,7 @@
       "region": "Ellel, Lancaster",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 6,
       "estimatedTimeOfRestoration": "2025-11-21T22:00:00",
       "estimatedTimeOfRestorationMajority": "2025-11-21T22:00:00",
@@ -110,24 +110,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125283746",
+      "faultNumber": "INC 125283825",
       "multipleFaultNumbers": null,
-      "date": "2025-11-21T17:40:49",
-      "region": "Westhoughton, Bolton",
+      "date": "2025-11-21T22:51:38",
+      "region": "Hyde Werneth, Tameside",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": null,
-      "consumersOff": 3,
-      "estimatedTimeOfRestoration": "2025-11-21T23:40:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-21T23:40:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 24,
+      "estimatedTimeOfRestoration": "2025-11-22T04:51:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-22T04:51:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.559605,
-        "lng": -2.524151
+        "lat": 53.449665,
+        "lng": -2.079149
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BL5 3QF",
+      "AffectedPostcodes": " SK14 1AB, SK14 1HW, SK14 1HP, SK14 1LH, SK14 1ES, SK14 1LJ, SK14 1EX",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -152,13 +152,55 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 125283746",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-21T17:40:49",
+      "region": "Westhoughton, Bolton",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 3,
+      "estimatedTimeOfRestoration": "2025-11-21T23:40:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-21T23:40:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.559605,
+        "lng": -2.524151
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BL5 3QF",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": true,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 125283347",
       "multipleFaultNumbers": null,
       "date": "2025-11-21T05:35:57",
       "region": "Bromley Cross, Bolton",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 9,
       "estimatedTimeOfRestoration": "2025-11-21T23:00:00",
       "estimatedTimeOfRestorationMajority": "2025-11-21T23:00:00",
@@ -170,7 +212,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " BL7 9JT",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -200,7 +242,7 @@
       "region": "Weaste & Seedley, Salford",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 12,
       "estimatedTimeOfRestoration": "2025-11-22T00:25:00",
       "estimatedTimeOfRestorationMajority": "2025-11-22T00:25:00",
@@ -242,7 +284,7 @@
       "region": "Bowdon, Trafford",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 70,
       "estimatedTimeOfRestoration": "2025-11-22T03:09:00",
       "estimatedTimeOfRestorationMajority": "2025-11-22T03:09:00",
@@ -266,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
