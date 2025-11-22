@@ -53,48 +53,6 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125283813",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-21T21:09:40",
-      "region": "Bowdon, Trafford",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 12,
-      "estimatedTimeOfRestoration": "2025-11-22T17:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-22T17:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.373061,
-        "lng": -2.364730
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " WA14 3DW, WA14 2NH, WA14 3DN, WA14 3DL, WA14 3DP",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
       "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
@@ -115,8 +73,8 @@
       "date": "2025-11-22T19:26:22",
       "region": "Darwen, Blackburn With Darwen",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 71,
       "estimatedTimeOfRestoration": "2025-11-23T01:26:00",
       "estimatedTimeOfRestorationMajority": "2025-11-23T01:26:00",
@@ -172,6 +130,48 @@
       "AffectedPostcodes": " SK5 6QA, SK5 6QN",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125284116",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-22T20:17:28",
+      "region": "Halton-With-Aughton, Lancaster",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 29,
+      "estimatedTimeOfRestoration": "2025-11-22T23:17:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-22T23:17:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.077245,
+        "lng": -2.755855
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA2 6NL, LA2 6QR, LA2 6QE, LA2 6NY, LA2 6PG, LA2 6NZ, LA2 6RL, LA2 6QG, LA2 6QH, LA2 6FG, LA2 6NH, LA2 6QT, LA2 6QX, LA2 6PY, LA2 6PE, LA2 6NP, LA2 6FL, LA2 6QU, LA2 9HU, LA2 6QL, LA2 6QN, LA2 6QQ, LA6 1HF, LA2 6QF, LA2 6QA, LA2 6NT, LA2 6NN, LA2 6NJ, LA2 6QP, LA2 6NU, LA2 6PH, LA2 6QS, LA2 6NR, LA2 6PD, LA2 6QW, LA2 6NX, LA2 6PZ, LA2 6PX, LA2 6FH, LA2 6QJ, LA2 6QY, LA2 6PU, LA6 1DY, LA2 6NS, LA2 6QB, LA2 6PQ, LA2 6NW, LA2 6PA, LA6 1DZ, LA2 6PF, LA2 6QZ, LA2 6PB, LA2 6ZZ, LA6 1HD, LA2 6LR, LA2 6ND, LA2 6BQ, LA2 6PN, LA2 6FE, LA2 6NA, LA6 1EY, LA2 6PR, LA2 6PS, LA2 6RE, LA2 6BJ, LA2 0JN, LA2 6RN, LA2 6PL, LA2 6LZ, LA2 6PP, LA2 6NB, LA2 6LP, LA2 6RJ, LA2 6FP, LA2 6PW, LA2 6EL, LA5 8AA, LA2 6PT, LA2 6BH, LA2 6LN, LA2 6LH, LA2 6LX, LA6 1HH, LA2 6LY, LA2 6RB, LA2 6BN, LA2 6LS, LA2 6QD, LA2 6RH, LA5 8AB, LA2 6LT, LA2 6LJ, LA2 6LW, LA1 2EG, LA1 3PE, LA2 6BG, LA2 6TJ, LA2 6LL, LA2 6BL, LA5 8AF, LA2 6RA, LA2 6PJ, LA1 2EA, LA2 6FJ, LA2 6LU, LA2 6RG, LA2 6RF, LA5 8DT",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
