@@ -194,24 +194,66 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125284192",
+      "faultNumber": "INC 125284197",
       "multipleFaultNumbers": null,
-      "date": "2025-11-23T07:50:37",
-      "region": "Distington, Copeland",
+      "date": "2025-11-23T08:09:08",
+      "region": "Sandsfield & Morton West, Carlisle",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 38,
-      "estimatedTimeOfRestoration": "2025-11-23T13:50:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-23T13:50:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 19,
+      "estimatedTimeOfRestoration": "2025-11-23T14:08:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-23T14:08:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.588164,
-        "lng": -3.540618
+        "lat": 54.884646,
+        "lng": -2.970897
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA14 4PU, CA14 4PT",
+      "AffectedPostcodes": " CA2 6SL, CA2 6SG, CA2 6SW",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125284201",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-23T08:24:34",
+      "region": "Millom, Copeland",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 68,
+      "estimatedTimeOfRestoration": "2025-11-23T14:24:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-23T14:24:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.205927,
+        "lng": -3.271941
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA18 4PD, LA18 4PB, LA18 4PQ, LA18 4PF, LA18 4PH, LA18 4PE",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -224,7 +266,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 5,
   "ShowPolygons": false,
   "Regions": [
     {
