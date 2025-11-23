@@ -117,7 +117,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 25,
+      "consumersOff": 16,
       "estimatedTimeOfRestoration": "2025-11-23T14:00:00",
       "estimatedTimeOfRestorationMajority": "2025-11-23T14:00:00",
       "information": "",
@@ -171,6 +171,48 @@
       "outageLocations": null,
       "AffectedPostcodes": " SK23 7QQ, SK23 7NH",
       "UnderReviewStatusTimeCheck": true,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125284193",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-23T08:01:04",
+      "region": "Douglas, Wigan",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 4,
+      "estimatedTimeOfRestoration": "2025-11-23T14:01:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-23T14:01:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.535978,
+        "lng": -2.635965
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " WN3 5DS",
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -278,24 +320,66 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125284205",
+      "faultNumber": "INC 125284213",
       "multipleFaultNumbers": null,
-      "date": "2025-11-23T08:29:48",
-      "region": "Cheadle Hulme North, Stockport",
+      "date": "2025-11-23T09:00:16",
+      "region": "Earnshaw Bridge, South Ribble",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
       "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 99,
-      "estimatedTimeOfRestoration": "2025-11-23T14:29:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-23T14:29:00",
+      "consumersOff": 79,
+      "estimatedTimeOfRestoration": "2025-11-23T15:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-23T15:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.384804,
-        "lng": -2.183145
+        "lat": 53.687725,
+        "lng": -2.726876
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK8 5PU, SK8 5PX, SK8 5RP, SK8 5RW, SK8 5RR, SK8 5RS, SK8 5PQ",
+      "AffectedPostcodes": " PR26 7XU, PR26 7XP, PR26 7XS, PR26 7XR, PR26 7XT",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125284218",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-23T09:00:23",
+      "region": "Earnshaw Bridge, South Ribble",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 12,
+      "estimatedTimeOfRestoration": "2025-11-23T15:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-23T15:00:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.688344,
+        "lng": -2.727787
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR26 7SJ, PR26 7XU",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -308,7 +392,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 6,
+  "TotalResults": 8,
   "ShowPolygons": false,
   "Regions": [
     {
