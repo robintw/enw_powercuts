@@ -95,7 +95,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -118,8 +118,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 73,
-      "estimatedTimeOfRestoration": "2025-11-23T19:39:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-23T19:39:00",
+      "estimatedTimeOfRestoration": "2025-11-24T01:30:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-24T01:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -128,7 +128,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " SK5 8LH, SK5 8BA, SK5 8BB, SK5 8LJ, SK5 8EN, SK5 8AY, SK5 8AZ, SK5 8LR",
-      "UnderReviewStatusTimeCheck": true,
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -199,9 +199,9 @@
       "date": "2025-11-23T19:15:54",
       "region": "Marple North, Stockport",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 76,
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 112,
       "estimatedTimeOfRestoration": "2025-11-24T01:15:00",
       "estimatedTimeOfRestorationMajority": "2025-11-24T01:15:00",
       "information": "",
@@ -212,6 +212,48 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " SK6 5AB, SK6 5AA, SK6 5AE, SK6 5GB, SK6 5AW, SK6 5AF, SK6 5AG",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125284412",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-23T19:36:50",
+      "region": "Samlesbury & Walton, South Ribble",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 53,
+      "estimatedTimeOfRestoration": "2025-11-24T01:36:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-24T01:36:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.748417,
+        "lng": -2.659598
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR5 4BL, PR5 4BU, PR5 4BQ, PR5 4JT, PR5 4BJ, PR5 4BP",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -266,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
