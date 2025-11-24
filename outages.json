@@ -75,7 +75,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 101,
+      "consumersOff": 13,
       "estimatedTimeOfRestoration": "2025-11-24T14:00:00",
       "estimatedTimeOfRestorationMajority": "2025-11-24T14:00:00",
       "information": "",
@@ -320,24 +320,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125284511",
+      "faultNumber": "INC 125284751",
       "multipleFaultNumbers": null,
-      "date": "2025-11-24T07:23:04",
-      "region": "Cheadle And Gatley, Stockport",
+      "date": "2025-11-24T11:41:16",
+      "region": "Workington, Allerdale",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 14,
-      "estimatedTimeOfRestoration": "2025-11-24T13:23:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-24T13:23:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 31,
+      "estimatedTimeOfRestoration": "2025-11-24T17:41:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-24T17:41:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.383462,
-        "lng": -2.212965
+        "lat": 54.619737,
+        "lng": -3.555845
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK8 1HY, SK8 1HR, SK8 1HS, SK8 3GP",
+      "AffectedPostcodes": " CA14 5LQ, CA14 5LJ, CA14 5LH, CA14 5LL",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -362,24 +362,66 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125284716",
+      "faultNumber": "INC 125284753",
       "multipleFaultNumbers": null,
-      "date": "2025-11-24T11:06:38",
-      "region": "Holme Abbey, Allerdale",
+      "date": "2025-11-24T11:41:22",
+      "region": "Workington, Allerdale",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 4,
-      "estimatedTimeOfRestoration": "2025-11-24T17:06:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-24T17:06:00",
+      "previousFaultStatus": null,
+      "consumersOff": 51,
+      "estimatedTimeOfRestoration": "2025-11-24T17:41:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-24T17:41:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.529971,
-        "lng": -2.939288
+        "lat": 54.617922,
+        "lng": -3.558547
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA7 4SS, CA7 4ST",
+      "AffectedPostcodes": " CA14 5JZ, CA14 5LB, CA14 5LN, CA14 5QR, CA14 5PN, CA14 5LL, CA14 5LJ, CA14 5LD",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125284511",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-24T07:23:04",
+      "region": "Cheadle And Gatley, Stockport",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 14,
+      "estimatedTimeOfRestoration": "2025-11-24T13:23:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-24T13:23:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.383462,
+        "lng": -2.212965
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK8 1HY, SK8 1HR, SK8 1HS, SK8 3GP",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -538,8 +580,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 17,
-      "estimatedTimeOfRestoration": "2025-11-24T15:45:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-24T15:45:00",
+      "estimatedTimeOfRestoration": "2025-11-24T13:30:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-24T13:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -551,90 +593,6 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125284726",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-24T11:17:37",
-      "region": "Winstanley, Wigan",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 23,
-      "estimatedTimeOfRestoration": "2025-11-24T17:17:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-24T17:17:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.524620,
-        "lng": -2.669416
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " WN3 6EU, WN3 6EX, WN3 6EY",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125284730",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-24T11:20:33",
-      "region": "Holme Abbey, Allerdale",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 62,
-      "estimatedTimeOfRestoration": "2025-11-24T14:20:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-24T14:20:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.830534,
-        "lng": -3.276334
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " CA7 4SB, CA7 4SR, CA7 4SD, CA7 4SG, CA7 4PX, CA7 4SY, CA7 4SP, CA7 4RQ, CA7 4SE, CA7 2QX, CA7 4RU, CA7 4SZ, CA5 4SP, CA7 4RR",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -644,7 +602,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 14,
+  "TotalResults": 13,
   "ShowPolygons": false,
   "Regions": [
     {
