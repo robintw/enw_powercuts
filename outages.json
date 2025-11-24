@@ -53,7 +53,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -75,18 +75,18 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 53,
-      "estimatedTimeOfRestoration": "2025-11-22T02:15:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-22T02:15:00",
+      "consumersOff": 105,
+      "estimatedTimeOfRestoration": "2025-11-24T19:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-24T19:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.558827,
-        "lng": -2.524409
+        "lat": 53.560117,
+        "lng": -2.526703
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BL5 3QF, BL5 3QG, BL5 3QQ, BL5 3QE, BL5 3BL",
-      "UnderReviewStatusTimeCheck": true,
+      "AffectedPostcodes": " BL5 3QF, BL5 3QG, BL5 3QQ, BL5 3QE, BL5 3BL, BL5 3PD, BL5 3PA, BL5 3NA, BL5 3WG, BL5 3QL",
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -171,48 +171,6 @@
       "outageLocations": null,
       "AffectedPostcodes": " WN3 6EU",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125284156",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-22T21:41:55",
-      "region": "Darwen, Blackburn With Darwen",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 13,
-      "estimatedTimeOfRestoration": "2025-11-24T14:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-24T14:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.695281,
-        "lng": -2.463839
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " BB3 3HT, BB3 3HS, BB3 3HR, BB3 3HU, BB3 3HE, BB3 3HP, BB3 3GX",
-      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -362,24 +320,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125284751",
+      "faultNumber": "INC 125284911",
       "multipleFaultNumbers": null,
-      "date": "2025-11-24T11:41:16",
-      "region": "Workington, Allerdale",
+      "date": "2025-11-24T14:34:29",
+      "region": "Adlington, Cheshire East",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 43,
-      "estimatedTimeOfRestoration": "2025-11-24T17:41:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-24T17:41:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 7,
+      "estimatedTimeOfRestoration": "2025-11-24T20:34:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-24T20:34:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.619852,
-        "lng": -3.556437
+        "lat": 53.327511,
+        "lng": -2.104835
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA14 5LQ, CA14 5LJ, CA14 5LH, CA14 5LL, CA14 5LD, CA14 5LF",
+      "AffectedPostcodes": " SK10 4LB",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -404,24 +362,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125284874",
+      "faultNumber": "INC 125284751",
       "multipleFaultNumbers": null,
-      "date": "2025-11-24T14:00:25",
-      "region": "Westhoughton, Bolton",
+      "date": "2025-11-24T11:41:16",
+      "region": "Workington, Allerdale",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 52,
-      "estimatedTimeOfRestoration": "2025-11-24T20:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-24T20:00:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 16,
+      "estimatedTimeOfRestoration": "2025-11-24T17:41:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-24T17:41:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.560714,
-        "lng": -2.527736
+        "lat": 54.619852,
+        "lng": -3.556437
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BL5 3QE, BL5 3PD, BL5 3PA, BL5 3QQ, BL5 3NA, BL5 3WG, BL5 3QL",
+      "AffectedPostcodes": " CA14 5LQ, CA14 5LJ, CA14 5LH, CA14 5LL, CA14 5LD, CA14 5LF",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -518,7 +476,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 11,
+  "TotalResults": 10,
   "ShowPolygons": false,
   "Regions": [
     {
