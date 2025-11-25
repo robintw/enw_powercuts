@@ -236,26 +236,110 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241154282",
+      "faultNumber": "INC 1241154288",
       "multipleFaultNumbers": null,
-      "date": "2025-11-25T18:07:28",
-      "region": "New Mills, High Peak",
+      "date": "2025-11-25T18:14:28",
+      "region": "Keswick, Allerdale",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 57,
-      "estimatedTimeOfRestoration": "2025-11-26T00:07:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-26T00:07:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 42,
+      "estimatedTimeOfRestoration": "2025-11-26T00:14:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-26T00:14:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.362829,
-        "lng": -2.002192
+        "lat": 54.603609,
+        "lng": -3.123189
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK22 3EY, SK22 3EX, SK22 3HJ, SK22 3HL, SK22 3HP, SK22 3HN, SK22 3EG, SK22 3EH",
+      "AffectedPostcodes": " CA12 4JN, CA12 4JP, CA12 4JW, CA12 4HF, CA12 4JT, CA12 4JU, CA12 4LB, CA12 4JY, CA12 4LG, CA12 4LD, CA12 4JR, CA12 4JS",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241154294",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-25T18:29:03",
+      "region": "Bradshaw, Bolton",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 56,
+      "estimatedTimeOfRestoration": "2025-11-26T00:28:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-26T00:28:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.611009,
+        "lng": -2.397445
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BL2 4NB, BL2 4NA, BL2 4ND, BL2 4NE",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241154295",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-25T18:31:58",
+      "region": "Woodplumpton, Preston",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 87,
+      "estimatedTimeOfRestoration": "2025-11-25T21:31:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-25T21:31:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.800151,
+        "lng": -2.794984
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR4 0HR, PR4 0HH, PR4 0HN, PR4 0HP, PR4 0HU, PR4 0HX, PR4 0EA",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -369,7 +453,7 @@
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 51,
+      "consumersOff": 52,
       "estimatedTimeOfRestoration": "2025-11-25T23:20:00",
       "estimatedTimeOfRestorationMajority": "2025-11-25T23:20:00",
       "information": "",
@@ -392,7 +476,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 8,
+  "TotalResults": 10,
   "ShowPolygons": false,
   "Regions": [
     {
