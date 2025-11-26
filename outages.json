@@ -241,19 +241,61 @@
       "date": "2025-11-26T13:48:33",
       "region": "Peel, Hyndburn",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 150,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 108,
       "estimatedTimeOfRestoration": "2025-11-26T19:48:00",
       "estimatedTimeOfRestorationMajority": "2025-11-26T19:48:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.754796,
-        "lng": -2.356810
+        "lat": 53.754752,
+        "lng": -2.356840
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB5 6PH, BB5 6PQ, BB5 6RH, BB5 6SW, BB5 6SJ, BB5 6QD, BB5 6QG, BB5 6SZ, BB5 6QQ, BB5 6TG, BB5 6QE",
+      "AffectedPostcodes": " BB5 6PH, BB5 6PQ, BB5 6RH, BB5 6SW, BB5 6SJ, BB5 6QD, BB5 6TG, BB5 6QG, BB5 6SZ, BB5 6QQ",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241154753",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-26T12:08:25",
+      "region": "Bulk, Lancaster",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 12,
+      "estimatedTimeOfRestoration": "2025-11-26T18:08:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-26T18:08:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.047975,
+        "lng": -2.792042
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA1 3QP",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -266,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
