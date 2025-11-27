@@ -241,8 +241,8 @@
       "date": "2025-11-27T14:21:44",
       "region": "Chadderton North, Oldham",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 112,
       "estimatedTimeOfRestoration": "2025-11-27T20:21:00",
       "estimatedTimeOfRestorationMajority": "2025-11-27T20:21:00",
@@ -298,6 +298,48 @@
       "AffectedPostcodes": " SK7 3LZ, SK7 3NA, SK7 3NY, SK7 3NF",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241155610",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-27T14:31:32",
+      "region": "Ardwick, Manchester",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 46,
+      "estimatedTimeOfRestoration": "2025-11-27T17:31:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-27T17:31:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.467950,
+        "lng": -2.216751
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M12 6BG, M12 6AJ, M12 6BW, M12 4DL, M1 6EY, M12 6BZ, M12 6BH, M12 6BN, M12 4AH, M12 6AP, M13 9SG, M12 4AN, M60 6EL",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -404,56 +446,14 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241155610",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-27T14:31:32",
-      "region": "Ardwick, Manchester",
-      "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 46,
-      "estimatedTimeOfRestoration": "2025-11-27T17:31:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-27T17:31:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.467950,
-        "lng": -2.216751
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M12 6BG, M12 6AJ, M12 6BW, M12 4DL, M1 6EY, M12 6BZ, M12 6BH, M12 6BN, M12 4AH, M12 6AP, M13 9SG, M12 4AN, M60 6EL",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
       "faultNumber": "INC 1241155573",
       "multipleFaultNumbers": null,
       "date": "2025-11-27T13:47:54",
       "region": "Chapel-En-Le-Frith, High Peak",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 55,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 24,
       "estimatedTimeOfRestoration": "2025-11-27T16:47:00",
       "estimatedTimeOfRestorationMajority": "2025-11-27T16:47:00",
       "information": "",
@@ -494,7 +494,7 @@
       "region": "Chorley South East & Heath Charnock, Chorley",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 304,
       "estimatedTimeOfRestoration": "2025-11-27T17:40:00",
       "estimatedTimeOfRestorationMajority": "2025-11-27T17:40:00",
