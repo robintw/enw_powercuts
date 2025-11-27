@@ -283,8 +283,8 @@
       "date": "2025-11-27T12:45:12",
       "region": "Lakes, South Lakeland",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 6,
       "estimatedTimeOfRestoration": "2025-11-27T18:45:00",
       "estimatedTimeOfRestorationMajority": "2025-11-27T18:45:00",
@@ -305,7 +305,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "",
       "UpdateInfo": null,
       "CTAs": [
@@ -338,7 +338,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " BB11 5QU, BB11 5QZ",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "SERSMF",
       "addressMpanList": null
     },
