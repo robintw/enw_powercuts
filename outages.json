@@ -179,8 +179,8 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -194,26 +194,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125284689",
+      "faultNumber": "INC 1241155670",
       "multipleFaultNumbers": null,
-      "date": "2025-11-24T10:48:34",
-      "region": "Leigh South, Wigan",
+      "date": "2025-11-27T16:06:17",
+      "region": "Arthuret, Carlisle",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 4,
-      "estimatedTimeOfRestoration": "2025-11-27T16:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-27T16:00:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": null,
+      "consumersOff": 28,
+      "estimatedTimeOfRestoration": "2025-11-27T19:06:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-27T19:06:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.485787,
-        "lng": -2.496302
+        "lat": 55.063970,
+        "lng": -2.875455
       },
       "outageLocations": null,
-      "AffectedPostcodes": " WN7 3DP, WN7 3DW",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "U/GM",
+      "AffectedPostcodes": " CA6 5QD, CA6 5QX, CA6 5QJ, CA6 5RT, CA6 5QW, CA6 5RY, CA6 5PX, CA6 5QQ, CA6 5RZ, CA6 5PY, CA6 5QL, CA6 5RS, CA6 5RB, CA6 5QB, CA6 5PW, CA6 5QG, CA6 5QP, CA6 5QF, CA6 5RA, CA6 5RX, CA6 5RN, CA6 5QU, CA6 5QR, CA6 5QH, CA6 5PP, CA6 5RU, CA6 5QZ, CA6 5QE, CA6 5PN, CA5 7DP, CA6 5QN, CA1 1ND, CA6 5QA, CA6 5PQ, CA6 5QS, CA6 5QT, CA6 5SN",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -243,7 +243,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 24,
+      "consumersOff": 32,
       "estimatedTimeOfRestoration": "2025-11-27T20:21:00",
       "estimatedTimeOfRestorationMajority": "2025-11-27T20:21:00",
       "information": "",
@@ -296,48 +296,6 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " SK7 3LZ, SK7 3NA, SK7 3NY, SK7 3NF",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241155641",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-27T15:18:07",
-      "region": "Chadderton North, Oldham",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 88,
-      "estimatedTimeOfRestoration": "2025-11-27T21:18:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-27T21:18:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.554233,
-        "lng": -2.143594
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " OL9 0AW, OL9 0AS, OL9 0AA, OL9 0EL, OL9 0AP, OL9 0AR",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -493,8 +451,8 @@
       "date": "2025-11-27T15:35:21",
       "region": "North Meols, West Lancashire",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 14,
       "estimatedTimeOfRestoration": "2025-11-27T18:35:00",
       "estimatedTimeOfRestorationMajority": "2025-11-27T18:35:00",
@@ -518,7 +476,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 11,
+  "TotalResults": 10,
   "ShowPolygons": false,
   "Regions": [
     {
