@@ -244,8 +244,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 7,
-      "estimatedTimeOfRestoration": "2025-11-27T19:57:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-27T19:57:00",
+      "estimatedTimeOfRestoration": "2025-11-27T21:30:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-27T21:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -256,6 +256,48 @@
       "AffectedPostcodes": " M26 4FN, M26 2XY, BL8 2BP, BL8 2BR, BL8 3AS",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241155725",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-27T19:30:54",
+      "region": "Worsley, Rossendale",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 22,
+      "estimatedTimeOfRestoration": "2025-11-28T01:30:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-28T01:30:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.703816,
+        "lng": -2.306899
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BB4 5PG, BB4 5PL, BB4 5LS, BB4 5LR, BB4 9SU",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -327,7 +369,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 55,
+      "consumersOff": 39,
       "estimatedTimeOfRestoration": "2025-11-27T21:30:00",
       "estimatedTimeOfRestorationMajority": "2025-11-27T21:30:00",
       "information": "",
@@ -382,48 +424,6 @@
       "AffectedPostcodes": " SK23 9AD, SK23 9TN, SK23 9UQ, SK23 9UT, SK23 9UX, SK23 9UY, SK23 7EL, SK23 9TL, SK23 7ER, SK23 9TX, SK23 9TP, SK23 9AA, SK23 9UZ, SK23 9TQ, SK23 9TR, SK23 9TZ, SK23 9UP, SK23 9UW, SK23 9TU, SK23 9AE, SK23 9UU, SK23 9RS, SK23 7EW, SK23 9TT, SK23 9XA, SK23 9US, SK23 9UL, SK23 9UN, SK23 9AB, SK23 9UH, SK23 9RZ, SK23 6HH, SK23 9UD, SK23 6TN, SK23 7FN, SK23 9UB, SK23 7EN, SK23 9RE, SK23 7ES, SK23 6UZ, SK17 6SX, SK23 7GJ, SK23 9TJ, SK23 9UJ, SK23 6UT, SK23 6UF, SK23 2LB, SK23 6QL",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241155696",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-27T17:40:55",
-      "region": "Loweswater, Allerdale",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 3,
-      "estimatedTimeOfRestoration": "2025-11-27T23:40:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-27T23:40:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.591722,
-        "lng": -3.343689
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " CA13 0SU, CA13 0RR",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
