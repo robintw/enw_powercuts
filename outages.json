@@ -242,18 +242,18 @@
       "region": "Brinnington And Central, Stockport",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 31,
       "estimatedTimeOfRestoration": "2025-11-28T14:59:00",
       "estimatedTimeOfRestorationMajority": "2025-11-28T14:59:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.417023,
-        "lng": -2.162696
+        "lat": 53.416815,
+        "lng": -2.162334
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK4 1UB, SK4 1RR, SK4 1RH, SK4 1DB, SK4 1RS",
+      "AffectedPostcodes": " SK4 1UB, SK4 1RR, SK4 1RH, SK4 1DB, SK4 1DD, SK4 1RS",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -283,8 +283,8 @@
       "date": "2025-11-28T07:31:15",
       "region": "Leigh South, Wigan",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 22,
       "estimatedTimeOfRestoration": "2025-11-28T13:19:00",
       "estimatedTimeOfRestorationMajority": "2025-11-28T13:19:00",
@@ -367,8 +367,8 @@
       "date": "2025-11-28T08:21:53",
       "region": "Horwich, Bolton",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 17,
       "estimatedTimeOfRestoration": "2025-11-28T14:21:00",
       "estimatedTimeOfRestorationMajority": "2025-11-28T14:21:00",
@@ -383,48 +383,6 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241155899",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-28T08:26:35",
-      "region": "Leigh South, Wigan",
-      "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 67,
-      "estimatedTimeOfRestoration": "2025-11-28T14:26:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-28T14:26:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.492493,
-        "lng": -2.525693
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " WN7 4JN, WN7 4JU, WN7 4HY, WN7 4JX, WN7 4JA, WN7 4HZ, WN7 4HX",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -434,7 +392,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 9,
+  "TotalResults": 8,
   "ShowPolygons": false,
   "Regions": [
     {
