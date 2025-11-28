@@ -236,6 +236,90 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 1241156131",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-28T12:22:26",
+      "region": "Mossley, Tameside",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 5,
+      "estimatedTimeOfRestoration": "2025-11-28T18:22:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-28T18:22:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.502906,
+        "lng": -2.042017
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL5 9QD, OL5 9QE, OL5 9QB, OL5 9QA, OL5 9QG",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241156137",
+      "multipleFaultNumbers": null,
+      "date": "2025-11-28T12:28:01",
+      "region": "Darwen, Blackburn With Darwen",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": null,
+      "consumersOff": 190,
+      "estimatedTimeOfRestoration": "2025-11-28T15:28:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-28T15:28:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.700676,
+        "lng": -2.497231
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BB3 0NQ, BB3 0PD, BB3 0NZ, BB3 0NJ, BB3 0ND, BB3 0NU, BB3 0NF, BB3 0LT, BB3 0PB, BB3 0LY, BB3 0NG, BB3 0LU, BB3 0LX, BB3 0NS, BB3 0LB, BB3 0LZ, BB3 0NY, BB3 0LQ, BB3 0LR, BB3 0PE, BB3 0NX, BB3 0NT, BB3 0NA, BB3 0NB, BB3 0NW, BB3 0NH, BB3 0PA, BB3 0NL, BB3 1JY, BB3 1JX, PR6 8DX, BB3 0NR, BB3 0NN, BB3 0NP",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 1241155895",
       "multipleFaultNumbers": null,
       "date": "2025-11-28T08:21:53",
@@ -243,7 +327,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 24,
+      "consumersOff": 19,
       "estimatedTimeOfRestoration": "2025-11-28T14:21:00",
       "estimatedTimeOfRestorationMajority": "2025-11-28T14:21:00",
       "information": "",
@@ -266,7 +350,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 7,
   "ShowPolygons": false,
   "Regions": [
     {
