@@ -325,7 +325,7 @@
       "date": "2025-11-29T17:12:35",
       "region": "Fallowfield, Manchester",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
+      "faultStatus": "We're on site",
       "previousFaultStatus": "Team on their way",
       "consumersOff": 303,
       "estimatedTimeOfRestoration": "2025-11-29T23:12:00",
@@ -338,48 +338,6 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " M14 7DY, M14 7DX, M14 7EA, M14 7DZ, M14 7DD, M14 7HB, M14 7DU, M14 7DB, M14 7EN, M14 7FN, M14 7EP, M14 7AP, M14 7HG",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241156610",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-29T15:07:42",
-      "region": "Windermere, South Lakeland",
-      "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 18,
-      "estimatedTimeOfRestoration": "2025-11-29T20:53:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-29T20:53:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.361606,
-        "lng": -2.927342
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " LA23 3HE",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -431,7 +389,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -446,25 +404,25 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241156413",
+      "faultNumber": "INC 1241156659",
       "multipleFaultNumbers": null,
-      "date": "2025-11-29T07:48:08",
-      "region": "Bolton-Le-Sands, Lancaster",
+      "date": "2025-11-29T18:06:23",
+      "region": "Farington, South Ribble",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 23,
-      "estimatedTimeOfRestoration": "2025-11-29T13:47:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-29T13:47:00",
+      "previousFaultStatus": null,
+      "consumersOff": 36,
+      "estimatedTimeOfRestoration": "2025-11-30T00:06:00",
+      "estimatedTimeOfRestorationMajority": "2025-11-30T00:06:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.110138,
-        "lng": -2.788542
+        "lat": 53.720977,
+        "lng": -2.696056
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA5 8EH, LA5 8BX, LA5 8BY, LA5 8BS, LA5 8DB, LA5 8BZ, LA5 8DN, LA5 8BU, LA5 8FB",
-      "UnderReviewStatusTimeCheck": true,
+      "AffectedPostcodes": " PR26 6PN, PR5 5JY, PR5 5LQ, PR5 5LY, PR5 5NP, PR5 5JG, PR5 5LX, PR5 5JZ",
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -518,7 +476,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 11,
+  "TotalResults": 10,
   "ShowPolygons": false,
   "Regions": [
     {
