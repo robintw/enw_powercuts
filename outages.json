@@ -221,48 +221,6 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241156689",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-29T22:42:25",
-      "region": "Henbury, Cheshire East",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 31,
-      "estimatedTimeOfRestoration": "2025-11-30T02:30:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-30T02:30:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.274306,
-        "lng": -2.196482
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " SK10 4SD, SK10 4SB, SK10 4RZ, SK10 4SN, SK10 4SW, SK11 6LY, SK10 4RR, SK10 4PY, SK10 4RY, SK10 4ZB, SK10 4SE, SK10 4SA, SK10 4RN, SK10 4SF, SK11 9NW, SK11 9PH, SK10 4RW, SK10 3LH, SK10 3LJ, SK10 4RS, SK11 9NN, SK10 4HE, SK11 9GD, SK11 9PA, SK11 9PY, SK11 9PE, SK10 4RX, SK11 9PF, SK11 9PG, SK10 4RL, SK11 9NL, SK11 9PD, SK11 9PB, SK11 9PQ, SK11 9NR, SK11 9NS, SK11 9AH, SK10 3LG, SK10 3LQ, SK10 3JW, SK10 4RJ, SK10 3JN, SK10 3JL, SK10 3JH, SK10 3JJ, SK10 4RP, SK10 3PY",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
       "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers fix the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
@@ -308,7 +266,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 6,
+  "TotalResults": 5,
   "ShowPolygons": false,
   "Regions": [
     {
