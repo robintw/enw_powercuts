@@ -74,7 +74,7 @@
       "region": "Silloth-On-Solway, Allerdale",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 91,
       "estimatedTimeOfRestoration": "2025-11-30T15:16:00",
       "estimatedTimeOfRestorationMajority": "2025-11-30T15:16:00",
@@ -199,8 +199,8 @@
       "date": "2025-11-30T12:51:49",
       "region": "Cleator Moor, Copeland",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 22,
       "estimatedTimeOfRestoration": "2025-11-30T15:51:00",
       "estimatedTimeOfRestorationMajority": "2025-11-30T15:51:00",
@@ -211,7 +211,7 @@
         "lng": -3.516622
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA22 2EL, CA22 2NP, CA22 2NR, CA23 3EY, CA22 2PL, CA23 3EX, CA22 2DH",
+      "AffectedPostcodes": " CA22 2EL, CA22 2NP, CA23 3EY, CA22 2PL, CA22 2NR, CA23 3EX, CA22 2DH",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -278,48 +278,6 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241156828",
-      "multipleFaultNumbers": null,
-      "date": "2025-11-30T13:38:07",
-      "region": "Higher Blackley, Manchester",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 40,
-      "estimatedTimeOfRestoration": "2025-11-30T19:38:00",
-      "estimatedTimeOfRestorationMajority": "2025-11-30T19:38:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.531218,
-        "lng": -2.216411
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M9 6RL, M9 6RQ, M9 6AD, M9 6AU, M9 6NN, M9 6NW, M9 6WN, M9 6RP, M9 6WA",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
       "faultNumber": "INC 1241156751",
       "multipleFaultNumbers": null,
       "date": "2025-11-30T09:05:51",
@@ -327,17 +285,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 9,
+      "consumersOff": 51,
       "estimatedTimeOfRestoration": "2025-11-30T17:00:00",
       "estimatedTimeOfRestorationMajority": "2025-11-30T17:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.532054,
-        "lng": -2.216810
+        "lat": 53.531218,
+        "lng": -2.216411
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M9 6WN",
+      "AffectedPostcodes": " M9 6WN, M9 6RL, M9 6RQ, M9 6AD, M9 6AU, M9 6NN, M9 6NW, M9 6RP, M9 6WA",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -350,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 7,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
