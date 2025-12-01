@@ -53,7 +53,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -68,26 +68,110 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241156974",
+      "faultNumber": "INC 1241157085",
       "multipleFaultNumbers": null,
-      "date": "2025-12-01T04:52:13",
-      "region": "Roughlee Booth, Pendle",
+      "date": "2025-12-01T09:33:06",
+      "region": "Burgh By Sands, Carlisle",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 44,
-      "estimatedTimeOfRestoration": "2025-12-01T09:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-01T09:00:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 54,
+      "estimatedTimeOfRestoration": "2025-12-01T12:33:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-01T12:33:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.846485,
-        "lng": -2.266430
+        "lat": 54.910439,
+        "lng": -3.073502
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB12 9JU, BB12 9JR, BB10 3PJ, BB9 6LG, BB12 9JS, BB12 9JX, BB12 9JP, BB12 9LL, BB9 6LF, BB12 9LB, BB12 9PX, BB12 9LA, BB12 9LD, BB12 9JZ, BB12 9LE, BB12 9JN, BB9 6LQ, BB9 6LH, BB12 9NB, BB12 9JY, BB9 6LJ, BB9 6LE, BB12 9, BB12 9JT, BB12 9LW, BB12 9JL, BB12 9JE, BB9 6PA, BB12 9LS",
-      "UnderReviewStatusTimeCheck": true,
+      "AffectedPostcodes": " CA5 6AF, CA5 6AA, CA5 6BJ, CA5 6AE, CA5 6AP, CA5 6JB, CA5 6AD, CA5 6AB, CA5 6AN, CA3 8TE",
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241157087",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-01T09:34:10",
+      "region": "Farington, South Ribble",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 33,
+      "estimatedTimeOfRestoration": "2025-12-01T15:34:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-01T15:34:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.722269,
+        "lng": -2.693993
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR5 5LX, PR5 5LQ, PR5 5JG, PR5 5JZ, PR5 5LY, PR5 5NP",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241157048",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-01T09:02:37",
+      "region": "Leigh South, Wigan",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 175,
+      "estimatedTimeOfRestoration": "2025-12-01T15:02:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-01T15:02:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.492772,
+        "lng": -2.522965
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " WN7 4HW, WN7 4JB, WN7 4JR, WN7 4JE, WN7 4JG, WN7 4JQ, WN7 4JH, WN7 4JJ, WN7 4HY, WN7 4HA",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -159,17 +243,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 72,
+      "consumersOff": 32,
       "estimatedTimeOfRestoration": "2025-12-01T14:00:00",
       "estimatedTimeOfRestorationMajority": "2025-12-01T14:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.720977,
-        "lng": -2.696056
+        "lat": 53.722269,
+        "lng": -2.693993
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR26 6PN, PR5 5JY, PR5 5LQ, PR5 5LY, PR5 5NP, PR5 5JG, PR5 5LX, PR5 5JZ",
+      "AffectedPostcodes": " PR5 5LX, PR5 5LQ, PR5 5JG, PR5 5JZ, PR5 5NP, PR5 5LY",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -182,7 +266,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 3,
+  "TotalResults": 5,
   "ShowPolygons": false,
   "Regions": [
     {
