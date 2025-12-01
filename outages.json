@@ -110,24 +110,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241157035",
+      "faultNumber": "INC 1241157048",
       "multipleFaultNumbers": null,
-      "date": "2025-12-01T08:49:54",
-      "region": "Reddish South, Stockport",
+      "date": "2025-12-01T09:02:37",
+      "region": "Leigh South, Wigan",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 8,
-      "estimatedTimeOfRestoration": "2025-12-01T14:49:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-01T14:49:00",
+      "consumersOff": 66,
+      "estimatedTimeOfRestoration": "2025-12-01T21:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-01T21:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.421486,
-        "lng": -2.160162
+        "lat": 53.492764,
+        "lng": -2.523142
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK5 7PJ, SK5 7PL, SK5 7PG",
+      "AffectedPostcodes": " WN7 4JB, WN7 4HW, WN7 4JQ, WN7 4JE, WN7 4HA, WN7 4JG, WN7 4JH, WN7 4JJ, WN7 4HY",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -152,24 +152,66 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241157048",
+      "faultNumber": "INC 1241157264",
       "multipleFaultNumbers": null,
-      "date": "2025-12-01T09:02:37",
-      "region": "Leigh South, Wigan",
+      "date": "2025-12-01T13:18:31",
+      "region": "Keswick, Allerdale",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 66,
-      "estimatedTimeOfRestoration": "2025-12-01T21:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-01T21:00:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 22,
+      "estimatedTimeOfRestoration": "2025-12-01T19:18:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-01T19:18:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.492764,
-        "lng": -2.523142
+        "lat": 54.598972,
+        "lng": -3.131476
       },
       "outageLocations": null,
-      "AffectedPostcodes": " WN7 4JB, WN7 4HW, WN7 4JQ, WN7 4JE, WN7 4HA, WN7 4JG, WN7 4JH, WN7 4JJ, WN7 4HY",
+      "AffectedPostcodes": " CA12 4DG, CA12 4DH",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241157035",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-01T08:49:54",
+      "region": "Reddish South, Stockport",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 8,
+      "estimatedTimeOfRestoration": "2025-12-01T14:49:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-01T14:49:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.421486,
+        "lng": -2.160162
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK5 7PJ, SK5 7PL, SK5 7PG",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -182,7 +224,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 3,
+  "TotalResults": 4,
   "ShowPolygons": false,
   "Regions": [
     {
