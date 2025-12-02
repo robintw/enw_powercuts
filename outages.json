@@ -200,7 +200,7 @@
       "region": "Highfield, Blackpool",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 88,
       "estimatedTimeOfRestoration": "2025-12-02T16:55:00",
       "estimatedTimeOfRestorationMajority": "2025-12-02T16:55:00",
@@ -243,17 +243,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 9,
+      "consumersOff": 25,
       "estimatedTimeOfRestoration": "2025-12-02T12:02:00",
       "estimatedTimeOfRestorationMajority": "2025-12-02T12:02:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.493391,
-        "lng": -2.282420
+        "lat": 53.493813,
+        "lng": -2.281723
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M6 6QJ, M6 6LS",
+      "AffectedPostcodes": " M6 6QJ, M6 6LS, M6 6GG, M6 6FL",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -446,6 +446,48 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 1241157714",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-02T11:19:20",
+      "region": "Walkden North, Salford",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 55,
+      "estimatedTimeOfRestoration": "2025-12-02T17:19:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-02T17:19:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.533191,
+        "lng": -2.408909
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M38 9QA, M38 9GA, M38 9NN",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 1241157635",
       "multipleFaultNumbers": null,
       "date": "2025-12-02T09:53:11",
@@ -518,7 +560,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 11,
+  "TotalResults": 12,
   "ShowPolygons": false,
   "Regions": [
     {
