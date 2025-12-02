@@ -95,7 +95,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -128,7 +128,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " OL3 7NW",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
@@ -202,8 +202,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 22,
-      "estimatedTimeOfRestoration": "2025-12-02T20:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-02T20:00:00",
+      "estimatedTimeOfRestoration": "2025-12-02T22:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-02T22:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -278,66 +278,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241157957",
+      "faultNumber": "INC 1241157922",
       "multipleFaultNumbers": null,
-      "date": "2025-12-02T17:01:10",
-      "region": "Leigh South, Wigan",
-      "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 67,
-      "estimatedTimeOfRestoration": "2025-12-02T23:01:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-02T23:01:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.492493,
-        "lng": -2.525693
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " WN7 4JN, WN7 4JU, WN7 4HY, WN7 4JX, WN7 4JA, WN7 4HZ, WN7 4HX",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241157963",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-02T17:27:04",
-      "region": "Milnrow & Newhey, Rochdale",
+      "date": "2025-12-02T15:29:22",
+      "region": "Wennington, Lancaster",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 83,
-      "estimatedTimeOfRestoration": "2025-12-02T23:27:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-02T23:27:00",
+      "consumersOff": 7,
+      "estimatedTimeOfRestoration": "2025-12-02T21:29:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-02T21:29:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.614531,
-        "lng": -2.112957
+        "lat": 54.130741,
+        "lng": -2.583539
       },
       "outageLocations": null,
-      "AffectedPostcodes": " OL16 3UX, OL16 3UE, OL16 3UH, OL16 3UQ, OL16 3UG, OL16 3UT, OL16 3UA",
+      "AffectedPostcodes": " LA2 8NX",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -392,7 +350,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 8,
+  "TotalResults": 7,
   "ShowPolygons": false,
   "Regions": [
     {
