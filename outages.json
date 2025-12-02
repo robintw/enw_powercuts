@@ -278,24 +278,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241157714",
+      "faultNumber": "INC 1241157635",
       "multipleFaultNumbers": null,
-      "date": "2025-12-02T11:19:20",
-      "region": "Walkden North, Salford",
+      "date": "2025-12-02T09:53:11",
+      "region": "Millom, Copeland",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 55,
-      "estimatedTimeOfRestoration": "2025-12-02T17:19:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-02T17:19:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 46,
+      "estimatedTimeOfRestoration": "2025-12-02T15:53:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-02T15:53:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.533191,
-        "lng": -2.408909
+        "lat": 54.205927,
+        "lng": -3.271941
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M38 9QA, M38 9GA, M38 9NN",
+      "AffectedPostcodes": " LA18 4PD, LA18 4PE, LA18 4PB, LA18 4PQ, LA18 4PF, LA18 4PH",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -320,110 +320,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241157755",
+      "faultNumber": "INC 1241157770",
       "multipleFaultNumbers": null,
-      "date": "2025-12-02T11:50:12",
-      "region": "Longdendale, Tameside",
+      "date": "2025-12-02T12:05:05",
+      "region": "Chapel-En-Le-Frith, High Peak",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 381,
-      "estimatedTimeOfRestoration": "2025-12-02T14:50:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-02T14:50:00",
+      "consumersOff": 17,
+      "estimatedTimeOfRestoration": "2025-12-02T15:05:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-02T15:05:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.443028,
-        "lng": -2.031381
+        "lat": 53.312663,
+        "lng": -1.922160
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK14 3PP, SK14 3QA, SK14 3PW, SK14 3QE, SK14 3PT, SK14 3QB, SK14 3GX, SK14 3PF, SK14 3PS, SK14 3PX, SK14 3AT, SK14 6SL, SK14 3PZ, SK14 3PR, SK14 5NJ, SK14 3QD, SK14 3PY, SK14 3PU, SK14 3AF, SK14 3AN, SK14 3AW, SK14 3JR",
+      "AffectedPostcodes": " SK23 9UB, SK23 9UJ, SK23 9UD, SK23 9RE, SK23 9UW",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241157635",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-02T09:53:11",
-      "region": "Millom, Copeland",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 68,
-      "estimatedTimeOfRestoration": "2025-12-02T15:53:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-02T15:53:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.205927,
-        "lng": -3.271941
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " LA18 4PD, LA18 4PE, LA18 4PB, LA18 4PQ, LA18 4PF, LA18 4PH",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241157768",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-02T12:00:07",
-      "region": "Walkden North, Salford",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 16,
-      "estimatedTimeOfRestoration": "2025-12-02T18:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-02T18:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.533377,
-        "lng": -2.409107
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M38 9QA, M38 9NN",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -476,7 +392,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 10,
+  "TotalResults": 8,
   "ShowPolygons": false,
   "Regions": [
     {
