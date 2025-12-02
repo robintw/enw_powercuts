@@ -152,6 +152,48 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 1241157615",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-02T09:28:55",
+      "region": "Astley Bridge, Bolton",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 4,
+      "estimatedTimeOfRestoration": "2025-12-02T15:28:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-02T15:28:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.605126,
+        "lng": -2.433935
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BL1 7JD",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 1241157503",
       "multipleFaultNumbers": null,
       "date": "2025-12-02T06:02:13",
@@ -201,9 +243,9 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 34,
-      "estimatedTimeOfRestoration": "2025-12-02T13:05:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-02T13:05:00",
+      "consumersOff": 30,
+      "estimatedTimeOfRestoration": "2025-12-02T14:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-02T14:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -241,8 +283,8 @@
       "date": "2025-12-02T09:01:52",
       "region": "Halsall, West Lancashire",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 5,
       "estimatedTimeOfRestoration": "2025-12-02T15:00:00",
       "estimatedTimeOfRestorationMajority": "2025-12-02T15:00:00",
@@ -285,7 +327,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 119,
+      "consumersOff": 35,
       "estimatedTimeOfRestoration": "2025-12-02T14:31:00",
       "estimatedTimeOfRestorationMajority": "2025-12-02T14:31:00",
       "information": "",
@@ -411,17 +453,17 @@
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
       "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 141,
+      "consumersOff": 213,
       "estimatedTimeOfRestoration": "2025-12-02T15:03:00",
       "estimatedTimeOfRestorationMajority": "2025-12-02T15:03:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.783005,
-        "lng": -3.026632
+        "lat": 53.782867,
+        "lng": -3.026621
       },
       "outageLocations": null,
-      "AffectedPostcodes": " FY4 3QW, FY4 3RG, FY4 3RE, FY4 3PL, FY4 3SB, FY4 3PH, FY4 3PJ, FY4 3QL, FY4 3QJ, FY4 3RQ, FY4 3RW, FY4 5FG, FY4 5DF, FY4 5AY, FY4 3RH",
+      "AffectedPostcodes": " FY4 3QW, FY4 3RG, FY4 3RE, FY4 3PL, FY4 3SB, FY4 3PH, FY4 3PJ, FY4 3QL, FY4 3QJ, FY4 3RQ, FY4 3RW, FY4 5FG, FY4 5DF, FY4 5AY, FY4 3RH, FY4 3RF, FY4 3RJ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -453,7 +495,7 @@
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
       "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 21,
+      "consumersOff": 30,
       "estimatedTimeOfRestoration": "2025-12-02T15:03:00",
       "estimatedTimeOfRestorationMajority": "2025-12-02T15:03:00",
       "information": "",
@@ -495,7 +537,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 18,
+      "consumersOff": 17,
       "estimatedTimeOfRestoration": "2025-12-02T16:30:00",
       "estimatedTimeOfRestorationMajority": "2025-12-02T16:30:00",
       "information": "",
@@ -518,7 +560,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 11,
+  "TotalResults": 12,
   "ShowPolygons": false,
   "Regions": [
     {
