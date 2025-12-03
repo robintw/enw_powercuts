@@ -68,24 +68,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241158326",
+      "faultNumber": "INC 1241158285",
       "multipleFaultNumbers": null,
-      "date": "2025-12-03T11:00:10",
-      "region": "Greyfriars, Preston",
+      "date": "2025-12-03T10:21:43",
+      "region": "Underskiddaw, Allerdale",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 374,
-      "estimatedTimeOfRestoration": "2025-12-03T14:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-03T14:00:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 158,
+      "estimatedTimeOfRestoration": "2025-12-03T13:21:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-03T13:21:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.783298,
-        "lng": -2.716302
+        "lat": 54.625892,
+        "lng": -3.114470
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR2 3RB, PR2 3LB, PR2 3QU, PR2 3QX, PR2 3PA, PR2 3JD, PR2 3HP, PR2 3JY, PR2 3QY, PR2 3QF, PR2 3JX, PR2 3HX, PR2 3RA, PR2 3QA, PR2 3QW, PR2 3HQ, PR2 3JB, PR2 3HY, PR2 3JZ, PR2 3HN, PR2 3LA, PR2 6SP",
+      "AffectedPostcodes": " CA12 4RT, CA12 4PS, CA12 4PY, CA12 4PL, CA12 4PQ, CA11 9BL, CA12 4PN, CA12 4QA, CA12 4PH, CA12 4PG, CA12 4PZ, CA12 4BF, CA12 4PT, CA12 4PP, CA12 4PW",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -131,48 +131,6 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241158127",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-03T08:39:56",
-      "region": "Urswick, South Lakeland",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 9,
-      "estimatedTimeOfRestoration": "2025-12-03T14:39:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-03T14:39:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.185471,
-        "lng": -3.068446
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " LA12 9QX, LA12 9QT, LA12 9QU",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -182,7 +140,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 3,
+  "TotalResults": 2,
   "ShowPolygons": false,
   "Regions": [
     {
