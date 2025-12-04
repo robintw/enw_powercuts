@@ -74,7 +74,7 @@
       "region": "Leigh South, Wigan",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 32,
       "estimatedTimeOfRestoration": "2025-12-05T00:00:01",
       "estimatedTimeOfRestorationMajority": "2025-12-05T00:00:01",
@@ -116,7 +116,7 @@
       "region": "Priory, Trafford",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 23,
       "estimatedTimeOfRestoration": "2025-12-04T14:00:00",
       "estimatedTimeOfRestorationMajority": "2025-12-04T14:00:00",
@@ -158,7 +158,7 @@
       "region": "Marple South And High Lane, Stockport",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": null,
       "consumersOff": 5,
       "estimatedTimeOfRestoration": "2025-12-04T19:37:00",
       "estimatedTimeOfRestorationMajority": "2025-12-04T19:37:00",
@@ -194,55 +194,13 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241159043",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-04T13:06:06",
-      "region": "Shear Brow & Corporation Park, Blackburn With Darwen",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 17,
-      "estimatedTimeOfRestoration": "2025-12-04T19:06:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-04T19:06:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.753217,
-        "lng": -2.490811
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " BB1 8AP, BB1 8AT, BB2 6AH",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
       "faultNumber": "INC 1241158807",
       "multipleFaultNumbers": null,
       "date": "2025-12-04T09:26:16",
       "region": "Littleborough Lakeside, Rochdale",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 13,
       "estimatedTimeOfRestoration": "2025-12-04T15:26:00",
       "estimatedTimeOfRestorationMajority": "2025-12-04T15:26:00",
@@ -256,48 +214,6 @@
       "AffectedPostcodes": " OL15 0LL, OL15 0LQ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241159051",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-04T13:13:31",
-      "region": "Greyfriars, Preston",
-      "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 327,
-      "estimatedTimeOfRestoration": "2025-12-04T16:13:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-04T16:13:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.795071,
-        "lng": -2.723224
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " PR2 3LR, PR2 3RE, PR2 3UU, PR2 3UX, PR2 3SX, PR2 3SU, PR2 3UT, PR2 3NP, PR2 3US, PR2 3WB, PR2 3WD, PR2 3NQ, PR2 3WH, PR2 3WE, PR2 3NE, PR2 3WJ",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -326,7 +242,7 @@
       "region": "Mellor, Ribble Valley",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 30,
       "estimatedTimeOfRestoration": "2025-12-04T17:29:00",
       "estimatedTimeOfRestorationMajority": "2025-12-04T17:29:00",
@@ -341,48 +257,6 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241159015",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-04T12:43:24",
-      "region": "Shear Brow & Corporation Park, Blackburn With Darwen",
-      "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 31,
-      "estimatedTimeOfRestoration": "2025-12-04T18:43:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-04T18:43:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.751733,
-        "lng": -2.488074
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " BB1 8AF, BB2 6AA, BB1 8DD, BB2 6AH, BB2 1AW, BB2 6AE, BB2 1DB",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -392,7 +266,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 8,
+  "TotalResults": 5,
   "ShowPolygons": false,
   "Regions": [
     {
