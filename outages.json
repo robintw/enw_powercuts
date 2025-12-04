@@ -74,7 +74,7 @@
       "region": "Leigh South, Wigan",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 32,
       "estimatedTimeOfRestoration": "2025-12-05T00:00:01",
       "estimatedTimeOfRestorationMajority": "2025-12-05T00:00:01",
@@ -95,7 +95,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -116,10 +116,10 @@
       "region": "Priory, Trafford",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 23,
-      "estimatedTimeOfRestoration": "2025-12-04T14:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-04T14:00:00",
+      "estimatedTimeOfRestoration": "2025-12-04T20:30:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-04T20:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -128,7 +128,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " M33 7TS, M33 7TU",
-      "UnderReviewStatusTimeCheck": true,
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -158,7 +158,7 @@
       "region": "Marple South And High Lane, Stockport",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 5,
       "estimatedTimeOfRestoration": "2025-12-04T19:37:00",
       "estimatedTimeOfRestorationMajority": "2025-12-04T19:37:00",
@@ -194,13 +194,55 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 1241159131",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-04T14:38:11",
+      "region": "Longford, Trafford",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 52,
+      "estimatedTimeOfRestoration": "2025-12-04T20:38:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-04T20:38:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.459729,
+        "lng": -2.274699
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M16 0UB, M16 0LD",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 1241158807",
       "multipleFaultNumbers": null,
       "date": "2025-12-04T09:26:16",
       "region": "Littleborough Lakeside, Rochdale",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 13,
       "estimatedTimeOfRestoration": "2025-12-04T15:26:00",
       "estimatedTimeOfRestorationMajority": "2025-12-04T15:26:00",
@@ -242,7 +284,7 @@
       "region": "Mellor, Ribble Valley",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 30,
       "estimatedTimeOfRestoration": "2025-12-04T17:29:00",
       "estimatedTimeOfRestorationMajority": "2025-12-04T17:29:00",
@@ -266,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
