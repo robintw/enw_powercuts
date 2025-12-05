@@ -222,48 +222,6 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241160299",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-05T16:47:13",
-      "region": "Siddington, Cheshire East",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 37,
-      "estimatedTimeOfRestoration": "2025-12-05T22:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-05T22:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.230501,
-        "lng": -2.264090
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " SK11 9LY, SK11 9DJ, SK11 9LU, SK11 9EL, SK11 9FY, SK11 9LW, SK11 9DZ, SK11 9DE, SK11 9EE, SK11 9EA, SK11 9DF, SK11 9LL, SK11 9LD, SK11 9LR, SK11 9LS, SK11 9DD, SK11 9DU, SK11 9DH, SK11 9ED, SK11 9DX, SK11 9DY, SK11 9LH, SK11 9LP, SK11 9AA, SK11 9NB, SK11 9GJ, SK11 9FS, SK11 9LF, SK11 9DA, SK11 9AB, SK11 9DB, CW4 8BU, SK11 9DT, SK11 9LT, SK11 9LZ, SK11 9NA, SK11 9EG, SK11 9EQ, SK11 9EF",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -409,7 +367,7 @@
       "date": "2025-12-05T20:27:40",
       "region": "New Mills, High Peak",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
       "previousFaultStatus": "Preparing to send team",
       "consumersOff": 51,
       "estimatedTimeOfRestoration": "2025-12-05T23:27:00",
@@ -424,6 +382,48 @@
       "AffectedPostcodes": " SK22 3HQ, SK22 3HW, SK22 3EY, SK22 3HF, SK22 3HJ, SK22 3HU, SK22 3JA, SK23 7QA, SK22 3EX, SK22 3HS, SK22 3JN, SK22 3HP, SK23 7SW, SK22 3JP, SK22 3EH, SK22 3JL, SK22 3HN, SK22 3EG, SK23 7QB, SK22 3JJ, SK22 3HZ, SK22 3JQ, SK23 7QD, SK22 3AB, SK22 3HH, SK22 3HE, SK22 3JB, SK23 7PZ, SK22 4PS, SK23 7UA, SK22 3HL, SK23 7QE, SK22 3EZ, SK22 3LL, SK23 7SN",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": true,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241159396",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-05T10:08:04",
+      "region": "Priory, Trafford",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 74,
+      "estimatedTimeOfRestoration": null,
+      "estimatedTimeOfRestorationMajority": null,
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.419941,
+        "lng": -2.325138
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M33 7TL, M33 7TT, M33 7SZ, M33 7TS, M33 7TU, M33 7SH, M33 7SL",
+      "UnderReviewStatusTimeCheck": true,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     }
   ],
