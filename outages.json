@@ -179,7 +179,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -212,7 +212,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " CA8 9HT, CA8 9HW, CA8 9HP, CA8 9HR, CA8 9HL, CA4 8QB, CA8 9HX, CA8 9HH, CA8 9HS, CA8 9JA, CA8 9HN, CA8 9HJ, CA7 2PG, CA8 9JN, CA8 9JE, CA4 8QD",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
@@ -368,7 +368,7 @@
       "region": "New Mills, High Peak",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Preparing to send team",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 51,
       "estimatedTimeOfRestoration": "2025-12-05T23:27:00",
       "estimatedTimeOfRestorationMajority": "2025-12-05T23:27:00",
