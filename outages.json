@@ -131,48 +131,6 @@
       "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241159284",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-05T05:58:51",
-      "region": "Abram, Wigan",
-      "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 65,
-      "estimatedTimeOfRestoration": "2025-12-05T08:58:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-05T08:58:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.514642,
-        "lng": -2.596611
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " WN2 5QF, WN2 5PG, WN2 5QG, WN2 5QH",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "O/HM",
-      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -182,7 +140,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 3,
+  "TotalResults": 2,
   "ShowPolygons": false,
   "Regions": [
     {
