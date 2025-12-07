@@ -179,7 +179,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -194,25 +194,25 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241160772",
+      "faultNumber": "INC 1241161081",
       "multipleFaultNumbers": null,
-      "date": "2025-12-07T02:55:59",
-      "region": "Wilmslow, Cheshire East",
+      "date": "2025-12-07T21:47:37",
+      "region": "Pemberton, Wigan",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 12,
-      "estimatedTimeOfRestoration": "2025-12-07T20:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-07T20:00:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 42,
+      "estimatedTimeOfRestoration": "2025-12-08T03:47:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-08T03:47:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.317068,
-        "lng": -2.245252
+        "lat": 53.548721,
+        "lng": -2.673688
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK9 6LG, SK9 6JD",
-      "UnderReviewStatusTimeCheck": true,
+      "AffectedPostcodes": " WN5 0EZ, WN5 0QZ, WN5 0EF, WN5 0RA, WN5 0EE, WN5 0EG, WN5 0QY",
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     }
