@@ -76,8 +76,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 8,
-      "estimatedTimeOfRestoration": "2025-12-08T17:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-08T17:00:00",
+      "estimatedTimeOfRestoration": "2025-12-08T20:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-08T20:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -157,7 +157,7 @@
       "date": "2025-12-07T16:53:07",
       "region": "Royton North, Oldham",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
+      "faultStatus": "We're on site",
       "previousFaultStatus": "Team on their way",
       "consumersOff": 11,
       "estimatedTimeOfRestoration": "2025-12-07T22:52:00",
@@ -199,7 +199,7 @@
       "date": "2025-12-07T17:09:15",
       "region": "Nateby, Wyre",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
+      "faultStatus": "We're on site",
       "previousFaultStatus": "Team on their way",
       "consumersOff": 15,
       "estimatedTimeOfRestoration": "2025-12-07T20:09:00",
@@ -278,24 +278,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241161021",
+      "faultNumber": "INC 1241160772",
       "multipleFaultNumbers": null,
-      "date": "2025-12-07T17:38:57",
+      "date": "2025-12-07T02:55:59",
       "region": "Wilmslow, Cheshire East",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 53,
-      "estimatedTimeOfRestoration": "2025-12-07T23:38:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-07T23:38:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 12,
+      "estimatedTimeOfRestoration": "2025-12-07T21:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-07T21:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.318557,
-        "lng": -2.244550
+        "lat": 53.317068,
+        "lng": -2.245252
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK9 6NE, SK9 6LA, SK9 6LQ, SK9 6LE, SK9 6LD, SK9 6LF, SK9 6LG",
+      "AffectedPostcodes": " SK9 6LG, SK9 6JD",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -306,7 +306,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -320,26 +320,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241161024",
+      "faultNumber": "INC 1241161026",
       "multipleFaultNumbers": null,
-      "date": "2025-12-07T17:42:26",
-      "region": "Wilmslow, Cheshire East",
+      "date": "2025-12-07T17:58:33",
+      "region": "Cadishead & Lower Irlam, Salford",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 6,
-      "estimatedTimeOfRestoration": "2025-12-07T23:42:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-07T23:42:00",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 3,
+      "estimatedTimeOfRestoration": "2025-12-07T20:58:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-07T20:58:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.317068,
-        "lng": -2.245252
+        "lat": 53.405334,
+        "lng": -2.475886
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK9 6LG, SK9 6JD",
+      "AffectedPostcodes": " WA3 6EW",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     }
   ],
