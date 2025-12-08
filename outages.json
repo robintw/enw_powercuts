@@ -152,6 +152,48 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 1241161151",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-08T08:45:17",
+      "region": "Blackfriars & Trinity, Salford",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 24,
+      "estimatedTimeOfRestoration": "2025-12-09T12:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-09T12:00:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.487120,
+        "lng": -2.250012
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M3 7FT, M3 7NA, M3 1AG, M3 7AF, M3 7NW, M3 7HR, M3 7DW, M3 1NQ, M3 1AA, M3 7WN, M3 7DQ",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 1241161441",
       "multipleFaultNumbers": null,
       "date": "2025-12-08T14:34:13",
@@ -201,7 +243,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 52,
+      "consumersOff": 15,
       "estimatedTimeOfRestoration": "2025-12-08T23:56:00",
       "estimatedTimeOfRestorationMajority": "2025-12-08T23:56:00",
       "information": "",
@@ -257,6 +299,48 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241161548",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-08T19:03:36",
+      "region": "Chapel-En-Le-Frith, High Peak",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 5,
+      "estimatedTimeOfRestoration": "2025-12-09T01:03:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-09T01:03:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.316648,
+        "lng": -1.938276
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK23 9UH",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -266,7 +350,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 7,
   "ShowPolygons": false,
   "Regions": [
     {
