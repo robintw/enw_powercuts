@@ -95,48 +95,6 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241161072",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-07T20:47:31",
-      "region": "Horwich, Bolton",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 28,
-      "estimatedTimeOfRestoration": "2025-12-08T19:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-08T19:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.590695,
-        "lng": -2.530501
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " BL6 6NH, BL6 6NQ, BL6 6NA",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
       "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
@@ -325,8 +283,8 @@
       "date": "2025-12-08T19:03:36",
       "region": "Chapel-En-Le-Frith, High Peak",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 5,
       "estimatedTimeOfRestoration": "2025-12-09T01:03:00",
       "estimatedTimeOfRestorationMajority": "2025-12-09T01:03:00",
@@ -338,6 +296,48 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " SK23 9UH",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241161551",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-08T19:12:19",
+      "region": "St. Matthew's, Preston",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 1754,
+      "estimatedTimeOfRestoration": "2025-12-09T01:12:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-09T01:12:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.762331,
+        "lng": -2.690053
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR1 1DY, PR1 5PB, PR1 5NN, PR1 4XT, PR1 5UQ, PR1 4DX, PR1 3DH, PR1 4LQ, PR1 1UN, PR1 3XJ, PR1 5AQ, PR1 1DX, PR1 1AS, PR1 3BW, PR1 4HU, PR1 1AT, PR1 3BS, PR1 5PD, PR1 5PE, PR1 4HP, PR1 3BA, PR1 1UY, PR1 4JH, PR1 3BU, PR1 5AR, PR1 4JB, PR1 4JL, PR1 5NY, PR1 3DD, PR3 1DD, PR1 3BT, PR1 4XU, PR1 4DP, PR1 3BQ, PR1 5XL, PR1 1ET, PR1 3TP, PR1 3YH, PR1 3BX, PR1 4HH, PR1 3XE, PR1 3XX, PR1 1DA, PR1 1HR, PR1 5UY, PR1 1EN, PR1 3SD, PR1 3YR, PR1 1XA, PR1 3XD, PR1 4JJ, PR1 5XQ, PR1 4JE, PR1 5XR, PR1 4HZ, PR1 2QP, PR1 1DT, PR1 5NE, PR1 5SU, PR1 4XS, PR1 3DB, PR1 1UP, PR1 1EH, PR1 1EL, PR1 5PF, PR1 4HR, PR1 5YS, PR1 5UX, PR1 1UU, PR1 1DD, PR1 2SL, PR1 5BD, PR1 1RA, PR1 4HD, PR1 5LL, PR1 4DE, PR1 1YT, PR1 3XQ, PR1 1HT, PR1 5AF, PR1 3YB, PR1 5AB, PR1 5UP, PR1 5NU, PR1 5LG, PR1 3XP, PR1 3XY, PR1 1DJ, PR1 5HE, PR1 1EA, PR1 5UU, PR1 3BY, PR1 1UX, PR1 3HQ, PR1 1UL, PR1 5XJ, PR1 4DT, PR1 1UW, PR1 4OX, PR1 5BE, PR1 5AS, PR1 4BD, PR14HZ, PR1 5PN, PR1 3DA, PR1 4HL, PR1 5NX, PR1 3YD, PR1 3UE, PR1 3AG, PR1 2QD, PR1 4HS, PR1 1LX, PR1 1NS, PR1 1EB, PR1 5EZ, PR1 2RH, PR1 1HB, PR1 5US",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
