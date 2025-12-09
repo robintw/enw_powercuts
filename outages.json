@@ -138,6 +138,48 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241161847",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-09T11:02:38",
+      "region": "Cockerham, Lancaster",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 3,
+      "estimatedTimeOfRestoration": "2025-12-09T14:02:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-09T14:02:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.968376,
+        "lng": -2.840785
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA2 0DY",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -152,24 +194,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241161726",
+      "faultNumber": "INC 1241161851",
       "multipleFaultNumbers": null,
-      "date": "2025-12-09T09:27:33",
-      "region": "Swinton Park, Salford",
+      "date": "2025-12-09T11:04:45",
+      "region": "Burscough, West Lancashire",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 72,
-      "estimatedTimeOfRestoration": "2025-12-09T15:27:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-09T15:27:00",
+      "previousFaultStatus": null,
+      "consumersOff": 75,
+      "estimatedTimeOfRestoration": "2025-12-09T17:04:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-09T17:04:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.512026,
-        "lng": -2.330407
+        "lat": 53.594326,
+        "lng": -2.841034
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M27 4DS, M27 4DU, M27 4UN, M27 4UB, M27 4AT, M27 4AU, M27 4AJ",
+      "AffectedPostcodes": " L40 7RB, L40 7RJ, L40 7XB, L40 7RL",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -236,24 +278,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241161816",
+      "faultNumber": "INC 1241161854",
       "multipleFaultNumbers": null,
-      "date": "2025-12-09T10:38:40",
-      "region": "Hindley, Wigan",
+      "date": "2025-12-09T11:04:58",
+      "region": "Burscough, West Lancashire",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
       "previousFaultStatus": null,
-      "consumersOff": 48,
-      "estimatedTimeOfRestoration": "2025-12-09T16:38:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-09T16:38:00",
+      "consumersOff": 15,
+      "estimatedTimeOfRestoration": "2025-12-09T17:04:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-09T17:04:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.542072,
-        "lng": -2.560397
+        "lat": 53.595570,
+        "lng": -2.841557
       },
       "outageLocations": null,
-      "AffectedPostcodes": " WN2 4BX, WN2 4BU, BL5 2DD, BL5 2DF, BL5 2DE, BL5 2DJ, WN2 4BY",
+      "AffectedPostcodes": " L40 7RD, L40 7RH",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -325,8 +367,8 @@
       "date": "2025-12-09T10:39:46",
       "region": "Daneshouse With Stoneyholme, Burnley",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 46,
       "estimatedTimeOfRestoration": "2025-12-09T16:39:00",
       "estimatedTimeOfRestorationMajority": "2025-12-09T16:39:00",
@@ -409,19 +451,61 @@
       "date": "2025-12-09T10:23:31",
       "region": "Manor, Stockport",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 45,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 28,
       "estimatedTimeOfRestoration": "2025-12-09T16:23:00",
       "estimatedTimeOfRestorationMajority": "2025-12-09T16:23:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.398131,
-        "lng": -2.139027
+        "lat": 53.398505,
+        "lng": -2.138872
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK2 6DG, SK2 6DH, SK2 6DR, SK2 6DU, SK2 6DW",
+      "AffectedPostcodes": " SK2 6DH, SK2 6DW, SK2 6DR, SK2 6DU",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241161838",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-09T10:58:11",
+      "region": "Manor, Stockport",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 17,
+      "estimatedTimeOfRestoration": "2025-12-09T16:58:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-09T16:58:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.398129,
+        "lng": -2.139311
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK2 6DG, SK2 6DH, SK2 6DR, SK2 6DU",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -434,7 +518,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 9,
+  "TotalResults": 11,
   "ShowPolygons": false,
   "Regions": [
     {
