@@ -285,7 +285,7 @@
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 119,
+      "consumersOff": 45,
       "estimatedTimeOfRestoration": "2025-12-10T18:00:00",
       "estimatedTimeOfRestorationMajority": "2025-12-10T18:00:00",
       "information": "",
@@ -431,8 +431,8 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -446,26 +446,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241162092",
+      "faultNumber": "INC 1241162380",
       "multipleFaultNumbers": null,
-      "date": "2025-12-09T15:16:55",
-      "region": "Wigan Central, Wigan",
+      "date": "2025-12-09T17:24:22",
+      "region": "Sebergham, Allerdale",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 7,
-      "estimatedTimeOfRestoration": null,
-      "estimatedTimeOfRestorationMajority": null,
+      "consumersOff": 19,
+      "estimatedTimeOfRestoration": "2025-12-10T18:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-10T18:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.562438,
-        "lng": -2.630084
+        "lat": 54.740844,
+        "lng": -3.109677
       },
       "outageLocations": null,
-      "AffectedPostcodes": " WN1 2NT, WN1 2TB",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "U/GM",
+      "AffectedPostcodes": " CA7 8EW, CA7 8EA, CA7 8LA, CA5 7HL, CA7 8HD, CA7 8HQ, CA7 8EG, CA5 7HJ, CA7 1DS, CA7 8HG, CA7 8DP, CA4 8DF, CA7 8HL, CA7 8DS, CA7 1EJ, CA7 8EZ, CA7 8LD, CA7 8HE, CA7 8JH, CA7 8LB, CA7 8HB, CA7 8DY, CA7 1EN, CA7 8EY, CA7 8HJ, CA7 1EQ, CA7 8HF, CA7 1EL, CA7 1EP, CA7 8JZ, CA7 8DR, CA7 8ER, CA7 8HH, CA7 1DF, CA7 8EF, CA7 8ES, CA7 8JE, CA7 8EE, CA7 8EU, CA7 8EP, CA7 8DU, CA7 8EB, CA7 8DT, CA7 8EN, CA7 8EL, CA7 8GH, CA7 8DX, CA7 8DZ, CA20 1EJ, CA7 8HW, CA7 9ND, CA7 8HA, CA7 8HN, CA7 1EW, CA7 1ER, CA7 1DE, CA7 1DB, CA7 1HA, CA7 1EA, CA7 1DZ, CA7 1EH, CA7 1ES, CA7 1DY, CA7 8JG, CA7 8JJ, CA7 8HS, CA20 1HX, CA7 9BP, CA7 8JF, CA5 1DS, CA7 1DT, CA7 1DX, CA7 1DU, CA7 1EF, CA7 1EX, CA7 1EE, CA7 1EG, CA7 8EX, CA7 1DD",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -550,48 +550,6 @@
       "AffectedPostcodes": " PR2 3UY, PR2 7AA, PR2 7DQ, PR2 7DW, PR2 3TG, PR2 7AB",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241162380",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-09T17:24:22",
-      "region": "Sebergham, Allerdale",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 19,
-      "estimatedTimeOfRestoration": "2025-12-10T18:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-10T18:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.740844,
-        "lng": -3.109677
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " CA7 8EW, CA7 8EA, CA7 8LA, CA5 7HL, CA7 8HD, CA7 8HQ, CA7 8EG, CA5 7HJ, CA7 1DS, CA7 8HG, CA7 8DP, CA4 8DF, CA7 8HL, CA7 8DS, CA7 1EJ, CA7 8EZ, CA7 8LD, CA7 8HE, CA7 8JH, CA7 8LB, CA7 8HB, CA7 8DY, CA7 1EN, CA7 8EY, CA7 8HJ, CA7 1EQ, CA7 8HF, CA7 1EL, CA7 1EP, CA7 8JZ, CA7 8DR, CA7 8ER, CA7 8HH, CA7 1DF, CA7 8EF, CA7 8ES, CA7 8JE, CA7 8EE, CA7 8EU, CA7 8EP, CA7 8DU, CA7 8EB, CA7 8DT, CA7 8EN, CA7 8EL, CA7 8GH, CA7 8DX, CA7 8DZ, CA20 1EJ, CA7 8HW, CA7 9ND, CA7 8HA, CA7 8HN, CA7 1EW, CA7 1ER, CA7 1DE, CA7 1DB, CA7 1HA, CA7 1EA, CA7 1DZ, CA7 1EH, CA7 1ES, CA7 1DY, CA7 8JG, CA7 8JJ, CA7 8HS, CA20 1HX, CA7 9BP, CA7 8JF, CA5 1DS, CA7 1DT, CA7 1DX, CA7 1DU, CA7 1EF, CA7 1EX, CA7 1EE, CA7 1EG, CA7 8EX, CA7 1DD",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -1754,7 +1712,7 @@
       "region": "Aldingham, South Lakeland",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 39,
       "estimatedTimeOfRestoration": "2025-12-10T05:01:00",
       "estimatedTimeOfRestorationMajority": "2025-12-10T05:01:00",
@@ -1904,7 +1862,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 44,
+  "TotalResults": 43,
   "ShowPolygons": false,
   "Regions": [
     {
