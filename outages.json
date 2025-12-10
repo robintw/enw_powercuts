@@ -810,6 +810,48 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241162566",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-09T18:38:29",
+      "region": "Silloth-On-Solway, Allerdale",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 82,
+      "estimatedTimeOfRestoration": "2025-12-10T18:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-10T18:00:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.816427,
+        "lng": -3.388781
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " CA15 6QJ, CA7 4NQ, CA15 6RA, CA7 4LA, CA7 4NB, CA15 6QY, CA15 6QT, CA7 4JT, CA15 6QS, CA15 6QZ, CA7 4LW, CA7 3LD, CA7 4JZ, CA15 6QX, CA7 4LF, CA7 4NE, CA7 4QB, CA7 4LQ, CA7 4ND, CA7 4NF, CA7 4NG, CA15 6QL, CA7 4SR, CA7 4LL, CA15 6QH, CA15 6QF, CA7 3LE, CA7 4LN, CA7 4LG, CA7 4LT, CA5 4LA, CA15 6QU, CA7 4NH",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -886,48 +928,6 @@
       "AffectedPostcodes": " CA7 2EG",
       "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241162566",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-09T18:38:29",
-      "region": "Silloth-On-Solway, Allerdale",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 82,
-      "estimatedTimeOfRestoration": "2025-12-10T18:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-10T18:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.816427,
-        "lng": -3.388781
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " CA15 6QJ, CA7 4NQ, CA15 6RA, CA7 4LA, CA7 4NB, CA15 6QY, CA15 6QT, CA7 4JT, CA15 6QS, CA15 6QZ, CA7 4LW, CA7 3LD, CA7 4JZ, CA15 6QX, CA7 4LF, CA7 4NE, CA7 4QB, CA7 4LQ, CA7 4ND, CA7 4NF, CA7 4NG, CA15 6QL, CA7 4SR, CA7 4LL, CA15 6QH, CA15 6QF, CA7 3LE, CA7 4LN, CA7 4LG, CA7 4LT, CA5 4LA, CA15 6QU, CA7 4NH",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -1034,24 +1034,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241162757",
+      "faultNumber": "INC 1241162778",
       "multipleFaultNumbers": null,
-      "date": "2025-12-10T03:43:03",
-      "region": "Little Hulton, Salford",
+      "date": "2025-12-10T05:35:01",
+      "region": "Askerton, Carlisle",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 316,
-      "estimatedTimeOfRestoration": "2025-12-10T06:43:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-10T06:43:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 24,
+      "estimatedTimeOfRestoration": "2025-12-10T08:35:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-10T08:35:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.536180,
-        "lng": -2.421011
+        "lat": 55.013671,
+        "lng": -2.774222
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M38 9TQ, M38 9SX, M38 9PG, M38 9RH, M38 9HF, M38 9DZ, M38 9TS, M38 9RF, M38 9FH, M38 9TY, M38 9SZ, M38 9EB, M38 9UA, M38 9TA, M38 9EP, M38 9TD, M38 9ER, M38 9TT, M38 9TE, M38 9RQ, M38 9SJ, M38 9UW, M38 9RX, M38 9QH, M38 9SE, M38 9TN, M38 9BD, M38 9UJ, M38 9LA, M38 9EH, M38 9SF, M38 9TP, M38 9AQ, M38 9PQ, M38 9QF, M38 9QZ, M38 9SH, M38 9TJ, M38 9DX, M38 9UB, M38 9RJ, M38 9HE, M38 9SN, M38 9SY, M38 9TZ, M38 9EQ, M38 9PU, M38 9UD, M38 9ST, M38 9TX, M38 0UW, M38 9RY, M38 9GF, M38 9SD, M38 9SR, M38 9AT, M38 9UE, M38 9QY, M38 9HB, M38 9FE, M38 9UF, M38 9EE, M38 9TF, M38 9NJ, M38 9SL, M38 9AH, M38 9TW, M38 9RU, M38 9FJ, M38 9GY, M38 9TU, M38 9RE, M38 9TL, M38 9DY, M38 9TR, M38 9BN, M38 9UH, M38 9TH, M38 9FA, M38 9SG, M38 9RL, M38 9RN, M38 9RZ, M38 9AE, M38 9FD, M38 9QE, M38 9AG, M38 9SB, M38 9EJ, M38 9TG, M38 9EF, M38 9SP, M38 9UT, M38 9SA, M38 9AB, M38 9HA, M38 9GE, M38 9SQ, M38 9FG, M38 9XD, M38 9ES, M38 9GX, M28 9ST, M38 9AU, M38 9WU, M38 9UU, M38 9FL, M38 9SU, M38 9TB, M38 9HD, M38 0PU, OL3 7DD, M38 9WX, M38 9RG, M38 9RT",
+      "AffectedPostcodes": " CA8 2BG, CA6 6JW, CA8 2BQ, CA6 6JL, CA8 2BN, CA6 6JN, CA6 6HX, CA6 6HD, CA8 2DY, CA6 6JJ, CA8 2BL, CA6 6HF, CA8 2EA, CA6 6ES, CA6 6JH, CA6 6JG, CA6 6HY, CA6 6JP, CA8 2BW, CA8 2DZ, CA8 2BD, CA6 6HE",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
