@@ -199,8 +199,8 @@
       "date": "2025-12-10T20:50:41",
       "region": "Maryport, Allerdale",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 42,
       "estimatedTimeOfRestoration": "2025-12-11T02:45:00",
       "estimatedTimeOfRestorationMajority": "2025-12-11T02:45:00",
@@ -305,7 +305,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -338,7 +338,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " LA8 9EG, LA8 9EH, LA8 9EW, LA8 9EL, LA8 9EJ, LA8 9EF, LA8 9EQ, LA8 9EN",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
@@ -382,48 +382,6 @@
       "AffectedPostcodes": " SK13 8AT, SK13 8AY, SK13 8AW, SK13 8AZ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241163050",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-10T10:52:05",
-      "region": "Skelton, Eden",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 4,
-      "estimatedTimeOfRestoration": "2025-12-10T22:30:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-10T22:30:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.736728,
-        "lng": -3.074671
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " CA11 9UB, CA11 9QG, CA7 8HR, CA7 8JY, CA7 8JN, CA11 9TZ, CA11 9UA, CA7 8HY, CA7 8JP, CA11 9PT, CA11 9QE, CA4 0QH, CA7 8JG, CA7 8JW, CA11 9SU, CA7 8EW, CA7 8EA, CA7 8LA, CA5 7HL, CA7 8HD, CA7 8HQ, CA7 8EG, CA5 7HJ, CA7 1DS, CA7 8HG, CA7 8DP, CA4 8DF, CA7 8HL, CA7 8DS, CA7 1EJ, CA7 8EZ, CA7 8LD, CA7 8HE, CA7 8JH, CA7 8LB, CA7 8HB, CA7 8DY, CA7 1EN, CA7 8EY, CA7 8HJ, CA7 1EQ, CA7 8HF, CA7 1EL, CA7 1EP, CA7 8JZ, CA7 8DR, CA7 8ER, CA7 8HH, CA7 1DF, CA7 8EF, CA7 8ES, CA7 8JE, CA7 8EE, CA7 8EU, CA7 8EP, CA7 8DU, CA7 8EB, CA7 8DT, CA7 8EN, CA7 8EL, CA7 8GH, CA7 8DX, CA7 8DZ, CA20 1EJ, CA7 8HW, CA7 9ND, CA7 8HA, CA7 8HN, CA7 1EW, CA7 1ER, CA7 1DE, CA7 1DB, CA7 1HA, CA7 1EA, CA7 1DZ, CA7 1EH, CA7 1ES, CA7 1DY, CA7 8JJ, CA7 8HS, CA20 1HX, CA7 9BP, CA7 8JF, CA5 1DS, CA7 1DT, CA7 1DX, CA7 1DU, CA7 1EF, CA7 1EX, CA7 1EE, CA7 1EG, CA7 1DD, CA7 8ED, CA7 8EX, CA7 8JU, CA7 8HT, CA11 0XW, CA7 8HX, CA11 0XY, CA11 0XU, CA11 0XX, CA7 8JR, CA7 8HU",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -476,7 +434,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 10,
+  "TotalResults": 9,
   "ShowPolygons": false,
   "Regions": [
     {
