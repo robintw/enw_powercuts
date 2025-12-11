@@ -117,17 +117,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 140,
-      "estimatedTimeOfRestoration": "2025-12-11T21:22:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-11T21:22:00",
+      "consumersOff": 35,
+      "estimatedTimeOfRestoration": "2025-12-11T19:30:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-11T19:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.594692,
-        "lng": -2.446948
+        "lat": 53.594755,
+        "lng": -2.447066
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BL1 3JS, BL1 8DE, BL1 3JY, BL1 3JU, BL1 3HQ, BL1 8DB, BL1 8DH, BL1 3JX",
+      "AffectedPostcodes": " BL1 8DB, BL1 3JU, BL1 8DE, BL1 8DH, BL1 3JX, BL1 3HQ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -263,7 +263,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
       "UpdateInfo": null,
       "CTAs": [
@@ -286,8 +286,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 3,
-      "estimatedTimeOfRestoration": "2025-12-11T18:04:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-11T18:04:00",
+      "estimatedTimeOfRestoration": "2025-12-11T20:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-11T20:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -296,7 +296,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " BB4 8RG, BB4 8RB, BB4 8RQ",
-      "UnderReviewStatusTimeCheck": true,
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "O/HM",
       "addressMpanList": null
     }
