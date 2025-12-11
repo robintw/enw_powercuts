@@ -494,18 +494,18 @@
       "region": "Saddleworth, Oldham",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 152,
       "estimatedTimeOfRestoration": "2025-12-11T17:24:00",
       "estimatedTimeOfRestorationMajority": "2025-12-11T17:24:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.539761,
-        "lng": -2.004466
+        "lat": 53.539433,
+        "lng": -2.004514
       },
       "outageLocations": null,
-      "AffectedPostcodes": " OL3 7EP, OL3 7FQ, OL3 7JP, OL3 7JW, OL3 7EQ, OL3 7DB, OL3 7DF, OL3 7JR, OL3 7JJ, OL3 7EL, OL3 7HQ, OL3 7HG, OL3 7EW",
+      "AffectedPostcodes": " OL3 7EP, OL3 7FQ, OL3 7JP, OL3 7JW, OL3 7EQ, OL3 7GB, OL3 7DB, OL3 7DF, OL3 7JR, OL3 7JJ, OL3 7EL, OL3 7HQ, OL3 7HG, OL3 7EW",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -536,7 +536,7 @@
       "region": "Saddleworth, Oldham",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 174,
       "estimatedTimeOfRestoration": "2025-12-11T17:23:00",
       "estimatedTimeOfRestorationMajority": "2025-12-11T17:23:00",
@@ -620,7 +620,7 @@
       "region": "Saddleworth, Oldham",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 63,
       "estimatedTimeOfRestoration": "2025-12-11T17:24:00",
       "estimatedTimeOfRestorationMajority": "2025-12-11T17:24:00",
@@ -677,6 +677,48 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241163792",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-11T11:33:57",
+      "region": "Castle, Lancaster",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 20,
+      "estimatedTimeOfRestoration": "2025-12-11T17:33:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-11T17:33:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.048813,
+        "lng": -2.801576
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA1 1HZ, LA1 1HT, LA1 1HS, LA1 1LZ, LA1 1HX",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -686,7 +728,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 15,
+  "TotalResults": 16,
   "ShowPolygons": false,
   "Regions": [
     {
