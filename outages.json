@@ -138,6 +138,48 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241164500",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-12T08:11:14",
+      "region": "North Manor, Bury",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 42,
+      "estimatedTimeOfRestoration": "2025-12-12T14:11:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-12T14:11:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.627462,
+        "lng": -2.326821
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BL0 9UX, BL0 9UY, BL0 9UU",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -202,8 +244,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 96,
-      "estimatedTimeOfRestoration": "2025-12-12T10:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-12T10:00:00",
+      "estimatedTimeOfRestoration": "2025-12-12T13:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-12T13:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -213,6 +255,48 @@
       "outageLocations": null,
       "AffectedPostcodes": " CA14 1SW, CA14 1YY, CA14 1WY, CA14 4EZ, CA14 4UH, CA14 4UJ, CA14 1WX, CA14 4UP, CA14 1DQ, CA14 4UR, CA14 1WU, CA14 4UT, CA14 1XQ, CA14 1NG, CA14 1XP, CA14 4JB, CA14 1XN, CA14 4HZ, CA14 4UN, CA14 1DY, CA14 1SN, CA14 1XL, CA14 1BP, CA14 1XH, CA14 4UW, CA14 1WH, CA14 4UL, CA14 1SZ, CA14 1TS, CA14 3ND, CA14 1SL, CA14 4DW, CA14 1EL, CA14 1BG, CA14 1XJ, CA14 1SR, CA14 1ST, CA14 1WW, CA14 1SS, CA14 1SP, CA14 1SY, CA14 1WJ, CA14 4EU, CA14 4EB, CA14 1XW, CA14 4ET, CA14 4JA",
       "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": true,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241164428",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-12T02:41:50",
+      "region": "Dearham, Allerdale",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 25,
+      "estimatedTimeOfRestoration": null,
+      "estimatedTimeOfRestorationMajority": null,
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.705904,
+        "lng": -3.458522
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " CA15 7EF, CA15 7EE, CA15 7EG",
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
@@ -266,7 +350,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 7,
   "ShowPolygons": false,
   "Regions": [
     {
