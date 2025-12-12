@@ -179,7 +179,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
       "UpdateInfo": null,
       "CTAs": [
@@ -202,8 +202,8 @@
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
       "consumersOff": 14,
-      "estimatedTimeOfRestoration": "2025-12-12T17:15:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-12T17:15:00",
+      "estimatedTimeOfRestoration": "2025-12-12T20:15:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-12T20:15:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -212,7 +212,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " PR26 7SY, PR26 7TB",
-      "UnderReviewStatusTimeCheck": true,
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "O/HM",
       "addressMpanList": null
     }
