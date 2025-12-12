@@ -118,8 +118,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 85,
-      "estimatedTimeOfRestoration": "2025-12-12T12:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-12T12:00:00",
+      "estimatedTimeOfRestoration": "2025-12-12T15:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-12T15:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -128,6 +128,48 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " WN1 2XG, WN1 2XF, WN1 2XE, WN1 2XN, WN1 2XJ, WN1 2XA, WN1 2XD, WN1 2XH",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241164582",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-12T10:01:11",
+      "region": "Newburgh, West Lancashire",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 6,
+      "estimatedTimeOfRestoration": "2025-12-12T13:01:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-12T13:01:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.592724,
+        "lng": -2.783053
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " WN8 7XA, WN8 7XF",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -152,24 +194,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241164500",
+      "faultNumber": "INC 1241164585",
       "multipleFaultNumbers": null,
-      "date": "2025-12-12T08:11:14",
-      "region": "North Manor, Bury",
+      "date": "2025-12-12T10:01:40",
+      "region": "Coppull, Chorley",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 15,
-      "estimatedTimeOfRestoration": "2025-12-12T14:11:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-12T14:11:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 6,
+      "estimatedTimeOfRestoration": "2025-12-12T16:01:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-12T16:01:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.627847,
-        "lng": -2.326884
+        "lat": 53.616835,
+        "lng": -2.670839
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BL0 9UX, BL0 9UY",
+      "AffectedPostcodes": " PR7 5HT",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -266,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
