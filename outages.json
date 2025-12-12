@@ -215,48 +215,6 @@
       "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241164803",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-12T14:15:31",
-      "region": "Moss Side, South Ribble",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 14,
-      "estimatedTimeOfRestoration": "2025-12-12T20:15:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-12T20:15:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.696050,
-        "lng": -2.744704
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " PR26 7SY, PR26 7TB",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "O/HM",
-      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -266,7 +224,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 4,
   "ShowPolygons": false,
   "Regions": [
     {
