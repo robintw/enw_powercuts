@@ -74,7 +74,7 @@
       "region": "Crompton, Bolton",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 3,
       "estimatedTimeOfRestoration": "2025-12-13T16:00:00",
       "estimatedTimeOfRestorationMajority": "2025-12-13T16:00:00",
@@ -152,24 +152,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241164821",
+      "faultNumber": "INC 1241164940",
       "multipleFaultNumbers": null,
-      "date": "2025-12-12T14:28:44",
-      "region": "Cheadle Hulme North, Stockport",
+      "date": "2025-12-12T22:20:52",
+      "region": "Cabus, Wyre",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 11,
-      "estimatedTimeOfRestoration": "2025-12-13T01:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-13T01:00:00",
+      "consumersOff": 69,
+      "estimatedTimeOfRestoration": "2025-12-13T04:20:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-13T04:20:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.382328,
-        "lng": -2.183544
+        "lat": 53.910611,
+        "lng": -2.776102
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK8 5PQ, SK8 5PG, SK8 5NZ",
+      "AffectedPostcodes": " PR3 1LB, PR3 1JE, PR3 1TA, PR3 1RE, PR3 1JD, PR3 1JG, PR3 1LU",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -214,48 +214,6 @@
       "AffectedPostcodes": " SK1 4JX, SK1 4JU, SK1 4QA, SK2 5SU, SK2 5SX",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241164664",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-12T11:28:28",
-      "region": "Culcheth And Glazebury, Warrington",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 21,
-      "estimatedTimeOfRestoration": "2025-12-13T02:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-13T02:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.459106,
-        "lng": -2.502413
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " WA3 4PT, WA3 4LA, WA3 4PX, WA3 4PU, WA3 4JZ, WA3 4JY, WA3 4LE, WA3 4ES, WA3 4AN, WA3 4PS, WA3 5SP, WA3 5SN, WA3 5HH, WA3 4JQ, WA3 4LB, WA3 4JP, WA3 4JX, WA3 5SW, WA3 4JF, WA3 4LD, WA3 4JE, WA3 4JW, WA3 5SH, WA3 5SJ, WA3 5DF, WA3 5AF, WA3 5AE, WA3 5JJ, WA3 5JB, WA3 5HU, WA3 5JA, WA3 5JT, WA3 5QT, WA3 5JD, WA3 5JN, WA3 5JL, WA3 5HX, WA3 5SL, WA3 5AG, WA3 5JH, WA3 5HZ, WA3 4EG, WA3 4JG, WA3 5HY, WA3 5PE, WA3 5HP, WA3 5QS, WA3 5HT, WA3 5LF, WA3 5AQ, WA3 5LT, WA3 5HA, WA3 5HS, WA3 5LA, WA3 5LB, WA3 5JW, WA3 5PX, WA3 5LS, WA3 5QA, WA3 5JR, WA3 5JS, WA3 5JE, WA3 5PH, WA3 5PG, WA3 5PD, WA3 5PJ, WA3 5LN, WA3 5PL, WA3 5LW, WA3 5LE, WA3 5NA, WA3 5LL, WA3 5LD, WA3 5NB, WA3 5NG, WA3 5NQ, WA3 5LQ, WA3 5NT, WA3 5NH, WA3 5NE, WA3 5LG, WA3 5NF, WA3 5QF, WA3 5HR, WA3 5DL, WA3 5NS, WA3 5PY, WA3 5LY, WA3 5NJ, WA3 5ND, WA3 5LJ, WA3 5LZ, WA3 5JQ, WA3 5PW, WA3 5PS, WA3 5NX, WA3 5PA, WA3 5PT, WA3 5PN, WA3 5PP, WA3 5NY, WA3 5NL, WA3 5NW, WA3 5LH, WA3 5LR, WA3 5NZ, WA3 5NU, WA3 5LX, WA3 5NN, WA3 5NP, WA3 5NR, WA3 5PB",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -325,7 +283,7 @@
       "date": "2025-12-13T00:01:56",
       "region": "Longdendale, Tameside",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
       "previousFaultStatus": "Preparing to send team",
       "consumersOff": 39,
       "estimatedTimeOfRestoration": "2025-12-13T06:01:00",
@@ -350,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 7,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
