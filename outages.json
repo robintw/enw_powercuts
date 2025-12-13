@@ -221,7 +221,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -236,25 +236,25 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241164964",
+      "faultNumber": "INC 1241164979",
       "multipleFaultNumbers": null,
-      "date": "2025-12-13T01:08:54",
-      "region": "Longdendale, Tameside",
+      "date": "2025-12-13T03:25:35",
+      "region": "Dukinfield, Tameside",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 86,
-      "estimatedTimeOfRestoration": "2025-12-13T02:55:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-13T02:55:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 47,
+      "estimatedTimeOfRestoration": "2025-12-13T09:25:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-13T09:25:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.443036,
-        "lng": -2.015259
+        "lat": 53.481290,
+        "lng": -2.094736
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK14 6AX, SK14 6AU, SK14 6BA, SK14 6AZ, SK14 6AY, SK14 6EH, SK14 6AY, SK14 6EF, SK14 6EE, SK14 6EA, SK14 6ED, SK14 6EB, SK14 6DU, SK14 6DX",
-      "UnderReviewStatusTimeCheck": true,
+      "AffectedPostcodes": " SK16 4PG, SK16 4JF, SK16 4RA, SK16 4SQ, SK16 4PN, SK16 4JH, SK16 4JQ, SK16 4PL, SK16 4NQ, SK16 4NH",
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -264,7 +264,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -283,21 +283,21 @@
       "date": "2025-12-13T01:40:41",
       "region": "Lorton, Allerdale",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 13,
-      "estimatedTimeOfRestoration": "2025-12-13T07:40:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-13T07:40:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 16,
+      "estimatedTimeOfRestoration": "2025-12-13T06:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-13T06:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.620428,
-        "lng": -3.314008
+        "lat": 54.631750,
+        "lng": -3.322373
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA13 9UW, CA13 9UP, CA13 9TB",
+      "AffectedPostcodes": " CA13 9FS, CA13 9UW, CA13 9UN, CA13 9UL, CA13 9UP, CA13 9UR, CA13 0XT, CA13 9TB",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     }
   ],
