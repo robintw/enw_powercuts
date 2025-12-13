@@ -194,24 +194,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241164953",
+      "faultNumber": "INC 1241164974",
       "multipleFaultNumbers": null,
-      "date": "2025-12-13T00:01:56",
-      "region": "Longdendale, Tameside",
+      "date": "2025-12-13T02:25:51",
+      "region": "Manor, Stockport",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 39,
-      "estimatedTimeOfRestoration": "2025-12-13T02:55:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-13T02:55:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 82,
+      "estimatedTimeOfRestoration": "2025-12-13T08:25:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-13T08:25:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.444669,
-        "lng": -2.013439
+        "lat": 53.401740,
+        "lng": -2.136388
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK14 6JW, SK14 6JP, SK14 6JR, SK14 6EB, SK14 6EH",
+      "AffectedPostcodes": " SK1 4JX, SK1 4JU, SK1 4QA, SK2 5SU, SK2 5SX",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -221,7 +221,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -254,7 +254,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " SK14 6AX, SK14 6AU, SK14 6BA, SK14 6AZ, SK14 6AY, SK14 6EH, SK14 6AY, SK14 6EF, SK14 6EE, SK14 6EA, SK14 6ED, SK14 6EB, SK14 6DU, SK14 6DX",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
