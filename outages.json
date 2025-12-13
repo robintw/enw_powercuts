@@ -95,7 +95,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -117,18 +117,18 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 60,
-      "estimatedTimeOfRestoration": null,
-      "estimatedTimeOfRestorationMajority": null,
+      "consumersOff": 173,
+      "estimatedTimeOfRestoration": "2025-12-13T12:30:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-13T12:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.554406,
-        "lng": -3.456065
+        "lat": 54.555921,
+        "lng": -3.449625
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA26 3XS, CA26 3XJ, CA26 3XN, CA26 3XL, CA26 3XR",
-      "UnderReviewStatusTimeCheck": true,
+      "AffectedPostcodes": " CA26 3XS, CA26 3XJ, CA26 3XN, CA26 3XL, CA26 3XR, CA26 3YB, CA26 3XY, CA26 3XX, CA14 4SG, CA26 3YF, CA26 3XU, CA26 3XZ, CA26 3YE, CA26 3XT, CA28 3YB",
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
@@ -201,7 +201,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 16,
+      "consumersOff": 18,
       "estimatedTimeOfRestoration": "2025-12-13T14:25:00",
       "estimatedTimeOfRestorationMajority": "2025-12-13T14:25:00",
       "information": "",
