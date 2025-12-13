@@ -131,48 +131,6 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241165205",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-13T20:03:01",
-      "region": "Alston Moor, Eden",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 54,
-      "estimatedTimeOfRestoration": "2025-12-13T23:30:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-13T23:30:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.815533,
-        "lng": -2.431388
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " CA9 3SQ, CA9 3SS, CA9 3RW, CA9 3NB, CA9 3QT, CA9 3UD, CA9 3RP, CA9 3TN, CA9 3BD, CA9 3SP, CA9 3SH, CA9 3HU, CA9 3QP, CA9 3JW, CA9 3TL, CA9 3RF, CA9 3SL, CA9 3SN, CA9 3JZ, CA9 3UB, CA9 3SE, CA9 3UG, CA9 3QJ, CA9 3QR, CA9 3ND, CA9 3QS, CA9 3TW, CA9 3JX, CA9 3UE, CA9 3UX, CA9 3QN, CA9 3HS, CA9 3JB, CA9 3QW, CA9 3NF, CA9 3SR, CA9 3TG, CA9 3QH, CA9 3QL, CA9 3NG, CA9 3QU, CA9 3TP, CA9 3JY, CA9 3DA, CA9 3SG, CA9 3HN, CA9 3SW, CA9 3NE, CA9 3SF, CA9 3JT, CA9 3SJ, CA9 3TH, CA9 3HR, CA9 3RE, CA9 3UF, CA9 3RR, CA9 3NQ, CA9 3HP, CA9 6DW",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -182,7 +140,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 3,
+  "TotalResults": 2,
   "ShowPolygons": false,
   "Regions": [
     {
