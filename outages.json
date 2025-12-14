@@ -110,48 +110,6 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241165381",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-14T15:33:03",
-      "region": "Radcliffe East, Bury",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 21,
-      "estimatedTimeOfRestoration": "2025-12-14T18:33:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-14T18:33:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.572992,
-        "lng": -2.313237
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M26 2WW, M26 2XL, M26 2XN",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
       "faultNumber": "INC 1241165422",
       "multipleFaultNumbers": null,
       "date": "2025-12-14T16:15:10",
@@ -172,6 +130,48 @@
       "AffectedPostcodes": " M8 4JE, M8 4JD, M8 4JR, M8 4HZ, M8 4JB, M8 4HX, M8 4JF, M8 4JY, M8 4HL, M8 4HB, M8 4JH, M8 4HY, M8 4HR, M8 4WP, M8 4HS, M8 4HG",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241165464",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-14T17:44:10",
+      "region": "Roe Lee, Blackburn With Darwen",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 46,
+      "estimatedTimeOfRestoration": "2025-12-14T23:43:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-14T23:43:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.775010,
+        "lng": -2.476084
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BB1 9RQ, BB1 9QU, BB1 9QT",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -202,8 +202,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 156,
-      "estimatedTimeOfRestoration": "2025-12-14T19:38:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-14T19:38:00",
+      "estimatedTimeOfRestoration": "2025-12-14T20:30:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-14T20:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -243,7 +243,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 63,
+      "consumersOff": 64,
       "estimatedTimeOfRestoration": "2025-12-14T22:00:00",
       "estimatedTimeOfRestorationMajority": "2025-12-14T22:00:00",
       "information": "",
@@ -256,6 +256,48 @@
       "AffectedPostcodes": " OL4 2QQ, OL4 2QE, OL4 2LN, OL1 4JU",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": true,
+      "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241165362",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-14T14:35:12",
+      "region": "Maryport, Allerdale",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": null,
+      "consumersOff": 19,
+      "estimatedTimeOfRestoration": "2025-12-14T17:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-14T17:00:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.687063,
+        "lng": -3.522360
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " CA15 8RP, CA15 8RL, CA15 8RW, CA15 8RN",
+      "UnderReviewStatusTimeCheck": true,
+      "WebTMSFaultType": "O/HM",
       "addressMpanList": null
     },
     {
@@ -283,19 +325,19 @@
       "date": "2025-12-14T16:57:15",
       "region": "Chadderton Central, Oldham",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
+      "faultStatus": "We're on site",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 136,
+      "consumersOff": 23,
       "estimatedTimeOfRestoration": "2025-12-14T22:57:00",
       "estimatedTimeOfRestorationMajority": "2025-12-14T22:57:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.545280,
-        "lng": -2.163467
+        "lat": 53.544249,
+        "lng": -2.164323
       },
       "outageLocations": null,
-      "AffectedPostcodes": " OL9 9TP, OL9 9TW, OL9 9UF, OL9 9TL, OL9 9TH, OL9 9TT, OL9 9TS, OL9 9UW, OL9 9TR, OL9 9UN, OL9 9TJ",
+      "AffectedPostcodes": " OL9 9TW, OL9 9TT",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -409,8 +451,8 @@
       "date": "2025-12-14T17:36:01",
       "region": "Hindpool, Barrow-In-Furness",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 171,
       "estimatedTimeOfRestoration": "2025-12-14T23:36:00",
       "estimatedTimeOfRestorationMajority": "2025-12-14T23:36:00",
@@ -434,7 +476,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 9,
+  "TotalResults": 10,
   "ShowPolygons": false,
   "Regions": [
     {
