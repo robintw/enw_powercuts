@@ -152,6 +152,48 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 1241165422",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-14T16:15:10",
+      "region": "Crumpsall, Manchester",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 302,
+      "estimatedTimeOfRestoration": "2025-12-14T19:15:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-14T19:15:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.520061,
+        "lng": -2.250992
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M8 4JE, M8 4JD, M8 4JR, M8 4HZ, M8 4JB, M8 4HX, M8 4JF, M8 4JY, M8 4HL, M8 4HB, M8 4JH, M8 4HY, M8 4HR, M8 4WP, M8 4HS, M8 4HG",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 1241165382",
       "multipleFaultNumbers": null,
       "date": "2025-12-14T15:33:44",
@@ -199,8 +241,8 @@
       "date": "2025-12-14T16:04:59",
       "region": "Fleetwood, Wyre",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 30,
       "estimatedTimeOfRestoration": "2025-12-14T22:04:00",
       "estimatedTimeOfRestorationMajority": "2025-12-14T22:04:00",
@@ -286,8 +328,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 61,
-      "estimatedTimeOfRestoration": "2025-12-14T18:24:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-14T18:24:00",
+      "estimatedTimeOfRestoration": "2025-12-14T22:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-14T22:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -368,8 +410,8 @@
       "region": "Fleetwood, Wyre",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 31,
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 44,
       "estimatedTimeOfRestoration": "2025-12-14T22:06:00",
       "estimatedTimeOfRestorationMajority": "2025-12-14T22:06:00",
       "information": "",
@@ -410,8 +452,8 @@
       "region": "Fleetwood, Wyre",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 15,
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 26,
       "estimatedTimeOfRestoration": "2025-12-14T22:06:00",
       "estimatedTimeOfRestorationMajority": "2025-12-14T22:06:00",
       "information": "",
@@ -432,6 +474,90 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241165415",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-14T16:07:06",
+      "region": "Fleetwood, Wyre",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 26,
+      "estimatedTimeOfRestoration": "2025-12-14T22:07:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-14T22:07:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.910620,
+        "lng": -3.042308
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " FY7 8ET, FY7 8NB",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241165417",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-14T16:07:28",
+      "region": "Fleetwood, Wyre",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 6,
+      "estimatedTimeOfRestoration": "2025-12-14T22:06:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-14T22:06:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.911277,
+        "lng": -3.039608
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " FY7 8ER, FY7 8EU",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
       "UpdateInfo": null,
       "CTAs": [
@@ -464,7 +590,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " SK8 1EH",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "O/HM",
       "addressMpanList": null
     }
@@ -476,7 +602,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 10,
+  "TotalResults": 13,
   "ShowPolygons": false,
   "Regions": [
     {
