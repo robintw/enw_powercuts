@@ -116,7 +116,7 @@
       "region": "Scott, West Lancashire",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 4,
       "estimatedTimeOfRestoration": "2025-12-15T17:00:00",
       "estimatedTimeOfRestorationMajority": "2025-12-15T17:00:00",
@@ -128,6 +128,48 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " L39 1PB",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241165949",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-15T14:51:20",
+      "region": "Saddleworth West And Lees, Oldham",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 87,
+      "estimatedTimeOfRestoration": "2025-12-15T20:51:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-15T20:51:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.542202,
+        "lng": -2.070606
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL4 3JS, OL4 3LG, OL4 3LF, OL4 3LQ, OL4 3LD, OL4 3LW, OL4 3LU",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -278,24 +320,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241165846",
+      "faultNumber": "INC 1241165960",
       "multipleFaultNumbers": null,
-      "date": "2025-12-15T12:30:46",
-      "region": "Ordsall, Salford",
+      "date": "2025-12-15T15:04:19",
+      "region": "St. Cuthbert Without, Carlisle",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 10,
-      "estimatedTimeOfRestoration": "2025-12-15T18:30:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-15T18:30:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 9,
+      "estimatedTimeOfRestoration": "2025-12-15T21:04:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-15T21:04:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.481432,
-        "lng": -2.253956
+        "lat": 54.849809,
+        "lng": -2.884605
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M3 5EN, M3 5FP, M3 5HN, M3 5FB, M3 3EN",
+      "AffectedPostcodes": " CA4 0AJ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -325,9 +367,9 @@
       "date": "2025-12-15T13:18:07",
       "region": "Cartmel Fell, South Lakeland",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 12,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 8,
       "estimatedTimeOfRestoration": "2025-12-15T16:18:00",
       "estimatedTimeOfRestorationMajority": "2025-12-15T16:18:00",
       "information": "",
@@ -380,48 +422,6 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " OL12 7NF, OL12 7NL, OL12 7NP, OL12 7NJ, OL12 7NA",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241165612",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-15T08:23:57",
-      "region": "Saddleworth West And Lees, Oldham",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 51,
-      "estimatedTimeOfRestoration": "2025-12-15T20:30:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-15T20:30:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.542202,
-        "lng": -2.070606
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " OL4 3JS, OL4 3LG, OL4 3LF, OL4 3LQ, OL4 3LD, OL4 3LW, OL4 3LU",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
