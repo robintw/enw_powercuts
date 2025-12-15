@@ -68,24 +68,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241166151",
+      "faultNumber": "INC 1241166154",
       "multipleFaultNumbers": null,
-      "date": "2025-12-15T22:30:14",
-      "region": "Newton-Le-Willows East, St. Helens",
+      "date": "2025-12-15T22:34:33",
+      "region": "Nelson, Pendle",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 44,
-      "estimatedTimeOfRestoration": "2025-12-16T04:29:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-16T04:29:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 29,
+      "estimatedTimeOfRestoration": "2025-12-16T04:34:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-16T04:34:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.442112,
-        "lng": -2.629302
+        "lat": 53.841242,
+        "lng": -2.198415
       },
       "outageLocations": null,
-      "AffectedPostcodes": " WA12 8SR, WA12 8SN, WA12 8SW, WA12 8SL",
+      "AffectedPostcodes": " BB9 8AW, BB9 8AP, BB9 8JR, BB9 8JP",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -110,24 +110,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241166154",
+      "faultNumber": "INC 1241166158",
       "multipleFaultNumbers": null,
-      "date": "2025-12-15T22:34:33",
-      "region": "Nelson, Pendle",
+      "date": "2025-12-15T22:57:25",
+      "region": "Aspatria, Allerdale",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 29,
-      "estimatedTimeOfRestoration": "2025-12-16T04:34:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-16T04:34:00",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 5,
+      "estimatedTimeOfRestoration": "2025-12-16T04:57:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-16T04:57:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.841242,
-        "lng": -2.198415
+        "lat": 54.767983,
+        "lng": -3.316904
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB9 8AW, BB9 8AP, BB9 8JR, BB9 8JP",
+      "AffectedPostcodes": " CA7 3DR, CA7 3DW",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -170,6 +170,48 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " WA3 3GR, WA3 3DR, WA3 3DP",
+      "UnderReviewStatusTimeCheck": true,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": true,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241165720",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-15T10:05:22",
+      "region": "Aspatria, Allerdale",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 41,
+      "estimatedTimeOfRestoration": "2025-12-15T14:05:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-15T14:05:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.769103,
+        "lng": -3.315713
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " CA7 3DU, CA7 3DT, CA7 3DW, CA7 3DR, CA7 3DY, CA7 3DZ",
       "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -244,8 +286,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 9,
-      "estimatedTimeOfRestoration": "2025-12-16T03:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-16T03:00:00",
+      "estimatedTimeOfRestoration": "2025-12-16T04:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-16T04:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -285,9 +327,9 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 38,
-      "estimatedTimeOfRestoration": "2025-12-16T02:15:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-16T02:15:00",
+      "consumersOff": 41,
+      "estimatedTimeOfRestoration": "2025-12-16T08:20:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-16T08:20:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -350,7 +392,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 7,
+  "TotalResults": 8,
   "ShowPolygons": false,
   "Regions": [
     {
