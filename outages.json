@@ -115,7 +115,7 @@
       "date": "2025-12-16T04:34:24",
       "region": "Kearsley, Bolton",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
+      "faultStatus": "We're on site",
       "previousFaultStatus": "Team on their way",
       "consumersOff": 46,
       "estimatedTimeOfRestoration": "2025-12-16T10:34:00",
@@ -138,7 +138,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -152,26 +152,68 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241166224",
+      "faultNumber": "INC 1241166295",
       "multipleFaultNumbers": null,
-      "date": "2025-12-16T08:17:53",
-      "region": "Bradshaw, Bolton",
+      "date": "2025-12-16T09:33:53",
+      "region": "Windermere, South Lakeland",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 100,
-      "estimatedTimeOfRestoration": "2025-12-16T11:17:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-16T11:17:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 15,
+      "estimatedTimeOfRestoration": "2025-12-16T15:33:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-16T15:33:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.605916,
-        "lng": -2.398607
+        "lat": 54.387074,
+        "lng": -2.925236
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BL2 3EN, BL2 3EP, BL2 3EW, BL2 3EU, BL2 3ET, BL2 3GG, BL2 4JT, BL2 3ES, BL2 3EL, BL2 3ER",
+      "AffectedPostcodes": " LA23 1JA, LA23 1HZ",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241166221",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-16T08:13:32",
+      "region": "Bradshaw, Bolton",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 9,
+      "estimatedTimeOfRestoration": "2025-12-16T11:13:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-16T11:13:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.603861,
+        "lng": -2.394826
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BL2 3EW, BL2 4JT, BL2 3EU, BL2 3ET",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "O/HM",
       "addressMpanList": null
     }
   ],
@@ -182,7 +224,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 3,
+  "TotalResults": 4,
   "ShowPolygons": false,
   "Regions": [
     {
