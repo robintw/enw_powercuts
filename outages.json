@@ -116,7 +116,7 @@
       "region": "Kearsley, Bolton",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 46,
       "estimatedTimeOfRestoration": "2025-12-16T10:34:00",
       "estimatedTimeOfRestorationMajority": "2025-12-16T10:34:00",
@@ -130,6 +130,48 @@
       "AffectedPostcodes": " M26 1EY, M26 1EZ, M26 1BZ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241166333",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-16T10:05:26",
+      "region": "Ardwick, Manchester",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 67,
+      "estimatedTimeOfRestoration": "2025-12-16T13:04:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-16T13:04:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.466087,
+        "lng": -2.207057
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M12 4PY, M12 4PR, M12 4PW, M11 2PB, M13 0LF, M12 4QY, M12 4JE, M12 4DS, M12 4QT, M12 4PT, M12 4PG, M12 4DR, M12 4EY, M12 4EZ, M12 4PX, M12 4PQ, M12 4RE",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -200,20 +242,62 @@
       "region": "Bradshaw, Bolton",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 9,
-      "estimatedTimeOfRestoration": "2025-12-16T11:13:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-16T11:13:00",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 51,
+      "estimatedTimeOfRestoration": "2025-12-16T10:30:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-16T10:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.603861,
-        "lng": -2.394826
+        "lat": 53.605672,
+        "lng": -2.398190
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BL2 3EW, BL2 4JT, BL2 3EU, BL2 3ET",
+      "AffectedPostcodes": " BL2 3EW, BL2 4JT, BL2 3EU, BL2 3ET, BL2 3ES, BL2 3ER, BL2 3EN, BL2 3EL",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "O/HM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241166307",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-16T09:44:13",
+      "region": "Boothstown & Ellenbrook, Salford",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 24,
+      "estimatedTimeOfRestoration": "2025-12-16T15:42:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-16T15:42:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.500931,
+        "lng": -2.425716
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M28 1HU, M28 1HZ, M28 1JY, M28 1HW",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     }
   ],
@@ -224,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
