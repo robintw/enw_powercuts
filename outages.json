@@ -180,48 +180,6 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241166703",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-16T18:17:36",
-      "region": "Atherton, Wigan",
-      "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 29,
-      "estimatedTimeOfRestoration": "2025-12-17T00:17:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-17T00:17:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.523692,
-        "lng": -2.497154
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M46 0DF, M46 0DJ",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -325,7 +283,7 @@
       "date": "2025-12-16T14:40:38",
       "region": "Longton, South Ribble",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
+      "faultStatus": "We're on site",
       "previousFaultStatus": "Team on their way",
       "consumersOff": 9,
       "estimatedTimeOfRestoration": "2025-12-16T20:40:00",
@@ -389,7 +347,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers fix the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -422,8 +380,92 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " M33 2BT, M33 2DA",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GS",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241166703",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-16T18:17:36",
+      "region": "Atherton, Wigan",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 29,
+      "estimatedTimeOfRestoration": "2025-12-17T00:17:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-17T00:17:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.523692,
+        "lng": -2.497154
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M46 0DF, M46 0DJ",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241166709",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-16T18:45:58",
+      "region": "Atherton, Wigan",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 1251,
+      "estimatedTimeOfRestoration": "2025-12-16T21:45:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-16T21:45:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.521437,
+        "lng": -2.490260
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M46 0BN, M46 9AB, M46 0AQ, M46 0BU, M46 0PF, M46 0DA, M46 0QG, M46 9AN, M46 0AR, M46 0BH, M46 9RS, M46 9BT, M46 9DR, M46 9DW, M46 9AE, M46 9AX, M46 9DP, M46 0NW, M46 9AA, M46 9AU, M46 0DB, M46 9BA, M46 0BF, M46 0GP, M46 0AD, M46 0AL, M46 0AS, M46 0TN, M46 0QN, M46 0BJ, M46 9BE, M46 0EG, M46 0PD, M46 9BH, M46 9EZ, M46 0DP, M46 9TG, M46 0PB, M46 0BW, M46 0QJ, M46 0DW, M46 9AL, M46 9DD, M46 9EY, M46 0PA, M46 9AY, M46 9FH, M46 0PR, M46 0BX, M46 9BP, M46 9AD, M46 9DE, M46 0BQ, M46 9TR, M46 9BG, M46 9BU, M46 0DL, M46 0PE, M46 0BE, M46 0DQ, M46 9GR, M46 0DF, M46 9BD, M46 0AE, M46 9DG, M46 9BR, M46 9FN, M46 9BF, M46 0AB, M46 0DN, M46 9DA, M46 0DE, M46 9UB, M46 9FJ, M46 0AY, M46 0DG, M46 0PP, M46 9SD, M46 9AJ, M46 9QZ, M46 9EL, M46 0DX, M46 0GQ, M46 9BW, M46 0EQ, M46 0PH, M46 0AG, M46 9BY, M46 9DS, M46 9LD, M46 0SX, M46 9DT, M46 0DR, M46 0AN, M46 9AF, M46 0GY, M46 9EX, M46 0AT, M46 0NS, M46 9DQ, M46 0TB, M46 0AU",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -518,7 +560,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 11,
+  "TotalResults": 12,
   "ShowPolygons": false,
   "Regions": [
     {
