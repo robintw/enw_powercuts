@@ -74,7 +74,7 @@
       "region": "Darwen, Blackburn With Darwen",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 11,
       "estimatedTimeOfRestoration": "2025-12-17T16:00:00",
       "estimatedTimeOfRestorationMajority": "2025-12-17T16:00:00",
@@ -116,7 +116,7 @@
       "region": "Mossley, Tameside",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 8,
       "estimatedTimeOfRestoration": "2025-12-17T17:00:00",
       "estimatedTimeOfRestorationMajority": "2025-12-17T17:00:00",
@@ -158,7 +158,7 @@
       "region": "Harpurhey, Manchester",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 17,
       "estimatedTimeOfRestoration": "2025-12-17T16:00:00",
       "estimatedTimeOfRestorationMajority": "2025-12-17T16:00:00",
@@ -200,7 +200,7 @@
       "region": "Chorley North West, Chorley",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
       "consumersOff": 21,
       "estimatedTimeOfRestoration": "2025-12-16T18:03:00",
       "estimatedTimeOfRestorationMajority": "2025-12-16T18:03:00",
@@ -212,48 +212,6 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " PR7 1EP, PR7 1EH, PR7 1EL",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241166389",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-16T11:10:41",
-      "region": "Westhoughton, Bolton",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 4,
-      "estimatedTimeOfRestoration": "2025-12-17T14:30:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-17T14:30:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.571519,
-        "lng": -2.551996
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " BL5 3NH, BL5 3ND, BL5 3NP",
       "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -284,7 +242,7 @@
       "region": "Macclesfield, Cheshire East",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": null,
       "consumersOff": 6,
       "estimatedTimeOfRestoration": "2025-12-17T20:33:00",
       "estimatedTimeOfRestorationMajority": "2025-12-17T20:33:00",
@@ -305,8 +263,8 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -320,26 +278,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241167011",
+      "faultNumber": "INC 1241167095",
       "multipleFaultNumbers": null,
-      "date": "2025-12-17T12:18:24",
-      "region": "Alston Moor, Eden",
+      "date": "2025-12-17T13:44:05",
+      "region": "North Meols, West Lancashire",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 13,
-      "estimatedTimeOfRestoration": "2025-12-17T15:15:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-17T15:15:00",
+      "previousFaultStatus": null,
+      "consumersOff": 43,
+      "estimatedTimeOfRestoration": "2025-12-17T17:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-17T17:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.808343,
-        "lng": -2.434939
+        "lat": 53.692471,
+        "lng": -2.882191
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA9 3DA, CA9 3SL, CA9 3UE, CA9 3UD, CA9 3UF",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "U/GM",
+      "AffectedPostcodes": " PR9 8DY, PR9 8EB, PR4 6XE, PR4 6AL, PR9 8DX, PR9 8DZ, PR4 6XL",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -368,8 +326,8 @@
       "region": "Moorside, Bury",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 44,
+      "previousFaultStatus": null,
+      "consumersOff": 101,
       "estimatedTimeOfRestoration": "2025-12-17T17:40:00",
       "estimatedTimeOfRestorationMajority": "2025-12-17T17:40:00",
       "information": "",
@@ -382,90 +340,6 @@
       "AffectedPostcodes": " BL9 6JZ, BL9 6JD, BL9 6LA, BL9 6LB, BL9 6LD, BL9 6HR, BL9 7LN",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241167151",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-17T15:01:45",
-      "region": "North Meols, West Lancashire",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 11,
-      "estimatedTimeOfRestoration": "2025-12-17T18:01:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-17T18:01:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.691375,
-        "lng": -2.865732
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " PR9 8EB, PR4 6XE, PR4 6AL",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241167152",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-17T15:02:27",
-      "region": "North Meols, West Lancashire",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 30,
-      "estimatedTimeOfRestoration": "2025-12-17T18:02:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-17T18:02:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.691768,
-        "lng": -2.895265
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " PR9 8EB, PR9 8DX, PR9 8DY, PR9 8DZ, PR4 6XL",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -494,7 +368,7 @@
       "region": "Little Hulton, Salford",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": null,
       "consumersOff": 8,
       "estimatedTimeOfRestoration": "2025-12-17T08:01:00",
       "estimatedTimeOfRestorationMajority": "2025-12-17T08:01:00",
@@ -518,7 +392,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 11,
+  "TotalResults": 8,
   "ShowPolygons": false,
   "Regions": [
     {
