@@ -152,26 +152,68 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241168208",
+      "faultNumber": "INC 1241168277",
       "multipleFaultNumbers": null,
-      "date": "2025-12-19T16:09:19",
-      "region": "Kendal, South Lakeland",
+      "date": "2025-12-19T18:16:16",
+      "region": "Partington, Trafford",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 37,
-      "estimatedTimeOfRestoration": "2025-12-19T22:09:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-19T22:09:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 100,
+      "estimatedTimeOfRestoration": "2025-12-20T00:16:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-20T00:16:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.320544,
-        "lng": -2.756423
+        "lat": 53.420527,
+        "lng": -2.424904
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA9 5BT",
+      "AffectedPostcodes": " M31 4NZ, M31 4DP, M31 4FB, M31 4DJ, M31 4AR, M31 4BQ, M31 4AY, M31 4GB, M31 4DB, M31 4DE, M31 4DL, M31 4WZ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241168279",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-19T19:59:04",
+      "region": "Saddleworth, Oldham",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": null,
+      "consumersOff": 125,
+      "estimatedTimeOfRestoration": "2025-12-19T22:59:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-19T22:59:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.532276,
+        "lng": -2.062148
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL4 5RY, OL4 5RU, OL4 5UD, OL4 5RT, OL4 5RW, OL4 5EA, OL4 5RP, OL4 5PP, OL4 5QL, OL4 5RX, OL4 5RR, OL4 5RS, OL4 5RH",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -200,7 +242,7 @@
       "region": "Partington, Trafford",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 154,
       "estimatedTimeOfRestoration": "2025-12-20T00:15:00",
       "estimatedTimeOfRestorationMajority": "2025-12-20T00:15:00",
@@ -308,7 +350,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 6,
+  "TotalResults": 7,
   "ShowPolygons": false,
   "Regions": [
     {
