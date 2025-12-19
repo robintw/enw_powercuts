@@ -113,21 +113,21 @@
       "faultNumber": "INC 1241168109",
       "multipleFaultNumbers": null,
       "date": "2025-12-19T12:59:47",
-      "region": "Piccadilly, Manchester",
+      "region": "Miles Platting & Newton Heath, Manchester",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 61,
-      "estimatedTimeOfRestoration": "2025-12-19T18:59:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-19T18:59:00",
+      "consumersOff": 18,
+      "estimatedTimeOfRestoration": "2025-12-20T01:10:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-20T01:10:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.489826,
-        "lng": -2.226691
+        "lat": 53.489414,
+        "lng": -2.227200
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M4 4JF, M4 5HF, M40 7PR, M4 4JG",
+      "AffectedPostcodes": " M4 4JG",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -222,7 +222,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -236,26 +236,68 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241168180",
+      "faultNumber": "INC 1241168208",
       "multipleFaultNumbers": null,
-      "date": "2025-12-19T14:57:05",
-      "region": "Broughton West, South Lakeland",
+      "date": "2025-12-19T16:09:19",
+      "region": "Kendal, South Lakeland",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 4,
-      "estimatedTimeOfRestoration": "2025-12-19T17:57:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-19T17:57:00",
+      "consumersOff": 51,
+      "estimatedTimeOfRestoration": "2025-12-19T22:09:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-19T22:09:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.292157,
-        "lng": -3.202375
+        "lat": 54.320544,
+        "lng": -2.756423
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA20 6AD",
+      "AffectedPostcodes": " LA9 5BT",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "O/HM",
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241168212",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-19T16:09:25",
+      "region": "Poynton-With-Worth, Cheshire East",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 33,
+      "estimatedTimeOfRestoration": "2025-12-19T22:09:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-19T22:09:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.349346,
+        "lng": -2.143164
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK12 1XL, SK12 1HX, SK12 1HT, SK12 1XG, SK12 1HU",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -298,48 +340,6 @@
       "AffectedPostcodes": " PR3 1GH, PR3 1UB",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241167938",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-19T09:22:29",
-      "region": "Longton, South Ribble",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 7,
-      "estimatedTimeOfRestoration": "2025-12-19T16:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-19T16:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.717056,
-        "lng": -2.775417
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " PR4 4SD, PR4 4SB",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "O/HM",
       "addressMpanList": null
     },
     {
