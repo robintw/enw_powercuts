@@ -115,8 +115,8 @@
       "date": "2025-12-19T17:41:25",
       "region": "St. Matthew's, Preston",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 298,
       "estimatedTimeOfRestoration": "2025-12-19T20:41:00",
       "estimatedTimeOfRestorationMajority": "2025-12-19T20:41:00",
@@ -130,6 +130,48 @@
       "AffectedPostcodes": " PR1 4AT, PR1 5PL, PR1 4QP, PR1 4XQ, PR1 5QU, PR1 5RA, PR1 4SN, PR1 5QW, PR1 5RB, PR1 4SH, PR1 5QT, PR1 4XX, PR1 5RT, PR1 5QJ, PR1 5JQ, PR1 4YB, PR1 5RR, PR1 5YN, PR1 4QD, PR1 5SB, PR1 4XJ, PR1 5QN, PR1 5JH, PR1 5BG, PR1 4XR, PR1 4XN, PR1 5JJ, PR1 5QP, PR1 5XS, PR1 5RY, PR1 5RH, PR1 5LL, PR1 5UT, PR1 4YL, PR1 4YP, PR1 4YH, PR1 5RL, PR1 5HA, PR1 5YJ, PR1 4XT, PR1 5SD, PR1 4YR, PR1 5RJ, PR1 5PT, PR1 4YE, PR1 4DU, PR1 5QS, PR1 4SW, PR1 4SL, PR1 4XY, PR1 5HB, PR1 5XY, PR1 5EE, PR1 5QB, PR1 4YJ, PR1 5YQ, PR1 5QQ, PR1 4XE, PR1 5NY, PR1 5QX, PR1 5EA, PR1 5QR, PR1 5EY, PR1 4XU, PR1 4QN, PR1 5YB, PR1 4QB, PR1 5QY, PR2 6BS, PR1 5XT, PR1 4YA, PR1 5YL, PR1 4XL, PR1 4XD, PR1 4XH, PR1 5RD, PR1 5NU, PR1 5EJ, PR1 4XS, PR1 5PR, PR2 6NL, PR1 5LH, PR1 5PN, PR1 5EB, PR1 5DL, PR1 5NX, PR1 4AR, PR1 4DT, PR1 5LN, PR1 5EQ, PR1 5EX, PR1 4LQ, PR1 5QD, PR1 4YD, PR1 5QL, PR1 5LX, PR1 5HD, PR1 4TD, PR1 5NE, PR1 5US, PR2 6NX, PR1 3BS, PR1 5NQ, PR1 4HZ, PR1 4QS, SK9 2GW, PR1 4LP, PR1 4DE, PR1 1EA",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241168244",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-19T18:03:41",
+      "region": "Kendal, South Lakeland",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 14,
+      "estimatedTimeOfRestoration": "2025-12-20T00:03:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-20T00:03:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.320544,
+        "lng": -2.756423
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA9 5BT",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -201,7 +243,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 51,
+      "consumersOff": 37,
       "estimatedTimeOfRestoration": "2025-12-19T22:09:00",
       "estimatedTimeOfRestorationMajority": "2025-12-19T22:09:00",
       "information": "",
@@ -286,8 +328,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 5,
-      "estimatedTimeOfRestoration": "2025-12-19T20:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-19T20:00:00",
+      "estimatedTimeOfRestoration": "2025-12-19T22:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-19T22:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -308,7 +350,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 6,
+  "TotalResults": 7,
   "ShowPolygons": false,
   "Regions": [
     {
