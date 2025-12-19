@@ -68,24 +68,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241167987",
+      "faultNumber": "INC 1241167833",
       "multipleFaultNumbers": null,
-      "date": "2025-12-19T10:28:45",
-      "region": "Rumworth, Bolton",
+      "date": "2025-12-19T02:24:50",
+      "region": "Horwich, Bolton",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 26,
-      "estimatedTimeOfRestoration": "2025-12-19T16:28:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-19T16:28:00",
+      "consumersOff": 5,
+      "estimatedTimeOfRestoration": "2025-12-19T14:30:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-19T14:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.568006,
-        "lng": -2.447421
+        "lat": 53.596293,
+        "lng": -2.559852
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BL3 6JY, BL3 5ES, BL3 6EX, BL3 6LH, BL3 6TA, BL3 6LF",
+      "AffectedPostcodes": " BL6 7QX, BL6 5RH, BL6 5RJ, BL6 7QR, BL6 7QU, BL6 7QT, BL6 5GX",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -236,13 +236,55 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 1241168101",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-19T12:47:42",
+      "region": "Brunshaw, Burnley",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 80,
+      "estimatedTimeOfRestoration": "2025-12-19T18:47:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-19T18:47:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.790000,
+        "lng": -2.225185
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BB10 4QD, BB10 4QP, BB10 4QA, BB10 4QE",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 1241168061",
       "multipleFaultNumbers": null,
       "date": "2025-12-19T12:14:03",
       "region": "North Middleton, Rochdale",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 73,
       "estimatedTimeOfRestoration": "2025-12-19T18:13:00",
       "estimatedTimeOfRestorationMajority": "2025-12-19T18:13:00",
@@ -266,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
