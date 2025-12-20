@@ -200,7 +200,7 @@
       "region": "Nelson, Pendle",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 90,
       "estimatedTimeOfRestoration": "2025-12-20T09:49:00",
       "estimatedTimeOfRestorationMajority": "2025-12-20T09:49:00",
@@ -212,6 +212,48 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " BB9 7HG, BB9 7HE, BB9 7HQ, BB9 7HP, BB9 7JB, BB9 7HT, BB9 7HJ, BB9 7HW, BB9 7AT, BB9 7AU, BB9 7HF, BB9 7AX",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241168365",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-20T03:53:34",
+      "region": "Milnrow & Newhey, Rochdale",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 89,
+      "estimatedTimeOfRestoration": "2025-12-20T09:53:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-20T09:53:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.616396,
+        "lng": -2.111988
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL16 3UZ, OL16 3UP, OL16 3TW, OL16 3AS, OL16 3UY",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -308,7 +350,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 6,
+  "TotalResults": 7,
   "ShowPolygons": false,
   "Regions": [
     {
