@@ -115,8 +115,8 @@
       "date": "2025-12-20T08:15:07",
       "region": "Garstang, Wyre",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 57,
       "estimatedTimeOfRestoration": "2025-12-20T11:15:00",
       "estimatedTimeOfRestorationMajority": "2025-12-20T11:15:00",
@@ -130,6 +130,48 @@
       "AffectedPostcodes": " PR3 1QD, PR3 1SH, PR3 0PF, PR3 1UN, PR3 1SB, PR3 1UD, PR3 1TN, PR3 1UA, PR3 1GD, PR3 1RJ, PR3 1SE, PR3 1GH, PR3 1RB, PR3 1YD, PR3 0QB, PR3 1RP, PR3 0PN, PR3 1SA, PR3 1SQ, PR3 0PD, PR3 1UY, PR3 1US, PR3 1GJ, PR3 1SJ, PR3 1UL, PR3 1GE, PR3 0GJ, PR3 1SR, PR3 1SS, PR3 1TL, PR3 0QN, PR3 1SD, PR3 1UQ, PR3 1QJ, PR3 0GH, PR3 1TH, PR3 0GN, PR3 0PE, PR3 1GB, PR3 1UB, PR3 0PL, PR3 1UR, PR3 1UE, PR3 1QY, PR3 1UT, PR3 1SN, PR3 1RN, PR3 0PG, PR3 1UX, PR3 1QE, PR3 1UZ, PR3 1SP, PR3 0QJ, PR3 0GB, PR3 0PQ, PR3 0HU, PR3 1UP, PR26 9BD, PR3 1UH, PR3 1SL",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241168401",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-20T08:42:19",
+      "region": "Brampton, Carlisle",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 12,
+      "estimatedTimeOfRestoration": "2025-12-20T14:34:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-20T14:34:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.942439,
+        "lng": -2.736451
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " CA8 1NP, CA8 1SH, CA8 1SB, CA8 1SA, CA8 1NF",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -224,7 +266,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 5,
   "ShowPolygons": false,
   "Regions": [
     {
