@@ -110,24 +110,66 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241168361",
+      "faultNumber": "INC 1241168509",
       "multipleFaultNumbers": null,
-      "date": "2025-12-20T03:49:31",
-      "region": "Nelson, Pendle",
+      "date": "2025-12-20T14:59:38",
+      "region": "Kirkby Stephen, Eden",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 11,
-      "estimatedTimeOfRestoration": "2025-12-20T15:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-20T15:00:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 9,
+      "estimatedTimeOfRestoration": "2025-12-20T20:59:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-20T20:59:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.836276,
-        "lng": -2.221469
+        "lat": 54.470644,
+        "lng": -2.349171
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB9 7HQ",
+      "AffectedPostcodes": " CA17 4SG",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241168514",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-20T15:06:16",
+      "region": "Wigan Central, Wigan",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 36,
+      "estimatedTimeOfRestoration": "2025-12-20T21:06:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-20T21:06:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.555462,
+        "lng": -2.628238
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " WN1 2ND, WN1 2NB, WN1 2NA, WN1 2LS, WN1 2LE, WN1 2LA, WN1 2DN, WN1 2DP",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -199,19 +241,19 @@
       "date": "2025-12-20T14:40:57",
       "region": "Wigan Central, Wigan",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 56,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 20,
       "estimatedTimeOfRestoration": "2025-12-20T20:40:00",
       "estimatedTimeOfRestorationMajority": "2025-12-20T20:40:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.555274,
-        "lng": -2.628202
+        "lat": 53.555250,
+        "lng": -2.628057
       },
       "outageLocations": null,
-      "AffectedPostcodes": " WN1 2ND, WN1 2NB, WN1 2NA, WN1 2LS, WN1 2LE, WN1 2LA, WN1 2DN, WN1 2DP, WN1 2LF",
+      "AffectedPostcodes": " WN1 2ND, WN1 2NB, WN1 2LS, WN1 2LA, WN1 2LF, WN1 2DN",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -224,7 +266,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 5,
   "ShowPolygons": false,
   "Regions": [
     {
