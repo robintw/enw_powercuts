@@ -95,8 +95,8 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -110,26 +110,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241168322",
+      "faultNumber": "INC 1241168390",
       "multipleFaultNumbers": null,
-      "date": "2025-12-19T23:55:26",
-      "region": "Reddish North, Stockport",
+      "date": "2025-12-20T08:15:07",
+      "region": "Garstang, Wyre",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
       "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 73,
-      "estimatedTimeOfRestoration": "2025-12-20T05:55:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-20T05:55:00",
+      "consumersOff": 57,
+      "estimatedTimeOfRestoration": "2025-12-20T11:15:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-20T11:15:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.450955,
-        "lng": -2.156698
+        "lat": 53.886392,
+        "lng": -2.727500
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK5 6PY, SK5 6PP, SK5 6PT, SK5 6QS, SK5 6QU, SK5 6PU, SK5 6FS",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "U/GM",
+      "AffectedPostcodes": " PR3 1QD, PR3 1SH, PR3 0PF, PR3 1UN, PR3 1SB, PR3 1UD, PR3 1TN, PR3 1UA, PR3 1GD, PR3 1RJ, PR3 1SE, PR3 1GH, PR3 1RB, PR3 1YD, PR3 0QB, PR3 1RP, PR3 0PN, PR3 1SA, PR3 1SQ, PR3 0PD, PR3 1UY, PR3 1US, PR3 1GJ, PR3 1SJ, PR3 1UL, PR3 1GE, PR3 0GJ, PR3 1SR, PR3 1SS, PR3 1TL, PR3 0QN, PR3 1SD, PR3 1UQ, PR3 1QJ, PR3 0GH, PR3 1TH, PR3 0GN, PR3 0PE, PR3 1GB, PR3 1UB, PR3 0PL, PR3 1UR, PR3 1UE, PR3 1QY, PR3 1UT, PR3 1SN, PR3 1RN, PR3 0PG, PR3 1UX, PR3 1QE, PR3 1UZ, PR3 1SP, PR3 0QJ, PR3 0GB, PR3 0PQ, PR3 0HU, PR3 1UP, PR26 9BD, PR3 1UH, PR3 1SL",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -157,8 +157,8 @@
       "date": "2025-12-20T03:49:31",
       "region": "Nelson, Pendle",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 90,
       "estimatedTimeOfRestoration": "2025-12-20T09:49:00",
       "estimatedTimeOfRestorationMajority": "2025-12-20T09:49:00",
