@@ -54,7 +54,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -68,26 +68,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241168805",
+      "faultNumber": "INC 1241168589",
       "multipleFaultNumbers": null,
-      "date": "2025-12-21T20:54:30",
-      "region": "Brindle, Chorley",
+      "date": "2025-12-20T22:33:42",
+      "region": "Partington, Trafford",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 201,
-      "estimatedTimeOfRestoration": "2025-12-21T23:54:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-21T23:54:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 127,
+      "estimatedTimeOfRestoration": "2025-12-21T22:30:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-21T22:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.711730,
-        "lng": -2.604563
+        "lat": 53.426184,
+        "lng": -2.387733
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR6 8NY, PR6 8BW, PR6 8NG, PR6 8NR, PR6 8NW, PR6 8NQ, PR6 8ND, PR6 8NJ, PR6 8NX, PR6 8NH, PR6 8NZ, PR6 8NN, PR6 8LZ, PR6 8EE, PR6 8NE, PR6 8YA, PR6 8NL, PR6 8NA, PR6 8BB, PR6 8NF, PR6 8OX, PR6 8PG, PR6 8PF, PR6 8PB, PR6 8BA",
+      "AffectedPostcodes": " M31 4FB, M31 4PY, M31 4QX, M31 4ED, M31 4PZ, M31 4QH, M31 4QA, M31 4BW, M31 4BD, M31 4AZ",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -158,10 +158,10 @@
       "region": "Allhallows, Allerdale",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 18,
-      "estimatedTimeOfRestoration": "2025-12-22T00:13:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-22T00:13:00",
+      "estimatedTimeOfRestoration": "2025-12-22T23:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-22T23:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -221,7 +221,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -254,7 +254,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " BB9 6RP, BB9 6RR",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     }
