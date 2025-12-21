@@ -115,19 +115,19 @@
       "date": "2025-12-21T04:32:35",
       "region": "Central Rochdale, Rochdale",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 45,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 24,
       "estimatedTimeOfRestoration": "2025-12-21T10:32:00",
       "estimatedTimeOfRestorationMajority": "2025-12-21T10:32:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.619481,
-        "lng": -2.127889
+        "lat": 53.626806,
+        "lng": -2.149668
       },
       "outageLocations": null,
-      "AffectedPostcodes": " OL12 0EG, OL12 0EE, OL12 0DZ, OL12 0ED, OL12 0ET",
+      "AffectedPostcodes": " OL12 0EG, OL12 0ED, OL12 0EE",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -159,17 +159,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 14,
+      "consumersOff": 23,
       "estimatedTimeOfRestoration": "2025-12-21T10:00:00",
       "estimatedTimeOfRestorationMajority": "2025-12-21T10:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.759987,
-        "lng": -2.240085
+        "lat": 53.761640,
+        "lng": -2.256680
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB11 5NU, BB11 5NX",
+      "AffectedPostcodes": " BB11 5NY, BB11 5NU, BB11 5NX, BB11 5NT, BB11 5PF",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -199,8 +199,8 @@
       "date": "2025-12-21T07:52:25",
       "region": "Seven Stars, South Ribble",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 28,
       "estimatedTimeOfRestoration": "2025-12-21T13:52:00",
       "estimatedTimeOfRestorationMajority": "2025-12-21T13:52:00",
@@ -215,6 +215,90 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241168648",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-21T08:39:51",
+      "region": "Seven Stars, South Ribble",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 21,
+      "estimatedTimeOfRestoration": "2025-12-21T14:39:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-21T14:39:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.686641,
+        "lng": -2.714792
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR25 1AR, PR25 1AL, PR25 1AN",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241168650",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-21T08:41:43",
+      "region": "Whittingham, Preston",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 7,
+      "estimatedTimeOfRestoration": "2025-12-21T14:41:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-21T14:41:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.820764,
+        "lng": -2.690617
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR3 2JJ",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -224,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
