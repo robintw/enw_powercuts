@@ -53,7 +53,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -68,25 +68,25 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241168589",
+      "faultNumber": "INC 1241168758",
       "multipleFaultNumbers": null,
-      "date": "2025-12-20T22:33:42",
-      "region": "Partington, Trafford",
+      "date": "2025-12-21T16:23:14",
+      "region": "Longton, South Ribble",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 27,
-      "estimatedTimeOfRestoration": "2025-12-21T04:33:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-21T04:33:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 35,
+      "estimatedTimeOfRestoration": "2025-12-21T22:23:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-21T22:23:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.426184,
-        "lng": -2.387733
+        "lat": 53.711665,
+        "lng": -2.770463
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M31 4FB, M31 4PY, M31 4QX, M31 4ED, M31 4PZ, M31 4QH, M31 4QA, M31 4BW, M31 4BD, M31 4AZ",
-      "UnderReviewStatusTimeCheck": true,
+      "AffectedPostcodes": " PR4 4SR, PR4 4SS",
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -110,24 +110,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241168758",
+      "faultNumber": "INC 1241168768",
       "multipleFaultNumbers": null,
-      "date": "2025-12-21T16:23:14",
-      "region": "Longton, South Ribble",
+      "date": "2025-12-21T16:39:34",
+      "region": "Shaw And Crompton, Oldham",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 35,
-      "estimatedTimeOfRestoration": "2025-12-21T22:23:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-21T22:23:00",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 57,
+      "estimatedTimeOfRestoration": "2025-12-21T22:39:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-21T22:39:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.711665,
-        "lng": -2.770463
+        "lat": 53.577163,
+        "lng": -2.086131
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR4 4SR, PR4 4SS",
+      "AffectedPostcodes": " OL2 8PH, OL2 8PN, OL2 8PW, OL2 8HZ, OL2 8JD",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
