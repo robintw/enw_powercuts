@@ -221,7 +221,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -236,25 +236,25 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125285906",
+      "faultNumber": "INC 24065237",
       "multipleFaultNumbers": null,
-      "date": "2025-12-22T17:42:13",
-      "region": "Clayton & Openshaw, Manchester",
+      "date": "2025-12-22T09:31:49",
+      "region": "Milnrow & Newhey, Rochdale",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 6,
-      "estimatedTimeOfRestoration": "2025-12-22T23:42:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-22T23:42:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 66,
+      "estimatedTimeOfRestoration": null,
+      "estimatedTimeOfRestorationMajority": null,
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.486734,
-        "lng": -2.185375
+        "lat": 53.616575,
+        "lng": -2.111872
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M11 4FP",
-      "UnderReviewStatusTimeCheck": false,
+      "AffectedPostcodes": " OL16 3UZ, OL16 3UY, OL16 3AS, OL16 3TW",
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -285,17 +285,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 83,
-      "estimatedTimeOfRestoration": "2025-12-22T20:03:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-22T20:03:00",
+      "consumersOff": 6,
+      "estimatedTimeOfRestoration": "2025-12-23T00:00:01",
+      "estimatedTimeOfRestorationMajority": "2025-12-23T00:00:01",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.487599,
-        "lng": -2.186039
+        "lat": 53.486734,
+        "lng": -2.185375
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M11 4GG, M11 4HT, M11 4FG, M11 4FP, M11 4EG, M11 4HX, M11 4BL, M11 4BN, M11 4FR, M11 4FH",
+      "AffectedPostcodes": " M11 4FP",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
