@@ -68,13 +68,55 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 1241168556",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-20T17:38:41",
+      "region": "Scotforth East, Lancaster",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 31,
+      "estimatedTimeOfRestoration": "2025-12-23T00:00:01",
+      "estimatedTimeOfRestorationMajority": "2025-12-23T00:00:01",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.022795,
+        "lng": -2.793676
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA1 4PJ, LA1 4PF, LA1 4PL",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 125285890",
       "multipleFaultNumbers": null,
       "date": "2025-12-22T16:43:27",
       "region": "Stanwix & Houghton, Carlisle",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Preparing to send team",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 53,
       "estimatedTimeOfRestoration": "2025-12-22T22:43:00",
       "estimatedTimeOfRestorationMajority": "2025-12-22T22:43:00",
@@ -115,9 +157,9 @@
       "date": "2025-12-22T16:49:31",
       "region": "Hindley Green, Wigan",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
+      "faultStatus": "We're on site",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 128,
+      "consumersOff": 125,
       "estimatedTimeOfRestoration": "2025-12-22T19:49:00",
       "estimatedTimeOfRestorationMajority": "2025-12-22T19:49:00",
       "information": "",
@@ -127,7 +169,7 @@
         "lng": -2.542206
       },
       "outageLocations": null,
-      "AffectedPostcodes": " WN2 4JA, BL5 2BX, WN2 4HD, WN2 4UG, WN2 4HE, WN2 4ET, WN2 4ZZ, BL5 2DR, BL5 2BZ, WN2 4HF, WN2 4GS, WN2 4HR, BL5 2BY, WN2 4PP, BL5 2AX, WN2 4HN, WN2 4HW, WN2 4EX, BL5 2BT, BL5 2DB, WN2 4HX, WN2 4HS, WN2 4EZ, BL5 2BU, WN2 4EY, WN2 4AT, WN2 4HB, WN2 2HD, WN2 4HT, WN2 4HA",
+      "AffectedPostcodes": " WN2 4JA, BL5 2BX, WN2 4UG, WN2 4ET, WN2 4ZZ, BL5 2DR, BL5 2BZ, WN2 4GS, WN2 4HR, WN2 4HD, BL5 2BY, BL5 2AX, WN2 4HN, WN2 4EX, BL5 2BT, BL5 2DB, WN2 4HX, WN2 4HS, WN2 4EZ, BL5 2BU, WN2 4EY, WN2 4HB, WN2 2HD, WN2 4HT, WN2 4HA, WN2 4HE, WN2 4HF, WN2 4HW, WN2 4PP, WN2 4AT",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -194,90 +236,6 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125285874",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-22T16:05:32",
-      "region": "Brookfield, Preston",
-      "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 92,
-      "estimatedTimeOfRestoration": "2025-12-22T22:05:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-22T22:05:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.784276,
-        "lng": -2.660633
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " PR2 6SZ, PR2 6TU, PR2 6SJ, PR2 5RW, PR2 6SP, PR2 6SQ, PR2 6SW, PR2 6SH, PR2 6SS",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125285877",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-22T16:05:26",
-      "region": "Brookfield, Preston",
-      "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 14,
-      "estimatedTimeOfRestoration": "2025-12-22T22:05:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-22T22:05:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.783888,
-        "lng": -2.659035
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " PR2 5RW, PR2 6TQ, PR2 6SJ, PR2 6SZ",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
       "faultNumber": "INC 125285804",
       "multipleFaultNumbers": null,
       "date": "2025-12-22T14:03:47",
@@ -308,7 +266,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 6,
+  "TotalResults": 5,
   "ShowPolygons": false,
   "Regions": [
     {
