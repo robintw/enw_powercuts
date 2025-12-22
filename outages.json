@@ -152,6 +152,48 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 125285932",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-22T18:54:25",
+      "region": "Slyne-With-Hest, Lancaster",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 5,
+      "estimatedTimeOfRestoration": "2025-12-23T00:54:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-23T00:54:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.087738,
+        "lng": -2.768680
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA5 8AB",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 125285854",
       "multipleFaultNumbers": null,
       "date": "2025-12-22T15:25:11",
@@ -199,8 +241,8 @@
       "date": "2025-12-22T16:50:52",
       "region": "Workington, Allerdale",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 92,
       "estimatedTimeOfRestoration": "2025-12-22T22:50:00",
       "estimatedTimeOfRestorationMajority": "2025-12-22T22:50:00",
@@ -241,8 +283,8 @@
       "date": "2025-12-22T18:37:08",
       "region": "Boothstown & Ellenbrook, Salford",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 29,
       "estimatedTimeOfRestoration": "2025-12-23T00:36:00",
       "estimatedTimeOfRestorationMajority": "2025-12-23T00:36:00",
@@ -278,48 +320,6 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125285924",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-22T18:43:17",
-      "region": "Clayton & Openshaw, Manchester",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 46,
-      "estimatedTimeOfRestoration": "2025-12-23T00:43:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-23T00:43:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.487696,
-        "lng": -2.185986
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M11 4GG, M11 4HT, M11 4FP, M11 4EG, M11 4FG, M11 4HX, M11 4BL, M11 4BN, M11 4FR",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
       "faultNumber": "INC 125285804",
       "multipleFaultNumbers": null,
       "date": "2025-12-22T14:03:47",
@@ -327,17 +327,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 6,
+      "consumersOff": 18,
       "estimatedTimeOfRestoration": "2025-12-23T00:00:01",
       "estimatedTimeOfRestorationMajority": "2025-12-23T00:00:01",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.486734,
-        "lng": -2.185375
+        "lat": 53.486714,
+        "lng": -2.185679
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M11 4FP",
+      "AffectedPostcodes": " M11 4FP, M11 4GG, M11 4FH",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
