@@ -138,7 +138,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -152,26 +152,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125285894",
+      "faultNumber": "INC 125285810",
       "multipleFaultNumbers": null,
-      "date": "2025-12-22T16:49:31",
-      "region": "Hindley Green, Wigan",
+      "date": "2025-12-22T14:10:25",
+      "region": "Ardwick, Manchester",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 125,
-      "estimatedTimeOfRestoration": "2025-12-22T19:49:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-22T19:49:00",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 24,
+      "estimatedTimeOfRestoration": "2025-12-22T20:10:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-22T20:10:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.533873,
-        "lng": -2.542206
+        "lat": 53.473356,
+        "lng": -2.215170
       },
       "outageLocations": null,
-      "AffectedPostcodes": " WN2 4JA, BL5 2BX, WN2 4UG, WN2 4ET, WN2 4ZZ, BL5 2DR, BL5 2BZ, WN2 4GS, WN2 4HR, WN2 4HD, BL5 2BY, BL5 2AX, WN2 4HN, WN2 4EX, BL5 2BT, BL5 2DB, WN2 4HX, WN2 4HS, WN2 4EZ, BL5 2BU, WN2 4EY, WN2 4HB, WN2 2HD, WN2 4HT, WN2 4HA, WN2 4HE, WN2 4HF, WN2 4HW, WN2 4PP, WN2 4AT",
+      "AffectedPostcodes": " M12 5NL, M12 5AP, M12 5LQ, M4 4DR, M12 5ND, M12 5NP, M12 5AZ, M4 4DT",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -236,6 +236,48 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 125285906",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-22T17:42:13",
+      "region": "Clayton & Openshaw, Manchester",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 6,
+      "estimatedTimeOfRestoration": "2025-12-22T23:42:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-22T23:42:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.486734,
+        "lng": -2.185375
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M11 4FP",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 125285804",
       "multipleFaultNumbers": null,
       "date": "2025-12-22T14:03:47",
@@ -243,7 +285,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 89,
+      "consumersOff": 83,
       "estimatedTimeOfRestoration": "2025-12-22T20:03:00",
       "estimatedTimeOfRestorationMajority": "2025-12-22T20:03:00",
       "information": "",
@@ -266,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
