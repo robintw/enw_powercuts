@@ -75,7 +75,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 118,
+      "consumersOff": 21,
       "estimatedTimeOfRestoration": "2025-12-23T16:00:00",
       "estimatedTimeOfRestorationMajority": "2025-12-23T16:00:00",
       "information": "",
@@ -110,24 +110,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125285720",
+      "faultNumber": "INC 125285961",
       "multipleFaultNumbers": null,
-      "date": "2025-12-22T11:51:00",
-      "region": "Moston, Manchester",
+      "date": "2025-12-22T21:34:00",
+      "region": "North Middleton, Rochdale",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 8,
-      "estimatedTimeOfRestoration": "2025-12-22T23:30:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-22T23:30:00",
+      "consumersOff": 23,
+      "estimatedTimeOfRestoration": "2025-12-23T01:34:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-23T01:34:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.514237,
-        "lng": -2.201539
+        "lat": 53.556804,
+        "lng": -2.194800
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M40 9WT, M9 4HE, M9 4HA, M9 4HL, M9 4HD, M9 4HG, M40 9NS, M9 4DF, M9 4FZ, M40 9WJ, M9 4FJ, M40 9NJ, M9 4NY, M9 4FY, M9 4FN",
+      "AffectedPostcodes": " M24 2PY, M24 2PZ, M24 2GY",
       "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -137,8 +137,8 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UnderReview": true,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -152,26 +152,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125286056",
+      "faultNumber": "INC 125285720",
       "multipleFaultNumbers": null,
-      "date": "2025-12-23T09:33:58",
-      "region": "Beetham, South Lakeland",
+      "date": "2025-12-22T11:51:00",
+      "region": "Moston, Manchester",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 32,
-      "estimatedTimeOfRestoration": "2025-12-23T15:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-23T15:00:00",
+      "consumersOff": 7,
+      "estimatedTimeOfRestoration": "2025-12-22T23:30:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-22T23:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.201025,
-        "lng": -2.782566
+        "lat": 53.514237,
+        "lng": -2.201539
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA7 7AX, LA7 7AL, LA7 7BB, LA7 7AZ, LA7 7BD, LA7 7AY, LA7 7AU, LA7 7BE, LA7 7BG",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
+      "AffectedPostcodes": " M40 9WT, M9 4HE, M9 4HA, M9 4HL, M9 4HD, M9 4HG, M40 9NS, M9 4DF, M9 4FZ, M40 9WJ, M9 4FJ, M40 9NJ, M9 4NY, M9 4FY, M9 4FN",
+      "UnderReviewStatusTimeCheck": true,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -199,8 +199,8 @@
       "date": "2025-12-23T13:44:44",
       "region": "Little Lever And Darcy Lever, Bolton",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 106,
       "estimatedTimeOfRestoration": "2025-12-23T19:44:00",
       "estimatedTimeOfRestorationMajority": "2025-12-23T19:44:00",
