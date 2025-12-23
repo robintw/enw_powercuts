@@ -137,7 +137,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -160,8 +160,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 7,
-      "estimatedTimeOfRestoration": "2025-12-22T23:30:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-22T23:30:00",
+      "estimatedTimeOfRestoration": "2025-12-23T17:30:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-23T17:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -170,7 +170,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " M40 9WT, M9 4HE, M9 4HA, M9 4HL, M9 4HD, M9 4HG, M40 9NS, M9 4DF, M9 4FZ, M40 9WJ, M9 4FJ, M40 9NJ, M9 4NY, M9 4FY, M9 4FN",
-      "UnderReviewStatusTimeCheck": true,
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -199,7 +199,7 @@
       "date": "2025-12-23T14:17:46",
       "region": "Roosecote, Barrow-In-Furness",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
+      "faultStatus": "We're on site",
       "previousFaultStatus": "Team on their way",
       "consumersOff": 119,
       "estimatedTimeOfRestoration": "2025-12-23T20:17:00",
@@ -222,6 +222,48 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125286279",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-23T14:39:09",
+      "region": "Farlam, Carlisle",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 23,
+      "estimatedTimeOfRestoration": "2025-12-23T17:39:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-23T17:39:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.925404,
+        "lng": -2.661699
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " CA8 2NH, CA8 1JY, CA8 1JZ, CA8 1LZ, CA8 1LY, CA8 2PF",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -236,24 +278,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125286163",
+      "faultNumber": "INC 125286288",
       "multipleFaultNumbers": null,
-      "date": "2025-12-23T12:11:12",
-      "region": "Scott, West Lancashire",
+      "date": "2025-12-23T14:52:45",
+      "region": "Lower Allithwaite, South Lakeland",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 50,
-      "estimatedTimeOfRestoration": "2025-12-23T18:09:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-23T18:09:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 39,
+      "estimatedTimeOfRestoration": "2025-12-23T20:52:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-23T20:52:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.570007,
-        "lng": -2.881935
+        "lat": 54.183264,
+        "lng": -2.942469
       },
       "outageLocations": null,
-      "AffectedPostcodes": " L39 2XB, L39 2JB, L39 2XD, L39 2YT",
+      "AffectedPostcodes": " LA11 7RD, LA11 7RE, LA11 7RB, LA11 7RF, LA11 7RR, LA11 7QZ, LA11 7QH, LA11 7RU, LA11 7QQ, LA11 7QN",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -266,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
