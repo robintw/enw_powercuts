@@ -243,9 +243,9 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 16,
-      "estimatedTimeOfRestoration": "2025-12-23T22:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-23T22:00:00",
+      "consumersOff": 9,
+      "estimatedTimeOfRestoration": "2025-12-23T20:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-23T20:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -254,48 +254,6 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " CA8 2NH, CA8 1JY, CA8 1JZ, CA8 1LZ, CA8 1LY, CA8 2PF",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125286320",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-23T16:20:55",
-      "region": "Marple North, Stockport",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 72,
-      "estimatedTimeOfRestoration": "2025-12-23T19:20:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-23T19:20:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.406678,
-        "lng": -2.030799
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " SK6 5DD, SK6 5EL, SK6 5DG, SK6 5DQ, SK6 5LW, SK6 5NX, SK6 5NU, SK6 5LP, SK6 5DH, SK6 5DF, SK6 5LL, SK6 5LR",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -350,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 7,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
