@@ -73,8 +73,8 @@
       "date": "2025-12-24T16:24:50",
       "region": "Saddleworth, Oldham",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 146,
       "estimatedTimeOfRestoration": "2025-12-24T22:24:00",
       "estimatedTimeOfRestorationMajority": "2025-12-24T22:24:00",
@@ -115,11 +115,11 @@
       "date": "2025-12-24T17:34:47",
       "region": "Bury West, Bury",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
+      "faultStatus": "We're on site",
       "previousFaultStatus": null,
-      "consumersOff": 11,
-      "estimatedTimeOfRestoration": "2025-12-24T23:34:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-24T23:34:00",
+      "consumersOff": 6,
+      "estimatedTimeOfRestoration": "2025-12-25T01:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-25T01:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -158,7 +158,7 @@
       "region": "Saddleworth, Oldham",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 24,
       "estimatedTimeOfRestoration": "2025-12-24T18:30:00",
       "estimatedTimeOfRestorationMajority": "2025-12-24T18:30:00",
@@ -173,48 +173,6 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125286685",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-24T15:10:01",
-      "region": "Waverton, Allerdale",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 5,
-      "estimatedTimeOfRestoration": "2025-12-24T18:10:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-24T18:10:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.802972,
-        "lng": -3.225881
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " CA7 0BJ, CA7 0BL",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "O/HM",
-      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -223,7 +181,7 @@
     "ResolvedFault",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 3,
   "ShowPolygons": false,
   "Regions": [
     {
