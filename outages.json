@@ -53,7 +53,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -68,25 +68,67 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125285942",
+      "faultNumber": "INC 125286499",
       "multipleFaultNumbers": null,
-      "date": "2025-12-22T19:37:18",
-      "region": "Broughton, Salford",
+      "date": "2025-12-24T05:00:06",
+      "region": "Swinton Park, Salford",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 126,
-      "estimatedTimeOfRestoration": "2025-12-23T02:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-23T02:00:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 104,
+      "estimatedTimeOfRestoration": "2025-12-24T11:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-24T11:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.501505,
-        "lng": -2.254811
+        "lat": 53.503343,
+        "lng": -2.325490
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M7 4UZ, M7 4UN, M8 8ES, M7 4TZ, M7 4UY, M7 4UB, M7 4UU, M7 4UT, M7 4UG, M7 4UA, M7 4US",
-      "UnderReviewStatusTimeCheck": true,
+      "AffectedPostcodes": " M27 5LQ, M27 5NH, M27 5WD, M27 5WB, M27 5ND",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125286502",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-24T05:00:14",
+      "region": "Claremont, Salford",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 28,
+      "estimatedTimeOfRestoration": "2025-12-24T11:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-24T11:00:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.503010,
+        "lng": -2.325657
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M27 5WB, M27 5WD, M27 5ND, M27 5LR",
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -115,8 +157,8 @@
       "date": "2025-12-24T04:45:38",
       "region": "Stalmine-With-Staynall, Wyre",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 35,
       "estimatedTimeOfRestoration": "2025-12-24T10:45:00",
       "estimatedTimeOfRestorationMajority": "2025-12-24T10:45:00",
@@ -139,7 +181,7 @@
     "ResolvedFault",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 2,
+  "TotalResults": 3,
   "ShowPolygons": false,
   "Regions": [
     {
