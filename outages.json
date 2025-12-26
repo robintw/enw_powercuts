@@ -95,7 +95,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -110,25 +110,67 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125287358",
+      "faultNumber": "INC 125287514",
       "multipleFaultNumbers": null,
-      "date": "2025-12-25T14:20:56",
-      "region": "Gorton & Abbey Hey, Manchester",
+      "date": "2025-12-26T16:41:32",
+      "region": "North Meols, West Lancashire",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 9,
-      "estimatedTimeOfRestoration": "2025-12-25T19:30:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-25T19:30:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 25,
+      "estimatedTimeOfRestoration": "2025-12-26T22:41:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-26T22:41:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.462988,
-        "lng": -2.167071
+        "lat": 53.676082,
+        "lng": -2.929933
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M18 8PX, M18 8PA, M18 8PD, M18 8PB",
-      "UnderReviewStatusTimeCheck": true,
+      "AffectedPostcodes": " PR9 8DT, PR9 8AS, PR9 8AR",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125287519",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-26T16:41:49",
+      "region": "North Meols, West Lancashire",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 51,
+      "estimatedTimeOfRestoration": "2025-12-26T22:41:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-26T22:41:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.681054,
+        "lng": -2.921390
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR9 8HE, PR9 8ET",
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -157,8 +199,8 @@
       "date": "2025-12-26T16:09:15",
       "region": "Hulme, Manchester",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 78,
       "estimatedTimeOfRestoration": "2025-12-26T22:09:00",
       "estimatedTimeOfRestorationMajority": "2025-12-26T22:09:00",
@@ -170,6 +212,48 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " M15 5WB, M15 5WD, M15 5PL, M15 5RA, M15 5JB, M15 5DD, M15 5PR, M15 5PN, M15 5QQ, M15 5QR, M15 5QH, M15 5UP, M15 5AF, M15 5FZ, M16 7DN, M16 7DH",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125287529",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-26T16:43:10",
+      "region": "Tarleton, West Lancashire",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 119,
+      "estimatedTimeOfRestoration": "2025-12-26T22:43:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-26T22:43:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.681178,
+        "lng": -2.830265
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR4 6UB, PR4 6UZ, PR4 6UE, PR4 6UH, PR4 6DH, PR4 6UP, PR4 6DJ, PR4 6DL, PR4 6DW",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -200,7 +284,7 @@
       "region": "North Meols, West Lancashire",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 15,
       "estimatedTimeOfRestoration": "2025-12-26T19:35:00",
       "estimatedTimeOfRestorationMajority": "2025-12-26T19:35:00",
@@ -222,7 +306,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -236,26 +320,194 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125287494",
+      "faultNumber": "INC 125287532",
       "multipleFaultNumbers": null,
-      "date": "2025-12-26T16:38:58",
-      "region": "Tarleton, West Lancashire",
+      "date": "2025-12-26T16:45:09",
+      "region": "North Meols, West Lancashire",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 296,
-      "estimatedTimeOfRestoration": "2025-12-26T19:39:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-26T19:39:00",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 28,
+      "estimatedTimeOfRestoration": "2025-12-26T22:41:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-26T22:41:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.681729,
-        "lng": -2.829787
+        "lat": 53.676983,
+        "lng": -2.929457
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR4 6UB, PR4 6BP, PR4 6BQ, PR4 6AQ, PR4 6UZ, PR4 6DJ, PR4 6UE, PR4 6UH, PR4 6DH, PR4 6BN, PR4 6UP, PR4 6DL, PR4 6DW, PR4 6BL, PR4 6EJ, PR4 6HB, PR4 6HD",
+      "AffectedPostcodes": " PR9 8AY, PR9 8BB, PR9 8AZ, PR9 8BA",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125287537",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-26T16:46:27",
+      "region": "North Meols, West Lancashire",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 109,
+      "estimatedTimeOfRestoration": "2025-12-26T22:40:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-26T22:40:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.676477,
+        "lng": -2.920312
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR9 8BT, PR9 8FL, PR9 8SH, PR9 8FQ, PR9 8RF, PR9 8FS, PR9 8FN, PR9 8RG, PR9 8FP, PR9 8DG, PR9 8B",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125287506",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-26T16:40:46",
+      "region": "North Meols, West Lancashire",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 67,
+      "estimatedTimeOfRestoration": "2025-12-26T22:40:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-26T22:40:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.677891,
+        "lng": -2.924860
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR9 8BB, PR9 8BQ",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125287508",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-26T16:41:06",
+      "region": "North Meols, West Lancashire",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 41,
+      "estimatedTimeOfRestoration": "2025-12-26T22:41:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-26T22:41:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.678958,
+        "lng": -2.922442
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR9 8BD, PR9 8BG, PR9 8BQ, PR9 8SA",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125287509",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-26T16:41:14",
+      "region": "North Meols, West Lancashire",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 46,
+      "estimatedTimeOfRestoration": "2025-12-26T22:41:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-26T22:41:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.675874,
+        "lng": -2.928583
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR9 8AL, PR9 8DN, PR9 8AS",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     }
   ],
@@ -265,7 +517,7 @@
     "ResolvedFault",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 11,
   "ShowPolygons": false,
   "Regions": [
     {
