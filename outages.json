@@ -96,6 +96,48 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125287657",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-27T12:57:10",
+      "region": "Bramhall North, Stockport",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 333,
+      "estimatedTimeOfRestoration": "2025-12-27T15:57:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-27T15:57:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.367844,
+        "lng": -2.155341
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK7 2NH, SK7 2LB, SK7 2LX, SK7 2QW, SK7 2NL, SK7 2JR, SK7 2LU, SK7 2NX, SK7 2NT, SK7 2HG, SK7 2LY, SK7 2JN, SK7 2NJ, SK7 2JG, SK7 2JP, SK7 2NU, SK7 2LA, SK7 2NN, SK7 2NS, SK7 2LT, SK7 2JT, SK7 2NW, SK7 2EY",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -110,24 +152,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125287642",
+      "faultNumber": "INC 125287660",
       "multipleFaultNumbers": null,
-      "date": "2025-12-27T12:00:17",
-      "region": "City Centre, Preston",
+      "date": "2025-12-27T13:00:40",
+      "region": "Bramhall North, Stockport",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 82,
-      "estimatedTimeOfRestoration": "2025-12-27T18:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-27T18:00:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 36,
+      "estimatedTimeOfRestoration": "2025-12-27T19:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-27T19:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.760428,
-        "lng": -2.700346
+        "lat": 53.359587,
+        "lng": -2.157007
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR1 2BA",
+      "AffectedPostcodes": " SK7 2EY, SK7 2HB, SK7 2EZ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -160,8 +202,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 7,
-      "estimatedTimeOfRestoration": "2025-12-27T16:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-27T16:00:00",
+      "estimatedTimeOfRestoration": "2025-12-27T14:30:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-27T14:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -181,7 +223,7 @@
     "ResolvedFault",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 3,
+  "TotalResults": 4,
   "ShowPolygons": false,
   "Regions": [
     {
