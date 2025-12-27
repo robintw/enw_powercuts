@@ -73,8 +73,8 @@
       "date": "2025-12-27T13:58:09",
       "region": "Higher Blackley, Manchester",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 71,
       "estimatedTimeOfRestoration": "2025-12-27T19:57:00",
       "estimatedTimeOfRestorationMajority": "2025-12-27T19:57:00",
@@ -137,8 +137,8 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -152,26 +152,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125287606",
+      "faultNumber": "INC 125287682",
       "multipleFaultNumbers": null,
-      "date": "2025-12-27T08:43:30",
-      "region": "Bramhall North, Stockport",
+      "date": "2025-12-27T14:10:17",
+      "region": "Stalmine-With-Staynall, Wyre",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 5,
-      "estimatedTimeOfRestoration": null,
-      "estimatedTimeOfRestorationMajority": null,
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 44,
+      "estimatedTimeOfRestoration": "2025-12-27T20:10:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-27T20:10:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.367844,
-        "lng": -2.155341
+        "lat": 53.899400,
+        "lng": -2.958380
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK7 2NH, SK7 2LB, SK7 2LX, SK7 2QW, SK7 2NL, SK7 2JR, SK7 2LU, SK7 2NX, SK7 2NT, SK7 2HG, SK7 2LY, SK7 2JN, SK7 2NJ, SK7 2JG, SK7 2JP, SK7 2NU, SK7 2LA, SK7 2NN, SK7 2NS, SK7 2LT, SK7 2JT, SK7 2NW, SK7 2EY",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "HVFL",
+      "AffectedPostcodes": " FY6 0LE, FY6 0LH, FY6 0LX, FY6 0JH, FY6 0QP, FY6 0LZ, FY6 0LQ, FY6 0NA",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -179,7 +179,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -212,50 +212,8 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " WA3 5QL, WA3 5LS, WA3 5LY, M29 7LY, WA3 5LF, WA3 5NR, WA3 5LX, M29 7LR, WA3 5ND, WA3 5NL, M29 7LP, WA3 5NJ, WA3 5LQ, WA3 5QB, WA3 5NX, WA3 5NF, WA3 5NS, WA3 5NG, WA3 5NE, WA3 5PY, WA3 5NW, WA3 5QJ, WA3 5LW, WA3 5NH, M29 7LS, M29 7LU, WA3 5NA, WA3 5LH, WA3 5NU, WA3 5NB, WA3 5PB, WA3 5PG, M29 7LW, WA3 5PA, WA3 5LZ, WA3 5LN, WA3 5LL, M29 7LG, WA3 5PT, WA3 5QF, WA3 5LJ, M29 7LX, WA3 5NY, M29 7LZ, M29 7EW, M29 7LN, WA3 5LT, WA3 5NQ, WA3 5PP, WA3 5NP, WA3 5PS, WN7 3SF, WN7 3SD, WA3 5NT, M29 7LT, WA3 5PW, WA3 5NZ, WA3 5LR, M29 7LE, M29 7LF, WA3 5QE, M44 5LU, M29 7LQ, WA3 5NN, M29 7LL, WA3 5PN",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125287675",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-27T13:55:53",
-      "region": "Bramhall North, Stockport",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 10,
-      "estimatedTimeOfRestoration": "2025-12-27T19:53:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-27T19:53:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.359587,
-        "lng": -2.157007
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " SK7 2EY, SK7 2EZ, SK7 2HB",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     }
   ],
@@ -265,7 +223,7 @@
     "ResolvedFault",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 4,
   "ShowPolygons": false,
   "Regions": [
     {
