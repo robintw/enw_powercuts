@@ -68,26 +68,68 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125287805",
+      "faultNumber": "INC 125287818",
       "multipleFaultNumbers": null,
-      "date": "2025-12-28T09:57:59",
-      "region": "Norden, Rochdale",
+      "date": "2025-12-28T10:53:12",
+      "region": "Borrowdale, Allerdale",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 33,
-      "estimatedTimeOfRestoration": "2025-12-28T15:57:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-28T15:57:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 8,
+      "estimatedTimeOfRestoration": "2025-12-28T16:49:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-28T16:49:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.629060,
-        "lng": -2.225959
+        "lat": 54.515539,
+        "lng": -3.146690
       },
       "outageLocations": null,
-      "AffectedPostcodes": " OL12 7UD, OL12 7UB, OL12 7TW, OL12 7TR, OL12 7UE, OL11 5TD",
+      "AffectedPostcodes": " CA12 5XG, CA12 5XE",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125287792",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-28T08:25:50",
+      "region": "Bowland-With-Leagram, Ribble Valley",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 3,
+      "estimatedTimeOfRestoration": "2025-12-28T11:25:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-28T11:25:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.899013,
+        "lng": -2.546472
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR3 2QT, PR3 2QS",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "O/HM",
       "addressMpanList": null
     },
     {
@@ -139,7 +181,7 @@
     "ResolvedFault",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 2,
+  "TotalResults": 3,
   "ShowPolygons": false,
   "Regions": [
     {
