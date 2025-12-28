@@ -110,6 +110,48 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 125287883",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-28T16:18:14",
+      "region": "Whalley Range, Manchester",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 177,
+      "estimatedTimeOfRestoration": "2025-12-28T22:18:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-28T22:18:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.453919,
+        "lng": -2.241360
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M14 4UL, M14 4TT, M14 4TU, M14 4TY, M14 4TX, M14 4RS, M14 4UP, M14 4TZ, M14 4UE, M14 4UF, M14 4UQ, M14 4UA, M14 4UG, M14 4UD, M14 4UY, M14 4UZ, M14 4RN",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 125287894",
       "multipleFaultNumbers": null,
       "date": "2025-12-28T16:40:43",
@@ -157,7 +199,7 @@
       "date": "2025-12-28T17:47:43",
       "region": "St. Peter's, Tameside",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
+      "faultStatus": "We're on site",
       "previousFaultStatus": "Team on their way",
       "consumersOff": 186,
       "estimatedTimeOfRestoration": "2025-12-28T23:47:00",
@@ -171,48 +213,6 @@
       "outageLocations": null,
       "AffectedPostcodes": " OL6 8LW, OL6 8LN, OL6 6DP, OL6 8LP, OL6 6DT, OL6 8SS, OL6 6JE, OL6 8LU, OL6 8LS, OL6 8LJ, OL6 8NU, OL6 8SU, OL6 8NT, OL6 8NX, OL6 8LH, OL6 8NZ, OL6 8PB, OL6 8PD, OL6 8SX, OL6 8SR, OL6 8PQ, OL6 8PJ, OL6 6JG, OL6 8NW",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125287797",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-28T09:10:05",
-      "region": "Boothstown & Ellenbrook, Salford",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 47,
-      "estimatedTimeOfRestoration": "2025-12-28T18:00:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-28T18:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.509574,
-        "lng": -2.412928
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M28 7XF, M28 7XG, M28 1FR, M28 1ER",
-      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     }
