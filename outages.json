@@ -137,6 +137,48 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
+      "UnderReview": true,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125288134",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-29T14:28:42",
+      "region": "Windermere, South Lakeland",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 62,
+      "estimatedTimeOfRestoration": "2025-12-29T18:28:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-29T18:28:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.361472,
+        "lng": -2.918801
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA23 3EW, LA23 3FB, LA23 3AE, LA23 3HL, LA23 3DE, LA23 3FJ, LA23 3EH, LA23 3EL",
+      "UnderReviewStatusTimeCheck": true,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
       "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
@@ -159,7 +201,7 @@
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 191,
+      "consumersOff": 192,
       "estimatedTimeOfRestoration": "2025-12-29T23:31:00",
       "estimatedTimeOfRestorationMajority": "2025-12-29T23:31:00",
       "information": "",
@@ -222,48 +264,6 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125288239",
-      "multipleFaultNumbers": null,
-      "date": "2025-12-29T18:51:29",
-      "region": "St. Mary's, Oldham",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 70,
-      "estimatedTimeOfRestoration": "2025-12-30T00:51:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-30T00:51:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.546198,
-        "lng": -2.104234
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " OL1 3QJ, OL1 3XA, OL1 3UZ, OL1 3QF, OL1 3UE, OL1 3QN, OL1 3QL, OL1 3UX",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -286,8 +286,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 83,
-      "estimatedTimeOfRestoration": "2025-12-29T18:39:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-29T18:39:00",
+      "estimatedTimeOfRestoration": "2025-12-29T23:00:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-29T23:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -296,7 +296,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " BB5 3SN, BB5 3TF, BB5 3SD, BB5 3SJ, BB5 3SF, BB5 3SL, BB5 3TE, BB5 0NY, BB5 3SW, BB5 3SQ, BB5 3RY, BB5 3TD, BB5 3RT, BB5 3SB, BB5 2RH, BB5 3SA, BB5 3SE, BB5 3SG, BB5 3SR, BB5 3RZ, BB5 3SS, BB5 0NW, BB5 3SH, BB5 0NU, BB5 3FB, BB5 2RJ",
-      "UnderReviewStatusTimeCheck": true,
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     }
