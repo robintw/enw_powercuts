@@ -158,7 +158,7 @@
       "region": "Clayton & Openshaw, Manchester",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 811,
       "estimatedTimeOfRestoration": "2025-12-30T00:49:00",
       "estimatedTimeOfRestorationMajority": "2025-12-30T00:49:00",
@@ -200,7 +200,7 @@
       "region": "Preesall, Wyre",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 191,
       "estimatedTimeOfRestoration": "2025-12-29T23:31:00",
       "estimatedTimeOfRestorationMajority": "2025-12-29T23:31:00",
@@ -221,7 +221,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -254,7 +254,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " BB5 3SN, BB5 3TF, BB5 3SD, BB5 3SJ, BB5 3SF, BB5 3SL, BB5 3TE, BB5 0NY, BB5 3SW, BB5 3SQ, BB5 3RY, BB5 3TD, BB5 3RT, BB5 3SB, BB5 2RH, BB5 3SA, BB5 3SE, BB5 3SG, BB5 3SR, BB5 3RZ, BB5 3SS, BB5 0NW, BB5 3SH, BB5 0NU, BB5 3FB, BB5 2RJ",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     }
