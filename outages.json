@@ -54,7 +54,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -75,19 +75,19 @@
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 16,
-      "estimatedTimeOfRestoration": "2025-12-29T15:10:00",
-      "estimatedTimeOfRestorationMajority": "2025-12-29T15:10:00",
+      "consumersOff": 191,
+      "estimatedTimeOfRestoration": "2025-12-29T12:10:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-29T12:10:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.662832,
-        "lng": -2.726195
+        "lat": 53.659919,
+        "lng": -2.701581
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR7 6ET, PR26 8LB, PR7 6LX, PR7 6LY, PR7 6ES",
+      "AffectedPostcodes": " PR7 6LX, PR7 6ET, PR7 6EW, PR26 8LB, PR7 6ES, PR7 6EG, PR7 6EH, PR7 6DZ, PR7 6EX, PR7 6EQ, PR7 6ER, PR7 6EU, PR7 6EL, PR7 6DD, PR7 6EN, PR7 6LY, PR7 6EF, PR7 6EJ, PR7 6EE, PR7 5JT, PR7 6GY, PR7 6EB, PR7 6ED, PR7 6LR, PR7 6EA",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     }
   ],
