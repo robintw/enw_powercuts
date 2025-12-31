@@ -159,17 +159,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 12,
+      "consumersOff": 13,
       "estimatedTimeOfRestoration": "2025-12-31T12:00:00",
       "estimatedTimeOfRestorationMajority": "2025-12-31T12:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.910057,
-        "lng": -3.019320
+        "lat": 53.915955,
+        "lng": -3.019543
       },
       "outageLocations": null,
-      "AffectedPostcodes": " FY7 6RP, FY7 7PF, FY7 7PB, FY7 6RS, FY7 7PA, FY5 2LT, FY7 6NS",
+      "AffectedPostcodes": " FY7 6RP, FY7 7PA, FY7 6NS, FY7 6RS",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -201,7 +201,7 @@
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 261,
+      "consumersOff": 306,
       "estimatedTimeOfRestoration": "2025-12-31T12:58:00",
       "estimatedTimeOfRestorationMajority": "2025-12-31T12:58:00",
       "information": "",
@@ -242,7 +242,7 @@
       "region": "Denton West, Tameside",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Preparing to send team",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 41,
       "estimatedTimeOfRestoration": "2025-12-31T15:48:00",
       "estimatedTimeOfRestorationMajority": "2025-12-31T15:48:00",
@@ -341,6 +341,90 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125288768",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-31T10:19:21",
+      "region": "Windermere, South Lakeland",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 106,
+      "estimatedTimeOfRestoration": "2025-12-31T16:19:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-31T16:19:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.363351,
+        "lng": -2.917215
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA23 3AG, LA23 3AE, LA23 3ES, LA23 3AL, LA23 3AQ, LA23 3AF, LA23 3EN, LA23 3AS, LA23 3AB, LA23 3AT, LA23 3AJ, LA23 3AD",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125288770",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-31T10:19:24",
+      "region": "Windermere, South Lakeland",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 137,
+      "estimatedTimeOfRestoration": "2025-12-31T16:19:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-31T16:19:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.377909,
+        "lng": -2.905638
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA23 1DU, LA23 1DP, LA23 1DF, LA23 1DX, LA23 1BL, LA23 1BH, LA23 1DT, LA23 1EN, LA23 1EE, LA23 1BJ, LA23 1DZ, LA23 1FA, LA23 1EG, LA23 1EA, LA23 1DS, LA23 1DY, LA23 1EH, LA23 2AB, LA23 2AJ, LA23 1GA, LA23 1EJ, LA23 1EF, LA23 1ED",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -349,7 +433,7 @@
     "ResolvedFault",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 7,
+  "TotalResults": 9,
   "ShowPolygons": false,
   "Regions": [
     {
