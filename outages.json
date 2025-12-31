@@ -299,6 +299,48 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125288843",
+      "multipleFaultNumbers": null,
+      "date": "2025-12-31T12:16:53",
+      "region": "Nateby, Wyre",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 633,
+      "estimatedTimeOfRestoration": "2025-12-31T15:16:00",
+      "estimatedTimeOfRestorationMajority": "2025-12-31T15:16:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.890457,
+        "lng": -2.771524
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR3 1YB, PR3 1YF, PR3 1GQ, PR3 1EY, PR3 1SF, PR3 1RD, PR3 1PB, PR3 1TD, PR3 1FF, PR3 1QW, PR3 1QQ, PR3 1NE, PR3 1YE, PR3 1ZW, PR3 1YD, PR3 1RQ, PR3 1WB, PR3 1GY, PR3 0HL, PR3 1RW, PR3 1ND, PR3 1ZB, PR3 1GF, PR3 1RH, PR3 1JZ, PR3 1QU, PR3 1FW, PR3 1UA, PR3 1RY, PR3 1NA, PR3 1PF, PR3 1AZ, PR3 1ZQ, PR3 1FX, PR3 1QB, PR25 3ZG, PR3 1NB, PR3 0HN, PR3 1RX, PR3 1TE, PR3 1FT, PR3 1PE, PR3 1QT, PR3 1GT, PR3 1GS, PR3 1ZD, PR3 1QY, PR3 1BZ, PR3 1SG, PR3 1QZ, PR3 1XH, PR3 1PU, PR3 1TH, PR3 1XF, PR3 1QH, PR3 1GR, PR3 1XZ, PR3 1WH, PR3 1QA, PR3 1WD, PR3 1GU, PR3 1FY, PR3 1WW, PR3 1PH, PR3 1TJ, PR3 1WE, PR3 1TT, PR3 1QP, PR3 1ZE, PR3 1QR, PR3 1RF, PR3 1TG, PR3 1FZ, PR3 1QF, PR3 1GX, PR3 1RR, PR3 1TF, PR3 1ZZ, PR3 1QX, PR3 1NH, PR3 1WU, PR3 0JA, PR3 0LS, PR3 0HQ, PR3 1RU, PR3 0HP, PR3 1GA, PR3 1QG, PR3 1RZ, PR3 0PA, PR3 0LP",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -307,7 +349,7 @@
     "ResolvedFault",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 6,
+  "TotalResults": 7,
   "ShowPolygons": false,
   "Regions": [
     {
