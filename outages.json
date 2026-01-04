@@ -160,8 +160,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 3,
-      "estimatedTimeOfRestoration": "2026-01-04T20:45:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-04T20:45:00",
+      "estimatedTimeOfRestoration": "2026-01-04T22:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-04T22:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -199,7 +199,7 @@
       "date": "2026-01-04T17:39:04",
       "region": "Lamplugh, Copeland",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
+      "faultStatus": "We're on site",
       "previousFaultStatus": "Team on their way",
       "consumersOff": 66,
       "estimatedTimeOfRestoration": "2026-01-04T23:39:00",
@@ -278,48 +278,6 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241169390",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-04T18:14:15",
-      "region": "St. Johns, Fylde",
-      "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 65,
-      "estimatedTimeOfRestoration": "2026-01-05T00:14:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-05T00:14:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.743631,
-        "lng": -2.942103
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " FY8 5AY, FY8 5BA",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
       "faultNumber": "INC 1241169316",
       "multipleFaultNumbers": null,
       "date": "2026-01-04T14:12:44",
@@ -368,18 +326,18 @@
       "region": "Hyde Godley, Tameside",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 360,
+      "previousFaultStatus": null,
+      "consumersOff": 251,
       "estimatedTimeOfRestoration": "2026-01-04T23:00:00",
       "estimatedTimeOfRestorationMajority": "2026-01-04T23:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.449539,
-        "lng": -2.071057
+        "lat": 53.449518,
+        "lng": -2.070973
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK14 1PS, SK14 1PR, SK14 1PT, SK14 5PL, SK14 1PJ, SK14 1PU, SK14 2RW, SK14 1PL, SK14 1PW, SK14 2RT, SK14 1PP, SK14 2RP, SK14 2RN, SK14 1PF, SK14 2RU, SK14 2RX, SK14 1PQ, SK14 1PB, SK14 1NR, SK14 1PD, SK14 1QE, SK14 1PE, SK14 5PN, SK14 5PQ, SK14 1NN",
+      "AffectedPostcodes": " SK14 1PW, SK14 2RW, SK14 2RN, SK14 1PR, SK14 2RP, SK14 1PF, SK14 1PP, SK14 1PU, SK14 2RT, SK14 1PQ, SK14 5PL, SK14 1PJ, SK14 1PT, SK14 2RX, SK14 5PN, SK14 1PL, SK14 1PS, SK14 1PD, SK14 1NN, SK14 1QE, SK14 1PB, SK14 1PE, SK14 2RU, SK14 5PQ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -391,7 +349,7 @@
     "ResolvedFault",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 8,
+  "TotalResults": 7,
   "ShowPolygons": false,
   "Regions": [
     {
