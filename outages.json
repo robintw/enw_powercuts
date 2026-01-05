@@ -115,19 +115,19 @@
       "date": "2026-01-05T09:04:46",
       "region": "Cadley, Preston",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 41,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 12,
       "estimatedTimeOfRestoration": "2026-01-05T15:04:00",
       "estimatedTimeOfRestorationMajority": "2026-01-05T15:04:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.779304,
-        "lng": -2.725879
+        "lat": 53.779509,
+        "lng": -2.725947
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR2 3SL, PR2 3SN, PR2 3SQ, PR2 3SP, PR2 3RX",
+      "AffectedPostcodes": " PR2 3SL, PR2 3SP",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -201,17 +201,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 31,
+      "consumersOff": 17,
       "estimatedTimeOfRestoration": "2026-01-05T13:15:00",
       "estimatedTimeOfRestorationMajority": "2026-01-05T13:15:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.833731,
-        "lng": -2.602113
+        "lat": 53.833617,
+        "lng": -2.602675
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR3 3HP, PR3 3HS, PR3 3HR, PR3 3HJ",
+      "AffectedPostcodes": " PR3 3HP, PR3 3HS, PR3 3HR",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -221,7 +221,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -244,8 +244,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 10,
-      "estimatedTimeOfRestoration": "2026-01-05T10:19:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-05T10:19:00",
+      "estimatedTimeOfRestoration": "2026-01-05T13:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-05T13:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -254,7 +254,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " SK23 9UL, SK23 9RS",
-      "UnderReviewStatusTimeCheck": true,
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
@@ -299,6 +299,90 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241169719",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-05T10:25:51",
+      "region": "Cathedral & Castle, Carlisle",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 196,
+      "estimatedTimeOfRestoration": "2026-01-05T16:24:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-05T16:24:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.893767,
+        "lng": -2.954744
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " CA2 7JB, CA2 7JF, CA2 7JG, CA2 7AP, CA2 7JA, CA2 7AZ, CA2 7BA, CA2 7BD, CA2 7AJ, CA2 7HZ, CA2 7NT, CA2 7BG, CA2 7BE, CA2 7AA",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241169727",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-05T10:33:24",
+      "region": "Longridge, Ribble Valley",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 14,
+      "estimatedTimeOfRestoration": "2026-01-05T16:33:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-05T16:33:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.833997,
+        "lng": -2.601478
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR3 3HJ, PR3 3HS",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -308,7 +392,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 6,
+  "TotalResults": 8,
   "ShowPolygons": false,
   "Regions": [
     {
