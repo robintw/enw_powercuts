@@ -53,90 +53,6 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241169650",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-05T09:04:46",
-      "region": "Cadley, Preston",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": null,
-      "consumersOff": 17,
-      "estimatedTimeOfRestoration": "2026-01-06T00:00:01",
-      "estimatedTimeOfRestorationMajority": "2026-01-06T00:00:01",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.779427,
-        "lng": -2.725814
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " PR2 3SL, PR2 3SP, PR2 3RX, PR2 3SQ",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241170059",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-05T21:55:24",
-      "region": "Ardwick, Manchester",
-      "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": null,
-      "consumersOff": 48,
-      "estimatedTimeOfRestoration": "2026-01-06T03:55:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-06T03:55:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.495561,
-        "lng": -2.267085
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M13 9LS, M13 9JY, M13 9TA, M13 9SA, M13 9SF, M13 9YD, M13 9YE, M13 9TR, M13 9RY, M13 9SP, M13 9PA",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
       "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
@@ -158,7 +74,7 @@
       "region": "Fallowfield, Manchester",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 3,
       "estimatedTimeOfRestoration": "2026-01-05T19:16:00",
       "estimatedTimeOfRestorationMajority": "2026-01-05T19:16:00",
@@ -182,7 +98,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 3,
+  "TotalResults": 1,
   "ShowPolygons": false,
   "Regions": [
     {
@@ -283,9 +199,6 @@
     },
     {
       "name": "rochdale"
-    },
-    {
-      "name": "roseacre and wharles"
     },
     {
       "name": "rossendale"
