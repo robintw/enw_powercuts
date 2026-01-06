@@ -68,6 +68,48 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 1241170583",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-06T17:12:14",
+      "region": "Howard Town, High Peak",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 109,
+      "estimatedTimeOfRestoration": "2026-01-06T20:12:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-06T20:12:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.453000,
+        "lng": -1.960764
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK13 8QN, SK13 8BF, SK13 8QF, SK13 7SQ, SK13 8PP, SK13 8PU, SK13 8QJ, SK13 8QL, SK13 8QW, SK13 7SH, SK13 8GE, SK13 8QG, SK13 8PR, SK13 8QA, SK13 8PX, SK13 8QQ, SK13 8QE, SK13 8PF, SK13 8EZ, SK13 8PT, SK13 8RF, SK13 8QD, SK13 8DA, SK13 8PY, SK13 8DG, SK13 8PN, SK13 8QP, SK13 8PW, SK13 8QH, SK13 7GD, SK13 8PS, SK13 8PZ, SK13 8QB, SK13 8NY, PR2 6LG, SK13 8QS",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 1241170557",
       "multipleFaultNumbers": null,
       "date": "2026-01-06T16:10:59",
@@ -118,8 +160,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 157,
-      "estimatedTimeOfRestoration": "2026-01-06T19:33:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-06T19:33:00",
+      "estimatedTimeOfRestoration": "2026-01-07T01:53:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-07T01:53:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -140,7 +182,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 2,
+  "TotalResults": 3,
   "ShowPolygons": false,
   "Regions": [
     {
