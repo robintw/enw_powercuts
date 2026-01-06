@@ -113,65 +113,23 @@
       "faultNumber": "INC 1241170338",
       "multipleFaultNumbers": null,
       "date": "2026-01-06T11:27:29",
-      "region": "Oughterside And Allerby, Allerdale",
+      "region": "Bridekirk, Allerdale",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 446,
-      "estimatedTimeOfRestoration": "2026-01-06T14:27:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-06T14:27:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 124,
+      "estimatedTimeOfRestoration": "2026-01-06T15:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-06T15:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.689896,
-        "lng": -3.344494
+        "lat": 54.616141,
+        "lng": -3.261190
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA7 2PZ, CA7 2QA, CA7 2QB, CA7 2QN, CA7 2QX, CA7 2QD, CA7 2QZ, CA7 2QW, CA7 2QT, CA7 2QY, CA7 2QF, CA7 2RA, CA13 0PY, CA7 2DU, CA15 6TP, CA7 2RB, CA7 2QR, CA7 2QX, CA13 0PT, CA13 0PS, CA13 0PR, CA7 2QS, CA13 0DD, CA15 6TW, CA15 6TN, CA13 0NR, CA13 0PH, CA13 0PX, CA13 0QA, CA13 0PP, CA13 0NQ, CA13 0NS, CA13 0QE, CA13 0QP, CA13 0QH, PR1 5BY, CA13 0QL, CA13 0PZ, CA13 0QG, CA13 0QW, CA13 0QJ, CA13 9SA, CA13 9SR, CA13 9SP, CA13 9SL, CA13 9SH",
+      "AffectedPostcodes": " CA13 0QA, CA13 0QP, CA13 0PZ, CA13 0QG, CA13 9SR, CA13 9SP, CA13 0QH, CA13 0QW, CA13 9SA, CA13 9SL, PR1 5BY, CA13 0QJ, CA13 0QL, CA13 9SH, CA13 0QE",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241170190",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-06T09:52:48",
-      "region": "Colne, Pendle",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 28,
-      "estimatedTimeOfRestoration": "2026-01-06T15:52:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-06T15:52:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.857190,
-        "lng": -2.170375
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " BB8 0BE, BB8 0EB, BB8 0AQ, BB8 0AE, BB8 0AA, BB8 9BJ",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -199,7 +157,7 @@
       "date": "2026-01-06T13:33:09",
       "region": "St. Mary's, Oldham",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
+      "faultStatus": "We're on site",
       "previousFaultStatus": "Team on their way",
       "consumersOff": 121,
       "estimatedTimeOfRestoration": "2026-01-06T19:33:00",
@@ -243,7 +201,7 @@
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 120,
+      "consumersOff": 119,
       "estimatedTimeOfRestoration": "2026-01-06T19:33:00",
       "estimatedTimeOfRestorationMajority": "2026-01-06T19:33:00",
       "information": "",
@@ -254,6 +212,48 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " OL4 1RT, OL4 1RS, OL4 1RY, OL4 1RR, OL4 1RP, OL4 1RW, OL4 1EQ, OL4 1RL",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241170415",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-06T13:02:57",
+      "region": "South Middleton, Rochdale",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 48,
+      "estimatedTimeOfRestoration": "2026-01-06T19:02:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-06T19:02:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.551216,
+        "lng": -2.194681
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M24 6AE, M24 6AF, M24 1AN, M24 1AT, M24 6UP, M24 6UQ, M24 6AL, M24 6AA, M24 6AD, M24 6AN",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -299,48 +299,6 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241170415",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-06T13:02:57",
-      "region": "South Middleton, Rochdale",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 48,
-      "estimatedTimeOfRestoration": "2026-01-06T19:02:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-06T19:02:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.551216,
-        "lng": -2.194681
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M24 6AE, M24 6AF, M24 1AN, M24 1AT, M24 6UP, M24 6UQ, M24 6AL, M24 6AA, M24 6AD, M24 6AN",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -350,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 7,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
