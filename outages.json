@@ -264,7 +264,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -278,68 +278,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241170648",
+      "faultNumber": "INC 1241170769",
       "multipleFaultNumbers": null,
-      "date": "2026-01-06T20:05:38",
-      "region": "Bryning-With-Warton, Fylde",
+      "date": "2026-01-07T00:32:25",
+      "region": "Saddleworth, Oldham",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 41,
-      "estimatedTimeOfRestoration": "2026-01-07T02:05:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-07T02:05:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 305,
+      "estimatedTimeOfRestoration": "2026-01-07T03:32:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-07T03:32:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.753475,
-        "lng": -2.894216
+        "lat": 53.548705,
+        "lng": -2.054501
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR4 1XT, PR4 1YA, PR4 1YB, PR4 1YR, PR4 1YP, PR4 1BD",
+      "AffectedPostcodes": " OL4 4BD, OL4 3QR, OL4 4BZ, OL4 4BB, OL4 3QW, OL4 4AZ, OL4 4BH, OL4 4AP, OL4 4BQ, OL4 3QB, OL4 4AQ, OL4 4AB, OL4 4BN, OL4 4BS, OL4 3QA, OL4 3RE, OL4 4AR, OL4 4AT, OL4 3SG, OL4 4AF, OL4 3SE, OL4 4AS, OL4 4BG, OL4 4AA, OL4 3RY, OL4 4DB, OL4 4BW, OL4 3SF, OL4 4AG, OL4 3PY, OL4 3RX, OL4 3QN, OL4 4BL, OL4 3QP, OL4 3SA, OL4 3PZ, OL4 3QL, OL4 4BT, OL4 4BY, OL4 3RB, OL4 4AN, OL4 4BE, OL4 4BP, OL4 4BX, OL4 3RD, OL4 3RH, OL4 3RA, OL4 3RG, OL4 4AD, OL4 3SD, OL4 4BA, OL4 4AY, OL4 4AW, OL4 4BU, OL4 3QD, OL4 3QE, OL3 5RD, OL4 3RU, OL4 2BQ, OL4 3QU, OL4 3SB, OL4 3RZ, OL4 3RF, OL4 4DA, OL4 4DL, OL3 5RE, OL4 4RJ, OL4 4JW",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241170731",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-06T22:12:21",
-      "region": "Ingol And Tanterton, Preston",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 195,
-      "estimatedTimeOfRestoration": "2026-01-07T04:12:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-07T04:12:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.781246,
-        "lng": -2.735128
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " PR2 3UJ, PR2 3UZ, PR2 3ZT, PR2 3UE, PR2 3WR, PR2 3UH, PR2 3SQ, PR2 3PL",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     }
   ],
@@ -350,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 7,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
