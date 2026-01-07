@@ -202,8 +202,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 15,
-      "estimatedTimeOfRestoration": "2026-01-07T22:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-07T22:00:00",
+      "estimatedTimeOfRestoration": "2026-01-07T21:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-07T21:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -236,24 +236,66 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241171570",
+      "faultNumber": "INC 1241171600",
       "multipleFaultNumbers": null,
-      "date": "2026-01-07T18:41:11",
-      "region": "St. Andrew's, Hyndburn",
+      "date": "2026-01-07T19:28:51",
+      "region": "Saddleworth, Oldham",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 55,
-      "estimatedTimeOfRestoration": "2026-01-08T00:40:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-08T00:40:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 85,
+      "estimatedTimeOfRestoration": "2026-01-08T01:28:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-08T01:28:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.743012,
-        "lng": -2.400361
+        "lat": 53.546841,
+        "lng": -2.061444
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB5 3LP, BB5 3LG, BB5 3LE, BB5 3LB, BB5 3LD",
+      "AffectedPostcodes": " OL4 3QA, OL4 3QB, OL4 3QE, OL4 3QP, OL4 4BB, OL4 3QL, OL4 3QW, OL4 3QR, OL4 3QU",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241171603",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-07T19:35:49",
+      "region": "Saddleworth, Oldham",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 24,
+      "estimatedTimeOfRestoration": "2026-01-08T01:35:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-08T01:35:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.546897,
+        "lng": -2.065081
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL4 3PY, OL4 3QB, OL4 3QD, OL4 3PZ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -296,48 +338,6 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " M9 6JQ, M9 6JD, M9 6JS, M9 6JE, M9 6JU, M9 6JG",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241171464",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-07T17:29:47",
-      "region": "Clifford, Trafford",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 125,
-      "estimatedTimeOfRestoration": "2026-01-07T23:29:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-07T23:29:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.460449,
-        "lng": -2.266120
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M16 9JU, M16 9JX, M16 9JY, M16 9JZ, M16 9JS, M16 9LH, M16 9PN, M16 9LN, M16 9LJ, M16 9PS",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
