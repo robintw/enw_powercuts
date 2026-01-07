@@ -118,8 +118,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 8,
-      "estimatedTimeOfRestoration": "2026-01-08T00:00:01",
-      "estimatedTimeOfRestorationMajority": "2026-01-08T00:00:01",
+      "estimatedTimeOfRestoration": "2026-01-08T01:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-08T01:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -362,6 +362,48 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 1241171619",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-07T20:28:49",
+      "region": "Coldhurst, Oldham",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 60,
+      "estimatedTimeOfRestoration": "2026-01-08T02:28:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-08T02:28:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.549168,
+        "lng": -2.118882
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL1 2PQ, OL1 2AB, OL1 2HF, OL1 2HG, OL1 2BH, OL1 2PX, OL1 2HP, OL1 2DN",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 1241171262",
       "multipleFaultNumbers": null,
       "date": "2026-01-07T13:41:49",
@@ -424,48 +466,6 @@
       "AffectedPostcodes": " OL4 4LJ, OL4 4AT, OL4 4BD, OL4 4AN, OL4 4BB, OL4 3RX, OL4 4AZ, OL4 4AP, OL4 4BL, OL4 4AQ, OL4 4AB, OL4 4AG, OL4 3SA, OL4 4BN, OL4 3RZ, OL4 3RE, OL4 4AR, OL4 3SG, OL4 4AF, OL4 3RG, OL4 4AD, OL4 3SE, OL4 4AS, OL4 3RB, OL4 4BG, OL4 4AA, OL4 3RY, OL4 4AY, OL4 4BW, OL4 4AW, OL4 3SF, OL4 3QA, OL4 3RA, OL4 4BA, OL4 3RD, OL4 4BP, OL4 4DL, OL4 3RH, OL3 5RE, OL3 5RD, OL4 3RU, OL4 2BQ, OL4 4RJ, OL4 3RF, OL4 3SB, OL4 4QL, OL4 4BH, OL4 4BS, OL4 4LR, OL4 4BZ, OL4 5SJ, OL4 4LS, OL4 4DB, OL4 4JR, OL4 4LN, OL4 4BT, OL4 4BQ, OL4 4BY, OL4 4QP, OL4 4LB, OL4 4BE, OL4 4LP, OL4 4QR, OL4 4QW, OL4 4BU, OL4 4LW, OL4 4BX, OL4 4JP, OL4 4DA, OL4 5SF, OL4 4JW, OL4 5SE",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241171553",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-07T18:15:44",
-      "region": "Moss Side, Manchester",
-      "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 26,
-      "estimatedTimeOfRestoration": "2026-01-08T00:15:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-08T00:15:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.453772,
-        "lng": -2.223515
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M14 5AN, M14 5SG, M14 5RW, M14 5SU, M14 5SS",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     }
   ],
