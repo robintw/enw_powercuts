@@ -46,101 +46,15 @@
   "OverviewDescription": "Important information on the power cut in your area, <b>please read</b>:",
   "TrackPowerCutLabel": "Get Updates",
   "TrackPowerCutLink": null,
-  "ResultType": null,
-  "Items": [
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241171065",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-07T10:04:09",
-      "region": "Newton-Le-Willows East, St. Helens",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 102,
-      "estimatedTimeOfRestoration": "2026-01-08T16:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-08T16:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.449658,
-        "lng": -2.631971
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " WA12 8EJ, WA12 8LU, WA12 8LX, WA12 8LY",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241172161",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-08T13:59:20",
-      "region": "Wardle, Shore & West Littleborough, Rochdale",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 147,
-      "estimatedTimeOfRestoration": "2026-01-08T17:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-08T17:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.643531,
-        "lng": -2.108663
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " OL15 8RN, OL15 8RE, OL15 8DJ, OL15 8LR, OL15 8LE, OL15 8RJ, OL15 8DW, OL15 8JZ, OL15 8RU, OL15 8PQ, OL15 8LS, OL15 8NY, OL15 8NQ, OL15 8RH, OL15 8JJ, OL15 8DL, OL15 8JP, OL15 8LL, OL15 8LP, OL15 8RY, OL15 8PF, OL15 8DR, OL15 8PZ, OL15 8RZ, OL15 8JW, OL15 8NT, OL15 8DH, OL15 8LF, OL15 8LA, OL15 8RL, OL15 8LD, OL15 8RP, OL15 8PA, OL15 8LG, OL15 8DT, OL15 8HN, OL15 8RG, OL15 8LW, OL15 8PD, OL15 8NR, OL15 8RT, OL15 8PB, OL15 8NS, OL15 8LJ, OL15 8NX, OL15 8LN, OL15 8FH, OL15 8RR, OL15 8NP, OL15 8PH, OL15 8DU, OL15 8HF, OL15 8NU, OL15 8LB, OL15 8PE, OL15 8JS, OL15 8RW, OL15 8JB, OL15 8HD, OL15 8JX, OL15 8JT, OL15 8DS, OL15 8DN",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    }
-  ],
+  "ResultType": "NoOutageFound",
+  "Items": [],
   "Markers": null,
   "AvailableItemTypes": [
-    "CurrentFault",
     "ResolvedFault",
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 2,
+  "TotalResults": 0,
   "ShowPolygons": false,
   "Regions": [
     {
