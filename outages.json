@@ -95,8 +95,8 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UnderReview": true,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -110,26 +110,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241171932",
+      "faultNumber": "INC 1241170908",
       "multipleFaultNumbers": null,
-      "date": "2026-01-08T10:01:44",
-      "region": "Currock & Upperby, Carlisle",
+      "date": "2026-01-07T07:42:22",
+      "region": "Cheadle And Gatley, Stockport",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 186,
-      "estimatedTimeOfRestoration": "2026-01-08T13:01:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-08T13:01:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 7,
+      "estimatedTimeOfRestoration": "2026-01-08T10:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-08T10:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.872945,
-        "lng": -2.931790
+        "lat": 53.391705,
+        "lng": -2.236618
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA2 4PY, CA2 4RL, CA2 4PZ, CA2 4RU, CA2 4RZ, CA2 4QA, CA2 4RJ, CA2 4PU, CA2 4SB, CA2 4SA, CA2 4SD",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
+      "AffectedPostcodes": " SK8 4NQ",
+      "UnderReviewStatusTimeCheck": true,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -194,90 +194,6 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241171940",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-08T10:04:02",
-      "region": "Cheadle And Gatley, Stockport",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 32,
-      "estimatedTimeOfRestoration": "2026-01-08T16:03:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-08T16:03:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.391622,
-        "lng": -2.238132
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " SK8 4JD, SK8 4NQ",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241171942",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-08T10:04:28",
-      "region": "Bryning-With-Warton, Fylde",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 8,
-      "estimatedTimeOfRestoration": "2026-01-08T16:04:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-08T16:04:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.753417,
-        "lng": -2.893136
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " PR4 1YA",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
       "faultNumber": "INC 1241171717",
       "multipleFaultNumbers": null,
       "date": "2026-01-08T07:36:35",
@@ -285,7 +201,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 60,
+      "consumersOff": 62,
       "estimatedTimeOfRestoration": "2026-01-08T14:00:00",
       "estimatedTimeOfRestorationMajority": "2026-01-08T14:00:00",
       "information": "",
@@ -325,8 +241,8 @@
       "date": "2026-01-08T09:54:35",
       "region": "Atherton, Wigan",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 19,
       "estimatedTimeOfRestoration": "2026-01-08T15:54:00",
       "estimatedTimeOfRestorationMajority": "2026-01-08T15:54:00",
@@ -392,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 8,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
