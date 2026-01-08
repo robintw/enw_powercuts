@@ -75,7 +75,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 101,
+      "consumersOff": 102,
       "estimatedTimeOfRestoration": "2026-01-08T16:00:00",
       "estimatedTimeOfRestorationMajority": "2026-01-08T16:00:00",
       "information": "",
@@ -87,6 +87,48 @@
       "outageLocations": null,
       "AffectedPostcodes": " WA12 8EJ, WA12 8LU, WA12 8LX, WA12 8LY",
       "UnderReviewStatusTimeCheck": true,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241172238",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-08T15:54:02",
+      "region": "Littleborough Lakeside, Rochdale",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 79,
+      "estimatedTimeOfRestoration": "2026-01-08T21:54:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-08T21:54:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.642092,
+        "lng": -2.102086
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL15 8JA, OL15 8JB, OL15 8AA, OL15 8HU, OL15 8JG, OL15 8JQ, OL15 8JJ, OL15 8JH, OL15 8DH, OL15 8SG, OL15 8JL, OL15 8JN, OL15 8JR, OL15 8JP, OL15 8AH",
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -117,7 +159,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 147,
+      "consumersOff": 717,
       "estimatedTimeOfRestoration": "2026-01-08T18:00:00",
       "estimatedTimeOfRestorationMajority": "2026-01-08T18:00:00",
       "information": "",
@@ -170,48 +212,6 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " OL1 2PQ, OL1 2AB, OL1 2HF, OL1 2HG, OL1 2PX, OL1 2BH, OL1 2HP, OL1 2DN",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241172165",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-08T14:02:50",
-      "region": "Littleborough Lakeside, Rochdale",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 79,
-      "estimatedTimeOfRestoration": "2026-01-08T20:02:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-08T20:02:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.642092,
-        "lng": -2.102086
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " OL15 8JA, OL15 8JB, OL15 8AA, OL15 8HU, OL15 8JG, OL15 8JQ, OL15 8JJ, OL15 8JH, OL15 8DH, OL15 8SG, OL15 8JL, OL15 8JN, OL15 8JR, OL15 8JP, OL15 8AH",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
