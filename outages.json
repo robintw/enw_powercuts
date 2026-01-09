@@ -236,48 +236,6 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241172664",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-09T11:05:43",
-      "region": "Miles Platting & Newton Heath, Manchester",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 55,
-      "estimatedTimeOfRestoration": "2026-01-09T16:59:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-09T16:59:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.543154,
-        "lng": -2.353449
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M40 7DY, M40 7DF, M40 7RW, M40 7DB, M40 7QY, M40 7DE, M40 7QZ, M40 7DH, M40 7RY, M40 7DL",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
       "faultNumber": "INC 1241172462",
       "multipleFaultNumbers": null,
       "date": "2026-01-09T07:56:00",
@@ -285,17 +243,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 12,
+      "consumersOff": 26,
       "estimatedTimeOfRestoration": "2026-01-09T13:47:00",
       "estimatedTimeOfRestorationMajority": "2026-01-09T13:47:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.427252,
-        "lng": -2.229571
+        "lat": 53.426925,
+        "lng": -2.229623
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M20 3DB, M20 3DD",
+      "AffectedPostcodes": " M20 3DB, M20 3DD, M20 3DE",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -424,6 +382,48 @@
       "AffectedPostcodes": " SK15 1HJ, SK15 1HQ, SK15 1HZ, SK15 1HW",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241172686",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-09T11:37:27",
+      "region": "North Manor, Bury",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": null,
+      "consumersOff": 36,
+      "estimatedTimeOfRestoration": "2026-01-09T14:37:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-09T14:37:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.635128,
+        "lng": -2.335537
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BL8 4HX, BL0 9QZ, BL8 4JH, BL8 4NP, BL0 9RB, BL0 9RD, BL0 9SE",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
