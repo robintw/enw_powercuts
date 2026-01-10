@@ -68,24 +68,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125289751",
+      "faultNumber": "INC 125289790",
       "multipleFaultNumbers": null,
-      "date": "2026-01-10T14:37:36",
-      "region": "Arlecdon And Frizington, Copeland",
+      "date": "2026-01-10T16:02:47",
+      "region": "Shear Brow & Corporation Park, Blackburn With Darwen",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 4,
-      "estimatedTimeOfRestoration": "2026-01-10T20:37:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-10T20:37:00",
+      "previousFaultStatus": null,
+      "consumersOff": 35,
+      "estimatedTimeOfRestoration": "2026-01-10T21:50:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-10T21:50:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.576941,
-        "lng": -3.499967
+        "lat": 53.752237,
+        "lng": -2.482727
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA14 4QF",
+      "AffectedPostcodes": " BB1 7EG, BB1 7LD, BB1 6DN, BB1 7LG, BB1 6DS, BB1 7LE",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -116,8 +116,8 @@
       "region": "Millom, Copeland",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 143,
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 33,
       "estimatedTimeOfRestoration": "2026-01-10T19:00:00",
       "estimatedTimeOfRestorationMajority": "2026-01-10T19:00:00",
       "information": "",
@@ -130,6 +130,48 @@
       "AffectedPostcodes": " LA18 5BD, LA18 5BE, LA18 5BB, LA18 5BH, LA18 5BQ, LA18 5BL, LA18 5AD, LA18 5AA, LA18 5AS, LA18 5AY, LA18 5BJ, LA18 5BS, LA18 5ES",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125289756",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-10T14:49:00",
+      "region": "Distington, Copeland",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": null,
+      "consumersOff": 177,
+      "estimatedTimeOfRestoration": "2026-01-10T17:49:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-10T17:49:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.588231,
+        "lng": -3.523849
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " CA14 4PR, CA14 4PX, CA14 4PU, CA14 4PZ, CA14 4PS, CA28 8UT, CA14 4PY, CA14 4QQ, CA14 4PT, CA14 4QA, CA14 4QB, CA14 4QD, CA14 4QH, CA14 4QE, CA14 4QF, CA14 4QG, CA14 1QG",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -199,8 +241,8 @@
       "date": "2026-01-10T15:07:53",
       "region": "Keswick, Allerdale",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 40,
       "estimatedTimeOfRestoration": "2026-01-10T21:07:00",
       "estimatedTimeOfRestorationMajority": "2026-01-10T21:07:00",
@@ -266,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
