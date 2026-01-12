@@ -110,13 +110,55 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 125290114",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-11T15:57:05",
+      "region": "Waterhead, Oldham",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 10,
+      "estimatedTimeOfRestoration": "2026-01-12T12:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-12T12:30:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.551443,
+        "lng": -2.075094
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL4 2HR, OL4 2JH, OL4 2JT, OL4 2JP, OL4 2JR, OL4 2JA",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 125290360",
       "multipleFaultNumbers": null,
       "date": "2026-01-12T06:36:47",
       "region": "Werneth, Oldham",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 151,
       "estimatedTimeOfRestoration": "2026-01-12T12:36:00",
       "estimatedTimeOfRestorationMajority": "2026-01-12T12:36:00",
@@ -236,24 +278,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125290425",
+      "faultNumber": "INC 125290447",
       "multipleFaultNumbers": null,
-      "date": "2026-01-12T09:03:28",
-      "region": "Altrincham, Trafford",
+      "date": "2026-01-12T09:18:47",
+      "region": "Blackbrook, St. Helens",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 21,
-      "estimatedTimeOfRestoration": "2026-01-12T15:03:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-12T15:03:00",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 80,
+      "estimatedTimeOfRestoration": "2026-01-12T15:18:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-12T15:18:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.386595,
-        "lng": -2.348473
+        "lat": 53.461762,
+        "lng": -2.689442
       },
       "outageLocations": null,
-      "AffectedPostcodes": " WA14 1BA",
+      "AffectedPostcodes": " WA11 0YR, WA11 0YS, WA11 0YY, WA11 0YN, WA11 0DW, WA11 0DY",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -278,24 +320,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125290385",
+      "faultNumber": "INC 125290425",
       "multipleFaultNumbers": null,
-      "date": "2026-01-12T08:18:41",
-      "region": "Stepping Hill, Stockport",
+      "date": "2026-01-12T09:03:28",
+      "region": "Altrincham, Trafford",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 16,
-      "estimatedTimeOfRestoration": "2026-01-12T14:18:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-12T14:18:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 21,
+      "estimatedTimeOfRestoration": "2026-01-12T15:03:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-12T15:03:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.378538,
-        "lng": -2.128132
+        "lat": 53.386595,
+        "lng": -2.348473
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK7 5DR, SK7 5EZ, SK7 5AS, SK7 5DA",
+      "AffectedPostcodes": " WA14 1BA",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -476,7 +518,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 10,
+  "TotalResults": 11,
   "ShowPolygons": false,
   "Regions": [
     {
