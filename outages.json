@@ -110,6 +110,48 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 125290066",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-11T14:16:26",
+      "region": "Longsight, Manchester",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 83,
+      "estimatedTimeOfRestoration": "2026-01-12T12:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-12T12:00:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.449515,
+        "lng": -2.190368
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M12 5SG, M12 5SP, M12 5SN, M12 5SQ, M12 5SL, M12 5SH, M12 5SJ, M12 5SE, M12 5SW, M12 5SR, M12 4QN, M12 4QE",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 125290360",
       "multipleFaultNumbers": null,
       "date": "2026-01-12T06:36:47",
@@ -236,24 +278,66 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125290345",
+      "faultNumber": "INC 125290385",
       "multipleFaultNumbers": null,
-      "date": "2026-01-12T04:55:05",
-      "region": "Deepdale, Preston",
+      "date": "2026-01-12T08:18:41",
+      "region": "Stepping Hill, Stockport",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 28,
-      "estimatedTimeOfRestoration": "2026-01-12T10:55:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-12T10:55:00",
+      "consumersOff": 16,
+      "estimatedTimeOfRestoration": "2026-01-12T14:18:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-12T14:18:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.775470,
-        "lng": -2.683119
+        "lat": 53.378538,
+        "lng": -2.128132
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR1 6HN, PR1 6HR, PR1 6HL",
+      "AffectedPostcodes": " SK7 5DR, SK7 5EZ, SK7 5AS, SK7 5DA",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125290388",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-12T08:24:13",
+      "region": "Brinnington And Central, Stockport",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 66,
+      "estimatedTimeOfRestoration": "2026-01-12T14:24:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-12T14:24:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.426093,
+        "lng": -2.133397
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK5 8BD, SK5 8BA, SK5 8LQ, SK5 8LH, SK5 8BE, SK5 8BU, SK5 8LR, SK5 8DT, SK5 8DP, SK5 8DS, SK5 8DY, SK5 8BW, SK5 8AF",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -286,8 +370,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 47,
-      "estimatedTimeOfRestoration": "2026-01-12T11:09:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-12T11:09:00",
+      "estimatedTimeOfRestoration": "2026-01-12T17:25:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-12T17:25:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -350,7 +434,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 7,
+  "TotalResults": 9,
   "ShowPolygons": false,
   "Regions": [
     {
