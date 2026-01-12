@@ -110,48 +110,6 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125290980",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-12T20:04:48",
-      "region": "Blackburn Central, Blackburn With Darwen",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 35,
-      "estimatedTimeOfRestoration": "2026-01-13T02:04:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-13T02:04:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.740285,
-        "lng": -2.485871
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " BB2 3PZ, BB2 3QT, BB2 3QA, BB2 3QH, BB2 3QW, BB2 3QQ",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
       "faultNumber": "INC 125290849",
       "multipleFaultNumbers": null,
       "date": "2026-01-12T15:32:47",
@@ -236,26 +194,68 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125290975",
+      "faultNumber": "INC 125290491",
       "multipleFaultNumbers": null,
-      "date": "2026-01-12T19:57:24",
-      "region": "Reddish North, Stockport",
+      "date": "2026-01-12T10:03:33",
+      "region": "Brierfield, Pendle",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 73,
-      "estimatedTimeOfRestoration": "2026-01-13T01:57:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-13T01:57:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 3,
+      "estimatedTimeOfRestoration": "2026-01-12T22:01:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-12T22:01:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.450955,
-        "lng": -2.156698
+        "lat": 53.832143,
+        "lng": -2.233175
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK5 6PY, SK5 6PP, SK5 6PT, SK5 6QS, SK5 6QU, SK5 6PU, SK5 6FS",
+      "AffectedPostcodes": " BB9 5SP",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the overhead cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers fix the issue. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125290942",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-12T17:35:39",
+      "region": "Marple North, Stockport",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 5,
+      "estimatedTimeOfRestoration": "2026-01-12T21:35:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-12T21:35:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.401696,
+        "lng": -2.045850
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK6 5DA, SK6 5BB",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "O/HS",
       "addressMpanList": null
     },
     {
@@ -278,24 +278,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125290491",
+      "faultNumber": "INC 125290986",
       "multipleFaultNumbers": null,
-      "date": "2026-01-12T10:03:33",
-      "region": "Brierfield, Pendle",
+      "date": "2026-01-12T20:23:47",
+      "region": "Atherton, Wigan",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 3,
-      "estimatedTimeOfRestoration": "2026-01-12T22:01:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-12T22:01:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 19,
+      "estimatedTimeOfRestoration": "2026-01-13T02:23:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-13T02:23:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.832143,
-        "lng": -2.233175
+        "lat": 53.523692,
+        "lng": -2.497154
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB9 5SP",
+      "AffectedPostcodes": " M46 0DF, M46 0DJ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -389,7 +389,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -422,7 +422,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " OL12 9QX, OL12 9QZ, OL12 9QY, OL12 9QS, OL12 9UQ, OL12 9PY",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     }
