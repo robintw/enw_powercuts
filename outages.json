@@ -96,6 +96,48 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125292073",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-14T13:16:34",
+      "region": "Moss Side, Manchester",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 17,
+      "estimatedTimeOfRestoration": "2026-01-14T20:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-14T20:00:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.451284,
+        "lng": -2.224135
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M14 5UD, M14 5TQ, M14 5UB, M14 6AH",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -159,17 +201,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 40,
+      "consumersOff": 26,
       "estimatedTimeOfRestoration": "2026-01-14T21:20:00",
       "estimatedTimeOfRestorationMajority": "2026-01-14T21:20:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.549702,
-        "lng": -2.199034
+        "lat": 53.549020,
+        "lng": -2.199496
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M24 4DH, M24 4SZ, M24 5TF, M24 6TJ, M24 6TE, M24 4DF, M24 1AA",
+      "AffectedPostcodes": " M24 4DH, M24 4SZ, M24 6TE, M24 4DF, M24 1AA",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -199,8 +241,8 @@
       "date": "2026-01-14T16:35:11",
       "region": "Norden, Rochdale",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 41,
       "estimatedTimeOfRestoration": "2026-01-14T22:34:00",
       "estimatedTimeOfRestorationMajority": "2026-01-14T22:34:00",
@@ -333,11 +375,11 @@
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.963122,
-        "lng": -2.790819
+        "lat": 54.951186,
+        "lng": -2.748699
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA6 4PE, CA6 4NT, CA6 4NU, CA6 4PS, CA6 4PX, CA6 4PU",
+      "AffectedPostcodes": " CA6 4PE, CA6 4NT, CA6 4NU, CA6 4PS, CA6 4PX, CA6 4PU, CA8 2DH, CA8 2DU, CA8 2DJ, CA8 2DX, CA8 2DW, CA6 4PF, CA8 2DS, CA8 2EB, CA8 2DR, CA6 4NX, CA8 2DP, CA6 4NN, CA8 2AZ, CA8 2AU, CA8 2BA, CA6 4NS, CA16 6NL, CA8 2AY, CA8 2AX, CA8 2DN",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -347,7 +389,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
       "UpdateInfo": null,
       "CTAs": [
@@ -380,7 +422,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " WN8 9TH",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "O/HM",
       "addressMpanList": null
     }
@@ -392,7 +434,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 8,
+  "TotalResults": 9,
   "ShowPolygons": false,
   "Regions": [
     {
