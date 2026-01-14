@@ -137,7 +137,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
       "UpdateInfo": null,
       "CTAs": [
@@ -170,50 +170,8 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " L40 1TB, L40 1TA, L40 1TD, L40 1BD, L40 1TH",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "O/HM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125291742",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-14T09:03:35",
-      "region": "Orton, Eden",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 14,
-      "estimatedTimeOfRestoration": "2026-01-14T15:03:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-14T15:03:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.441541,
-        "lng": -2.525102
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " CA10 3UG",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -283,8 +241,8 @@
       "date": "2026-01-14T09:05:28",
       "region": "Corbar, High Peak",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 114,
       "estimatedTimeOfRestoration": "2026-01-14T15:05:00",
       "estimatedTimeOfRestorationMajority": "2026-01-14T15:05:00",
@@ -320,24 +278,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125291712",
+      "faultNumber": "INC 125291759",
       "multipleFaultNumbers": null,
-      "date": "2026-01-14T07:55:27",
-      "region": "Spotland & Falinge, Rochdale",
+      "date": "2026-01-14T09:25:25",
+      "region": "Dalton Town With Newton, Barrow-In-Furness",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 18,
-      "estimatedTimeOfRestoration": "2026-01-14T13:55:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-14T13:55:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 116,
+      "estimatedTimeOfRestoration": "2026-01-14T15:25:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-14T15:25:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.623422,
-        "lng": -2.176621
+        "lat": 54.157072,
+        "lng": -3.182959
       },
       "outageLocations": null,
-      "AffectedPostcodes": " OL12 7AX, OL12 7BS, OL12 7DE, OL12 7DF, OL12 7DG, OL12 7BW",
+      "AffectedPostcodes": " LA15 8AW, LA15 8LH, LA15 8AF, LA15 8DH, LA15 8BF, LA15 8DA, LA15 8BY, LA15 8SY, LA15 8AL, LA15 8AG, LA15 8AN, LA15 8DQ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -392,7 +350,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 8,
+  "TotalResults": 7,
   "ShowPolygons": false,
   "Regions": [
     {
@@ -418,9 +376,6 @@
     },
     {
       "name": "bury"
-    },
-    {
-      "name": "buxworth and brownside"
     },
     {
       "name": "carlisle"
