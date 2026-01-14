@@ -95,7 +95,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -128,7 +128,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " CA5 6AT, CA5 6AS, CA5 6DY, CA5 6DZ, CA5 6AP, CA5 6AR",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
@@ -137,7 +137,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -152,25 +152,25 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125291645",
+      "faultNumber": "INC 125291652",
       "multipleFaultNumbers": null,
-      "date": "2026-01-13T22:07:45",
-      "region": "Bramhall South And Woodford, Stockport",
+      "date": "2026-01-13T23:55:50",
+      "region": "Whitehaven, Copeland",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 12,
-      "estimatedTimeOfRestoration": "2026-01-14T02:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-14T02:00:00",
+      "consumersOff": 14,
+      "estimatedTimeOfRestoration": "2026-01-14T05:55:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-14T05:55:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.367492,
-        "lng": -2.181238
+        "lat": 54.558622,
+        "lng": -3.582951
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK8 7DY, SK8 7HD",
-      "UnderReviewStatusTimeCheck": true,
+      "AffectedPostcodes": " CA28 6EP, CA28 6EL, CA28 6EY",
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -199,11 +199,11 @@
       "date": "2026-01-14T01:20:52",
       "region": "Bramhall North, Stockport",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 41,
-      "estimatedTimeOfRestoration": "2026-01-14T07:20:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-14T07:20:00",
+      "estimatedTimeOfRestoration": "2026-01-14T13:20:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-14T13:20:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
