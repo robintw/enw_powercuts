@@ -53,6 +53,48 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
+      "UnderReview": true,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers fix the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125290043",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-11T13:23:06",
+      "region": "Piccadilly, Manchester",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 24,
+      "estimatedTimeOfRestoration": "2026-01-11T17:23:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-11T17:23:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.477696,
+        "lng": -2.233895
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M1 3DT",
+      "UnderReviewStatusTimeCheck": true,
+      "WebTMSFaultType": "U/GS",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
       "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
@@ -199,19 +241,19 @@
       "date": "2026-01-15T12:28:54",
       "region": "Morecambe, Lancaster",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": null,
-      "consumersOff": 8,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 29,
       "estimatedTimeOfRestoration": "2026-01-15T18:28:00",
       "estimatedTimeOfRestorationMajority": "2026-01-15T18:28:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.064066,
-        "lng": -2.873967
+        "lat": 54.064348,
+        "lng": -2.874284
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA4 4LJ, LA4 4QU, LA4 4QT",
+      "AffectedPostcodes": " LA4 4LJ, LA4 4QT, LA4 4QU, LA4 4JR",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -243,9 +285,9 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 109,
-      "estimatedTimeOfRestoration": "2026-01-15T15:55:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-15T15:55:00",
+      "consumersOff": 17,
+      "estimatedTimeOfRestoration": "2026-01-15T15:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-15T15:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -278,24 +320,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125292651",
+      "faultNumber": "INC 125292788",
       "multipleFaultNumbers": null,
-      "date": "2026-01-15T10:31:46",
-      "region": "Piccadilly, Manchester",
+      "date": "2026-01-15T12:53:04",
+      "region": "Withington, Manchester",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 80,
-      "estimatedTimeOfRestoration": "2026-01-15T16:31:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-15T16:31:00",
+      "previousFaultStatus": null,
+      "consumersOff": 58,
+      "estimatedTimeOfRestoration": "2026-01-15T18:46:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-15T18:46:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.478953,
-        "lng": -2.234183
+        "lat": 53.434642,
+        "lng": -2.205460
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M1 3DT, M1 3BL, M1 3AY",
+      "AffectedPostcodes": " M20 4XA, M20 4SA, M20 4XF, M20 4XE, M20 4RZ, M20 4XJ, M20 4XL, M20 4XH, M20 4XD, SK16 4DH",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -308,7 +350,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 6,
+  "TotalResults": 7,
   "ShowPolygons": false,
   "Regions": [
     {
