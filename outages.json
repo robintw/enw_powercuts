@@ -54,7 +54,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -68,26 +68,68 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125292154",
+      "faultNumber": "INC 125292977",
       "multipleFaultNumbers": null,
-      "date": "2026-01-14T13:56:59",
-      "region": "Cribden, Rossendale",
+      "date": "2026-01-15T16:21:53",
+      "region": "Longdendale, Tameside",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 6,
-      "estimatedTimeOfRestoration": "2026-01-15T16:30:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-15T16:30:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 50,
+      "estimatedTimeOfRestoration": "2026-01-15T22:20:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-15T22:20:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.718865,
-        "lng": -2.286950
+        "lat": 53.446117,
+        "lng": -2.017360
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB4 8LX, BB4 8TG",
+      "AffectedPostcodes": " SK14 6HY, SK14 6JS, SK14 6HX, SK14 6JR, SK14 6HU, SK14 6JP, SK14 6HZ",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125292914",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-15T15:12:01",
+      "region": "Coldhurst, Oldham",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 4,
+      "estimatedTimeOfRestoration": "2026-01-15T21:12:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-15T21:12:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.539258,
+        "lng": -2.118854
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL8 1DL, OL8 1DQ",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -115,8 +157,8 @@
       "date": "2026-01-15T15:58:26",
       "region": "City Centre, Preston",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 90,
       "estimatedTimeOfRestoration": "2026-01-15T21:58:00",
       "estimatedTimeOfRestorationMajority": "2026-01-15T21:58:00",
@@ -157,8 +199,8 @@
       "date": "2026-01-15T15:58:28",
       "region": "Plungington, Preston",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 46,
       "estimatedTimeOfRestoration": "2026-01-15T21:58:00",
       "estimatedTimeOfRestorationMajority": "2026-01-15T21:58:00",
@@ -182,7 +224,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 3,
+  "TotalResults": 4,
   "ShowPolygons": false,
   "Regions": [
     {
