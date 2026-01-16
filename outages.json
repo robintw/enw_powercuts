@@ -53,7 +53,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -68,25 +68,25 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125290849",
+      "faultNumber": "INC 125292452",
       "multipleFaultNumbers": null,
-      "date": "2026-01-12T15:32:47",
-      "region": "Leigh South, Wigan",
+      "date": "2026-01-15T06:35:53",
+      "region": "Cheadle Hulme South, Stockport",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 14,
-      "estimatedTimeOfRestoration": "2026-01-12T21:32:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-12T21:32:00",
+      "consumersOff": 6,
+      "estimatedTimeOfRestoration": "2026-01-16T14:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-16T14:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.491078,
-        "lng": -2.476918
+        "lat": 53.359710,
+        "lng": -2.194511
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M29 7EN, M29 7SH, M29 7LH",
-      "UnderReviewStatusTimeCheck": true,
+      "AffectedPostcodes": " SK8 6NH",
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -194,24 +194,66 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125293249",
+      "faultNumber": "INC 125293258",
       "multipleFaultNumbers": null,
-      "date": "2026-01-16T09:39:20",
-      "region": "Leigh South, Wigan",
+      "date": "2026-01-16T09:42:34",
+      "region": "Risedale, Barrow-In-Furness",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 1486,
-      "estimatedTimeOfRestoration": "2026-01-16T12:39:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-16T12:39:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 433,
+      "estimatedTimeOfRestoration": "2026-01-16T12:42:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-16T12:42:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.493832,
-        "lng": -2.494528
+        "lat": 54.107377,
+        "lng": -3.212941
       },
       "outageLocations": null,
-      "AffectedPostcodes": " WN7 3AY, M29 7EL, WN7 2LL, WN7 2NR, WN7 2JJ, WN7 3FY, M29 7EH, WN7 2LT, WN7 2NP, WN7 2BF, WN7 2DS, WN7 3AN, WN7 2BB, WN7 2TD, WN7 2ED, WN7 3EH, WN7 3XD, M29 7FF, WN7 3AR, WN7 2DZ, WN7 2LA, WN7 2DX, WN7 2NU, WN7 3AZ, WN7 3XJ, WN7 3AU, WN7 3XZ, WN7 3BA, WN7 3XE, WN7 3XG, WN7 2AN, WN7 2LQ, WN7 2NS, M29 7TN, WN7 2EE, WN7 3XQ, WN7 2BS, M29 7FH, M29 7EJ, WN7 3XT, M29 7LH, WN7 2JL, WN7 3XA, WN7 3XH, WN7 3XB, WN7 2LZ, M29 7SD, WN7 2LS, WN7 2TL, WN7 2DY, WN7 2NN, WN7 2LH, WN7 2LN, M29 7EN, WN7 2TH, M29 7FD, WN7 3AT, WN7 3AX, WN7 2LR, M29 7FJ, WN7 3EX, WN7 2LD, M29 7FL, WN7 2BA, WN7 2DW, WN7 2LY, WN7 2LF, WN7 3EN, WN7 2EB, WN7 3AS, WN7 2AY, M29 7NS, WN7 2LU, M29 7NR, WN7 2EA, WN7 2DR, WN7 3EL, WN7 2EQ, M29 7FB, M29 7JG, WN7 2LX, WN7 3BD, WN7 2LB, M29 8DL, WN7 2LW",
+      "AffectedPostcodes": " LA14 2HP, LA14 1QR, LA13 9QQ, LA14 1SY, LA14 1PN, LA13 9QG, LA14 2BJ, LA14 1SX, LA14 2BP, LA13 9BP, LA14 1EQ, LA14 2BF, LA14 1AW, LA14 2DG, LA14 2DB, LA13 9BL, LA14 1ER, LA14 2BU, LA14 2ES, LA14 1QQ, LA14 1DA, LA14 1ES, LA14 1AX, LA14 2EL, LA14 2EQ, LA14 1AP, LA13 9QB, LA14 1EN, LA14 2ED, LA14 1AL, LA14 1PQ, LA14 1EW, LA14 2AA, LA14 1DG, LA14 2EB, LA14 1EZ, LA14 2AY, LA14 1DH, LA14 1FE, LA14 1HE, LA14 2BB, LA14 1QS, LA14 1BE, LA14 1BQ, LA14 5QS, LA14 2BN, LA14 2BS, LA14 2UT, LA14 1DN, LA14 1JF, LA14 2BX, LA14 1BZ, LA14 1TD, LA14 2DN, LA14 1AT, LA14 2ER, LA13 9BU, LA14 1AJ, LA14 1BA, LA14 1DW, LA14 2EF, LA14 2UR, LA14 2HJ, LA14 2DQ, LA14 1PH, LA14 1EF, LA14 2HX, LA13 9QF, LA14 1QT, LA14 1BN, LA14 2DU, LA14 1TH, LA14 2EA, LA14 2AE, LA14 2BW, LA13 9BW, LA14 2AX, LA14 1AH, LA14 2BY, LA14 1AZ, LA14 2AJ, LA14 1FB, LA14 5AB, LA14 2HT, LA13 9BX, LA13 9QD, LA14 1TJ, LA14 2HU, LA14 2JN, LA14 2DA, LA14 1AU, LA14 1AY, LA14 2AG, LA14 2BZ, LA14 2DT, LA14 2AD, LA14 1BD, LA14 1BS, LA14 2HS, LA13 9BS, LA13 9QA, LA14 2DL, LA13 9QE, LA14 1SZ, LA14 1AS, LA13 9BN, LA14 1ED, LA14 2AH, LA14 1AN, LA14 1DE, LA13 9BT, LA14 1FG, LA14 1PR, LA14 1EH, LA14 2EP, LA14 2HR, LA14 5QR, LA14 2EJ, LA14 1HG, LA14 1BG, LA14 1BX, LA14 1QP, LA14 1HA, LA14 2US, LA14 1DF, LA14 2EW, LA14 1DJ, LA13 9BJ, LA14 1TN, LA14 1EG, LA14 2BT, LA14 1HB, LA14 1BB, LA14 2AU, LA14 1DD, LA14 1QU, LA14 1AR, LA14 2EE, LA14 5UB, LA14 1HD, LA14 2AB, LA14 1EX, LA14 2EH, LA14 1EY, LA14 2DZ, LA14 1EU, LA14 1QY, LA14 1AA, LA14 1PT, LA13 9SX, LA14 2EG, LA14 1ET, LA14 1DQ, LA14 1EJ, LA14 5QZ, LA14 1PP, LA13 9SU, LA14 2BL, LA14 1BL",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125293259",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-16T09:42:53",
+      "region": "Risedale, Barrow-In-Furness",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 852,
+      "estimatedTimeOfRestoration": "2026-01-16T12:42:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-16T12:42:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.110525,
+        "lng": -3.221366
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA14 2AZ, LA14 2DP, LA14 2JB, LA14 2DL, LA14 2UL, LA14 2JR, LA14 1HU, LA14 2HH, LA14 2BH, LA14 2DU, LA14 2LN, LA14 2HW, LA14 2BQ, LA14 2AY, LA14 2HQ, LA13 9SN, LA14 2DR, LA14 2JG, LA14 2DN, LA14 2FG, LA14 2FJ, LA14 2DS, LA14 2FH, LA13 9RQ, LA13 9RG, LA14 2AG, LA14 2HF, LA14 2FE, LA14 2AW, LA14 2HZ, LA14 2BG, LA14 2DW, LA14 2JN, LA14 2AN, LA14 2LX, LA14 2JZ, LA14 1HH, LA14 1LF, LA14 2JQ, LA14 2JS, LA14 2HL, LA14 1HY, LA14 2BB, LA14 2DX, LA14 2AP, LA14 2HG, LA14 2HJ, LA14 2BD, LA14 2JW, LA14 2HT, LA14 2HU, LA14 2OX, LA14 2AL, LA14 2UB, LA14 2JE, LA14 1EW, LA14 2JD, LA14 2JU, LA14 2PB, LA14 2EX, LA14 2AT, LA14 2JH, LA14 2HY, LA14 2LG, LA14 2HN, LA14 2AS, LA14 2JJ, LA14 2AE, LA14 1AE, LA14 2JA, LA14 2LW, LA14 1HL, LA14 2BW, LA14 2BA, LA14 2JT, LA14 2LA, LA14 2HA, LA14 1HN, LA14 2BE, LA14 1HX, LA13 0HF, LA14 2LT, LA14 2NU, LA14 2LE, LA13 9SW, LA14 1HP, LA14 2EQ, LA14 2LR, LA14 9SA, LA13 9PX, LA13 9QU, LA14 2LH, LA14 2JY, LA14 2UN, LA14 2UW, LA14 2JF, LA14 5UZ, LA14 2AU",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -409,8 +451,8 @@
       "date": "2026-01-16T09:31:04",
       "region": "Eccleshill, Blackburn With Darwen",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 23,
       "estimatedTimeOfRestoration": "2026-01-16T15:22:00",
       "estimatedTimeOfRestorationMajority": "2026-01-16T15:22:00",
@@ -434,7 +476,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 9,
+  "TotalResults": 10,
   "ShowPolygons": false,
   "Regions": [
     {
