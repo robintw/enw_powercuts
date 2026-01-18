@@ -54,48 +54,6 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125294263",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-18T11:11:52",
-      "region": "Atherleigh, Wigan",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 14,
-      "estimatedTimeOfRestoration": "2026-01-18T14:30:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-18T14:30:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.502264,
-        "lng": -2.507231
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M46 0RR, WN7 1JU, WN7 1JQ, WN7 1JG, WN7 1HZ, WN7 1JF, WN7 1JP, WN7 1JD, WN7 1JS, WN7 1JA, WN7 1HY, WN7 1JZ, WN7 1JX, WN7 1HE, WN7 1JW, WN7 1JR, WN7 1HN",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -152,24 +110,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125294288",
+      "faultNumber": "INC 125294250",
       "multipleFaultNumbers": null,
-      "date": "2026-01-18T12:54:10",
-      "region": "Moston, Manchester",
+      "date": "2026-01-18T10:20:04",
+      "region": "Coppull, Chorley",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 96,
-      "estimatedTimeOfRestoration": "2026-01-18T18:52:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-18T18:52:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 65,
+      "estimatedTimeOfRestoration": "2026-01-18T22:19:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-18T22:19:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.508628,
-        "lng": -2.205570
+        "lat": 53.615095,
+        "lng": -2.654260
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M40 5WX, M40 5NU, M40 5WS, M40 5NL, M40 5WU, M40 5NY, M40 5PA, M40 5NR, M40 5LN, M40 5WT, M40 5LX, M40 5NP, M40 5NQ, M40 5NX, M40 5NW, M40 5NN, M40 5NH, M40 5NF, M40 5LL",
+      "AffectedPostcodes": " PR7 4LW, PR7 4LX, PR7 4LY, PR7 4BH",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -224,7 +182,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 3,
   "ShowPolygons": false,
   "Regions": [
     {
