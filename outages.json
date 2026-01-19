@@ -53,7 +53,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -86,7 +86,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " BL9 8EX, BL9 8BE, BL9 8AY, BL9 8AT, BL9 8BA, BL9 8AZ",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -160,8 +160,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 8,
-      "estimatedTimeOfRestoration": "2026-01-19T03:53:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-19T03:53:00",
+      "estimatedTimeOfRestoration": "2026-01-19T02:45:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-19T02:45:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -172,48 +172,6 @@
       "AffectedPostcodes": " OL6 8LN, OL6 8NS, OL6 8GD, OL6 8NF, OL6 8ND, OL6 7ST, OL6 8NL",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125294422",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-18T23:47:51",
-      "region": "Little Harwood & Whitebirk, Blackburn With Darwen",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 184,
-      "estimatedTimeOfRestoration": "2026-01-19T02:47:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-19T02:47:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.781774,
-        "lng": -2.477578
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " BB1 9EE, BB1 9EH, BB1 5RQ, BB1 9JD, BB1 9HX, BB1 9HQ, BB1 9QR, BB1 9HS, BB1 5TR, BB1 9QU, BB1 9SX, BB1 5TS, BB1 9QT, BB1 9HT, BB1 5QY, BB1 5RH, BB1 9JG, BB1 9HH, BB1 5QX, BB1 9EX, BB1 9AL, BB1 9RQ, BB1 9HZ, BB1 9HP, BB1 5FN, BB1 5FL, BB1 9HU, BB1 5QL, BB1 9EG, BB1 9EW, BB1 9JF, BB1 9PW, BB1 9EU, BB1 5QU, BB1 9HR, BB1 9SB, BB1 4AA, BB1 9HL, BB1 9EP, BB1 9QS, BB1 5RJ, BB1 9HN, BB1 5QT, BB1 9EQ, BB1 9HJ, BB1 9JW, BB1 5QZ, BB1 2DY, BB1 5QW, BB1 5QS, BB1 5SP, BB1 9EF, BB1 9EJ, BB1 9HG, BB1 5FH, BB1 9EL, BB1 9LQ, BB1 9JH",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -244,8 +202,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 15,
-      "estimatedTimeOfRestoration": "2026-01-19T06:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-19T06:00:00",
+      "estimatedTimeOfRestoration": "2026-01-19T04:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-19T04:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -256,6 +214,48 @@
       "AffectedPostcodes": " BL6 6RG, BL6 6QL, BL6 6QF, BL6 6QG, BL6 6QJ, BL6 6QS, BL6 6QR, BL6 6QT, BL6 6RE, BL6 6QH, BL6 6RP",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125294445",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-19T01:22:22",
+      "region": "Hazel Grove, Stockport",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 1195,
+      "estimatedTimeOfRestoration": "2026-01-19T04:22:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-19T04:22:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.341005,
+        "lng": -2.154832
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK7 1SB, SK7 1GT, SK7 1QJ, SK7 1GD, SK7 1QH, SK7 1NU, SK7 1SU, SK7 1SN, SK7 1TB, SK7 1TE, SK7 1AX, SK7 1SA, SK7 1QN, SK7 1LN, SK7 1BF, SK7 1GS, SK7 1QQ, SK7 1SE, SK7 1AE, SK7 1ST, SK7 1SD, SK7 1GU, SK7 1TF, SK7 1AT, SK7 1LP, SK7 1GE, SK7 1SW, SK7 1SL, SK7 1AS, SK7 1GX, SK7 1QL, SK7 1SR, SK7 1SJ, SK7 1NX, SK7 1HF, SK7 1GG, SK7 1SF, SK7 1GP, SK7 1AY, SK7 1LL, SK7 1BU, SK7 1GF, SK7 1HB, SK7 1AN, SK7 1TA, SK7 1HD, SK7 1GH, SK7 1GW, SK7 1AZ, SK7 1PZ, SK7 1GZ, SK7 1TG, SK7 1GJ, SK7 1AG, SK7 1NY, SK7 1GQ, SK7 1SG, SK7 1AU, SK7 1BZ, SK7 1GR, SK7 1NG, SK7 1QW, SK7 1SP, SK7 1LW, SK7 1TD, SK7 1SS, SK7 1TH, SK7 1AJ, SK7 1SH, SK7 1QS",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     }
   ],
