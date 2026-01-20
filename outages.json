@@ -152,24 +152,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125295189",
+      "faultNumber": "INC 125295343",
       "multipleFaultNumbers": null,
-      "date": "2026-01-20T09:05:00",
-      "region": "St. Johns, Fylde",
+      "date": "2026-01-20T11:03:39",
+      "region": "Nateby, Wyre",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 8,
-      "estimatedTimeOfRestoration": "2026-01-20T15:04:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-20T15:04:00",
+      "previousFaultStatus": null,
+      "consumersOff": 10,
+      "estimatedTimeOfRestoration": "2026-01-20T17:03:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-20T17:03:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.754222,
-        "lng": -2.945208
+        "lat": 53.918211,
+        "lng": -2.799704
       },
       "outageLocations": null,
-      "AffectedPostcodes": " FY8 4LR, FY8 4LS, FY8 4LT",
+      "AffectedPostcodes": " PR3 0JR, PR3 0JQ, PR3 0JS",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -194,24 +194,66 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125295277",
+      "faultNumber": "INC 125295345",
       "multipleFaultNumbers": null,
-      "date": "2026-01-20T10:17:20",
-      "region": "Millom, Copeland",
+      "date": "2026-01-20T11:03:49",
+      "region": "Winmarleigh, Wyre",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 77,
-      "estimatedTimeOfRestoration": "2026-01-20T16:17:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-20T16:17:00",
+      "previousFaultStatus": null,
+      "consumersOff": 11,
+      "estimatedTimeOfRestoration": "2026-01-20T17:03:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-20T17:03:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.209635,
-        "lng": -3.267162
+        "lat": 53.924188,
+        "lng": -2.799144
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA18 4BT, LA18 4BU, LA18 4AG, LA18 4BZ, LA18 4EG, LA18 4DR, LA18 4DD, LA18 4AW",
+      "AffectedPostcodes": " PR3 0JT, PR3 0JT",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125295189",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-20T09:05:00",
+      "region": "St. Johns, Fylde",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 8,
+      "estimatedTimeOfRestoration": "2026-01-20T15:04:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-20T15:04:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.754222,
+        "lng": -2.945208
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " FY8 4LR, FY8 4LS, FY8 4LT",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -224,7 +266,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 5,
   "ShowPolygons": false,
   "Regions": [
     {
