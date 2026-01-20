@@ -264,7 +264,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -278,26 +278,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125295108",
+      "faultNumber": "INC 125295114",
       "multipleFaultNumbers": null,
-      "date": "2026-01-20T00:19:46",
-      "region": "Dalton Town With Newton, Barrow-In-Furness",
+      "date": "2026-01-20T00:26:11",
+      "region": "Woodhouse Park, Manchester",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 99,
-      "estimatedTimeOfRestoration": "2026-01-20T06:19:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-20T06:19:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 451,
+      "estimatedTimeOfRestoration": "2026-01-20T03:26:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-20T03:26:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.157072,
-        "lng": -3.182959
+        "lat": 53.383610,
+        "lng": -2.262491
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA15 8AF, LA15 8BF, LA15 8SY, LA15 8AL, LA15 8AN, LA15 8AW, LA15 8LH, LA15 8DH, LA15 8DA, LA15 8BY, LA15 8AG, LA15 8DQ",
+      "AffectedPostcodes": " M22 9SZ, M22 9TF, M22 9PN, M22 9AN, M22 9PS, M22 9GS, M22 5RZ, M22 9WA, M22 5SE, M22 9QR, M22 9NT, M22 9AL, M22 9PX, M22 5SF, M22 9WT, M22 9PP, M22 9PU, M22 9SP, M22 9SG, M22 9PW, M22 9AJ, M22 5RY, M22 9NG, M22 9NA, M22 5RP, M22 9LX, M22 9WD, M22 9PL, M22 9WS, M22 9LG, M22 9SY, M22 9TE, M22 9ST, M22 9QT, M22 9GF, M22 9AQ, M22 9PG, M22 9PE, M22 9AS, M22 9WR, M22 9SQ, M22 9GR, M22 9PR, M22 9AP, M22 9PT, M22 9PQ, M22 9TA, M22 9WG, M22 9PJ, M22 9LU, M22 9SX, M22 9SR, M22 9SU, M22 9NH, M22 9ND, M22 9PY, M22 9SN, M22 9AT, M22 9NR, M22 9QY, M22 9AR, M22 9TH, M22 5RF, M22 9LR, M22 9SW, M22 9SS, M22 9QS, M22 5RB, M22 9WQ, M22 9NS, M22 9SJ, M22 5EA, M22 9TD, M22 5RJ, M22 5RG, M22 5SH, M22 8TA, M22 9TB, M22 9WE, M22 5RS",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     }
   ],
