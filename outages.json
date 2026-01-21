@@ -74,7 +74,7 @@
       "region": "Leigh South, Wigan",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 100,
       "estimatedTimeOfRestoration": "2026-01-20T17:44:00",
       "estimatedTimeOfRestorationMajority": "2026-01-20T17:44:00",
@@ -116,7 +116,7 @@
       "region": "Ribbleton, Preston",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 103,
       "estimatedTimeOfRestoration": "2026-01-20T19:36:00",
       "estimatedTimeOfRestorationMajority": "2026-01-20T19:36:00",
@@ -158,7 +158,7 @@
       "region": "St. Johns, Fylde",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 8,
       "estimatedTimeOfRestoration": "2026-01-20T15:04:00",
       "estimatedTimeOfRestorationMajority": "2026-01-20T15:04:00",
@@ -171,6 +171,90 @@
       "outageLocations": null,
       "AffectedPostcodes": " FY8 4LR, FY8 4LS, FY8 4LT",
       "UnderReviewStatusTimeCheck": true,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125296215",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-21T10:19:22",
+      "region": "Douglas, Wigan",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 52,
+      "estimatedTimeOfRestoration": "2026-01-21T16:19:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-21T16:19:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.540707,
+        "lng": -2.666894
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " WN5 9RF, WN5 9QF, WN5 9QG, WN5 9QA, WN5 9QQ, WN5 9RD, WN5 9QY, WN5 9QH, WN5 9RS",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125296229",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-21T10:32:09",
+      "region": "Offerton, Stockport",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 148,
+      "estimatedTimeOfRestoration": "2026-01-21T16:32:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-21T16:32:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.392974,
+        "lng": -2.110433
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK2 5JF, SK2 5JG, SK2 5JH, SK2 5JJ, SK2 5JE, SK2 5JD, SK2 5JB, SK2 5XB, SK2 5ER",
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -200,10 +284,10 @@
       "region": "Barnacre-With-Bonds, Wyre",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 7,
-      "estimatedTimeOfRestoration": "2026-01-21T12:13:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-21T12:13:00",
+      "estimatedTimeOfRestoration": "2026-01-21T13:07:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-21T13:07:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -236,55 +320,13 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125296193",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-21T10:02:18",
-      "region": "Dent, South Lakeland",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 3,
-      "estimatedTimeOfRestoration": "2026-01-21T16:01:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-21T16:01:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.298548,
-        "lng": -2.499248
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " LA10 5SX",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
       "faultNumber": "INC 125295996",
       "multipleFaultNumbers": null,
       "date": "2026-01-21T02:14:38",
       "region": "Gannow, Burnley",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 5,
       "estimatedTimeOfRestoration": "2026-01-21T14:00:00",
       "estimatedTimeOfRestorationMajority": "2026-01-21T14:00:00",
@@ -326,7 +368,7 @@
       "region": "Blackburn Central, Blackburn With Darwen",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 10,
       "estimatedTimeOfRestoration": "2026-01-21T14:35:00",
       "estimatedTimeOfRestorationMajority": "2026-01-21T14:35:00",
@@ -367,8 +409,8 @@
       "date": "2026-01-21T09:47:48",
       "region": "Chorley North West, Chorley",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 56,
       "estimatedTimeOfRestoration": "2026-01-21T15:47:00",
       "estimatedTimeOfRestorationMajority": "2026-01-21T15:47:00",
@@ -410,7 +452,7 @@
       "region": "Charlestown, Manchester",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 28,
       "estimatedTimeOfRestoration": "2026-01-21T15:13:00",
       "estimatedTimeOfRestorationMajority": "2026-01-21T15:13:00",
@@ -452,7 +494,7 @@
       "region": "Chorley South West, Chorley",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 46,
       "estimatedTimeOfRestoration": "2026-01-21T15:48:00",
       "estimatedTimeOfRestorationMajority": "2026-01-21T15:48:00",
@@ -476,7 +518,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 10,
+  "TotalResults": 11,
   "ShowPolygons": false,
   "Regions": [
     {
