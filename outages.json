@@ -159,17 +159,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 53,
+      "consumersOff": 159,
       "estimatedTimeOfRestoration": "2026-01-22T13:40:00",
       "estimatedTimeOfRestorationMajority": "2026-01-22T13:40:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.554776,
-        "lng": -2.629146
+        "lat": 53.554975,
+        "lng": -2.628649
       },
       "outageLocations": null,
-      "AffectedPostcodes": " WN1 2ND, WN1 2NB, WN1 2BD, WN1 2DN, WN1 2DW, WN1 2LE",
+      "AffectedPostcodes": " WN1 2ND, WN1 2NB, WN1 2BD, WN1 2DN, WN1 2DW, WN1 2LE, WN1 2LA, WN1 2DP, WN1 2LS, WN1 2NA, WN1 2LF",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -285,17 +285,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 28,
+      "consumersOff": 13,
       "estimatedTimeOfRestoration": "2026-01-22T13:19:00",
       "estimatedTimeOfRestorationMajority": "2026-01-22T13:19:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.604526,
-        "lng": -2.144631
+        "lat": 53.604246,
+        "lng": -2.145860
       },
       "outageLocations": null,
-      "AffectedPostcodes": " OL16 4UU, OL16 4UH, OL16 5LP",
+      "AffectedPostcodes": " OL16 4UH, OL16 5LP",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -326,7 +326,7 @@
       "region": "Torver, South Lakeland",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Preparing to send team",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 96,
       "estimatedTimeOfRestoration": "2026-01-22T13:40:00",
       "estimatedTimeOfRestorationMajority": "2026-01-22T13:40:00",
@@ -340,48 +340,6 @@
       "AffectedPostcodes": " LA12 8DN, LA12 8DW, LA12 8EL, LA12 8DJ, LA12 8DF, LA12 8DL, LA21 8BL, LA12 8EZ, LA12 8EJ, LA12 8DD, LA12 8EQ, LA21 8BJ, LA12 8DQ, LA20 8DW, LA21 8AZ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125297138",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-22T10:42:46",
-      "region": "Wigan Central, Wigan",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 54,
-      "estimatedTimeOfRestoration": "2026-01-22T16:42:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-22T16:42:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.555462,
-        "lng": -2.628238
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " WN1 2ND, WN1 2NB, WN1 2NA, WN1 2LS, WN1 2LA, WN1 2LE, WN1 2DN, WN1 2DP",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -424,6 +382,48 @@
       "AffectedPostcodes": " M11 3BT, M11 3BJ, M11 3BR, M11 3BL, M11 3BP",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers fix the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125297140",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-22T10:42:51",
+      "region": "Wigan Central, Wigan",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 9,
+      "estimatedTimeOfRestoration": "2026-01-22T14:42:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-22T14:42:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.554575,
+        "lng": -2.629285
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " WN1 2DN",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GS",
       "addressMpanList": null
     },
     {
