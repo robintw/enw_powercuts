@@ -95,7 +95,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -110,25 +110,25 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125297318",
+      "faultNumber": "INC 125297113",
       "multipleFaultNumbers": null,
-      "date": "2026-01-22T13:52:54",
-      "region": "Eccleston, Chorley",
+      "date": "2026-01-22T10:12:32",
+      "region": "Hawcoat, Barrow-In-Furness",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 68,
-      "estimatedTimeOfRestoration": "2026-01-22T16:52:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-22T16:52:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": null,
+      "consumersOff": 3,
+      "estimatedTimeOfRestoration": "2026-01-22T18:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-22T18:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.646586,
-        "lng": -2.724739
+        "lat": 54.154599,
+        "lng": -3.200986
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR7 5SZ, PR7 5SF, PR7 5FS, PR7 5FT, PR7 5SU",
-      "UnderReviewStatusTimeCheck": true,
+      "AffectedPostcodes": " LA15 8BN, LA14 4QE",
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
@@ -152,24 +152,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125297450",
+      "faultNumber": "INC 125297318",
       "multipleFaultNumbers": null,
-      "date": "2026-01-22T16:44:48",
-      "region": "Brigham, Allerdale",
+      "date": "2026-01-22T13:52:54",
+      "region": "Eccleston, Chorley",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 473,
-      "estimatedTimeOfRestoration": "2026-01-22T19:44:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-22T19:44:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 68,
+      "estimatedTimeOfRestoration": "2026-01-22T23:45:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-22T23:45:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.657148,
-        "lng": -3.423307
+        "lat": 53.646586,
+        "lng": -2.724739
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA13 0TP, CA13 0UL, CA13 0TJ, CA13 0TZ, CA13 0SX, CA13 0US, CA13 0UE, CA13 0TQ, CA13 0TL, CA13 0UQ, CA13 0UG, CA13 0TY, CA13 0UN, CA13 0ZR, CA13 0UY, CA13 0TH, CA13 0GZ, CA13 0UJ, CA13 0TR, CA13 0TU, CA13 0UH, CA13 0UA, CA13 0TX, CA13 0UX, CA13 0UU, CA13 0UF, CA13 0TS, CA13 0XN, CA13 0AL, CA13 0UR, CA13 0TT, CA13 0UD, CA13 0UB, CA13 0TW, CA13 0XH, CA13 9LE, CA13 0TG",
+      "AffectedPostcodes": " PR7 5SZ, PR7 5SF, PR7 5FS, PR7 5FT, PR7 5SU",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -213,48 +213,6 @@
       "outageLocations": null,
       "AffectedPostcodes": " PR25 4GU, PR25 3GR",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125297047",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-22T03:14:19",
-      "region": "Kingsway, Rochdale",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 13,
-      "estimatedTimeOfRestoration": "2026-01-22T17:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-22T17:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.604246,
-        "lng": -2.145860
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " OL16 4UH, OL16 5LP",
-      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -308,7 +266,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 6,
+  "TotalResults": 5,
   "ShowPolygons": false,
   "Regions": [
     {
