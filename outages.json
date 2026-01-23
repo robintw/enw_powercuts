@@ -53,7 +53,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
       "UpdateInfo": null,
       "CTAs": [
@@ -86,7 +86,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " LA12 8QY",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "O/HM",
       "addressMpanList": null
     },
@@ -152,26 +152,68 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125297583",
+      "faultNumber": "INC 125297974",
       "multipleFaultNumbers": null,
-      "date": "2026-01-23T03:16:25",
-      "region": "Mellor, Ribble Valley",
+      "date": "2026-01-23T14:29:49",
+      "region": "Redvales, Bury",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 16,
-      "estimatedTimeOfRestoration": "2026-01-23T17:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-23T17:00:00",
+      "consumersOff": 70,
+      "estimatedTimeOfRestoration": "2026-01-23T20:29:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-23T20:29:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.773679,
-        "lng": -2.527145
+        "lat": 53.584146,
+        "lng": -2.297003
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB2 7EW, BB2 7JR",
+      "AffectedPostcodes": " BL9 9BS, BL9 9BR, BL9 9BP, BL9 9AU, BL9 9AS",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125297944",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-23T13:47:35",
+      "region": "Dean, Allerdale",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": null,
+      "consumersOff": 12,
+      "estimatedTimeOfRestoration": "2026-01-23T16:47:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-23T16:47:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.596872,
+        "lng": -3.468782
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " CA14 4RQ, CA14 4RG",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -194,24 +236,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125297959",
+      "faultNumber": "INC 125297583",
       "multipleFaultNumbers": null,
-      "date": "2026-01-23T14:12:25",
+      "date": "2026-01-23T03:16:25",
       "region": "Mellor, Ribble Valley",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 15,
-      "estimatedTimeOfRestoration": "2026-01-23T20:12:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-23T20:12:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 17,
+      "estimatedTimeOfRestoration": "2026-01-23T17:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-23T17:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.773274,
-        "lng": -2.526227
+        "lat": 53.773679,
+        "lng": -2.527145
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB2 7EP, BB2 7EW, BB2 7JR",
+      "AffectedPostcodes": " BB2 7EW, BB2 7JR",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -224,7 +266,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 5,
   "ShowPolygons": false,
   "Regions": [
     {
