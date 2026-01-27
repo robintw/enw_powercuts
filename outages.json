@@ -159,7 +159,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 55,
+      "consumersOff": 41,
       "estimatedTimeOfRestoration": "2026-01-27T20:34:00",
       "estimatedTimeOfRestorationMajority": "2026-01-27T20:34:00",
       "information": "",
@@ -389,7 +389,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
       "UpdateInfo": null,
       "CTAs": [
@@ -422,50 +422,8 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " LA6 1BG, LA6 1BE, LA6 2FL",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "O/HM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125299319",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-27T04:40:40",
-      "region": "New Mills, High Peak",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 13,
-      "estimatedTimeOfRestoration": "2026-01-27T18:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-27T18:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.406083,
-        "lng": -2.004561
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " SK6 5RZ, SK22 4QR, SK22 1AU, SK6 5JQ, SK6 5NG, SK6 5PB, SK13 5RZ, SK6 5RY, SK22 1DY, SK6 5NP, SK22 1AX, SK6 5NS, SK13 5RT, SK22 1EF, SK6 5NT, SK22 4EW, SK22 1EB, SK13 5SD, SK22 1ED, SK6 5DZ, SK6 5NR, SK6 5RX, SK22 4QG, SK13 6ED, SK6 5LS, SK13 5RU, SK22 1AY, SK13 6JZ, SK22 3GA, SK6 5LT, SK22 1EA, SK6 5NE, SK6 5PZ, SK22 1DX, SK22 4QQ, SK13 5SB, SK6 5NF, SK22 4EN, SK22 1AH, SK13 5SA, SK6 5LR, SK13 5DN, SK13 5RS, SK14 6RX, SK22 1AS, SK13 5HN, SK22 1BB, SK22 1BA",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -508,6 +466,48 @@
       "AffectedPostcodes": " PR5 4HY, PR5 4JG, PR5 4JS, PR5 4JW, PR5 4JH, PR5 4JX",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": true,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125299319",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-27T04:40:40",
+      "region": "New Mills, High Peak",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 13,
+      "estimatedTimeOfRestoration": "2026-01-27T17:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-27T17:00:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.406083,
+        "lng": -2.004561
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK6 5RZ, SK22 4QR, SK22 1AU, SK6 5JQ, SK6 5NG, SK6 5PB, SK13 5RZ, SK6 5RY, SK22 1DY, SK6 5NP, SK22 1AX, SK6 5NS, SK13 5RT, SK22 1EF, SK6 5NT, SK22 4EW, SK22 1EB, SK13 5SD, SK22 1ED, SK6 5DZ, SK6 5NR, SK6 5RX, SK22 4QG, SK13 6ED, SK6 5LS, SK13 5RU, SK22 1AY, SK13 6JZ, SK22 3GA, SK6 5LT, SK22 1EA, SK6 5NE, SK6 5PZ, SK22 1DX, SK22 4QQ, SK13 5SB, SK6 5NF, SK22 4EN, SK22 1AH, SK13 5SA, SK6 5LR, SK13 5DN, SK13 5RS, SK14 6RX, SK22 1AS, SK13 5HN, SK22 1BB, SK22 1BA",
+      "UnderReviewStatusTimeCheck": true,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -664,8 +664,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 4,
-      "estimatedTimeOfRestoration": "2026-01-27T19:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-27T19:00:00",
+      "estimatedTimeOfRestoration": "2026-01-27T21:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-27T21:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
