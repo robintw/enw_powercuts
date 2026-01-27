@@ -152,48 +152,6 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125299392",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-27T06:54:32",
-      "region": "Lindale And Newton-In-Cartmel, South Lakeland",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 34,
-      "estimatedTimeOfRestoration": "2026-01-27T12:54:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-27T12:54:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.215881,
-        "lng": -2.898112
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " LA11 6LD, LA11 6LE, LA11 6LW, LA11 6LF",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
       "faultNumber": "INC 125299311",
       "multipleFaultNumbers": null,
       "date": "2026-01-27T04:32:52",
@@ -320,24 +278,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125299402",
+      "faultNumber": "INC 125299401",
       "multipleFaultNumbers": null,
-      "date": "2026-01-27T07:23:07",
-      "region": "Grange-Over-Sands, South Lakeland",
+      "date": "2026-01-27T07:22:47",
+      "region": "Lindale And Newton-In-Cartmel, South Lakeland",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 112,
-      "estimatedTimeOfRestoration": "2026-01-27T10:23:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-27T10:23:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 343,
+      "estimatedTimeOfRestoration": "2026-01-27T10:22:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-27T10:22:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.212173,
-        "lng": -2.900330
+        "lat": 54.214602,
+        "lng": -2.897509
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA11 6UU, LA11 6LG, LA11 6LS, LA11 6LL, LA11 6LJ, LA11 6PQ, LA11 6LT, LA11 6LE, LA11 6JF, LA11 6LU, LA11 6LQ, LA11 6LR, LA11 6LX, LA11 6FE, LA11 7RW, LA11 6PA",
+      "AffectedPostcodes": " LA11 6LR, LA11 6QR, LA11 6RY, LA11 6LL, LA11 6PB, LA11 6LN, LA11 6ND, LA11 6PA, LA11 6QS, LA11 6PD, LA11 6LS, LA11 6RX, LA11 6RZ, LA11 6UU, LA11 6LP, LA11 6NB, LA11 6QR, LA11 6LG, LA11 6LJ, LA11 6PQ, LA11 6LT, LA11 6LE, LA11 6JF, LA11 6LU, LA11 6LQ, LA11 6LX, LA11 6FE, LA11 7RW, LA11 6JT, LA11 6LF, LA11 6LA, LA11 6JX, LA11 6LD, LA11 6JZ, LA11 6QP, LA11 6LB, LA11 6EG, LA11 6LY, LA11 6LW, LA11 6JU, LA11 6QU, LA11 6HA, LA11 6RB",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -368,7 +326,7 @@
       "region": "Dean, Allerdale",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 22,
       "estimatedTimeOfRestoration": "2026-01-27T13:24:00",
       "estimatedTimeOfRestorationMajority": "2026-01-27T13:24:00",
@@ -506,6 +464,48 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " SK12 1EL",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125299411",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-27T07:40:49",
+      "region": "Heversham, South Lakeland",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 98,
+      "estimatedTimeOfRestoration": "2026-01-27T10:40:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-27T10:40:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.249901,
+        "lng": -2.751787
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA7 7ND, LA7 7LZ, LA7 7LY, LA7 7NA, LA7 7NQ, LA7 7NF, LA7 7FR, LA7 7NG, LA7 7LN, LA7 7EY, LA7 7NB, LA7 7NE, LA7 7ER, LA7 7NS, LA8 8EG, LA8 0JT",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
