@@ -158,7 +158,7 @@
       "region": "Poynton-With-Worth, Cheshire East",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 18,
       "estimatedTimeOfRestoration": "2026-01-27T12:05:00",
       "estimatedTimeOfRestorationMajority": "2026-01-27T12:05:00",
@@ -200,7 +200,7 @@
       "region": "Poynton-With-Worth, Cheshire East",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 53,
       "estimatedTimeOfRestoration": "2026-01-27T12:05:00",
       "estimatedTimeOfRestorationMajority": "2026-01-27T12:05:00",
@@ -242,7 +242,7 @@
       "region": "Poynton-With-Worth, Cheshire East",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 42,
       "estimatedTimeOfRestoration": "2026-01-27T12:05:00",
       "estimatedTimeOfRestorationMajority": "2026-01-27T12:05:00",
@@ -254,6 +254,48 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " SK12 1LY, SK12 1LZ, SK12 1LX, SK12 1XX",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125299368",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-27T06:11:00",
+      "region": "Wilmslow, Cheshire East",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 13,
+      "estimatedTimeOfRestoration": "2026-01-27T12:11:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-27T12:11:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.341643,
+        "lng": -2.266309
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK9 4LT, SK9 4LY, SK9 5NY",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -410,7 +452,7 @@
       "region": "Poynton-With-Worth, Cheshire East",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 20,
       "estimatedTimeOfRestoration": "2026-01-27T12:05:00",
       "estimatedTimeOfRestorationMajority": "2026-01-27T12:05:00",
@@ -452,7 +494,7 @@
       "region": "Poynton-With-Worth, Cheshire East",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 26,
       "estimatedTimeOfRestoration": "2026-01-27T12:05:00",
       "estimatedTimeOfRestorationMajority": "2026-01-27T12:05:00",
@@ -494,7 +536,7 @@
       "region": "Poynton-With-Worth, Cheshire East",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 9,
       "estimatedTimeOfRestoration": "2026-01-27T12:05:00",
       "estimatedTimeOfRestorationMajority": "2026-01-27T12:05:00",
@@ -508,6 +550,48 @@
       "AffectedPostcodes": " SK12 1PU, SK12 1NZ, SK12 1NU",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125299369",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-27T06:20:48",
+      "region": "Bollington, Cheshire East",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 12,
+      "estimatedTimeOfRestoration": "2026-01-27T09:20:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-27T09:20:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.287078,
+        "lng": -2.098488
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK10 5AW, SK10 5AL, SK10 5AP",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -578,7 +662,7 @@
       "region": "Poynton-With-Worth, Cheshire East",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 51,
       "estimatedTimeOfRestoration": "2026-01-27T12:04:00",
       "estimatedTimeOfRestorationMajority": "2026-01-27T12:04:00",
@@ -620,7 +704,7 @@
       "region": "Poynton-With-Worth, Cheshire East",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 52,
       "estimatedTimeOfRestoration": "2026-01-27T12:05:00",
       "estimatedTimeOfRestorationMajority": "2026-01-27T12:05:00",
@@ -634,48 +718,6 @@
       "AffectedPostcodes": " SK12 1NR, SK12 1NP, SK12 1NW, SK12 1NS, SK12 1NX",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125299335",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-27T06:05:07",
-      "region": "Poynton-With-Worth, Cheshire East",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 169,
-      "estimatedTimeOfRestoration": "2026-01-27T09:05:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-27T09:05:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.342997,
-        "lng": -2.126630
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " SK12 1LQ, SK12 1LN, SK12 1AB, SK12 1LW, SK12 1LG, SK12 1LR, SK12 1HG, SK12 1LP, SK12 1LS, SK12 1LL, SK12 1US",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -704,7 +746,7 @@
       "region": "Poynton-With-Worth, Cheshire East",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 42,
       "estimatedTimeOfRestoration": "2026-01-27T12:05:00",
       "estimatedTimeOfRestorationMajority": "2026-01-27T12:05:00",
@@ -746,7 +788,7 @@
       "region": "Poynton-With-Worth, Cheshire East",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 70,
       "estimatedTimeOfRestoration": "2026-01-27T12:05:00",
       "estimatedTimeOfRestorationMajority": "2026-01-27T12:05:00",
@@ -788,7 +830,7 @@
       "region": "Poynton-With-Worth, Cheshire East",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 18,
       "estimatedTimeOfRestoration": "2026-01-27T12:04:00",
       "estimatedTimeOfRestorationMajority": "2026-01-27T12:04:00",
@@ -812,7 +854,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 18,
+  "TotalResults": 19,
   "ShowPolygons": false,
   "Regions": [
     {
