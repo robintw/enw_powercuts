@@ -76,8 +76,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 5,
-      "estimatedTimeOfRestoration": "2026-01-27T22:30:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-27T22:30:00",
+      "estimatedTimeOfRestoration": "2026-01-27T23:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-27T23:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -110,24 +110,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125300081",
+      "faultNumber": "INC 125299311",
       "multipleFaultNumbers": null,
-      "date": "2026-01-27T18:18:37",
-      "region": "Marple South And High Lane, Stockport",
+      "date": "2026-01-27T04:32:52",
+      "region": "Bothel And Threapland, Allerdale",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 116,
-      "estimatedTimeOfRestoration": "2026-01-28T00:18:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-28T00:18:00",
+      "consumersOff": 69,
+      "estimatedTimeOfRestoration": "2026-01-28T00:00:01",
+      "estimatedTimeOfRestorationMajority": "2026-01-28T00:00:01",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.396238,
-        "lng": -2.071299
+        "lat": 54.740368,
+        "lng": -3.274018
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK6 2AQ, SK6 6AA, SK6 7NG, SK6 6DE, SK6 7NH, SK6 7NQ, SK6 6DF, SK6 7NJ, SK6 6DG, SK6 7AW, SK6 7NN, SK6 7NL",
+      "AffectedPostcodes": " CA7 2HJ, CA7 2HU, CA7 2HS, CA7 2HL, CA7 2HR, CA7 2JB, CA7 2HY",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -137,8 +137,8 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UnderReview": true,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -152,26 +152,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125299311",
+      "faultNumber": "INC 125299557",
       "multipleFaultNumbers": null,
-      "date": "2026-01-27T04:32:52",
-      "region": "Bothel And Threapland, Allerdale",
+      "date": "2026-01-27T09:23:30",
+      "region": "Hoff, Eden",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 69,
-      "estimatedTimeOfRestoration": "2026-01-27T22:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-27T22:00:00",
+      "consumersOff": 100,
+      "estimatedTimeOfRestoration": "2026-01-27T12:23:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-27T12:23:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.740368,
-        "lng": -3.274018
+        "lat": 54.542647,
+        "lng": -2.505337
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA7 2HJ, CA7 2HU, CA7 2HS, CA7 2HL, CA7 2HR, CA7 2JB, CA7 2HY",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
+      "AffectedPostcodes": " CA16 6EE, CA16 6EG, CA16 6SZ, CA16 6EF, CA16 6EA, CA16 6TD, CA16 6TA, CA16 6TE, CA16 6EQ, CA16 6TF, CA16 6TH, CA16 6TG, CA16 6HE, CA10 3SJ",
+      "UnderReviewStatusTimeCheck": true,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
