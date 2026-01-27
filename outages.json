@@ -222,6 +222,48 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125299471",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-27T08:12:31",
+      "region": "Much Hoole, South Ribble",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 19,
+      "estimatedTimeOfRestoration": "2026-01-27T20:12:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-27T20:12:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.696964,
+        "lng": -2.806909
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR4 4GJ, PR4 4RJ",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -368,7 +410,7 @@
       "region": "Arkholme-With-Cawood, Lancaster",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "Preparing to send team",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 7,
       "estimatedTimeOfRestoration": "2026-01-27T17:00:00",
       "estimatedTimeOfRestorationMajority": "2026-01-27T17:00:00",
@@ -410,7 +452,7 @@
       "region": "Cumwhitton, Carlisle",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 123,
       "estimatedTimeOfRestoration": "2026-01-27T17:04:00",
       "estimatedTimeOfRestorationMajority": "2026-01-27T17:04:00",
@@ -496,8 +538,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 13,
-      "estimatedTimeOfRestoration": "2026-01-27T14:30:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-27T14:30:00",
+      "estimatedTimeOfRestoration": "2026-01-27T18:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-27T18:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -641,7 +683,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -674,7 +716,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " CA16 6LU, CA16 6JB, CA16 6JA, CA16 6AF, CA16 6LB, CA16 6UE, CA10 1UA, CA10 3TZ, CA16 6XN, CA16 6FE, CA16 6HU, CA16 6UR, CA10 1UN, CA16 6BW, CA16 6NA, CA16 6XT, CA16 6BH, CA16 6UA, CA10 1UT, CA10 1UZ, CA16 6HJ, CA16 6QU, CA16 6HP, CA16 6AG, CA10 1XT, CA16 6LP, CA16 6UJ, CA16 6BX, CA16 6QR, CA10 1UY, CA16 6XY, CA16 6AB, CA16 6JE, CA16 6FP, CA16 6XG, CA16 6XX, CA16 6FF, CA16 6RB, CA16 6JZ, CA16 6HR, CA16 6UG, CA16 6UN, CA10 1XN, CA16 6JG, CA16 6BN, CA16 6HQ, CA16 6XQ, CA10 1UP, CA16 6HX, CA10 1UL, CA16 6JD, CA16 6BJ, CA16 6LN, CA16 6HW, CA16 6UH, CA10 1XW, CA10 1UD, CA16 6ND, CA10 1UE, CA16 6JP, CA16 6UD, CA16 6RA, CA16 6RD, CA16 6QT, CA16 6PA, CA16 6HH, CA16 6AE, CA16 6HY, CA10 1UH, CA10 1XH, CA10 1UR, CA16 6HL, CA16 6FJ, CA16 6HN, CA10 1UF, CA16 6XZ, CA16 6BF, CA16 6TR, CA16 6LA, CA16 6XL, CA16 6FG, CA16 6LH, CA16 6BT, CA10 1XX, CA16 6XP, CA16 6TS, CA16 6HT, CA10 1XE, CA16 6BA, CA11 0UU, CA16 6NF, CA10 1XP, CA10 1UQ, CA16 6JY, CA16 6LZ, CA10 1UG, CA16 6US, CA16 6UQ, CA10 3DF, CA16 6FL, CA16 6UP, CA10 1XA, CA10 1UB, CA16 6AQ, CA16 6HZ, CA16 6TP, CA16 6FH, CA16 6QZ, CA11 6UP, CA16 6XD, CA16 6XS, CA10 1US, CA16 6AH, CA16 6NR, CA16 6XB, CA11 0AU, CA10 1UU, CA10 1, CA10 1XF, CA16 6UB, CA16 6UW, CA16 6LX, CA16 6BU, CA16 6A, CA16 6BL, CA10 1XL, CA16 6TN, CA10 1XD, CA10 1XS, CA16 6XU, CA16 6AA, CA16 6UL, CA16 6AL, CA16 6XE, CA16 6JX, CA11 0PD, CA11 6XN, CA16 6AD, CA10 3NU, CA16 6DZ",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
@@ -758,6 +800,90 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " SK12 1EL, SK12 1EE, SK12 1ED, SK12 1DY",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125299903",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-27T14:23:38",
+      "region": "Bamber Bridge East, South Ribble",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 5,
+      "estimatedTimeOfRestoration": "2026-01-27T17:23:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-27T17:23:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.721335,
+        "lng": -2.646275
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR5 8BF, PR5 8AL, PR5 8AD, PR5 8AJ, PR5 8AY, PR5 8AE, PR5 8AP, PR5 8AH, PR5 8AN, PR5 8AQ, PR5 8BG, PR5 8BW, PR5 8BX, PR5 8AS, PR5 8NA, PR5 6AN",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125299904",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-27T14:25:26",
+      "region": "Atherleigh, Wigan",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 1122,
+      "estimatedTimeOfRestoration": "2026-01-27T17:25:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-27T17:25:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.496996,
+        "lng": -2.537400
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " WN7 4BW, WN7 4QR, WN7 4ZZ, WN7 5BT, WN7 4EX, WN7 4RA, WN7 4GA, WN7 4TY, WN7 4BB, WN7 4RP, WN7 4QJ, WN7 4UB, WN7 3DB, WN7 4BH, WN7 4XA, WN7 4UG, WN7 4QL, WN7 4QA, WN7 4FU, WN7 4BJ, WN7 4RB, WN7 4BU, WN7 4QX, WN7 4RT, WN7 5BN, WN7 4FN, WN7 4RF, WN7 4XQ, WN7 3GB, WN7 4XF, WN7 4QW, WN7 4BQ, WN7 4RD, WN7 4BE, WN7 4FQ, WN7 4GB, WN7 4RR, WN7 4UQ, WN7 4QU, WN7 4FP, WN7 4QZ, WN7 4RS, WN7 4QE, WN7 4XG, WN7 4QP, WN7 4GD, WN7 4UL, WN7 5BW, WN7 4BP, WN7 4RE, WN7 4GF, WN7 4EZ, WN7 4GE, WN7 4QQ, WN7 4QN, WN7 4QG, WN7 5BZ, WN7 4BF, WN7 4XB, WN7 4QS, WN7 4TS, WN7 4QD, WN7 4GH, WN7 4QT, WN7 4XD, WN7 4UH, WN7 4FX, WN7 4QY, WN7 4XE, WN7 4FW, WN7 4UE, WN7 4RL, WN7 4TN, WN7 4RN, WN7 4QF",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -869,21 +995,21 @@
       "faultNumber": "INC 125299826",
       "multipleFaultNumbers": null,
       "date": "2026-01-27T13:01:04",
-      "region": "Lorton, Allerdale",
+      "region": "Embleton, Allerdale",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 53,
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 68,
       "estimatedTimeOfRestoration": "2026-01-27T16:01:00",
       "estimatedTimeOfRestorationMajority": "2026-01-27T16:01:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.626167,
-        "lng": -3.306913
+        "lat": 54.620398,
+        "lng": -3.318013
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA13 9FS, CA13 9UW, CA13 9UN, CA13 9UL, CA13 9UP, CA13 9UR, CA13 9TB",
+      "AffectedPostcodes": " CA13 9UL, CA13 0RF, CA13 9XA, CA13 0RR, CA13 9UX, CA13 0RS, CA13 9UQ, CA13 9TX, CA13 0RT, CA13 9UB, CA13 9TG, CA13 9UG, CA13 0RP, CA13 0RQ, CA13 0RU, CA13 9JQ, CA13 9TZ, CA13 9UE, CA13 9UA, CA13 9TS, CA13 0QX, CA13 9TJ, CA13 0RW, CA13 0RG, CA13 9UW, CA13 9UY, CA13 9TB, CA13 9UH, CA13 9UD, CA13 9FS, CA13 9TL, CA13 9UP, CA13 9TY, CA13 0BL, CA13 9TU, CA13 9TA, CA13 9UR, CA13 9TN, CA13 9AX, CA13 9UU, CA13 9UZ, CA13 0XT, CA13 9UJ, CA13 9TT, CA13 9UN",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -893,7 +1019,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -926,7 +1052,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " CA20 1DN, CA20 1DH, CA20 1AQ, CA20 1BS, CA20 1BZ, CA20 1DF, CA20 1BX, CA20 1DE, CA20 1DB, CA20 1AA, CA20 1BP, CA20 1BU, CA20 1DZ, CA20 1AG, CA20 1BT, CA20 1EA, CA20 1DL, CA20 1BY, CA20 1AJ, CA20 1DJ, CA20 1AF, CA20 1DW, CA20 1DG, CA20 1AB, CA20 1DQ, CA20 1AH, CA22 2PA, CA20 1PG, CA22 2NY, CA20 1DX, CA20 1DY, CA22 2ND, CA22 2SU, CA22 2PD, CA22 2PQ, CA22 2NH, CA22 2NX, CA22 2PE, CA22 2PB, CA22 2VV",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     }
@@ -939,7 +1065,7 @@
     "FuturePlannedWorks",
     "CancelledPlannedWork"
   ],
-  "TotalResults": 21,
+  "TotalResults": 24,
   "ShowPolygons": false,
   "Regions": [
     {
