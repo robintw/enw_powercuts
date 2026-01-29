@@ -53,6 +53,48 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241174203",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-29T14:53:58",
+      "region": "Deepdale, Preston",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 88,
+      "estimatedTimeOfRestoration": "2026-01-29T20:53:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-29T20:53:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.768683,
+        "lng": -2.691006
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR1 6LJ, PR1 6QB, PR1 6LL, PR1 6NR, PR1 6LQ, PR1 6TR, PR1 6SJ, PR1 6SR, PR1 6LS, PR1 6NX, PR1 6TU, PR1 6TB, PR1 6TA, PR1 6PZ, PR1 6JA",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
       "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
@@ -172,48 +214,6 @@
       "AffectedPostcodes": " BL1 8HU, BL1 2TE, BL1 2TJ, BL1 2TL, BL1 2TN",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241173778",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-29T07:43:37",
-      "region": "Adlington, Cheshire East",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 71,
-      "estimatedTimeOfRestoration": "2026-01-29T14:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-29T14:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.328279,
-        "lng": -2.108121
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " SK10 4LD, SK10 4JX, SK10 4PL, SK10 4PQ, SK10 4JU, SK10 4PH, SK10 4LB, SK10 4PF, SK10 4LA, SK10 4NU, SK10 4PG, SK10 4PA, SK10 4PJ, SK10 4NY, SK10 4NX, SK10 4PB, SK10 4NT, SK10 4JZ, SK10 4LE, SK10 4NB",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
