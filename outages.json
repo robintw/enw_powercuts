@@ -137,8 +137,8 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -152,26 +152,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241173654",
+      "faultNumber": "INC 1241173693",
       "multipleFaultNumbers": null,
-      "date": "2026-01-28T20:14:15",
-      "region": "Brooklands, Trafford",
+      "date": "2026-01-28T23:57:07",
+      "region": "Ribbleton, Preston",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 1567,
-      "estimatedTimeOfRestoration": "2026-01-28T23:14:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-28T23:14:00",
+      "consumersOff": 162,
+      "estimatedTimeOfRestoration": "2026-01-29T05:57:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-29T05:57:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.413063,
-        "lng": -2.320135
+        "lat": 53.783289,
+        "lng": -2.655830
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M33 3JS, M33 3GS, M33 3QS, M33 3QR, M33 3GR, M33 3JJ, M33 3JZ, M33 3WJ, M33 3PD, M33 3QL, M33 3JG, M33 3SL, M33 3LW, M33 3SW, M33 3QH, M33 3LN, M33 3LR, M33 3GN, M33 3LP, M33 3QQ, M33 3QP, M33 3JT, M33 3GW, M33 3JQ, M33 3QE, M33 3QF, M33 3GJ, M33 3TS, M33 3SN, M33 3GL, M33 3NL, M33 3RB, M33 3GQ, M33 3QG, M33 3FY, M33 3QY, M33 3NT, M33 3SR, M33 3SY, M33 3LL, M33 3WF, M33 3GG, M33 3NJ, M33 3SX, M33 3RJ, M33 3GH, M33 3RA, M33 3LZ, M33 3TT, M33 3RH, M33 3QW, M33 3QN, M33 3LS, M33 3TN, M33 3SU, M33 3TP, M33 3TW, M33 3UZ, M33 3QJ, M33 3SJ, M33 3SD, M33 3YG, M33 3SE, M33 3GP, M33 3TR, M33 3SH, M33 3ST, M33 3TD, M33 3GX, M33 3PJ, M33 3SZ, M33 3TL, M33 3TJ, M33 3SF, M33 3TQ, M33 3UX, M33 3FR, M33 3FP, M33 3TG, M33 3SG, M33 3TA, M33 3TE, M33 3UY, M33 3QZ, M33 3UW, M33 3TB, M33 3TH, M33 3TF",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "HVFL",
+      "AffectedPostcodes": " PR2 6SB, PR2 6RH, PR2 6RX, PR2 6RR, PR2 6RL, PR2 6TQ, PR2 6SN, PR2 6RU",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
