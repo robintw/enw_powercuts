@@ -46,15 +46,59 @@
   "OverviewDescription": "Important information on the power cut in your area, <b>please read</b>:",
   "TrackPowerCutLabel": "Get Updates",
   "TrackPowerCutLink": null,
-  "ResultType": "NoOutageFound",
-  "Items": [],
+  "ResultType": null,
+  "Items": [
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241174912",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-30T21:23:24",
+      "region": "Newton-Le-Willows West, St. Helens",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 5,
+      "estimatedTimeOfRestoration": "2026-01-31T00:23:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-31T00:23:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.460362,
+        "lng": -2.633816
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " WA12 0LN, WA12 9WF, WA12 9WH, WA12 9WB, WA12 0NN, WA12 9WR, WA12 0NJ, WA12 9EQ, WA12 9WW, WA12 9WA, WA12 0BB, WA12 0LQ, WA12 0AY, WA12 0DA, WA12 0LD, WA12 0AT, WA12 0AG, WA12 0AU, WA12 0AP, WA12 0DX, WA12 0NF, WA12 0LG, WA12 0AH, WA12 0NB, WA12 0NS, WA12 0LP, WA12 9WE, WA12 0NE, WA12 9EF, WA12 9WT, WA12 9EJ, WA12 9WZ, WA12 0AS, WA12 0BW, WA12 0LE, WA12 9UY, WA12 0LJ, WA12 0HP, WA12 0NH, WA12 0JX, WA12 0ND, WA12 0AW, WA12 0NW, WA12 9WN, WA12 9WS, WA12 0LL, WA12 0AZ, WA12 0AR, WA12 9SY, WA12 0NG, WA12 0AJ, WA12 9EG, WA12 0JY, WA12 0LS, WA12 9WJ, WA12 9WU, WA12 0NL, WA12 0AB, WA12 0LT, WA11 0RN, WA12 9WP, WA12 9EH, WA12 0LY, WA12 0NQ, WA12 0AE, WA12 0DY, WA12 0JU, WA12 0LU, WA12 9WL, WA12 0LR, WA12 0BD, WA12 0LF, WA12 0LX, WA12 0HF, WA12 0BE, WA12 9W, WA12 9SG, WA12 9SH, WA12 0HD, WA12 9WG, WA12 0LW, WA12 9WD, WA12 9SL, WA12 9WQ, WA12 0LH, WA12 9PW, WA12 0DR, WA12 0HH, WA12 0AX, WA12 7WB, WA12 9OX, WA12 0HR, WA12 9EE, WA12 9FF, WA12 0AN, WA12 0AQ, WA12 0HN",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    }
+  ],
   "Markers": null,
   "AvailableItemTypes": [
+    "CurrentFault",
     "ResolvedFault",
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 0,
+  "TotalResults": 1,
   "ShowPolygons": false,
   "Regions": [
     {
