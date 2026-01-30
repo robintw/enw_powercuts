@@ -110,24 +110,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241174609",
+      "faultNumber": "INC 1241174777",
       "multipleFaultNumbers": null,
-      "date": "2026-01-30T12:18:09",
-      "region": "Irton With Santon, Copeland",
+      "date": "2026-01-30T14:49:38",
+      "region": "Beetham, South Lakeland",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 291,
-      "estimatedTimeOfRestoration": "2026-01-30T15:18:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-30T15:18:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 22,
+      "estimatedTimeOfRestoration": "2026-01-30T17:49:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-30T17:49:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.389039,
-        "lng": -3.331016
+        "lat": 54.209590,
+        "lng": -2.810519
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA19 1TD, CA19 1TH, CA19 1UA, CA19 1TW, CA19 1TX, CA19 1TS, CA19 1TL, CA19 1TG, CA19 1TA, CA19 1UB, CA19 1XA, CA19 1TB, CA19 1TE, CA19 1TF, CA19 1YN, CA19 1YR, CA19 1UE, CA19 1YP, CA19 1TR, CA19 1TT, CA19 1YL, CA19 1UD, CA19 1TZ, CA19 1TY, CA19 1TN, CA19 1TU, CA19 1HJ, CA19 1UF, CA18 1RT",
+      "AffectedPostcodes": " LA7 7JX, LA7 7JU",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -215,6 +215,48 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241174605",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-30T12:12:39",
+      "region": "Eskdale, Copeland",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": null,
+      "consumersOff": 11,
+      "estimatedTimeOfRestoration": "2026-01-30T15:12:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-30T15:12:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.386851,
+        "lng": -3.320746
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " CA19 1UE, CA19 1UA",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "O/HM",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -224,7 +266,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 5,
   "ShowPolygons": false,
   "Regions": [
     {
