@@ -110,48 +110,6 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241175139",
-      "multipleFaultNumbers": null,
-      "date": "2026-01-31T12:19:44",
-      "region": "Skelmersdale South, West Lancashire",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 9,
-      "estimatedTimeOfRestoration": "2026-01-31T18:19:00",
-      "estimatedTimeOfRestorationMajority": "2026-01-31T18:19:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.546280,
-        "lng": -2.807995
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " WN8 8LL, WN8 8BX, WN8 8BJ, WN8 8BN",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
       "faultNumber": "INC 1241175059",
       "multipleFaultNumbers": null,
       "date": "2026-01-31T09:31:00",
@@ -298,6 +256,48 @@
       "AffectedPostcodes": " CA10 2JN, CA11 OFR, CA11 0JB, CA11 0ES, CA11 0HT, CA11 0HS, CA11 0DX, CA10 2LE, CA11 0DY, CA10 2LJ, CA10 2NG, CA11 0EJ, CA10 2JH, CA11 0LU, CA10 2JF, CA11 0HL, CA10 2LT, CA10 2JR, CA11 0FA, CA11 0EY, CA10 2JU, CA11 0DT, CA11 0EP, CA11 0SE, CA10 2LF, CA10 2LA, CA10 2JW, CA10 2NS, CA10 2JP, CA11 0DR, CA11 0DP, CA11 0EL, CA11 0EU, CA10 2LP, CA10 2JE, CA11 0EA, CA10 2NL, CA11 0EQ, CA10 2JG, CA11 0HH, CA10 2LR, CA11 0BX, CA10 2JQ, CA11 0EF, CA11 0HJ, CA11 0EH, CA11 0JF, CA10 2JT, CA11 0HR, CA10 2NR, CA11 0FR, CA11 0EB, CA10 2FH, CA11 0LL, CA11 0HN, CA11 0HY, CA10 3LA, CA10 2NW, CA11 0HQ, CA10 2NH, CA10 2LB, CA10 2BQ, CA11 0HW, CA11 0UF, CA11 0EE, CA11 0ER, CA10 2NP, CA11 0EZ, CA11 0BH, CA10 2LL, M33 5UL, CA11 0ET, CA11 0ED, CA11 0FS, CA11 0HP, CA11 0EN, CA11 0HF, CA11 0HG, CA10 2LN, CA10 2NN, CA11 0DQ, CA10 2LS, CA11 0HE, CA11 0FG, CA11 0HB, CA10 2JZ, CA10 2NE, CA10 2JJ, CA11 0EX, CA11 0JG, CA10 2BY, CA11 0DD, CA11 0DZ, CA10 2LH, CA11 0AG, CA11 0HU, CA11 0DU, CA11 0JA, CA10 2FX, CA11 0EW, CA10 2BG, CA11 0AN, CA11  0FS, CA11 0JE, CA10 2LD, CA11 0DS, CA10 3DZ, CA10 2FN, CA11 0DH, CA11 0HA, CA11 9EB, CA11 0EG, CA11 0HD, CA11 0DE, CA11 0HZ, CA10 2BL, SK17 6WJ, CA11 0FD, CA10 0LG",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241175154",
+      "multipleFaultNumbers": null,
+      "date": "2026-01-31T12:48:39",
+      "region": "Shaw And Crompton, Oldham",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 26,
+      "estimatedTimeOfRestoration": "2026-01-31T18:48:00",
+      "estimatedTimeOfRestorationMajority": "2026-01-31T18:48:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.576854,
+        "lng": -2.087438
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL2 8PH, OL2 8PN",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
