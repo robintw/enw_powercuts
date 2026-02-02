@@ -115,63 +115,21 @@
       "date": "2026-02-02T16:53:19",
       "region": "Leigh South, Wigan",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 76,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 17,
       "estimatedTimeOfRestoration": "2026-02-03T01:00:00",
       "estimatedTimeOfRestorationMajority": "2026-02-03T01:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.494273,
-        "lng": -2.509025
+        "lat": 53.493983,
+        "lng": -2.510309
       },
       "outageLocations": null,
-      "AffectedPostcodes": " WN7 2DB, WN7 2DE, WN7 2PQ, WN7 2DG, WN7 2PR, WN7 2PJ, WN7 2PL, WN7 2PW",
+      "AffectedPostcodes": " WN7 2PL, WN7 2PJ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125300187",
-      "multipleFaultNumbers": null,
-      "date": "2026-02-02T17:49:37",
-      "region": "Greensclough, Rossendale",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 292,
-      "estimatedTimeOfRestoration": "2026-02-02T23:30:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-02T23:30:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.701420,
-        "lng": -2.204706
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " OL13 8HP, OL13 8AR, OL13 8BA, OL13 8HS, OL13 8HJ, OL13 8GZ, OL13 8HX, OL13 8AT, OL13 8HZ, OL13 8AP, OL13 8HW, OL13 8HY, OL13 8UY, OL13 8AU, OL13 8AS, OL13 8BY, OL13 9AA, OL13 8AX, OL13 8HU, OL13 8HN, OL13 8HG, OL13 8AY, OL13 8HR, OL13 8AJ, OL13 8GT, OL13 8NR, OL13 8AA, OL13 8AZ, OL13 8HH, OL13 8GX, OL13 8AB, OL13 8HL",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -224,7 +182,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 3,
   "ShowPolygons": false,
   "Regions": [
     {
