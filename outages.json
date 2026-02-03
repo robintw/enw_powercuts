@@ -95,7 +95,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -110,25 +110,25 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125300920",
+      "faultNumber": "INC 125301037",
       "multipleFaultNumbers": null,
-      "date": "2026-02-03T13:30:21",
-      "region": "Little Eccleston-With-Larbreck, Fylde",
+      "date": "2026-02-03T20:15:41",
+      "region": "Clayton & Openshaw, Manchester",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 11,
-      "estimatedTimeOfRestoration": "2026-02-03T19:30:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-03T19:30:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 7,
+      "estimatedTimeOfRestoration": "2026-02-04T02:15:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-04T02:15:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.840133,
-        "lng": -2.943961
+        "lat": 53.482738,
+        "lng": -2.184845
       },
       "outageLocations": null,
-      "AffectedPostcodes": " FY6 8NE, FY6 8LP, FY6 8ND, PR4 3YA",
-      "UnderReviewStatusTimeCheck": true,
+      "AffectedPostcodes": " M11 4SQ, M11 4RG, M11 4GJ, M11 4UA, M11 4SN, M11 4RY",
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
