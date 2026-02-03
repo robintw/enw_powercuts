@@ -96,7 +96,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -110,68 +110,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125300746",
+      "faultNumber": "INC 125300700",
       "multipleFaultNumbers": null,
-      "date": "2026-02-03T10:40:53",
+      "date": "2026-02-03T10:27:25",
       "region": "Saddleworth, Oldham",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 184,
-      "estimatedTimeOfRestoration": "2026-02-03T13:40:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-03T13:40:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": null,
+      "consumersOff": 27,
+      "estimatedTimeOfRestoration": "2026-02-03T13:27:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-03T13:27:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.568859,
-        "lng": -1.994723
+        "lat": 53.569791,
+        "lng": -1.988197
       },
       "outageLocations": null,
-      "AffectedPostcodes": " OL3 5LL, OL3 5PD, OL3 5NE, OL3 5LJ, OL3 5LR, OL3 5PE, OL3 5LW, OL3 5NB, OL3 5NQ, OL3 5ND, OL3 5LA, OL3 5PH, OL3 5NH, OL3 5JY, OL3 5PU, OL3 5LS, OL3 5LN, OL3 5JZ, OL3 5LP, OL3 5GH, OL3 5LB, OL3 5EG, OL3 5LG, OL3 5LQ",
+      "AffectedPostcodes": " OL3 5LN, OL3 5LJ, OL3 5LW, OL3 5LA, OL3 5JZ, OL3 5GH, OL3 5JY, OL3 5LB",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125300714",
-      "multipleFaultNumbers": null,
-      "date": "2026-02-03T10:38:07",
-      "region": "Newbarns, Barrow-In-Furness",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 247,
-      "estimatedTimeOfRestoration": "2026-02-03T16:38:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-03T16:38:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.117381,
-        "lng": -3.202549
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " LA13 9DH, LA13 9DF, LA13 9NX, LA13 9DJ, LA13 9NU, LA13 9DN, LA13 9NS, LA13 0BX, LA13 0BT, LA13 9DW, LA13 9DL, LA13 9NY, LA13 9DP, LA13 0BS, LA13 0DB, LA13 0DE, LA13 9DR, LA13 9PN, LA13 0BZ, LA13 0BJ, LA13 9PW, LA13 9DS, LA13 9PD, LA13 9PG, LA13 9PB, LA13 9PF, LA13 9PR, LA13 9PP",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
+      "WebTMSFaultType": "O/HM",
       "addressMpanList": null
     }
   ],
@@ -182,7 +140,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 3,
+  "TotalResults": 2,
   "ShowPolygons": false,
   "Regions": [
     {
