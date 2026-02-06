@@ -75,17 +75,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 45,
-      "estimatedTimeOfRestoration": "2026-02-06T18:06:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-06T18:06:00",
+      "consumersOff": 10,
+      "estimatedTimeOfRestoration": "2026-02-06T17:45:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-06T17:45:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.683964,
-        "lng": -2.233694
+        "lat": 53.783631,
+        "lng": -2.222664
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB10 4PG, BB10 4LZ, BB10 4LU, M22 9BN",
+      "AffectedPostcodes": " BB10 4LZ, BB10 4LU",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -171,48 +171,6 @@
       "outageLocations": null,
       "AffectedPostcodes": " M27 4DU, M27 4FJ, M27 4FG, M27 4DS, M27 4LS, M27 4DX, M27 4HL, M27 4DP, M27 4DN, M27 4DL",
       "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241176698",
-      "multipleFaultNumbers": null,
-      "date": "2026-02-06T15:41:46",
-      "region": "Kingmoor, Carlisle",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 3,
-      "estimatedTimeOfRestoration": "2026-02-06T21:41:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-06T21:41:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.927097,
-        "lng": -2.951434
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " CA3 0GW, CA3 0HA",
-      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -350,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 7,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
