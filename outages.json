@@ -199,8 +199,8 @@
       "date": "2026-02-07T17:58:56",
       "region": "St. Oswald's, Hyndburn",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 11,
       "estimatedTimeOfRestoration": "2026-02-07T23:58:00",
       "estimatedTimeOfRestorationMajority": "2026-02-07T23:58:00",
@@ -243,17 +243,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 40,
+      "consumersOff": 33,
       "estimatedTimeOfRestoration": "2026-02-07T17:51:00",
       "estimatedTimeOfRestorationMajority": "2026-02-07T17:51:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.547269,
-        "lng": -2.390502
+        "lat": 53.547190,
+        "lng": -2.390922
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BL4 8AR, BL4 8AJ, BL4 8AW, BL4 9AJ, BL4 8AN, BL4 8EX, BL4 8AP, BL4 8BJ, BL4 9HG, BL4 8BP",
+      "AffectedPostcodes": " BL4 8AR, BL4 8AJ, BL4 8AW, BL4 9AJ, BL4 8AN, BL4 8EX, BL4 8AP, BL4 8BJ, BL4 9HG",
       "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -320,108 +320,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241177197",
+      "faultNumber": "INC 1241177230",
       "multipleFaultNumbers": null,
-      "date": "2026-02-07T17:37:19",
-      "region": "Claremont, Salford",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 175,
-      "estimatedTimeOfRestoration": "2026-02-07T23:37:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-07T23:37:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.499520,
-        "lng": -2.312365
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M6 7NP, M6 7RQ, M6 7WW, M6 7RU, M6 7RG, M6 7QP, M6 7RP, M6 7RW, M6 7WN",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241176994",
-      "multipleFaultNumbers": null,
-      "date": "2026-02-07T10:49:54",
-      "region": "Pilkington Park, Bury",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 4,
-      "estimatedTimeOfRestoration": "2026-03-08T00:01:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-08T00:01:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.552150,
-        "lng": -2.302749
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M45 7WW",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241177201",
-      "multipleFaultNumbers": null,
-      "date": "2026-02-07T17:37:49",
-      "region": "Claremont, Salford",
+      "date": "2026-02-07T19:04:05",
+      "region": "Kearsley, Bolton",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 42,
-      "estimatedTimeOfRestoration": "2026-02-07T23:37:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-07T23:37:00",
+      "previousFaultStatus": null,
+      "consumersOff": 7,
+      "estimatedTimeOfRestoration": "2026-02-08T01:04:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-08T01:04:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.500355,
-        "lng": -2.311464
+        "lat": 53.547983,
+        "lng": -2.386729
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M6 7WT, M6 7NW, M6 7WR, M6 7WG, M6 7WW, M6 7RG, M6 7RN, M6 7RJ",
+      "AffectedPostcodes": " BL4 8BP",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -454,8 +370,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 88,
-      "estimatedTimeOfRestoration": "2026-02-07T20:38:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-07T20:38:00",
+      "estimatedTimeOfRestoration": "2026-02-08T02:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-08T02:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -476,7 +392,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 10,
+  "TotalResults": 8,
   "ShowPolygons": false,
   "Regions": [
     {
