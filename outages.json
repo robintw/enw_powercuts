@@ -74,7 +74,7 @@
       "region": "Morecambe, Lancaster",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": null,
       "consumersOff": 112,
       "estimatedTimeOfRestoration": "2026-02-02T13:31:00",
       "estimatedTimeOfRestorationMajority": "2026-02-02T13:31:00",
@@ -86,48 +86,6 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " LA4 4PT, LA4 4PY, LA4 4PU, LA4 4NR, LA4 4QD, LA4 4NS, LA4 4PZ, LA4 4QA, LA4 4NP, LA4 4NT, LA4 4QE, LA4 4NU, LA4 4QB, LA4 4QG",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241178163",
-      "multipleFaultNumbers": null,
-      "date": "2026-02-09T18:57:20",
-      "region": "Jubilee, Wyre",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 30,
-      "estimatedTimeOfRestoration": "2026-02-10T23:30:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-10T23:30:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.882128,
-        "lng": -3.038094
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " FY5 2DH, FY5 2DQ, FY5 2DJ",
       "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -158,7 +116,7 @@
       "region": "Leigh West, Wigan",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": null,
       "consumersOff": 128,
       "estimatedTimeOfRestoration": "2026-02-11T04:19:00",
       "estimatedTimeOfRestorationMajority": "2026-02-11T04:19:00",
@@ -200,8 +158,8 @@
       "region": "Davenport And Cale Green, Stockport",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 665,
+      "previousFaultStatus": null,
+      "consumersOff": 490,
       "estimatedTimeOfRestoration": "2026-02-11T02:43:00",
       "estimatedTimeOfRestorationMajority": "2026-02-11T02:43:00",
       "information": "",
@@ -242,7 +200,7 @@
       "region": "Ribbleton, Preston",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": null,
       "consumersOff": 85,
       "estimatedTimeOfRestoration": "2026-02-11T13:00:00",
       "estimatedTimeOfRestorationMajority": "2026-02-11T13:00:00",
@@ -257,48 +215,6 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125302147",
-      "multipleFaultNumbers": null,
-      "date": "2026-02-10T20:38:03",
-      "region": "Whitworth, Rossendale",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 123,
-      "estimatedTimeOfRestoration": "2026-02-11T02:38:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-11T02:38:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.653607,
-        "lng": -2.174343
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " OL12 8PU, OL12 8QB, OL12 8QA, OL12 8QD",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -308,7 +224,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 6,
+  "TotalResults": 4,
   "ShowPolygons": false,
   "Regions": [
     {
