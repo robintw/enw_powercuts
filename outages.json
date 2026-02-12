@@ -157,8 +157,8 @@
       "date": "2026-02-12T07:46:03",
       "region": "Hareholme, Rossendale",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 33,
       "estimatedTimeOfRestoration": "2026-02-12T13:31:00",
       "estimatedTimeOfRestorationMajority": "2026-02-12T13:31:00",
@@ -194,24 +194,108 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125302620",
+      "faultNumber": "INC 125302660",
       "multipleFaultNumbers": null,
-      "date": "2026-02-12T06:56:00",
-      "region": "Davenport And Cale Green, Stockport",
+      "date": "2026-02-12T08:20:55",
+      "region": "Great Lever, Bolton",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 105,
-      "estimatedTimeOfRestoration": "2026-02-12T12:50:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-12T12:50:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 23,
+      "estimatedTimeOfRestoration": "2026-02-12T14:20:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-12T14:20:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.387489,
-        "lng": -2.162655
+        "lat": 53.572380,
+        "lng": -2.427339
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK3 8UZ, SK3 8RH, SK3 8RQ, SK3 8RE, SK3 8UT, SK3 8XB",
+      "AffectedPostcodes": " BL3 6BU, BL3 6BS, BL3 6BZ, BL3 6BD, BL3 6BA, BL3 6BB, BL3 6AU, BL3 6DE, BL3 6AY, BL3 6AT, BL3 6AS, BL1 1LD",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125302668",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-12T08:39:28",
+      "region": "Darwen, Blackburn With Darwen",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 168,
+      "estimatedTimeOfRestoration": "2026-02-12T11:39:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-12T11:39:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.690142,
+        "lng": -2.461325
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BB3 2DZ, BB3 2AT, BB3 2BH, BB3 2DY, BB3 2DX, BB3 2DW, BB3 2DU",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125302667",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-12T08:38:13",
+      "region": "Cockermouth, Allerdale",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": null,
+      "consumersOff": 39,
+      "estimatedTimeOfRestoration": "2026-02-12T14:38:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-12T14:38:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.664408,
+        "lng": -3.346133
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " CA13 9JW, CA13 9FQ, CA13 9JG, CA13 9HX, CA13 9HD, CA13 9NQ, CA13 9HZ, CA13 9NN",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -266,7 +350,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 7,
   "ShowPolygons": false,
   "Regions": [
     {
