@@ -157,19 +157,19 @@
       "date": "2026-02-13T19:58:29",
       "region": "Woodplumpton, Preston",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 27,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 17,
       "estimatedTimeOfRestoration": "2026-02-14T01:58:00",
       "estimatedTimeOfRestorationMajority": "2026-02-14T01:58:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.826814,
-        "lng": -2.773562
+        "lat": 53.825484,
+        "lng": -2.772861
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR4 0BH, PR4 0BJ, PR4 0YX, PR4 0BP, PR4 0BQ, PR4 0DP",
+      "AffectedPostcodes": " PR4 0BH, PR4 0BJ, PR4 0YX, PR4 0BP, PR4 0BQ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -199,8 +199,8 @@
       "date": "2026-02-13T20:08:07",
       "region": "Tonge With The Haulgh, Bolton",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 142,
       "estimatedTimeOfRestoration": "2026-02-14T02:08:00",
       "estimatedTimeOfRestorationMajority": "2026-02-14T02:08:00",
@@ -221,7 +221,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -254,7 +254,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " OL1 4EN, OL1 3PA, OL1 3NS",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -327,7 +327,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 25,
+      "consumersOff": 15,
       "estimatedTimeOfRestoration": "2026-02-13T21:31:00",
       "estimatedTimeOfRestorationMajority": "2026-02-13T21:31:00",
       "information": "",
@@ -369,17 +369,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 14,
+      "consumersOff": 29,
       "estimatedTimeOfRestoration": "2026-02-14T00:05:00",
       "estimatedTimeOfRestorationMajority": "2026-02-14T00:05:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.783661,
-        "lng": -2.268048
+        "lat": 53.783786,
+        "lng": -2.269573
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB11 5RR, BB11 5RT, BB11 5RX",
+      "AffectedPostcodes": " BB11 5RR, BB11 5RT, BB11 5RX, BB11 5RU",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -389,7 +389,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -422,7 +422,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " BB2 5EJ",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
