@@ -283,9 +283,9 @@
       "date": "2026-02-12T22:29:05",
       "region": "Davenport And Cale Green, Stockport",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 105,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 88,
       "estimatedTimeOfRestoration": "2026-02-13T04:29:00",
       "estimatedTimeOfRestorationMajority": "2026-02-13T04:29:00",
       "information": "",
@@ -295,8 +295,50 @@
         "lng": -2.162655
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK3 8RH, SK3 8UZ, SK3 8RQ, SK3 8XB, SK3 8UT, SK3 8RE",
+      "AffectedPostcodes": " SK3 8UZ, SK3 8RQ, SK3 8XB, SK3 8RH, SK3 8UT, SK3 8RE",
       "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": true,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125302632",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-12T07:19:56",
+      "region": "Higher Blackley, Manchester",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 40,
+      "estimatedTimeOfRestoration": "2026-02-13T01:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-13T01:00:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.527276,
+        "lng": -2.229469
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M9 8HU, M9 8NA, M9 8JE, M9 8JF, M9 8JH",
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -350,7 +392,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 7,
+  "TotalResults": 8,
   "ShowPolygons": false,
   "Regions": [
     {
