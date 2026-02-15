@@ -137,7 +137,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -170,7 +170,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " SK13 5DE, SK14 6HY, SK14 6AY, SK14 6BJ, SK13 5EY, SK14 6PX, SK14 6JU, SK14 6BB, SK13 6JQ, SK14 6QA, SK13 5RZ, SK14 6HZ, SK14 6AN, SK14 6QG, SK13 5ES, SK13 5DR, SK14 6JS, SK14 6AX, SK14 6BR, SK13 5DB, SK14 6QD, SK13 5DF, SK13 5SA, SK14 6JP, SK13 5DD, SK13 5DA, SK13 5HJ, SK14 6AR, SK14 6BQ, SK14 6EH, SK14 6AA, SK14 6DX, SK13 5DG, SK14 6QF, SK13 5DH, SK14 6EB, SK14 6HX, SK13 5DW, SK14 6JA, SK14 6AJ, SK14 6QB, SK13 5HL, SK14 6JW, SK14 6AB, SK13 6JB, SK14 6BP, SK14 6EF, SK13 5DL, SK13 5DQ, SK14 6AP, SK14 6QE, SK14 6AD, SK14 6BD, SK14 6EE, SK14 6BF, SK14 6AH, SK14 6HU, SK14 6QJ, SK14 6AS, SK13 5HQ, SK14 6JB, SK14 6JR, SK13 5DP, SK14 2AD, SK14 6BW, SK14 6QQ, SK13 5ET, SK13 5RR, SK14 6BA, SK14 6BN, SK14 6ED, SK14 6PZ, SK14 6JX, SK14 3AW, SK14 6AG, SK14 6BE, SK14 6PY, SK14 6JJ, SK14 6AU, SK14 6DZ, SK14 1JN, SK13 5HH, SK14 2AB, SK13 5DT, SK14 6EA, SK14 6BH, SK14 6QH, SK13 5DJ, SK14 2RS, SK14 6DU, SK13 5BZ, SK13 5HA, SK14 6AL, SK14 6BL, SK13 5SB, SK14 8LJ, SK13 5DS, SK14 8NA, SK13 2NX, SK14 6AY, SK14 6AZ, SK14 6NT",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
@@ -263,7 +263,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -296,8 +296,50 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " SK7 2HZ, SK7 2HW, SK7 2HS, SK7 2QW",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125304110",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-15T11:28:35",
+      "region": "Horton In Ribblesdale, Craven",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 35,
+      "estimatedTimeOfRestoration": "2026-02-15T14:28:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-15T14:28:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.126107,
+        "lng": -2.285830
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BD24 9PB, BD24 0ES, BD24 0EX, BD24 0HT, BD24 0HZ, BD24 0EU, BD24 9PJ, BD24 0HN, BD24 0HF, BD24 9PH, BD24 0ER, BD24 0EY, BD24 9PF, BD24 0HE, BD24 0HH, LA6 3JF, BD24 9NY, BD24 9QB, BD24 9PZ, BD24 9QD, BD24 0DW, BD24 0DN, BD24 9PE, BD24 0EZ, BD24 9NU, BD24 0HG, BD24 0HJ, BD24 0JF, BD24 9NR, BD24 9PQ, BD24 9PR, BD24 9PT, BD24 0HL, LA6 3AS, LA6 3AT, BD24 9QE, BD24 0JE, BD24 9NT, BD24 0DP, BD24 9NW, BD24 0HP, BD24 0HR, BD24 0HA, BD24 0HY, BD24 0HB, BD24 0HU, BD24 0ET, BD24 9NS, BD24 0JQ, BD24 0HQ, BD24 0HD, BD24 9NP, BD24 9ND, BD24 9PL, BD24 9LS, BD24 9PG, BD24 9PN, BD24 9PW, BD24 9LE, BD24 9NZ, BD24 9PU, BD24 0JD, BD24 OER, BD24 0JH, BD24 0JB, BD24 0JA, BD24 9NX, BD24 0LA, BD24 0HS, BD24 9PD, BD24 0JG, BD24 9LT, BD24 0HX, BD24 9LJ, BD24 9PA",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -476,7 +518,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 10,
+  "TotalResults": 11,
   "ShowPolygons": false,
   "Regions": [
     {
