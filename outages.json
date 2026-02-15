@@ -180,7 +180,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -194,26 +194,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125304216",
+      "faultNumber": "INC 125304301",
       "multipleFaultNumbers": null,
-      "date": "2026-02-15T15:31:02",
-      "region": "Little Hoole, South Ribble",
+      "date": "2026-02-15T19:13:50",
+      "region": "Arthuret, Carlisle",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 3,
-      "estimatedTimeOfRestoration": "2026-02-15T19:30:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-15T19:30:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 15,
+      "estimatedTimeOfRestoration": "2026-02-16T01:13:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-16T01:13:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.712641,
-        "lng": -2.767521
+        "lat": 55.011096,
+        "lng": -2.964703
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR4 4SX, PR4 4TB, PR4 4SD, PR4 4RA, PR4 4SB, PR4 4SS, PR4 4SR, PR4 4SE, PR4 4SU, PR4 5RE, PR4 5GN, PR4 4TA, PR4 4TE, PR4 4TD, PR4 4SY, PR26 6TN, PR4 4TH, PR4 4BW, PR4 4SL, PR4 4SP, PR4 4XA, PR4 4XN, PR4 4BU, PR4 4SQ, PR4 4SJ, PR4 4SH, PR4 4SN, PR4 4ST",
+      "AffectedPostcodes": " CA6 5UQ",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     }
   ],
