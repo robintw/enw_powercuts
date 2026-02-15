@@ -74,7 +74,7 @@
       "region": "Horwich, Bolton",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 55,
       "estimatedTimeOfRestoration": "2026-02-14T03:28:00",
       "estimatedTimeOfRestorationMajority": "2026-02-14T03:28:00",
@@ -116,7 +116,7 @@
       "region": "Kirkby Stephen, Eden",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 62,
       "estimatedTimeOfRestoration": "2026-02-15T17:00:00",
       "estimatedTimeOfRestorationMajority": "2026-02-15T17:00:00",
@@ -158,7 +158,7 @@
       "region": "Buxton Central, High Peak",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 142,
       "estimatedTimeOfRestoration": "2026-02-15T10:52:00",
       "estimatedTimeOfRestorationMajority": "2026-02-15T10:52:00",
@@ -200,8 +200,8 @@
       "region": "Horton In Ribblesdale, Craven",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
-      "consumersOff": 8,
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 3,
       "estimatedTimeOfRestoration": "2026-02-15T16:00:00",
       "estimatedTimeOfRestorationMajority": "2026-02-15T16:00:00",
       "information": "",
@@ -241,8 +241,8 @@
       "date": "2026-02-15T14:28:45",
       "region": "Macclesfield, Cheshire East",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 220,
       "estimatedTimeOfRestoration": "2026-02-15T20:28:00",
       "estimatedTimeOfRestorationMajority": "2026-02-15T20:28:00",
@@ -283,8 +283,8 @@
       "date": "2026-02-15T12:30:51",
       "region": "Rivington, Chorley",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": null,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 5,
       "estimatedTimeOfRestoration": "2026-02-15T15:30:00",
       "estimatedTimeOfRestorationMajority": "2026-02-15T15:30:00",
@@ -326,7 +326,7 @@
       "region": "Milnrow & Newhey, Rochdale",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 17,
       "estimatedTimeOfRestoration": "2026-02-15T18:43:00",
       "estimatedTimeOfRestorationMajority": "2026-02-15T18:43:00",
@@ -340,6 +340,48 @@
       "AffectedPostcodes": " OL16 3TD, OL16 3TQ, OL16 3TE, OL16 3TG, OL16 3WB",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125304172",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-15T14:46:14",
+      "region": "Longdendale, Tameside",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 732,
+      "estimatedTimeOfRestoration": "2026-02-15T17:46:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-15T17:46:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.452031,
+        "lng": -2.057443
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK14 2PE, SK14 3SA, SK14 2PW, SK14 2SP, SK14 3SG, SK14 2PH, SK14 2ST, SK14 3SN, SK14 3DS, SK14 2JB, SK14 3BD, SK14 3SP, SK14 2PS, SK14 2SN, SK14 2PX, SK14 2QB, SK14 3SH, SK14 3DF, SK14 3DP, SK14 2SW, SK14 3SW, SK14 2PL, SK14 2SX, SK14 3DR, SK14 2PU, SK14 3SF, SK14 3DD, SK14 3AS, SK14 2PG, SK14 2SU, SK14 3AR, SK14 3SR, SK14 3ST, SK14 2PR, SK14 2PN, SK14 2BS, SK14 3SL, SK14 3SB, SK14 3DA, SK14 3SJ, SK14 2SY, SK14 3BU, SK14 2PJ, SK14 2QA, SK14 3SE, SK14 2QQ, SK14 3SQ, SK14 3DB, SK14 2PZ, SK14 2SS, SK14 2SL, SK14 2PT, SK14 3DT, SK14 3GA, SK14 2PQ, SK14 5PU, SK14 2SR, SK14 3BH, SK14 3DU, SK14 8PR, SK14 3DE, SK14 3SD, SK14 3AU, SK14 1RT, SK14 3BX, SK14 2RB, SK14 2NY, SK14 2PF, SK14 3BZ, SK14 2PP, SK14 1NX, SK14 2BE",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -368,7 +410,7 @@
       "region": "Altham, Hyndburn",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 19,
       "estimatedTimeOfRestoration": "2026-02-15T17:00:00",
       "estimatedTimeOfRestorationMajority": "2026-02-15T17:00:00",
@@ -383,6 +425,48 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125304179",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-15T14:54:10",
+      "region": "Hyde Godley, Tameside",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 110,
+      "estimatedTimeOfRestoration": "2026-02-15T20:54:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-15T20:54:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.451710,
+        "lng": -2.038890
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK14 3JT, SK14 3HB, SK14 3JD, SK14 3HD, SK14 3FQ, SK14 3FN, SK14 3FP, SK14 3HZ, SK14 3FJ, SK14 3EY, SK14 3JB, SK14 3HA, SK14 3BT, SK14 3BP, SK14 3AR, SK14 6BB",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -392,7 +476,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 8,
+  "TotalResults": 10,
   "ShowPolygons": false,
   "Regions": [
     {
