@@ -326,7 +326,7 @@
       "region": "Walkden North, Salford",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 56,
       "estimatedTimeOfRestoration": "2026-02-15T18:05:00",
       "estimatedTimeOfRestorationMajority": "2026-02-15T18:05:00",
@@ -340,6 +340,48 @@
       "AffectedPostcodes": " M38 0EH, M38 0FH, M38 0FN, M38 9EA, M38 0EA, M28 0AY, M38 0EB",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125304126",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-15T12:30:51",
+      "region": "Rivington, Chorley",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 5,
+      "estimatedTimeOfRestoration": "2026-02-15T15:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-15T15:30:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.617216,
+        "lng": -2.559001
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BL6 7SB",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "O/HM",
       "addressMpanList": null
     },
     {
@@ -518,7 +560,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 11,
+  "TotalResults": 12,
   "ShowPolygons": false,
   "Regions": [
     {
