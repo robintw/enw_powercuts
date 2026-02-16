@@ -137,48 +137,6 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125304342",
-      "multipleFaultNumbers": null,
-      "date": "2026-02-15T23:09:59",
-      "region": "Bentham, Craven",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 10,
-      "estimatedTimeOfRestoration": "2026-02-16T06:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-16T06:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.114534,
-        "lng": -2.427835
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " LA2 8RP, LA2 8EP, LA2 7AN, LA2 8EQ, LA2 8EH, LA2 8ET, LA2 8ER, LA2 8EW, LA2 8DR, LA2 8ES, LA2 7AH, LA2 8DP, LA2 8DZ, LA2 8DS, LA2 8EN, LA2 8EJ, LA2 8EB, LA2 8AE, LA6 3DT, LA2 7AJ, LA2 8HN, LA2 8EG, LA2 7AT, LA2 8JH, LA2 8HW, LA2 7AL, LA2 8EF, LA2 7FH, LA2 8DT, LA2 8EA, LA2 8AF, LA2 8DY, LA6 3DS, LA2 8HH, LA2 8HJ, LA2 8OZ, LA2 8DX",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
       "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
@@ -212,6 +170,48 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " PR4 1TP",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125304365",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-16T05:58:44",
+      "region": "Alexandra, Oldham",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 116,
+      "estimatedTimeOfRestoration": "2026-02-16T08:58:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-16T08:58:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.532781,
+        "lng": -2.099961
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL4 1AR, OL8 2JU, OL4 1BY, OL4 1BJ, OL4 1AS, OL4 1BT, OL8 2AE, OL8 2JR, OL4 1AG, OL4 1AQ, OL8 2JY, OL8 2AA, OL4 1BW, OL4 1RD, OL4 1BX, OL8 2JX, OL4 1ER, OL4 1RH, OL8 2JP, OL4 1ET, OL4 1BU, OL4 1AH, OL8 2JT, OL8 2JZ, OL4 1BL, OL4 1BP, OL8 2LA, OL8 2AB, OL4 1EP, OL8 2BQ, OL4 1AT, OL8 2AF, OL4 1SQ, OL8 2JS, OL8 2LB, OL8 2AD, OL4 1RJ, OL4 1YN, OL8 2LZ, OL8 2BA, OL8 2LU, OL4 1EZ, OL4 1AJ, OL8 2LY, OL8 2BS, OL8 2BH, OL8 1LU",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
