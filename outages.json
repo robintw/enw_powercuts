@@ -157,8 +157,8 @@
       "date": "2026-02-16T10:32:43",
       "region": "Broadheath, Trafford",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": null,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 15,
       "estimatedTimeOfRestoration": "2026-02-16T16:32:00",
       "estimatedTimeOfRestorationMajority": "2026-02-16T16:32:00",
@@ -173,6 +173,48 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125304541",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-16T10:40:51",
+      "region": "Hayton, Carlisle",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 179,
+      "estimatedTimeOfRestoration": "2026-02-16T13:40:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-16T13:40:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.890192,
+        "lng": -2.811655
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " CA8 9AE, CA4 8RE, CA4 8QR, CA8 9JZ, CA8 9AH, CA4 8QU, CA8 9AP, CA4 8QW, CA4 8QY, CA8 9BA, CA4 8RT, CA8 9AB, CA4 8QH, CA4 8QF, CA4 8RD, CA4 8QX, CA6 4ND, CA4 8QP, CA8 9EJ, CA8 9AF, CA8 9BB, CA4 8QT, CA4 8RL, CA8 9AA, CA6 4RA, CA6 4QY, CA4 8RZ, CA8 9AN, CA4 8RR, CA8 9JX, CA8 9DU, CA8 9AW, CA4 8RN, CA4 8PS, CA8 9AY, CA8 9JU, CA8 9BG, CA4 8RF, CA8 9JT, CA8 9BQ, CA8 9BE, CA4 8PN, CA4 8FN, CA8 9EX, CA4 8QG, CA8 9LE, CA8 9JY, CA8 9BP, CA4 8PL, CA4 8QQ, CA4 8QA, CA4 8QN, CA8 9BH, CA4 8RP, CA8 9EW, CA4 8RA, LA2 0HW, CA8 9EH, CA4 8PJ, CA8 9AG, CA6 4QX, CA4 8RJ, CA8 9AL, CA8 9BW, CA8 9AD, CA8 9LJ, CA4 8RG, CA4 8QZ, CA4 8SA, CA6 4NE, CA4 8QJ, CA8 9BL, CA8 9AT, CA8 9BD, CA8 9AJ, CA8 9AZ, CA4 8QS, CA8 9AR, CA6 4NW, CA4 8PZ, CA8 9AU, CA4 8RW, CA8 9EQ, CA4 8QL, CA4 8QB, CA8 9EL, CA4 8PA, CA4 8RY, CA4 8RS, CA8 9AX, CA3 8DP, CA4 8RX, CA5 6DB, CA4 8DR, CA8 9BJ, CA8 9LF",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -182,7 +224,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 3,
+  "TotalResults": 4,
   "ShowPolygons": false,
   "Regions": [
     {
