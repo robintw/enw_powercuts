@@ -194,24 +194,66 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125305310",
+      "faultNumber": "INC 125305337",
       "multipleFaultNumbers": null,
-      "date": "2026-02-17T11:31:10",
-      "region": "Chorley North West, Chorley",
+      "date": "2026-02-17T12:30:48",
+      "region": "Leigh West, Wigan",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
       "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 49,
-      "estimatedTimeOfRestoration": "2026-02-17T17:31:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-17T17:31:00",
+      "consumersOff": 42,
+      "estimatedTimeOfRestoration": "2026-02-17T18:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-17T18:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.655959,
-        "lng": -2.653081
+        "lat": 53.494501,
+        "lng": -2.543909
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR7 1NF, PR7 1NY, PR7 1NZ, PR7 1NW, PR7 1NT, PR7 1NN",
+      "AffectedPostcodes": " WN7 4RB, WN7 4QZ, WN7 4QY, WN7 4QS, WN7 4QT, WN7 4QP, WN7 4QR, WN7 4QX, WN7 4QU",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125305103",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-17T08:07:21",
+      "region": "Penwortham, South Ribble",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 49,
+      "estimatedTimeOfRestoration": "2026-02-17T13:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-17T13:30:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.739623,
+        "lng": -2.740194
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR1 0PA, PR1 0LN",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -241,8 +283,8 @@
       "date": "2026-02-17T11:45:25",
       "region": "Nelson, Pendle",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 73,
       "estimatedTimeOfRestoration": "2026-02-17T17:45:00",
       "estimatedTimeOfRestorationMajority": "2026-02-17T17:45:00",
@@ -308,7 +350,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 6,
+  "TotalResults": 7,
   "ShowPolygons": false,
   "Regions": [
     {
