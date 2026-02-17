@@ -138,7 +138,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -152,26 +152,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125305086",
+      "faultNumber": "INC 125305120",
       "multipleFaultNumbers": null,
-      "date": "2026-02-17T06:24:04",
-      "region": "Whitewell, Rossendale",
+      "date": "2026-02-17T08:28:36",
+      "region": "Billinge & Beardwood, Blackburn With Darwen",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 6,
-      "estimatedTimeOfRestoration": "2026-02-17T12:24:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-17T12:24:00",
+      "consumersOff": 123,
+      "estimatedTimeOfRestoration": "2026-02-17T11:28:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-17T11:28:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.723288,
-        "lng": -2.244540
+        "lat": 53.755816,
+        "lng": -2.533354
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB4 9PL, BB4 9PS",
+      "AffectedPostcodes": " BB2 7QA, BB2 6QU, BB2 6QE, BB2 6QY, BB2 7QB, BB2 6RA, BB2 7PZ, BB2 6QD, BB2 6QB, BB2 6QS, BB2 6EP, BB2 7NP, BB2 6QT, BB2 6PY",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -200,7 +200,7 @@
       "region": "Skelmersdale North, West Lancashire",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Preparing to send team",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 19,
       "estimatedTimeOfRestoration": "2026-02-17T13:39:00",
       "estimatedTimeOfRestorationMajority": "2026-02-17T13:39:00",
@@ -215,48 +215,6 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125305104",
-      "multipleFaultNumbers": null,
-      "date": "2026-02-17T08:15:52",
-      "region": "Whitewell, Rossendale",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 10,
-      "estimatedTimeOfRestoration": "2026-02-17T14:15:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-17T14:15:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.723288,
-        "lng": -2.244540
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " BB4 9PL, BB4 9PS",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -266,7 +224,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 4,
   "ShowPolygons": false,
   "Regions": [
     {
