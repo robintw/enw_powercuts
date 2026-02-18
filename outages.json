@@ -131,6 +131,132 @@
       "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241179945",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-18T12:16:38",
+      "region": "Central Rochdale, Rochdale",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 6283,
+      "estimatedTimeOfRestoration": "2026-02-18T18:16:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-18T18:16:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.627420,
+        "lng": -2.139326
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL12 0EA, OL15 0BE, OL15 8FF, OL12 9NR, OL12 9RA, OL16 2XD, OL12 9TD, OL12 0EN, OL12 9QS, OL12 9AL, OL12 9AW, OL12 9UX, OL16 1BG, OL12 9QL, OL16 1AU, OL12 0AE, OL16 2JJ, OL12 0EL, OL12 9AN, OL12 9RU, OL16 2LA, OL12 0EF, OL16 1JY, OL12 9AB, OL16 2XT, OL16 2NF, OL16 2LG, OL12 9XB, OL16 2XB, OL12 9SG, OL16 2YB, OL16 2EZ, OL12 0BT, OL12 9RT, OL16 2QD, OL16 2ER, OL16 2XZ, OL12 0UT, OL12 0BY, OL16 2PS, OL12 9AU, OL16 2YE, OL16 2EG, OL16 2AZ, OL15 8NL, OL12 9TA, OL16 1DR, OL16 2QB, OL12 0DN, OL16 2SF, OL16 2QX, OL16 2XX, OL12 0DP, OL16 2PY, OL12 9QW, OL12 9QR, OL12 9UT, OL12 9TE, OL15 8NE, OL16 2SB, OL12 9AJ, OL16 2RR, OL12 9QH, OL16 2DZ, OL16 2NR, OL16 2JS, OL12 0EG, OL12 0ET, OL16 4JD, OL12 9AD, OL16 2XR, OL16 2EF, OL16 2LF, OL12 9SH, OL16 2XN, OL16 2HE, OL16 2YW, OL12 0DR, OL12 0BX, OL12 9SA, OL12 9UH, OL16 2YR, OL12 9DB, OL16 2BJ, OL16 2DW, OL15 8RQ, OL12 9UW, OL16 2YP, OL16 2EN, OL16 2RZ, OL16 2HN, OL15 8PG, OL12 9UR, OL15 8BF, OL12 0DZ, OL12 9QD, OL12 9RB, OL16 2XQ, OL16 2ET, OL12 9QP, OL12 9PN, OL12 9PX, OL12 9UY, OL12 9QN, OL12 0AW, OL12 0EJ, OL12 0AR, OL16 2EE, OL16 2LJ, OL16 2JU, OL12 9BD, OL12 9PR, OL16 1TL, OL16 2XU, OL16 2LQ, OL16 2XH, OL16 2LN, OL12 9RG, OL16 2LZ, OL12 9RX, OL16 2QQ, OL16 2YG, OL12 0JU, OL12 9ED, OL16 2YT, OL16 2EB, OL15 8PU, OL12 9TP, OL12 0PL, OL12 0HQ, OL16 2RQ, OL16 2UL, OL15 8DP, OL16 2UE, OL12 9AH, OL16 2EU, OL16 2BA, OL12 9UU, OL16 1DW, OL16 2EH, OL16 2HP, OL16 2SJ, OL12 9QA, OL16 2SQ, OL12 9TB, OL12 9RW, OL16 2EP, OL12 0ER, OL16 2NE, OL12 9XA, OL12 0EB, OL16 3BW, OL12 9PU, OL12 0BQ, OL16 2HT, OL16 2YY, OL15 8PL, OL12 0AB, OL16 2QJ, OL16 2XE, OL12 9QQ, OL12 9AG, OL16 2XS, OL16 1BZ, OL16 2YS, OL16 2SD, OL12 9PZ, OL12 0ES, OL16 2UW, OL12 0EU, OL12 0EQ, OL16 2LB, OL16 2DT, OL16 2LE, OL16 2XP, OL12 0HF, OL12 9RP, OL12 9PW, OL12 9QE, OL16 2RP, OL12 9RN, OL12 0JJ, OL16 2PU, OL16 2PL, OL16 2UY, OL16 2QU, OL12 0WB, OL16 2SA, OL12 9UQ, OL16 2YA, OL12 0AG, OL16 1TS, OL12 9AE, OL16 2QH, OL12 0UP, OL15 8BY, OL16 2QL, OL12 0LH, OL16 2JL, OL16 1LA, OL16 2YH, OL16 2NA, OL16 1DY, OL12 0NZ, OL12 9BE, OL16 2AY, OL12 0PN, OL12 0DS, OL16 2XG, OL12 0AD, OL12 9AT, OL16 2JZ, OL16 1DT, OL16 2EJ, OL15 0AA, OL16 2DR, OL16 2DU, OL16 1LD, OL16 2XF, OL16 1DH, OL16 2UU, OL12 0BG, OL16 2RQ, OL16 2DL, OL16 2RD, OL12 0RA, OL16 2SG, OL16 2XL, OL16 2YQ, OL12 0DQ, OL16 2JP, OL15 8RS, OL16 2YX, OL12 0HX, OL12 0BZ, OL16 2LH, OL12 0EZ, OL12 0AP, OL16 2QR, OL16 2HA, OL16 2RE, OL12 9UN, OL12 9EG, OL16 2PQ, OL12 0LF, OL15 0AF, OL16 2AH, OL16 2UP, OL16 2HZ, OL12 8TX, OL16 2HD, OL16 1DS, OL12 9AP, OL12 9TJ, OL12 9TH, OL12 9QZ, OL16 2PF, OL16 2UB, OL16 2JT, OL12 0BW, OL16 2LL, OL12 0HA, OL16 2YF, OL16 2DS, OL16 2EX, OL12 0UU, OL16 2QN, OL16 2XY, OL16 2DP, OL12 0EP, OL16 2XJ, OL12 9UZ, OL16 0BT, OL12 9RR, OL16 2PT, OL12 9QJ, OL12 9RH, OL16 2EL, OL12 0AH, OL12 9QU, OL16 2SH, OL12 0BS, OL12 9TQ, OL15 8DT, OL16 1DU, OL12 9QX, OL12 9DJ, OL16 2YL, OL12 0JR, OL16 2RG, OL12 9TF, OL16 2NS, OL12 9AQ, OL12 0BH, OL12 9DL, OL12 9BH, OL12 9AX, OL12 9US, OL12 0TY, OL12 9RL, OL12 0ED, OL16 2XW, OL16 2QY, OL16 2JR, OL16 2PP, OL15 8PW, OL12 0DY, OL12 0LQ, OL12 0AN, OL16 2PN, OL16 1XN, OL16 2SE, OL16 2RS, OL12 0UW, OL16 3QH, OL12 0BP, OL16 2JY, OL12 9PP, OL16 2HB, OL16 2SL, OL12 9EE, OL12 9UJ, OL16 2YJ, OL12 9QY, OL12 0EE, OL16 1HX, OL16 2UX, OL15 8PY, OL16 2HG, OL15 8QZ, OL15 8NF, OL16 2JW, OL16 2AL, OL16 2YU, OL16 2ES, OL16 2NL, OL12 9PS, OL16 2YD, OL12 0BU, OL12 9PY, OL16 2ED, OL15 8NJ, OL16 2NB, OL12 9SQ, OL16 2QE, OL16 2LD, OL15 0AB, OL12 9QT, OL12 0AS, OL16 2PR, OL15 8NN, OL16 2RW, OL16 2NJ, OL15 8PP, OL12 9RE, OL12 9UP, OL12 9RS, OL16 2RF, OL16 2QF, OL12 0HL, OL12 0JZ, OL12 9BY, OL12 0DX, OL16 2PX, OL16 2JX, OL16 2NU, OL12 0NS, OL12 9UL, OL16 2UZ, OL15 8PS, OL16 2QP, OL12 9SZ, OL12 0NJ, OL16 1DP, OL16 2LP, OL12 9SU, OL12 0HD, OL16 2NP, OL12 9AF, OL12 9SB, OL12 9DP, OL16 2BX, OL16 2LX, OL16 2DN, OL15 8NG, OL16 2LY, OL12 9DT, OL15 8ND, OL15 8PR, OL12 0HU, OL12 0EH, OL12 0HR, M4 6AH, OL16 1DA, OL16 1YJ, OL16 1JX, OL12 0DU, OL16 1UH",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241179946",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-18T12:16:43",
+      "region": "Central Rochdale, Rochdale",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 9,
+      "estimatedTimeOfRestoration": "2026-02-18T18:16:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-18T18:16:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.614364,
+        "lng": -2.158698
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL16 1NJ, OL16 1AZ, OL16 1NQ, OL16 9SD",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241179909",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-18T12:10:57",
+      "region": "Walkden South, Salford",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 8,
+      "estimatedTimeOfRestoration": "2026-02-18T18:10:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-18T18:10:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.512800,
+        "lng": -2.403645
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M28 3BP",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -140,7 +266,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 2,
+  "TotalResults": 5,
   "ShowPolygons": false,
   "Regions": [
     {
