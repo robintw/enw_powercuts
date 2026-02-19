@@ -173,48 +173,6 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241180294",
-      "multipleFaultNumbers": null,
-      "date": "2026-02-19T08:20:57",
-      "region": "Bickerstaffe, West Lancashire",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 45,
-      "estimatedTimeOfRestoration": "2026-02-19T10:45:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-19T10:45:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.538344,
-        "lng": -2.827446
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " L39 0EZ, L39 0HF, L39 0EY, L39 0JB, L39 0HD",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "O/HM",
-      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -224,7 +182,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 3,
   "ShowPolygons": false,
   "Regions": [
     {
