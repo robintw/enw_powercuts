@@ -53,8 +53,8 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UnderReview": true,
+      "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -68,26 +68,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241180707",
+      "faultNumber": "INC 1241180698",
       "multipleFaultNumbers": null,
-      "date": "2026-02-19T21:28:09",
-      "region": "Claremont, Blackpool",
+      "date": "2026-02-19T20:56:01",
+      "region": "Longton, South Ribble",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": null,
-      "consumersOff": 20,
-      "estimatedTimeOfRestoration": "2026-02-20T03:28:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-20T03:28:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 18,
+      "estimatedTimeOfRestoration": "2026-02-19T23:56:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-19T23:56:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.822509,
-        "lng": -3.051442
+        "lat": 53.718140,
+        "lng": -2.763722
       },
       "outageLocations": null,
-      "AffectedPostcodes": " FY1 2BD, FY1 2BB, FY1 2BG, FY1 2BA, FY1 2AR, FY1 2AZ, FY1 2BN, FY1 2BJ",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
+      "AffectedPostcodes": " PR4 4SJ, PR4 4SD, PR4 4SL",
+      "UnderReviewStatusTimeCheck": true,
+      "WebTMSFaultType": "O/HM",
       "addressMpanList": null
     },
     {
@@ -116,7 +116,7 @@
       "region": "Glassonby, Eden",
       "faultType": "Current Fault",
       "faultStatus": "Under review",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Under review",
       "consumersOff": 11,
       "estimatedTimeOfRestoration": "2026-02-20T02:00:00",
       "estimatedTimeOfRestorationMajority": "2026-02-20T02:00:00",
