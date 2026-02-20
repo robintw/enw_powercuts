@@ -199,8 +199,8 @@
       "date": "2026-02-20T13:15:16",
       "region": "Heatons South, Stockport",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 41,
       "estimatedTimeOfRestoration": "2026-02-20T19:15:00",
       "estimatedTimeOfRestorationMajority": "2026-02-20T19:15:00",
@@ -243,7 +243,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 42,
+      "consumersOff": 31,
       "estimatedTimeOfRestoration": "2026-02-20T22:45:00",
       "estimatedTimeOfRestorationMajority": "2026-02-20T22:45:00",
       "information": "",
@@ -254,48 +254,6 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " BB6 7DZ, BB6 7DJ, BB6 7DY",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241181103",
-      "multipleFaultNumbers": null,
-      "date": "2026-02-20T13:26:10",
-      "region": "Myerscough And Bilsborrow, Wyre",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 6,
-      "estimatedTimeOfRestoration": "2026-02-20T19:26:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-20T19:26:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.849710,
-        "lng": -2.757753
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " PR3 0RS",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -367,9 +325,9 @@
       "date": "2026-02-20T13:33:24",
       "region": "Woodplumpton, Preston",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 14,
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 22,
       "estimatedTimeOfRestoration": "2026-02-20T16:33:00",
       "estimatedTimeOfRestorationMajority": "2026-02-20T16:33:00",
       "information": "",
@@ -379,7 +337,7 @@
         "lng": -2.720459
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR3 2ER, PR3 5AA, PR3 0RP, PR3 5AS, PR3 5AW, PR3 5AJ, PR3 5AE, PR3 2FR, PR3 1UU, PR3 5AH, PR3 5AN, PR3 5AT, PR3 2LF, PR3 2EQ, PR3 2LH, PR3 2ES, PR3 0RQ, PR3 2EU, PR3 5AU, PR3 2LE, PR3 5AQ, PR3 2LJ, PR3 5AL, PR3 5AR, PR3 2FX, PR3 5AP, PR3 2LQ, PR3 2LL, PR3 5BD, PR3 2LP, PR4 0BE, PR3 2JS, PR3 1UX, PR3 5AB, PR3 5AZ, PR4 0BH, PR3 2EW, PR3 0RU, PR3 2LN, PR3 0PP, PR3 2ET, PR3 0RS, PR3 5AD, PR3 2LD, PR3 5BG, PR3 0RX, PR3 0RR, PR3 0RN, PR3 5DQ, PR3 2NL, PR3 6BX, PR3 2AR, PR3 5AX, PR3 2FY, PR3 5DR",
+      "AffectedPostcodes": " PR3 2ER, PR3 5AA, PR3 0RP, PR3 5AS, PR3 5AW, PR3 5AJ, PR3 5AE, PR3 2FR, PR3 1UU, PR3 5AH, PR3 5AN, PR3 5AT, PR3 2LF, PR3 2EQ, PR3 2LH, PR3 2ES, PR3 0RQ, PR3 2EU, PR3 5AU, PR3 2LE, PR3 5AQ, PR3 2LJ, PR3 5AL, PR3 5AR, PR3 2FX, PR3 5AP, PR3 2LQ, PR3 2LL, PR3 5BD, PR3 2LP, PR4 0BE, PR3 2JS, PR3 1UX, PR3 5AB, PR3 5AZ, PR4 0BH, PR3 2EW, PR3 0RU, PR3 0PP, PR3 2LN, PR3 2ET, PR3 0RS, PR3 5AD, PR3 2LD, PR3 5BG, PR3 0RX, PR3 0RR, PR3 0RN, PR3 5DQ, PR3 2NL, PR3 6BX, PR3 2AR, PR3 5AX, PR3 2FY, PR3 5DR",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -392,7 +350,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 8,
+  "TotalResults": 7,
   "ShowPolygons": false,
   "Regions": [
     {
