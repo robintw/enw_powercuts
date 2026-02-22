@@ -201,7 +201,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 35,
+      "consumersOff": 32,
       "estimatedTimeOfRestoration": "2026-02-23T01:19:00",
       "estimatedTimeOfRestorationMajority": "2026-02-23T01:19:00",
       "information": "",
@@ -215,6 +215,90 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241181831",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-22T20:40:34",
+      "region": "Macclesfield, Cheshire East",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": null,
+      "consumersOff": 63,
+      "estimatedTimeOfRestoration": "2026-02-22T23:40:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-22T23:40:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.253062,
+        "lng": -2.116014
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK11 7ED, SK11 7LQ, SK11 7GW, SK11 7AY, SK11 7JY, SK11 7DY, SK11 7LW, SK11 7LH, SK11 7LD, SK11 7JX, SK11 7LS, SK11 7HE, SK11 7JZ, SK11 7GJ, SK11 7DS, SK11 7JB, SK11 7SW, SK11 7JW, SK11 7DZ, SK11 7LE, SK11 7LB, SK11 7HD, SK11 7EE, SK11 7LF, SK11 7EA, SK11 7LP, SK11 7GU, SK11 7LA, SK11 7LJ, SK11 7JL, SK11 7LL, SK11 7GP, SK11 7BT, SK11 7HU, SK11 7LG, SK11 7EB, SK11 7JD, SK11 7HS, SK11 7JF, SK11 7HA, SK11 7HX",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241181833",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-22T20:44:09",
+      "region": "Roosecote, Barrow-In-Furness",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 3,
+      "estimatedTimeOfRestoration": "2026-02-23T02:44:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-23T02:44:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.087329,
+        "lng": -3.162837
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA13 0QT",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -224,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
