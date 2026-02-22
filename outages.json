@@ -96,6 +96,48 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241181737",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-22T13:35:43",
+      "region": "Kendal, South Lakeland",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 42,
+      "estimatedTimeOfRestoration": "2026-02-22T16:35:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-22T16:35:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.306578,
+        "lng": -2.717529
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA9 7RF, LA8 0LP, LA9 7RD, LA9 7RE, LA9 7RA, LA8 0AQ",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -158,7 +200,7 @@
       "region": "Saddleworth, Oldham",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Preparing to send team",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 90,
       "estimatedTimeOfRestoration": "2026-02-22T19:46:00",
       "estimatedTimeOfRestorationMajority": "2026-02-22T19:46:00",
@@ -212,48 +254,6 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " M31 4NS, M31 4WN, M31 4NL, M31 4WJ",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241181714",
-      "multipleFaultNumbers": null,
-      "date": "2026-02-22T12:35:24",
-      "region": "Saddleworth, Oldham",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 146,
-      "estimatedTimeOfRestoration": "2026-02-22T18:35:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-22T18:35:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.550506,
-        "lng": -2.007526
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " OL3 6BT, OL3 6AX, OL3 6BQ, OL3 6BE, OL3 6EY, OL3 6BS, OL3 6AQ, OL3 6AW, OL3 6AU, OL3 6DL, OL3 6DN, OL3 6ET, OL3 6AT, OL3 6AP, OL3 6BD, OL3 6AN, OL3 6AL, OL3 6BH, OL3 6AZ, OL3 6AH, OL3 6BX, OL4 3BP, OL3 6HS",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
