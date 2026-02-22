@@ -110,48 +110,6 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241181613",
-      "multipleFaultNumbers": null,
-      "date": "2026-02-22T05:02:18",
-      "region": "Saddleworth, Oldham",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 90,
-      "estimatedTimeOfRestoration": "2026-02-22T11:02:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-22T11:02:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.544533,
-        "lng": -2.054681
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " OL4 4BZ, OL4 4BU, OL4 4BS, OL4 4BH, OL4 4BQ",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
       "faultNumber": "INC 1241181616",
       "multipleFaultNumbers": null,
       "date": "2026-02-22T05:17:59",
@@ -201,9 +159,9 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 41,
-      "estimatedTimeOfRestoration": "2026-02-22T10:51:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-22T10:51:00",
+      "consumersOff": 29,
+      "estimatedTimeOfRestoration": "2026-02-22T14:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-22T14:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -212,6 +170,48 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " OL16 3TD, OL16 3TG, OL16 3TQ, OL16 3TJ, OL16 3TB, OL16 3UR, OL16 3RG, OL16 3RQ",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241181671",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-22T10:04:40",
+      "region": "Drigg And Carleton, Copeland",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 15,
+      "estimatedTimeOfRestoration": "2026-02-22T13:04:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-22T13:04:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.376299,
+        "lng": -3.396125
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " CA18 1ST, CA19 1YX, CA19 1YY",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -236,24 +236,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241181634",
+      "faultNumber": "INC 1241181672",
       "multipleFaultNumbers": null,
-      "date": "2026-02-22T08:20:58",
-      "region": "Kendal, South Lakeland",
+      "date": "2026-02-22T10:04:41",
+      "region": "Drigg And Carleton, Copeland",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 15,
-      "estimatedTimeOfRestoration": "2026-02-22T14:20:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-22T14:20:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 8,
+      "estimatedTimeOfRestoration": "2026-02-22T16:04:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-22T16:04:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.336456,
-        "lng": -2.759721
+        "lat": 54.361632,
+        "lng": -3.419220
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA9 5EY, LA9 5EZ",
+      "AffectedPostcodes": " CA19 1YY",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
