@@ -117,7 +117,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 35,
+      "consumersOff": 16,
       "estimatedTimeOfRestoration": "2026-02-23T16:00:00",
       "estimatedTimeOfRestorationMajority": "2026-02-23T16:00:00",
       "information": "",
@@ -172,6 +172,48 @@
       "AffectedPostcodes": " M38 9QA, M38 9NN, M38 9GA, M38 9QE, M38 9GF",
       "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241182252",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-23T13:30:46",
+      "region": "Samlesbury, South Ribble",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 3,
+      "estimatedTimeOfRestoration": "2026-02-23T16:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-23T16:30:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.767981,
+        "lng": -2.619001
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR5 0AG, PR5 0UH, PR5 0UE",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -243,9 +285,9 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 286,
-      "estimatedTimeOfRestoration": "2026-02-23T14:53:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-23T14:53:00",
+      "consumersOff": 16,
+      "estimatedTimeOfRestoration": "2026-02-23T20:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-23T20:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -284,7 +326,7 @@
       "region": "Gorse Hill, Trafford",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 4,
       "estimatedTimeOfRestoration": "2026-02-23T15:35:00",
       "estimatedTimeOfRestorationMajority": "2026-02-23T15:35:00",
@@ -299,90 +341,6 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241182159",
-      "multipleFaultNumbers": null,
-      "date": "2026-02-23T11:32:21",
-      "region": "Deansgate, Manchester",
-      "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 36,
-      "estimatedTimeOfRestoration": "2026-02-23T17:32:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-23T17:32:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.472588,
-        "lng": -2.243840
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M1 5GB",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241182045",
-      "multipleFaultNumbers": null,
-      "date": "2026-02-23T09:50:32",
-      "region": "Astley Mosley Common, Wigan",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 20,
-      "estimatedTimeOfRestoration": "2026-02-23T15:50:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-23T15:50:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.509165,
-        "lng": -2.449754
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M29 7QJ",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -392,7 +350,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 8,
+  "TotalResults": 7,
   "ShowPolygons": false,
   "Regions": [
     {
