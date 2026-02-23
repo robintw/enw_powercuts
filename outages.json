@@ -110,6 +110,48 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 1241181679",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-22T11:01:08",
+      "region": "Kendal, South Lakeland",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 35,
+      "estimatedTimeOfRestoration": "2026-02-23T16:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-23T16:00:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.330425,
+        "lng": -2.750658
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA9 5EP, LA9 4PN, LA9 4PL, LA9 4QN, LA9 4PW, LA9 4PA, LA9 4NZ, LA9 4QP, LA9 4PJ, LA9 4PP, LA9 4PH, LA9 4PE, LA9 4PB",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": true,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 1241181886",
       "multipleFaultNumbers": null,
       "date": "2026-02-23T01:59:49",
@@ -128,7 +170,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " M38 9QA, M38 9NN, M38 9GA, M38 9QE, M38 9GF",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -159,7 +201,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 4,
+      "consumersOff": 8,
       "estimatedTimeOfRestoration": "2026-02-23T17:00:00",
       "estimatedTimeOfRestorationMajority": "2026-02-23T17:00:00",
       "information": "",
@@ -214,6 +256,48 @@
       "AffectedPostcodes": " PR3 2JJ, PR3 2DS, PR3 2BD, PR3 2LZ, PR3 2BE, PR3 2LX, PR3 2JW, PR3 2BQ, PR3 2AQ, PR3 2BA, PR3 2LG, PR3 2AT, PR3 2LR, PR2 5EA, PR2 6SP, PR3 2BU, PR3 2NF, PR3 2LW, PR3 2AX, PR3 2LU, PR3 2JR, PR3 2AR, PR3 2AY, PR3 2AU, PR3 2JG, PR2 5SH, PR2 5SN, PR3 2LT, PR3 2BB, PR3 2AN, PR3 2BX, PR3 2BS, PR2 5DY, PR3 2JZ, PR2 5SE, PR2 5NZ, PR3 2BT, PR2 5LH, PR3 2JF, PR3 2BY, PR2 5RU, PR2 5RP, PR2 5DS, PR2 5DW, PR2 5LS, PR3 2LS, PR3 2FZ, PR3 2BH, PR2 5SL, PR2 5DT, PR2 5LZ, PR3 0ZB, PR3 2AF, PR3 2JE, PR3 2JY, PR3 2NW, PR2 5DU, PR2 5SQ, PR3 2PA, PR2 5SJ, PR2 5LG, PR3 2JH, PR2 5TR, PR2 5SB, PR2 5WY, PR3 2RU",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241182024",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-23T09:35:56",
+      "region": "Gorse Hill, Trafford",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 4,
+      "estimatedTimeOfRestoration": "2026-02-23T15:35:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-23T15:35:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.468775,
+        "lng": -2.324959
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M17 1SF, M17 1RW",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -308,7 +392,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 6,
+  "TotalResults": 8,
   "ShowPolygons": false,
   "Regions": [
     {
