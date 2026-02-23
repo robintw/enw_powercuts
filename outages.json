@@ -75,17 +75,59 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 16,
-      "estimatedTimeOfRestoration": "2026-02-23T07:59:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-23T07:59:00",
+      "consumersOff": 103,
+      "estimatedTimeOfRestoration": "2026-02-23T14:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-23T14:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.533377,
-        "lng": -2.409107
+        "lat": 53.533797,
+        "lng": -2.410906
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M38 9QA, M38 9NN",
+      "AffectedPostcodes": " M38 9QA, M38 9NN, M38 9GA, M38 9QE, M38 9GF",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241181927",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-23T04:45:49",
+      "region": "Woodhouse Park, Manchester",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 90,
+      "estimatedTimeOfRestoration": "2026-02-23T10:45:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-23T10:45:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.366795,
+        "lng": -2.241716
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M22 5LT, M22 5LZ, M22 5NA, M22 5LU, M22 5WA, M22 5LX, M22 5ND, M22 5GY, M22 5NB, M22 5LY, M22 5LR, M22 5LS, M22 5WX, M22 5HQ, M22 5UB",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -157,8 +199,8 @@
       "date": "2026-02-23T04:12:44",
       "region": "Blackburn South & Lower Darwen, Blackburn With Darwen",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 73,
       "estimatedTimeOfRestoration": "2026-02-23T10:00:00",
       "estimatedTimeOfRestorationMajority": "2026-02-23T10:00:00",
@@ -173,90 +215,6 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241181910",
-      "multipleFaultNumbers": null,
-      "date": "2026-02-23T04:16:53",
-      "region": "Walkden North, Salford",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 148,
-      "estimatedTimeOfRestoration": "2026-02-23T10:16:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-23T10:16:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.531548,
-        "lng": -2.412209
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M38 9NA, M38 9LX, M38 9PY, M38 9QR, M38 9PZ, M38 9NB, M38 9QQ, M38 9GQ, M38 9GP, M38 9GR, M38 9WA, M38 9GG",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241181878",
-      "multipleFaultNumbers": null,
-      "date": "2026-02-23T01:29:45",
-      "region": "Woodhouse Park, Manchester",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 121,
-      "estimatedTimeOfRestoration": "2026-02-23T07:29:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-23T07:29:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.366804,
-        "lng": -2.241754
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M22 5LT, M22 5TJ, M22 5LU, M22 5NA, M22 5WA, M22 5LX, M22 5GY, M22 5LZ, M22 5NB, M22 5ND, M22 5WX, M22 5HQ, M22 5LY, M22 5UB, M22 5LR, M22 5LS",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -266,7 +224,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 4,
   "ShowPolygons": false,
   "Regions": [
     {
