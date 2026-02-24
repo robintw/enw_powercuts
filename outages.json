@@ -68,24 +68,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241182879",
+      "faultNumber": "INC 1241183109",
       "multipleFaultNumbers": null,
-      "date": "2026-02-24T12:26:37",
-      "region": "Clayton-Le-Moors, Hyndburn",
+      "date": "2026-02-24T17:00:27",
+      "region": "Cathedral & Castle, Carlisle",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 16,
-      "estimatedTimeOfRestoration": "2026-02-24T18:26:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-24T18:26:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 34,
+      "estimatedTimeOfRestoration": "2026-02-24T23:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-24T23:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.765670,
-        "lng": -2.367968
+        "lat": 54.888858,
+        "lng": -2.938176
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB5 5SQ, BB5 5SH, BB5 6PX",
+      "AffectedPostcodes": " CA2 5EE, CA2 5ED, CA2 5DY",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -117,7 +117,7 @@
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 148,
+      "consumersOff": 96,
       "estimatedTimeOfRestoration": "2026-02-24T21:35:00",
       "estimatedTimeOfRestorationMajority": "2026-02-24T21:35:00",
       "information": "",
@@ -157,9 +157,9 @@
       "date": "2026-02-24T15:35:39",
       "region": "Walkden North, Salford",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 18,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 63,
       "estimatedTimeOfRestoration": "2026-02-24T21:35:00",
       "estimatedTimeOfRestorationMajority": "2026-02-24T21:35:00",
       "information": "",
@@ -222,48 +222,6 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241183096",
-      "multipleFaultNumbers": null,
-      "date": "2026-02-24T16:35:37",
-      "region": "Walkden North, Salford",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 53,
-      "estimatedTimeOfRestoration": "2026-02-24T22:35:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-24T22:35:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.533191,
-        "lng": -2.408909
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M38 9QA, M38 9GA, M38 9NN",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -285,7 +243,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 397,
+      "consumersOff": 31,
       "estimatedTimeOfRestoration": "2026-02-24T18:39:00",
       "estimatedTimeOfRestorationMajority": "2026-02-24T18:39:00",
       "information": "",
@@ -308,7 +266,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 6,
+  "TotalResults": 5,
   "ShowPolygons": false,
   "Regions": [
     {
