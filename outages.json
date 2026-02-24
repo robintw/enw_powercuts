@@ -68,66 +68,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241182495",
-      "multipleFaultNumbers": null,
-      "date": "2026-02-24T00:51:35",
-      "region": "Smallbridge & Firgrove, Rochdale",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 6,
-      "estimatedTimeOfRestoration": "2026-02-24T16:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-24T16:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.627731,
-        "lng": -2.140543
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " OL16 2SX, OL16 2SY, OL16 2SZ, OL16 2TA",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
       "faultNumber": "INC 1241182879",
       "multipleFaultNumbers": null,
       "date": "2026-02-24T12:26:37",
       "region": "Clayton-Le-Moors, Hyndburn",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
+      "faultStatus": "We're on site",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 41,
+      "consumersOff": 16,
       "estimatedTimeOfRestoration": "2026-02-24T18:26:00",
       "estimatedTimeOfRestorationMajority": "2026-02-24T18:26:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.772011,
-        "lng": -2.373786
+        "lat": 53.765670,
+        "lng": -2.367968
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB5 5SB, BB5 5SG, BB5 5UE, BB5 5SQ, BB5 6PX, BB5 5SH",
+      "AffectedPostcodes": " BB5 5SQ, BB5 5SH, BB5 6PX",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -157,8 +115,8 @@
       "date": "2026-02-24T15:35:35",
       "region": "Walkden North, Salford",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 104,
       "estimatedTimeOfRestoration": "2026-02-24T21:35:00",
       "estimatedTimeOfRestorationMajority": "2026-02-24T21:35:00",
@@ -199,8 +157,8 @@
       "date": "2026-02-24T15:35:39",
       "region": "Walkden North, Salford",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 71,
       "estimatedTimeOfRestoration": "2026-02-24T21:35:00",
       "estimatedTimeOfRestorationMajority": "2026-02-24T21:35:00",
@@ -255,6 +213,48 @@
       "outageLocations": null,
       "AffectedPostcodes": " WA3 6LQ, WA3 6FA, WA3 6LR, WA3 6DS, WA3 6EW, WA3 6EB, WA3 6DZ, WA3 6HX, WA3 6DX, WA3 6HB, WA3 6EL, WA3 6HG, WA3 6DY, WA3 6LH, WA3 6LE, WA3 6EA, WA3 7QU, WA3 6HD, WA3 6ED, WA3 6EN, WA3 6EG, WA3 6DT, WA3 6DU, WA3 6HF, WA3 6HJ, WA3 6LN, WA3 6EH, WA3 7UD, WA3 6HU, WA3 6HH, WA3 6LG, WA3 6HA, WA3 6EJ, WA3 6BY, WA3 6EY, WA3 6HL, WA3 6HQ, WA3 6EE, WA3 6EF",
       "UnderReviewStatusTimeCheck": true,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241183056",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-24T15:39:24",
+      "region": "Bryning-With-Warton, Fylde",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 397,
+      "estimatedTimeOfRestoration": "2026-02-24T18:39:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-24T18:39:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.751728,
+        "lng": -2.907030
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR4 1BD, PR4 1FH, PR4 1FJ, PR4 1FL, PR4 1FN, PR4 1FS, PR4 1FR, PR4 1FP, PR4 1FQ, PR4 1JY, PR4 1FW, PR4 1FY, PR4 1FZ, PR4 1GX, PR4 1FX, PR4 1GY, PR4 1GZ, PR4 1TN, PR4 1TL, PR4 3PP, FY8 5RP, PR4 2WJ, FY8 4JW, FY8 5RU",
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     }
