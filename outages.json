@@ -53,7 +53,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -86,7 +86,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " OL10 1DS, OL10 1DG",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -278,24 +278,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241184096",
+      "faultNumber": "INC 1241184023",
       "multipleFaultNumbers": null,
-      "date": "2026-02-25T19:05:59",
-      "region": "Colne, Pendle",
+      "date": "2026-02-25T16:48:49",
+      "region": "Hale Barns, Trafford",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 53,
-      "estimatedTimeOfRestoration": "2026-02-26T00:55:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-26T00:55:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 82,
+      "estimatedTimeOfRestoration": "2026-02-25T22:48:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-25T22:48:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.856500,
-        "lng": -2.176183
+        "lat": 53.389891,
+        "lng": -2.303055
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB8 9AA, BB8 9BD, BB8 9AY, BB8 9AZ, BB8 9AW, BB8 9AR, BB8 0AG, BB8 9AB, BB8 9DQ, BB8 0AE",
+      "AffectedPostcodes": " WA15 7EX, WA15 7YD, WA15 7YA, WA15 7YG, WA15 7YB, WA15 7EU",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -320,24 +320,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241184023",
+      "faultNumber": "INC 1241184113",
       "multipleFaultNumbers": null,
-      "date": "2026-02-25T16:48:49",
-      "region": "Hale Barns, Trafford",
+      "date": "2026-02-25T19:43:49",
+      "region": "Littleborough Lakeside, Rochdale",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 82,
-      "estimatedTimeOfRestoration": "2026-02-25T22:48:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-25T22:48:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 40,
+      "estimatedTimeOfRestoration": "2026-02-26T01:43:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-26T01:43:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.389891,
-        "lng": -2.303055
+        "lat": 53.661035,
+        "lng": -2.088150
       },
       "outageLocations": null,
-      "AffectedPostcodes": " WA15 7EX, WA15 7YD, WA15 7YA, WA15 7YG, WA15 7YB, WA15 7EU",
+      "AffectedPostcodes": " OL15 9LZ, OL15 9NJ, OL15 9PE",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -411,7 +411,7 @@
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 200,
+      "consumersOff": 205,
       "estimatedTimeOfRestoration": "2026-02-25T21:49:00",
       "estimatedTimeOfRestorationMajority": "2026-02-25T21:49:00",
       "information": "",
