@@ -96,7 +96,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -110,26 +110,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241184265",
+      "faultNumber": "INC 1241184568",
       "multipleFaultNumbers": null,
-      "date": "2026-02-26T08:58:58",
-      "region": "Denton Holme & Morton South, Carlisle",
+      "date": "2026-02-26T13:03:10",
+      "region": "Morecambe, Lancaster",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 18,
-      "estimatedTimeOfRestoration": "2026-02-26T14:30:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-26T14:30:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 31,
+      "estimatedTimeOfRestoration": "2026-02-26T19:02:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-26T19:02:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.827144,
-        "lng": -2.981032
+        "lat": 54.054404,
+        "lng": -2.883725
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA5 7ND, CA5 6NS, CA5 7PA, CA5 7DD, CA5 7QZ, CA5 7LS, CA5 7JR, CA5 7AQ, CA5 7LR, CA5 7JP, CA5 7AN, CA5 6JP, CA5 7NF, CA2 4UH, CA5 7AA, CA5 7LF, CA5 7LZ, CA7 8BD, CA5 7JA, CA5 7DE, CA5 6NT, CA7 8BL, CA5 7NT, CA5 7LL, CA5 7NP, CA5 7AZ, CA5 7LP, CA5 7LB, CA5 7QL, CA5 7NG, CA5 7EJ, CA2 4UP, CA5 7AT, CA5 7JF, CA5 6NU, CA5 7PJ, CA5 7NX, CA5 7QR, CA5 7RB, CA5 7QB, CA2 4UQ, CA5 7JL, CA5 7AY, CA5 7QX, CA5 7NW, CA5 7LD, CA5 7BH, CA5 7QW, CA5 7LQ, CA5 7QU, CA7 8BG, CA5 6PU, CA5 7RF, CA5 7NS, CA2 4TX, CA5 7JT, CA5 7AH, CA5 7DB, CA5 7BJ, CA5 7QG, CA5 7LG, CA5 7JE, CA5 6PT, CA5 7NE, CA5 7PZ, CA2 4TU, CA7 8BE, CA5 7AF, CA5 7BL, CA5 7JX, CA5 7AS, CA5 7BX, CA5 7QD, CA5 7AR, CA5 7PB, CA5 7PY, CA5 7RE, CA5 7BA, CA5 7LH, CA5 7NQ, CA5 7QN, CA5 7QH, CA5 7BS, CA5 7LY, CA5 7BD, CA5 7QY, CA5 7JY, CA5 6LF, CA5 7LW, CA5 7AP, CA5 7LU, CA5 7QJ, CA5 7JJ, CA5 7NA, CA5 7JH, CA5 7PH, CA2 4TY, M16 8LB, CA7 8BJ, CA5 7LJ, CA5 7PL, CA5 6NX, CA4 0RH, CA5 7LT, CA5 7BY, CA5 7JG, CA5 7AX, CA5 7QS, CA5 7AE, CA5 7AU, CA5 7QP, CA5 7QQ, CA5 7LX, CA5 7JQ, CA5 6LB, CA5 7BT, CA5 7AD, CA5 7AG, CA5 7AB, CA7 8BS, CA5 7RA, CA5 7DA, CA5 6LA, CA5 7PT, CA5 7QF, CA7 8BU, CA2 6BZ, CA5 7JD, CA5 7NR, CA5 6NR, CA7 8BH, CA5 7LN, CA5 6NN, CA5 7PW, CA2 4UJ, CA5 7JN, CA5 7JW, CA5 7QE, CA5 7JB, CA5 9HF, CA5 7JS, CA5 7NY, CA5 7NJ, CA5 7NU, CA5 6AW, CA7 8BQ, CA2 7BB, CA5 7RD, CA5 7BP, CA5 7PX, CA4 0RS, CA5 7NN",
+      "AffectedPostcodes": " LA3 1NA, LA3 1NB, LA3 1NJ",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -138,6 +138,48 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241184615",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-26T13:36:22",
+      "region": "Grange-Over-Sands, South Lakeland",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 29,
+      "estimatedTimeOfRestoration": "2026-02-26T19:33:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-26T19:33:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.174774,
+        "lng": -2.924477
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA11 7BG, LA11 7BB, LA11 7BH",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -170,7 +212,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " BB1 1DU",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -224,7 +266,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 5,
   "ShowPolygons": false,
   "Regions": [
     {
