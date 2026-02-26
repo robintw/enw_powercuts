@@ -221,7 +221,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -254,7 +254,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " LA22 9BQ, LA22 0AB, LA22 0DB, LA22 0DS, LA22 9EZ, LA22 0DG, LA22 0EF, LA22 0DN, LA22 0DH, LA22 9HA, LA22 0DZ, LA22 0BT, LA22 9DX, LA22 0QT, LA22 9BL, LA22 9DP, LA22 9ED, LA22 0AJ, LA22 0AX, LA22 0AD, LA22 0AZ, LA22 9BU, LA22 0DD, LA22 0BJ, LA22 9ES, LA22 0DF, LA22 0EE, LA22 0BU, LA22 9AE, LA22 0AL, LA22 0AP, LA22 9EH, LA22 0AS, LA22 0BB, LA22 0BD, LA22 0BP, LA22 0EG, LA22 0AQ, LA22 0DY, LA22 9DG, LA22 9DJ, LA22 9EB, LA22 0AN, LA22 0ET, LA22 0QZ, LA22 9HB, LA22 9DQ, LA22 9LB, LA22 0AR, LA22 9EN, LA22 9EE, LA22 0QX, LA22 0EQ, LA22 0DP, LA22 0QU, LA22 9EJ, LA22 9EU, LA22 0DQ, LA22 9FA, LA22 9EY, LA22 9ET, LA22 0BZ, LA22 0AU, LA22 0BN, LA22 9EX, LA22 0AA, LA22 0AG, LA22 0BW, LA22 9BJ, LA22 0AY, LA22 0HQ, LA22 9DH, LA22 0BL, LA22 0AH, LA22 9BH, LA22 0QY, LA22 9DL, LA22 9LF, LA22 0BG, LA22 9BB, LA22 9DZ, LA22 9BZ, LA22 9EQ, LA22 0EA, LA22 0DR, LA22 9EA, LA22 9EP, LA22 0DU, LA22 0AE, LA22 9EL, LA22 9BT, LA22 9BX, LA22 0HG, LA22 0RB, LA22 9LG, LA22 9BY, LA22 9AF, LA22 0BA, LA22 0EB, LA22 9DB, LA22 0EY, LA22 0BH, LA22 0BX, LA22 9AU, LA22 9EF, LA22 0JJ, LA22 0DT, LA22 0DJ, LA22 0EJ, LA22 0AW, LA22 5BU, LA22 9HD, LA22 9ER, LA22 9AG, LA22 90D, LA22 9SG",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
@@ -278,24 +278,66 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241184226",
+      "faultNumber": "INC 1241184389",
       "multipleFaultNumbers": null,
-      "date": "2026-02-26T07:54:10",
-      "region": "Morecambe, Lancaster",
+      "date": "2026-02-26T10:24:50",
+      "region": "Clayton & Openshaw, Manchester",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 31,
-      "estimatedTimeOfRestoration": "2026-02-26T13:54:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-26T13:54:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 86,
+      "estimatedTimeOfRestoration": "2026-02-26T16:24:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-26T16:24:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.054404,
-        "lng": -2.883725
+        "lat": 53.476040,
+        "lng": -2.177363
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA3 1NA, LA3 1NB, LA3 1NJ",
+      "AffectedPostcodes": " M11 2JD, M11 2JF, M11 2JL, M11 2JN, M11 2JQ, M11 2GH, M11 2GG, M11 2GJ, M11 2YA, M11 2JG, M11 2JW",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241184397",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-26T10:31:49",
+      "region": "Whicham, Copeland",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 21,
+      "estimatedTimeOfRestoration": "2026-02-26T16:31:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-26T16:31:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.214891,
+        "lng": -3.313617
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA18 5LP, LA18 4NU",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -368,7 +410,7 @@
       "region": "Abram, Wigan",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Preparing to send team",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 56,
       "estimatedTimeOfRestoration": "2026-02-26T16:05:00",
       "estimatedTimeOfRestorationMajority": "2026-02-26T16:05:00",
@@ -392,7 +434,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 8,
+  "TotalResults": 9,
   "ShowPolygons": false,
   "Regions": [
     {
