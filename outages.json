@@ -53,7 +53,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
       "UpdateInfo": null,
       "CTAs": [
@@ -76,8 +76,8 @@
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
       "consumersOff": 8,
-      "estimatedTimeOfRestoration": "2026-02-27T09:22:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-27T09:22:00",
+      "estimatedTimeOfRestoration": "2026-02-27T18:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-27T18:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -86,7 +86,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " WN5 7XX, WN5 7XZ, WN5 7XS, WN5 7YB",
-      "UnderReviewStatusTimeCheck": true,
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "O/HM",
       "addressMpanList": null
     },
