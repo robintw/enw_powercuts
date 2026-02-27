@@ -53,7 +53,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -86,7 +86,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " LA22 0BD, LA22 0BG, LA22 0BB, LA22 0BJ, LA22 0AB, LA22 0AA, LA22 9BY, LA22 9BZ, LA22 9BU",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -117,17 +117,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 41,
+      "consumersOff": 61,
       "estimatedTimeOfRestoration": "2026-02-28T03:57:00",
       "estimatedTimeOfRestorationMajority": "2026-02-28T03:57:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.591570,
-        "lng": -2.339035
+        "lat": 53.591396,
+        "lng": -2.339250
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BL8 2TX, BL8 2TZ, BL8 2UE, BL8 2UA, BL8 2TS",
+      "AffectedPostcodes": " BL8 2TX, BL8 2TZ, BL8 2UE, BL8 2UA, BL8 2TS, BL8 2UD",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -137,7 +137,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
       "UpdateInfo": null,
       "CTAs": [
@@ -159,61 +159,19 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 33,
+      "consumersOff": 8,
       "estimatedTimeOfRestoration": "2026-02-27T23:03:00",
       "estimatedTimeOfRestorationMajority": "2026-02-27T23:03:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.798266,
-        "lng": -2.703328
+        "lat": 53.801394,
+        "lng": -2.699894
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR3 5LD, PR3 5LE, PR2 9LF, PR3 5EJ, PR2 5EJ, PR3 5LH, PR3 5EY",
-      "UnderReviewStatusTimeCheck": false,
+      "AffectedPostcodes": " PR3 5LE",
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "O/HM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241185501",
-      "multipleFaultNumbers": null,
-      "date": "2026-02-27T20:50:44",
-      "region": "Haydock, St. Helens",
-      "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 103,
-      "estimatedTimeOfRestoration": "2026-02-28T02:50:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-28T02:50:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.470429,
-        "lng": -2.664440
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " WA11 0GR, WA11 0GN, WA11 0JY, WA11 0JZ, WA11 0GP",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     }
   ],
@@ -224,7 +182,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 3,
   "ShowPolygons": false,
   "Regions": [
     {
