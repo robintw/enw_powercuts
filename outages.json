@@ -68,16 +68,58 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241185425",
+      "faultNumber": "INC 1241185427",
       "multipleFaultNumbers": null,
-      "date": "2026-02-27T16:45:13",
+      "date": "2026-02-27T16:46:01",
+      "region": "Lakes, South Lakeland",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 40,
+      "estimatedTimeOfRestoration": "2026-02-27T22:46:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-27T22:46:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.430862,
+        "lng": -2.961341
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA22 0BL, LA22 0AD, LA22 9DB, LA22 9BU, LA22 0AB, LA22 0DN, LA22 0AA, LA22 0QY, LA22 9BY, LA22 9BX, LA22 9EE, LA22 9EB",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241185432",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-27T16:57:37",
       "region": "Lakes, South Lakeland",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
       "previousFaultStatus": "Preparing to send team",
       "consumersOff": 129,
-      "estimatedTimeOfRestoration": "2026-02-27T22:45:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-27T22:45:00",
+      "estimatedTimeOfRestoration": "2026-02-27T22:57:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-27T22:57:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -85,7 +127,7 @@
         "lng": -2.960731
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA22 0BW, LA22 0BG, LA22 0BD, LA22 0QX, LA22 0BB, LA22 0BJ, LA22 0QZ, LA22 0AB, LA22 0AA, LA22 9BY, LA22 9BZ, LA22 9BU, LA22 0AD, LA22 0ET",
+      "AffectedPostcodes": " LA22 0BW, LA22 0BG, LA22 0BD, LA22 0QX, LA22 0BB, LA22 0BJ, LA22 0AD, LA22 0ET, LA22 0QZ, LA22 0AB, LA22 0AA, LA22 9BY, LA22 9BZ, LA22 9BU",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -224,7 +266,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 5,
   "ShowPolygons": false,
   "Regions": [
     {
