@@ -74,7 +74,7 @@
       "region": "Melling-With-Wrayton, Lancaster",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 38,
       "estimatedTimeOfRestoration": "2026-02-28T12:00:00",
       "estimatedTimeOfRestorationMajority": "2026-02-28T12:00:00",
@@ -110,24 +110,66 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241185555",
+      "faultNumber": "INC 1241185577",
       "multipleFaultNumbers": null,
-      "date": "2026-02-28T02:32:43",
-      "region": "Shevington, Wigan",
+      "date": "2026-02-28T06:28:27",
+      "region": "North Heywood, Rochdale",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 29,
-      "estimatedTimeOfRestoration": "2026-02-28T08:32:00",
-      "estimatedTimeOfRestorationMajority": "2026-02-28T08:32:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 80,
+      "estimatedTimeOfRestoration": "2026-02-28T12:28:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-28T12:28:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.581768,
-        "lng": -2.707430
+        "lat": 53.589237,
+        "lng": -2.219343
       },
       "outageLocations": null,
-      "AffectedPostcodes": " WN6 9LA, WN6 9JR, WN6 9JY, WN6 9JS",
+      "AffectedPostcodes": " OL10 1HL, OL10 3AZ, OL10 1AN, OL10 1AP, OL10 1AR, OL10 1AZ, OL10 1BA, OL10 1AX, OL10 1AS, OL10 1AU",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241185579",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-28T06:28:46",
+      "region": "North Heywood, Rochdale",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 74,
+      "estimatedTimeOfRestoration": "2026-02-28T12:28:00",
+      "estimatedTimeOfRestorationMajority": "2026-02-28T12:28:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.589245,
+        "lng": -2.217514
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL10 1BA, OL10 1BP, OL10 1BN, OL10 1AX",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -140,7 +182,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 2,
+  "TotalResults": 3,
   "ShowPolygons": false,
   "Regions": [
     {
