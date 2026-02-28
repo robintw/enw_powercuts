@@ -75,7 +75,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 12,
+      "consumersOff": 37,
       "estimatedTimeOfRestoration": "2026-02-28T19:30:00",
       "estimatedTimeOfRestorationMajority": "2026-02-28T19:30:00",
       "information": "",
@@ -116,7 +116,7 @@
       "region": "Ardwick, Manchester",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 242,
       "estimatedTimeOfRestoration": "2026-02-28T22:23:00",
       "estimatedTimeOfRestorationMajority": "2026-02-28T22:23:00",
@@ -130,6 +130,48 @@
       "AffectedPostcodes": " M18 7EH, M18 7BH, M18 7FJ, M18 7FS, M18 7DQ, M18 7BJ, M18 7DN, M18 7FN, M18 7BL, M12 5GL, M12 4HD",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241185846",
+      "multipleFaultNumbers": null,
+      "date": "2026-02-28T19:41:04",
+      "region": "Lakes, South Lakeland",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": null,
+      "consumersOff": 40,
+      "estimatedTimeOfRestoration": "2026-03-01T01:31:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-01T01:31:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.430862,
+        "lng": -2.961341
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA22 0BL, LA22 0AD, LA22 9DB, LA22 9BU, LA22 0AB, LA22 0DN, LA22 0AA, LA22 0QY, LA22 9BY, LA22 9BX, LA22 9EE, LA22 9EB",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -224,7 +266,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 5,
   "ShowPolygons": false,
   "Regions": [
     {
