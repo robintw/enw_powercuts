@@ -74,7 +74,7 @@
       "region": "Penrith, Eden",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 50,
       "estimatedTimeOfRestoration": "2026-03-03T14:28:00",
       "estimatedTimeOfRestorationMajority": "2026-03-03T14:28:00",
@@ -95,7 +95,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -116,7 +116,7 @@
       "region": "Kearsley, Bolton",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 9,
       "estimatedTimeOfRestoration": "2026-03-04T23:44:00",
       "estimatedTimeOfRestorationMajority": "2026-03-04T23:44:00",
@@ -128,8 +128,50 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " BL4 8NB",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": true,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers fix the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241187950",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-04T15:09:24",
+      "region": "Levenshulme, Manchester",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": null,
+      "consumersOff": 40,
+      "estimatedTimeOfRestoration": "2026-03-04T18:09:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-04T18:09:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.448001,
+        "lng": -2.196536
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M19 2FE",
+      "UnderReviewStatusTimeCheck": true,
+      "WebTMSFaultType": "U/GS",
       "addressMpanList": null
     },
     {
@@ -158,7 +200,7 @@
       "region": "Douglas, Wigan",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
       "consumersOff": 52,
       "estimatedTimeOfRestoration": "2026-03-05T02:34:00",
       "estimatedTimeOfRestorationMajority": "2026-03-05T02:34:00",
@@ -200,7 +242,7 @@
       "region": "Smithills, Bolton",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 93,
       "estimatedTimeOfRestoration": "2026-03-05T00:00:01",
       "estimatedTimeOfRestorationMajority": "2026-03-05T00:00:01",
@@ -242,7 +284,7 @@
       "region": "Ribchester, Ribble Valley",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 11,
       "estimatedTimeOfRestoration": "2026-03-05T02:00:00",
       "estimatedTimeOfRestorationMajority": "2026-03-05T02:00:00",
@@ -283,8 +325,8 @@
       "date": "2026-03-04T22:09:35",
       "region": "Ramsbottom, Bury",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 31,
       "estimatedTimeOfRestoration": "2026-03-05T04:09:00",
       "estimatedTimeOfRestorationMajority": "2026-03-05T04:09:00",
@@ -308,7 +350,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 6,
+  "TotalResults": 7,
   "ShowPolygons": false,
   "Regions": [
     {
