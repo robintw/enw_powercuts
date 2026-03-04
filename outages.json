@@ -194,24 +194,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241187589",
+      "faultNumber": "INC 1241187549",
       "multipleFaultNumbers": null,
-      "date": "2026-03-04T09:33:03",
-      "region": "Tithebarn, Wyre",
+      "date": "2026-03-04T09:03:37",
+      "region": "Haigh, Wigan",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
       "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 9,
-      "estimatedTimeOfRestoration": "2026-03-04T15:31:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-04T15:31:00",
+      "consumersOff": 80,
+      "estimatedTimeOfRestoration": "2026-03-04T15:03:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-04T15:03:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.842295,
-        "lng": -3.010399
+        "lat": 53.575368,
+        "lng": -2.592262
       },
       "outageLocations": null,
-      "AffectedPostcodes": " FY6 7ZB",
+      "AffectedPostcodes": " WN2 1LF, WN2 1LE, WN2 1LB, WN2 1US, WN2 1LD, WN2 1XH, WN2 1RH, WN2 1YA",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -236,24 +236,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241187549",
+      "faultNumber": "INC 1241187672",
       "multipleFaultNumbers": null,
-      "date": "2026-03-04T09:03:37",
-      "region": "Haigh, Wigan",
+      "date": "2026-03-04T10:43:03",
+      "region": "Tatham, Lancaster",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
       "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 80,
-      "estimatedTimeOfRestoration": "2026-03-04T15:03:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-04T15:03:00",
+      "consumersOff": 5,
+      "estimatedTimeOfRestoration": "2026-03-04T16:42:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-04T16:42:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.575368,
-        "lng": -2.592262
+        "lat": 54.112333,
+        "lng": -2.582102
       },
       "outageLocations": null,
-      "AffectedPostcodes": " WN2 1LF, WN2 1LE, WN2 1LB, WN2 1US, WN2 1LD, WN2 1XH, WN2 1RH, WN2 1YA",
+      "AffectedPostcodes": " LA2 8PQ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -320,24 +320,66 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241187600",
+      "faultNumber": "INC 1241187675",
       "multipleFaultNumbers": null,
-      "date": "2026-03-04T09:42:57",
-      "region": "Longdendale, Tameside",
+      "date": "2026-03-04T10:43:21",
+      "region": "Tatham, Lancaster",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 25,
-      "estimatedTimeOfRestoration": "2026-03-04T15:42:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-04T15:42:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 4,
+      "estimatedTimeOfRestoration": "2026-03-04T16:42:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-04T16:42:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.453411,
-        "lng": -2.018503
+        "lat": 54.108052,
+        "lng": -2.582646
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK14 6PE, SK14 6PH, SK14 6PG",
+      "AffectedPostcodes": " LA2 8PQ, LA2 8NF",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241187686",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-04T10:49:35",
+      "region": "Worsley Mesnes, Wigan",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 6,
+      "estimatedTimeOfRestoration": "2026-03-04T16:45:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-04T16:45:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.525482,
+        "lng": -2.640008
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " WN3 5NF",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -350,7 +392,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 7,
+  "TotalResults": 8,
   "ShowPolygons": false,
   "Regions": [
     {
