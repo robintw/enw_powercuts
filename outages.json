@@ -115,9 +115,9 @@
       "date": "2026-03-06T19:30:21",
       "region": "Clifton, Fylde",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 744,
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 68,
       "estimatedTimeOfRestoration": "2026-03-06T22:30:00",
       "estimatedTimeOfRestorationMajority": "2026-03-06T22:30:00",
       "information": "",
@@ -130,6 +130,48 @@
       "AffectedPostcodes": " FY8 5DD, FY8 5DE, FY8 5TB, FY8 5FU, FY8 5EQ, FY8 5EZ, FY8 5TH, FY8 5DX, FY8 5TQ, FY8 5DY, FY8 5DQ, FY8 5BS, FY8 5AL, FY8 5HA, FY8 5TG, FY8 5DR, FY8 5TL, FY8 5EX, FY8 5TR, FY8 5JB, FY8 5DA, FY8 5HL, FY8 5BU, FY8 5HX, FY8 5LB, FY8 5EB, FY8 5TS, FY8 5HE, FY8 5AN, FY8 5DG, FY8 5BJ, FY8 5TN, FY8 5AG, FY8 5FA, FY8 5EU, FY8 5ED, FY8 5EW, FY8 5AA, FY8 5HG, FY8 5EP, FY8 5DZ, FY8 5DB, FY8 5TP, FY8 5FG, FY8 5TD, FY8 5TF, FY8 5EA, FY8 5BP, FY8 5ET, FY8 5TE, FY8 5BZ, FY8 5BL, FY8 5ES, FY8 5AU, FY8 5EY, FY8 5FQ, FY8 5TU, FY8 5DU, FY8 5HD, FY8 5HJ, FY8 5HQ, FY8 5DP, FY8 5OX, FY8 5ER, FY8 5DS, FY8 5HF, FY8 5TJ, FY8 5DF, FY8 5FW, FY8 5HN, FY8 5DH, FY8 5HH, FY8 5DW, FY8 5EF, FY8 5EE, FY8 5SB, FY8 5HB, FY8 5AJ, FY8 5AQ, FY8 5BT, FY8 5DL, FY8 5BH, FY8 5FT, FY8 5DT, FY8 5DN, FY8 5JD, FY8 5AB, FY8 5AE",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241189143",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-06T10:16:26",
+      "region": "Farington, South Ribble",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 5,
+      "estimatedTimeOfRestoration": "2026-03-06T21:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-06T21:00:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.722021,
+        "lng": -2.694176
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR5 5LX, PR5 5LQ, PR5 5LW, PR5 5JG, PR5 5JZ, PR5 5NP, PR5 5LY",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -350,7 +392,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 7,
+  "TotalResults": 8,
   "ShowPolygons": false,
   "Regions": [
     {
