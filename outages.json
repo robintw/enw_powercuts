@@ -116,18 +116,18 @@
       "region": "Worsley Mesnes, Wigan",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 99,
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 37,
       "estimatedTimeOfRestoration": "2026-03-07T12:06:00",
       "estimatedTimeOfRestorationMajority": "2026-03-07T12:06:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.508845,
-        "lng": -2.592322
+        "lat": 53.530317,
+        "lng": -2.659701
       },
       "outageLocations": null,
-      "AffectedPostcodes": " WN3 6QA, WN3 6GT, M33 7QZ, WN3 6PZ, WN3 6PX",
+      "AffectedPostcodes": " WN3 6PZ, WN3 6PX",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -157,8 +157,8 @@
       "date": "2026-03-07T06:25:55",
       "region": "Appleby-In-Westmorland, Eden",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 30,
       "estimatedTimeOfRestoration": "2026-03-07T12:25:00",
       "estimatedTimeOfRestorationMajority": "2026-03-07T12:25:00",
@@ -173,6 +173,48 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241189630",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-07T06:43:08",
+      "region": "Ashton Hurst, Tameside",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 46,
+      "estimatedTimeOfRestoration": "2026-03-07T12:43:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-07T12:43:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.503608,
+        "lng": -2.064952
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL6 9AZ, OL6 9BB, OL6 9BA, OL6 9AU",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -182,7 +224,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 3,
+  "TotalResults": 4,
   "ShowPolygons": false,
   "Regions": [
     {
