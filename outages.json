@@ -74,7 +74,7 @@
       "region": "Spotland & Falinge, Rochdale",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": null,
       "consumersOff": 31,
       "estimatedTimeOfRestoration": null,
       "estimatedTimeOfRestorationMajority": null,
@@ -116,8 +116,8 @@
       "region": "Sandsfield & Morton West, Carlisle",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 88,
+      "previousFaultStatus": null,
+      "consumersOff": 9,
       "estimatedTimeOfRestoration": "2026-03-08T19:00:00",
       "estimatedTimeOfRestorationMajority": "2026-03-08T19:00:00",
       "information": "",
@@ -158,7 +158,7 @@
       "region": "Penwortham, South Ribble",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 56,
       "estimatedTimeOfRestoration": "2026-03-08T20:00:00",
       "estimatedTimeOfRestorationMajority": "2026-03-08T20:00:00",
@@ -200,7 +200,7 @@
       "region": "Carnforth, Lancaster",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 11,
       "estimatedTimeOfRestoration": "2026-03-08T19:00:00",
       "estimatedTimeOfRestorationMajority": "2026-03-08T19:00:00",
@@ -215,6 +215,132 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241190149",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-08T17:21:10",
+      "region": "Horwich, Bolton",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": null,
+      "consumersOff": 36,
+      "estimatedTimeOfRestoration": "2026-03-08T23:21:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-08T23:21:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.597060,
+        "lng": -2.517525
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BL6 6RE, BL6 6QS, BL6 6QR, BL6 6QT, BL6 6RG, BL6 6QH, BL6 6RP",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241190151",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-08T17:21:11",
+      "region": "Horwich, Bolton",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": null,
+      "consumersOff": 14,
+      "estimatedTimeOfRestoration": "2026-03-08T23:21:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-08T23:21:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.595515,
+        "lng": -2.515960
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BL6 6QG, BL6 6QL, BL6 6QJ",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241190155",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-08T17:31:31",
+      "region": "Carnforth, Lancaster",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 7,
+      "estimatedTimeOfRestoration": "2026-03-08T20:31:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-08T20:31:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.133015,
+        "lng": -2.762542
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA5 9JZ, LA5 9RF, LA5 9RQ, LA5 9RE",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -224,7 +350,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 7,
   "ShowPolygons": false,
   "Regions": [
     {
