@@ -96,7 +96,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -110,26 +110,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241190401",
+      "faultNumber": "INC 1241190413",
       "multipleFaultNumbers": null,
-      "date": "2026-03-09T09:40:36",
-      "region": "St. Peter's, Tameside",
+      "date": "2026-03-09T09:52:48",
+      "region": "Whalley, Ribble Valley",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 102,
-      "estimatedTimeOfRestoration": "2026-03-09T15:40:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-09T15:40:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 2094,
+      "estimatedTimeOfRestoration": "2026-03-09T12:52:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-09T12:52:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.485411,
-        "lng": -2.106528
+        "lat": 53.823078,
+        "lng": -2.428740
       },
       "outageLocations": null,
-      "AffectedPostcodes": " OL6 7TX, OL6 7UG, OL6 7TT, OL6 7TU, OL7 0AL, OL7 0BA, OL7 0AN, OL7 0AQ, OL7 0AW",
+      "AffectedPostcodes": " BB7 9TY, BB6 8AY, BB6 8AR, BB6 8BH, BB7 9TF, BB6 8HT, BB7 9WG, BB6 8AL, BB7 9JD, BB7 9SA, BB7 9YF, BB7 9TS, BB7 9SL, BB6 8FA, BB7 9SD, BB7 9YJ, BB7 9TR, BB7 9UG, BB7 9RS, BB7 9SP, BB7 9TH, BB6 8HS, BB7 9UF, BB7 9SY, BB6 8FB, BB7 9RY, BB7 9NG, BB6 8BJ, BB7 9RT, BB6 8HN, BB7 9UD, BB6 8AT, BB7 9UE, BB6 8BF, BB7 9XN, BB7 9TB, BB7 9HZ, BB7 9NW, BB7 9YG, BB7 9SR, BB7 9NL, BB7 9SB, BB7 9YL, BB7 9TP, BB6 8EA, BB6 8HU, BB6 8AG, BB7 9SU, BB7 9RX, BB7 9SG, BB6 8HP, BB7 9GL, BB6 8AS, BB6 8DE, BB7 9TU, BB7 9SZ, BB7 9JN, BB7 9YP, BB7 9RR, BB7 9SW, BB7 9TN, BB7 9SE, BB7 9TA, BB6 8AP, BB7 9RE, BB7 9ND, BB7 9NQ, BB7 9TD, BB7 9LL, BB6 8BP, BB6 8DG, BB7 9NN, BB7 9JW, BB7 9TG, BB7 9TL, BB7 2EP, BB7 9TE, BB7 9NJ, BB6 8AN, BB7 9NS, BB6 8HW, BB7 9TT, BB7 9YH, PR3 3XU, BB7 9TJ, BB6 8BD, BB6 8HJ, BB6 8BE, BB7 9ST, BB7 9RZ, BB7 9NH, BB6 8HR, BB6 8AD, BB7 9QY, BB7 9RH, BB7 9NA, BB7 9JE, BB7 9NZ, BB7 9YN, BB6 8AJ, BB7 9TD, BB6 8AW, BB7 9SS, BB6 8AH, BB6 8FF, BB6 8HY, BB7 9JY, BB6 8BA, BB6 8DF, BB7 2EU, BB6 8HL, BB6 8BS, BB7 9TW, BB6 8BB, BB6 8DX, BB7 9NT, BB6 7DD, BB7 9RU, BB6 8AQ, BB7 9SF, BB7 9NP, BB7 9PD, BB7 9RW, BB6 8BL, BB7 2HG, BB7 9SX, BB7 9SN, PR3 3XR, BB7 9RP, BB7 9NR, BB7 2EZ, BB6 8AF, BB7 9JQ, BB6 8AE",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -173,6 +173,48 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241190415",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-09T09:53:25",
+      "region": "Whalley, Ribble Valley",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 3403,
+      "estimatedTimeOfRestoration": "2026-03-09T12:53:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-09T12:53:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.823955,
+        "lng": -2.357908
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BB12 7PY, BB7 9HU, BB7 9BQ, BB12 7SE, BB12 7HX, BB7 9EH, BB7 9HF, BB7 9EB, BB7 9EL, BB7 9DS, BB7 9JD, BB12 7QQ, BB12 7QT, BB12 7PJ, BB12 7RW, BB12 7JG, BB12 7PN, BB12 7NT, BB7 9DN, BB12 9BL, BB12 7RD, BB7 9DD, BB7 9FX, BB7 9BY, BB7 9AQ, BB12 9AD, BB12 7NZ, BB7 9EP, BB7 9RJ, BB7 9DJ, BB7 9RW, BB7 9ZD, BB7 9EA, BB7 9UN, BB7 9AR, BB12 9AU, BB7 9DZ, BB7 9GX, BB7 9AX, BB12 7PT, BB7 9FR, BB7 9EX, BB7 9XW, BB7 9BB, BB12 7HW, BB7 9XQ, BB12 7QG, BB12 9HH, BB12 7PB, BB7 9XT, BB12 9HW, BB12 9BY, BB12 7SZ, BB12 9BD, BB12 7SU, BB7 9HJ, BB7 9EW, BB7 9HG, BB12 7RX, BB7 9UY, BB7 9WL, BB12 7QE, BB7 1PP, BB12 7QF, BB12 7QR, BB12 7JF, BB12 7PS, BB12 7HY, BB7 9WE, BB12 7SD, BB12 7HR, BB7 9DF, BB12 9DA, BB7 9DB, BB7 9LA, BB12 9HR, BB7 9HT, BB7 9DR, BB7 9ED, BB7 9HP, BB7 9RH, BB7 9EG, BB7 9GW, BB7 9AU, BB7 9EY, BB7 9XP, BB7 9AZ, BB12 7RQ, BB7 9DQ, BB12 9EZ, BB12 7PD, BB7 9XS, BB12 9EU, BB12 7PE, BB12 9BN, BB12 9BE, BB12 7SS, BB12 7ST, BB7 9HS, BB7 9HE, BB12 7PQ, BB12 7PH, BB7 9AE, BB12 7PR, BB12 7HZ, BB12 7JB, BB12 7JA, BB7 9BZ, BB7 9WJ, BB12 7QW, BB12 7RY, BB7 9FQ, BB7 9EQ, BB7 9RN, BB7 9RP, BB7 9UP, BB7 9BF, BB7 9HA, PR6 7QQ, BB7 9BP, BB12 7RL, BB12 7QY, BB12 9EY, BB7 9XR, BB12 7SB, BB12 9BW, BB12 9BG, BB12 7PG, BB7 9WF, BB7 9HH, BB7 9UB, BB7 9QZ, BB12 7RE, BB7 9BX, BB12 9BA, BB7 9EZ, BB7 9AP, BB7 9DY, BB12 7QN, BB7 9WH, BB12 7QH, BB7 9WP, BB12 7PP, BB7 9DA, BB12 7RA, BB7 9HD, BB12 7HU, BB7 9EJ, BB12 7SA, BB7 9FY, BB12 7JD, BB12 7PZ, BB7 9XL, BB7 9DL, BB7 9ZA, BB7 9DG, BB7 9DX, BB12 7QZ, BB7 1PR, BB12 7HT, BB12 7QU, BB12 7RH, BB12 7NX, BB7 9BS, BB12 9BT, BB7 9BA, BB12 7RP, BB12 7QS, BB12 9AS, BB7 9EU, BB12 9AY, BB12 7RF, BB7 9BU, BB7 9HB, BB7 9DT, BB7 9AS, BB12 9BZ, BB7 9UX, BB7 9UQ, BB12 7QD, BB12 7QL, BB12 7RG, BB7 9FN, BB7 9FB, BB12 9AR, BB12 8JX, BB12 9BB, BB12 7QB, BB12 7PF, BB7 9AJ, BB12 7RB, BB12 7HN, BB7 9XU, BB7 9ET, BB12 7QA, BB12 7RJ, BB7 9HR, BB7 9DP, BB7 9TQ, BB12 7RR, BB7 9JZ, BB7 9DW, BB12 9BQ, BB7 9EN, BB7 9FJ, BB7 9HQ, BB7 9BT, BB7 9AT, BB7 9FA, BB7 9GY, BB12 7HS, BB7 9RG, BB12 9HG, BB7 9BL, BB12 7EE, BB7 9DU, BB7 9FL, BB7 9HL, BB12 7NS, BB12 7RU, BB12 7PL, BB7 9AW, BB12 9AZ, BB12 9HJ, BB7 9AL, BB7 9XJ, BB12 9AW, BB12 9HD, BB12 9DB, BB12 9EX, BB12 9BH, BB7 9RS, BB12 7QX, BB7 9FF, BB7 9ES, BB12 7HP, BB12 7QJ, BB12 9HA, BB7 9FU, BB12 7QP, BB12 7SW, BB12 9BS, BB12 9AT, BB12 9HB, BB12 7NU, BB12 9BP, BB12 9HQ, BB7 9AF, BB7 9ZB, BB12 9HE, BB7 9HX, BB12 9AE, BB7 9RB, BB12 7PW, BB12 9BJ, BB12 7RZ, BB7 9UR, BB12 7RN, BB12 7JE, BB7 9AY, BB7 9HN, BB12 9DE, BB12 7PA, BB7 9DE, BB7 3BG, BB7 9GB, BB7 3EP, BB7 9YS, BB7 9EF, PR6 7QA, BB12 9HF, BB12 7NY, BB12 9DZ, BB12 7RS",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -182,7 +224,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 3,
+  "TotalResults": 4,
   "ShowPolygons": false,
   "Regions": [
     {
@@ -190,6 +232,9 @@
     },
     {
       "name": "allerdale"
+    },
+    {
+      "name": "bailey and chaigley"
     },
     {
       "name": "barrow-in-furness"
