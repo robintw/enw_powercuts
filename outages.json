@@ -257,6 +257,48 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125305682",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-10T15:11:28",
+      "region": "Horwich, Bolton",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 1032,
+      "estimatedTimeOfRestoration": "2026-03-10T21:11:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-10T21:11:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.596828,
+        "lng": -2.543349
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BL6 5RQ, BL6 5RF, BL6 5RJ, BL6 5RP, BL6 5QD, BL6 5UG, BL6 5QB, BL6 5RE, BL6 5SJ, BL6 5RD, BL6 5RB, BL6 5RH, BL6 5QP, BL6 5QE, BL6 5QG, BL6 5QW, BL6 5PX, BL6 5TX, BL6 5QH, BL6 5QU, BL6 5GQ, BL6 7NZ, BL6 5QT, BL6 5UE, BL6 5QY, BL6 5TT, BL6 5QR, BL6 5XF, BL6 5XG, BL6 5QX, BL6 5BF, BL6 5SZ, BL6 5SQ, BL6 7QZ, BL6 7FR, BL6 5NL, BL6 5HP, BL6 5WG, BL6 5WH, BL6 5WL, BL6 5WJ, BL6 7NX, BL6 5NE, BL6 5RA, BL6 7QY, BL6 7AA, BL6 5NA, BL6 5NR, BL6 5NW, BL6 5NP, BL6 5UB, BL6 6DF, BL6 6DJ, BL6 5NH, BL6 5UA, BL6 6JA, BL6 6DL, BL6 5PL, BL6 5NY, BL6 5WP, BL6 5QL, BL6 5LZ, BL6 7HU, BL6 5NB, BL6 5RW, BL6 6AB, BL6 6DE, BL6 6AD, BL6 5TQ, BL6 6BU, BL6 5NQ, BL6 5PE, BL6 5PS, BL6 5PA, BL6 7AH, BL6 6AE, BL6 6BG, BL6 6AT, BL6 6AY, BL6 6DA, BL6 6BX, BL6 6BJ, BL6 5NN, BL6 5QZ, BL6 6DG, BL6 6DB, BL6 6AU, BL6 5NG, BL6 5NZ, BL6 6BY, BL6 6AP, BL6 6AR, BL6 6AS, BL6 6BD, BL6 6BZ, BL6 6AJ, BL6 6BL, BL6 6BF, BL6 6AF, BL6 6AG, BL6 5NF, BL6 6DD, BL6 6AA, BL6 6AN, BL6 6BN, BL6 5UD, BL6 6TL, BL6 5PP, BL6 5PR, BL6 6AL, BL6 5NU, BL6 5PZ, BL6 6AQ, BL6 6TT, BL6 6BH, BL6 5NS, BL6 6TQ, BL6 6SE, BL6 6TR, BL6 5PD, BL6 5QA, BL6 6DQ, BL6 6TN, BL6 6RZ, BL6 6AW, BL6 6DH, BL6 6TS, BL6 6PG, BL6 6RF, BL6 6BA, BL6 6TJ, BL6 6BB, BL6 6BP, BL6 5NT, BL6 5ND, BL6 5RG",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -266,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
