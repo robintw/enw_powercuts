@@ -241,8 +241,8 @@
       "date": "2026-03-12T06:15:35",
       "region": "Crosby Ravensworth, Eden",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 23,
       "estimatedTimeOfRestoration": "2026-03-12T09:15:00",
       "estimatedTimeOfRestorationMajority": "2026-03-12T09:15:00",
@@ -256,6 +256,90 @@
       "AffectedPostcodes": " CA10 3DD, CA10 3DB, CA10 3HB, CA10 3DB, CA10 3HU",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125306669",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-12T06:40:03",
+      "region": "Trinity, Burnley",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 163,
+      "estimatedTimeOfRestoration": "2026-03-12T09:40:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-12T09:40:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.783304,
+        "lng": -2.283152
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BB11 5FA, BB11 5RW, BB11 5QF, BB11 5DP, BB11 5RR, BB12 6EX, BB11 5PY, BB11 5AA, BB11 5NA, BB11 5UB, BB11 5QE, BB11 5RT, BB11 5DU, BB11 5DJ, BB11 5RU, BB11 5DX, BB11 5RP, BB12 6EU, BB11 5RX, BB11 5QD, BB11 5BU, BB11 5ST, BB11 5QB, BB11 5DT, BB11 5TE, BB11 5TT, BB11 5BW, BB11 5TH, BB11 5DL, BB11 5DG, BB11 5DQ, BB11 5NW",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125306680",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-12T06:56:11",
+      "region": "Longford, Trafford",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 16,
+      "estimatedTimeOfRestoration": "2026-03-12T12:56:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-12T12:56:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.444527,
+        "lng": -2.299522
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M32 8PZ, M32 8QU, M32 8JP",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -308,7 +392,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 6,
+  "TotalResults": 8,
   "ShowPolygons": false,
   "Regions": [
     {
