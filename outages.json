@@ -117,7 +117,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 23,
+      "consumersOff": 3,
       "estimatedTimeOfRestoration": "2026-03-13T12:15:00",
       "estimatedTimeOfRestorationMajority": "2026-03-13T12:15:00",
       "information": "",
@@ -170,48 +170,6 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " CA13 9SH",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125307477",
-      "multipleFaultNumbers": null,
-      "date": "2026-03-13T07:53:24",
-      "region": "Newton-Le-Willows East, St. Helens",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 53,
-      "estimatedTimeOfRestoration": "2026-03-13T13:53:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-13T13:53:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.452062,
-        "lng": -2.625233
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " WA12 8LD, WA12 8LF, WA12 8JZ, WA12 8LE",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -326,7 +284,7 @@
       "region": "Worsthorne-With-Hurstwood, Burnley",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 107,
       "estimatedTimeOfRestoration": "2026-03-13T10:58:00",
       "estimatedTimeOfRestorationMajority": "2026-03-13T10:58:00",
@@ -380,48 +338,6 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " BL0 9QQ, BL8 4NS, BL8 4NJ, BL0 9QG, BL8 4NF, BL0 9PN, BL8 4NN, BL8 4NG, BL8 4NL, BL8 4QS, BL8 4NR",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125307615",
-      "multipleFaultNumbers": null,
-      "date": "2026-03-13T10:04:03",
-      "region": "Wray-With-Botton, Lancaster",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 8,
-      "estimatedTimeOfRestoration": "2026-03-13T13:04:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-13T13:04:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.091685,
-        "lng": -2.599213
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " LA2 8QR, LA2 8QS",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -509,6 +425,48 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125307635",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-13T10:20:01",
+      "region": "St Mary's, Bury",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 513,
+      "estimatedTimeOfRestoration": "2026-03-13T16:20:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-13T16:20:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.524465,
+        "lng": -2.276296
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M25 0AA, M25 0PD, M25 0NH, M25 0BA, M25 9PJ, M25 0NT, M25 0AB, M25 1EB, M25 0NL, M25 1FB, M25 1GE, M25 9PL, M25 0PL, M25 0PH, M25 9ND, M25 9NJ, M25 0AZ, M25 0AY, M25 0PZ, M25 9FB, M25 9PN, M25 0BE, M25 0AF, M25 0BF, M25 9WJ, M25 0NY, M25 9PW, M25 1DZ, M25 1FF, M25 0PU, M25 1ED, M25 9WN, M25 1FE, M25 0AD, M25 9PF, M25 9WU, M25 1FD, M25 9NH, M25 0AH, M25 1DG, M25 0BD, M25 1FA, M25 9PH, M25 0AE, M25 9NT, M25 9NX, M25 0LD",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -518,7 +476,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 11,
+  "TotalResults": 10,
   "ShowPolygons": false,
   "Regions": [
     {
