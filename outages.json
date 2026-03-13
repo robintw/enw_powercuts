@@ -236,6 +236,48 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 125307682",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-13T10:58:05",
+      "region": "Hulton, Bolton",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 49,
+      "estimatedTimeOfRestoration": "2026-03-13T16:54:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-13T16:54:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.537381,
+        "lng": -2.470180
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M46 9QW, M46 9HY, M46 9HJ, M46 9QQ, M46 9QR, BL5 1HA, BL5 1HB, M46 9HZ",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 125307563",
       "multipleFaultNumbers": null,
       "date": "2026-03-13T09:23:07",
@@ -326,7 +368,7 @@
       "region": "Ramsbottom, Bury",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 15,
       "estimatedTimeOfRestoration": "2026-03-13T16:46:00",
       "estimatedTimeOfRestorationMajority": "2026-03-13T16:46:00",
@@ -424,48 +466,6 @@
       "AffectedPostcodes": " CA17 4EG, CA17 4EF, CA17 4DF, CA17 4NQ, CA17 4ER, CA17 4DH, CA17 4EW, CA16 6PL, CA16 6PD, CA17 4BT, CA17 4EJ, CA17 4BB, CA17 4DW, CA17 4BN, CA17 4DD, CA17 4DP, CA16 6PF, CA17 4DR, CA17 4AS, CA17 4DN, CA17 4BA, CA17 4BL, CA16 6PS, CA17 4BS, CA17 4DS, CA16 6PE, CA16 6NR, CA16 6NP, CA17 4BD, CA17 4NT, CA17 4AY, CA16 6NX, CA17 4BP, CA17 4BX, CA16 6PR, CA17 4AX, CA17 4BF, CA16 6LP, CA16 6PH, CA17 4BU, CA16 6LN, CA16 6PA, CA17 4DU, CA16 6QG, CA17 4EN, CA17 4DB, CA16 6PJ, CA16 6NT, CA17 4DX, CA16 6BD, CA17 4AR, CA17 4BZ, CA17 4BH, CA16 6PT, CA16 6PP, CA17 4BQ, CA17 4AT, CA17 4BY, CA16 6PG, CA16 6QF, CA16 6NL, CA17 4RJ, CA16 6PQ, CA16 6PW, CA17 4LA, CA17 4BG, CA17 4AZ, CA17 4DE, CA17 4BJ, CA16 6NU, CA17 4DA, CA16 6LS, CA17 4EA, CA16 6EJ, SK13 6PL, CA16 6NS, CA17 4EE, CA17 4BE, CA16 6PN, CA17 4EY, CA16 6PU, CA16 6PB, CA17 4BW, CA17 4EH, CA16 6FS",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125307635",
-      "multipleFaultNumbers": null,
-      "date": "2026-03-13T10:20:01",
-      "region": "St Mary's, Bury",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 513,
-      "estimatedTimeOfRestoration": "2026-03-13T16:20:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-13T16:20:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.524465,
-        "lng": -2.276296
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M25 0AA, M25 0PD, M25 0NH, M25 0BA, M25 9PJ, M25 0NT, M25 0AB, M25 1EB, M25 0NL, M25 1FB, M25 1GE, M25 9PL, M25 0PL, M25 0PH, M25 9ND, M25 9NJ, M25 0AZ, M25 0AY, M25 0PZ, M25 9FB, M25 9PN, M25 0BE, M25 0AF, M25 0BF, M25 9WJ, M25 0NY, M25 9PW, M25 1DZ, M25 1FF, M25 0PU, M25 1ED, M25 9WN, M25 1FE, M25 0AD, M25 9PF, M25 9WU, M25 1FD, M25 9NH, M25 0AH, M25 1DG, M25 0BD, M25 1FA, M25 9PH, M25 0AE, M25 9NT, M25 9NX, M25 0LD",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     }
   ],
