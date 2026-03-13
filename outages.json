@@ -117,7 +117,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 43,
+      "consumersOff": 23,
       "estimatedTimeOfRestoration": "2026-03-13T12:15:00",
       "estimatedTimeOfRestorationMajority": "2026-03-13T12:15:00",
       "information": "",
@@ -200,7 +200,7 @@
       "region": "Newton-Le-Willows East, St. Helens",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 53,
       "estimatedTimeOfRestoration": "2026-03-13T13:53:00",
       "estimatedTimeOfRestorationMajority": "2026-03-13T13:53:00",
@@ -214,6 +214,48 @@
       "AffectedPostcodes": " WA12 8LD, WA12 8LF, WA12 8JZ, WA12 8LE",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125307599",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-13T09:56:29",
+      "region": "Preesall, Wyre",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 31,
+      "estimatedTimeOfRestoration": "2026-03-13T12:56:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-13T12:56:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.908897,
+        "lng": -2.882713
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR3 6AE, PR3 6HE, PR3 6DF, FY6 0HN, PR3 6SD, PR3 6SQ, PR3 6DA, PR3 6AL, PR3 6BU, PR3 6HD, PR3 6BP, PR3 6BN, PR3 0LB, PR3 6DG, PR3 0LE, PR3 6AR, FY6 0NU, PR3 6SJ, PR3 6SN, FY6 0PQ, PR3 6BZ, PR3 6BY, PR3 6HX, PR3 6BA, PR3 6AQ, PR3 6AS, PR3 6AY, PR3 6HH, FY6 0PG, FY6 0NR, PR3 6BX, PR3 6SR, PR3 6AX, FY6 0NP, PR3 6AH, PR3 6DH, PR3 0LT, PR3 6SS, FY6 0NT, PR3 6HS, PR3 0FU, PR3 6BB, PR3 6SH, PR3 0LD, PR3 6SA, PR3 6DE, PR3 6HB, PR3 0LJ, FY6 0NS, FY6 0PE, PR3 0LH, PR3 0LA, PR3 6SU, PR3 6SB, PR3 5JE, PR3 2QJ, PR3 6SP, FY6 0EJ, PR3 1YE, FY6 0RB",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -283,7 +325,7 @@
       "date": "2026-03-13T07:58:01",
       "region": "Worsthorne-With-Hurstwood, Burnley",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
+      "faultStatus": "We're on site",
       "previousFaultStatus": "Team on their way",
       "consumersOff": 107,
       "estimatedTimeOfRestoration": "2026-03-13T10:58:00",
@@ -348,7 +390,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -362,26 +404,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125307549",
+      "faultNumber": "INC 125307615",
       "multipleFaultNumbers": null,
-      "date": "2026-03-13T09:18:34",
-      "region": "Dalton Town With Newton, Barrow-In-Furness",
+      "date": "2026-03-13T10:04:03",
+      "region": "Wray-With-Botton, Lancaster",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 13,
-      "estimatedTimeOfRestoration": "2026-03-13T15:18:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-13T15:18:00",
+      "previousFaultStatus": null,
+      "consumersOff": 8,
+      "estimatedTimeOfRestoration": "2026-03-13T13:04:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-13T13:04:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.148985,
-        "lng": -3.181419
+        "lat": 54.091685,
+        "lng": -2.599213
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA15 8LX, LA15 8LY",
+      "AffectedPostcodes": " LA2 8QR, LA2 8QS",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -411,7 +453,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 26,
+      "consumersOff": 23,
       "estimatedTimeOfRestoration": "2026-03-13T13:30:00",
       "estimatedTimeOfRestorationMajority": "2026-03-13T13:30:00",
       "information": "",
@@ -476,7 +518,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 10,
+  "TotalResults": 11,
   "ShowPolygons": false,
   "Regions": [
     {
