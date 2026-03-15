@@ -283,8 +283,8 @@
       "date": "2026-03-15T11:32:17",
       "region": "Carnforth, Lancaster",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 84,
       "estimatedTimeOfRestoration": "2026-03-15T17:32:00",
       "estimatedTimeOfRestorationMajority": "2026-03-15T17:32:00",
@@ -328,8 +328,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 18,
-      "estimatedTimeOfRestoration": "2026-03-15T14:43:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-15T14:43:00",
+      "estimatedTimeOfRestoration": "2026-03-15T20:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-15T20:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -340,48 +340,6 @@
       "AffectedPostcodes": " FY6 0EZ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125308523",
-      "multipleFaultNumbers": null,
-      "date": "2026-03-15T11:32:44",
-      "region": "Crumpsall, Manchester",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 122,
-      "estimatedTimeOfRestoration": "2026-03-15T14:32:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-15T14:32:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.511298,
-        "lng": -2.277951
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M7 4PQ, M25 9XT, M7 4JT, M7 4WT, M7 4HB, M7 4JS, M7 4QP, M25 9SQ, M7 4LB, M7 4WG, M7 4GQ, M7 4PL, M7 3PA, M7 4EJ, M7 4QU, M7 4GG, M7 2BT, M7 3QJ, M7 3GH, M7 4HN, M27 8SW, M7 4JX, M7 3PZ, M7 4QL, M25 9SN, M7 4LJ, M25 9SP, M7 4SF, M7 4NE, M7 4HT, M7 4GN, M7 4HA, M7 4JU, M7 3QL, M7 4FB, M7 4LE, M7 4HJ, M7 4ZB, M7 4JF, M7 4GL, M7 2FQ, M7 3GJ, M7 4QD, M7 4PX, M7 3QH, M7 4HD, M7 4EL, M25 9AD, M7 4JZ, M7 4WF, M7 4GP, M7 3NX, M7 4RS, M7 4HS, M7 3GD, M7 4LA, M7 4HH, M7 4ES, M7 4FF, M7 3HG, M7 4LH, M7 4GB, M25 9SL, M7 4LP, M7 4PN, M7 4HU, M7 4WU, M7 4HF, M7 4PE, M7 4PH, M7 4EY, M7 4JR, M7 3GB, M7 4GF, M25 9XR, M7 4GA, M7 4EZ, M7 4FR, M7 3QE, M7 4ZP, M7 4PJ, M7 4ED, M25 9SW, M25 9YQ, M7 3QB, M25 9XS, M7 4JY, M7 4QQ, M25 9XX, M6 6JP, M7 4HE, M7 4HR, M7 4GD, M7 4NT, M7 4RT, M27 8SS, M7 4BQ, M7 4JN, M7 4NU, M7 4QB, M7 4HQ, M7 4RP, M7 3QD, M7 3PU, M7 4EF, M7 4EB, M7 4FU, M7 4ZD, M7 4BG, M7 4HL, M6 6JW, M7 5FG, M7 4ST, M7 4EH",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -476,7 +434,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 10,
+  "TotalResults": 9,
   "ShowPolygons": false,
   "Regions": [
     {
