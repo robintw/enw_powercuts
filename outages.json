@@ -117,7 +117,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 83,
+      "consumersOff": 84,
       "estimatedTimeOfRestoration": "2026-03-16T19:39:00",
       "estimatedTimeOfRestorationMajority": "2026-03-16T19:39:00",
       "information": "",
@@ -137,8 +137,8 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -152,26 +152,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125308790",
+      "faultNumber": "INC 125309084",
       "multipleFaultNumbers": null,
-      "date": "2026-03-16T09:24:36",
-      "region": "St. John's Castlerigg And Wythburn, Allerdale",
+      "date": "2026-03-16T14:52:31",
+      "region": "Marple South And High Lane, Stockport",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 14,
-      "estimatedTimeOfRestoration": "2026-03-16T14:45:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-16T14:45:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 85,
+      "estimatedTimeOfRestoration": "2026-03-16T20:52:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-16T20:52:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.574682,
-        "lng": -3.065230
+        "lat": 53.392896,
+        "lng": -2.064367
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA12 4TN, CA12 4TQ, CA12 4TP, CA12 4TS, CA12 4TJ, CA12 4TG, CA12 4UB, CA12 4TW, CA12 4TH, CA12 5LJ, CA12 4TF, CA12 4TT, CA12 4RX",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "HVFL",
+      "AffectedPostcodes": " SK6 7AR, SK6 7AA, SK6 7AT, SK6 7AW, SK6 7AX, SK6 7NW, SK6 7AY, SK6 7BL, SK6 7NL, SK6 7AU, SK6 7AN",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
