@@ -110,16 +110,58 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125309923",
+      "faultNumber": "INC 125309996",
       "multipleFaultNumbers": null,
-      "date": "2026-03-17T12:57:40",
+      "date": "2026-03-17T14:09:20",
+      "region": "Beetham, South Lakeland",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 17,
+      "estimatedTimeOfRestoration": "2026-03-17T20:09:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-17T20:09:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.205007,
+        "lng": -2.810169
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA7 7LB",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125309997",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-17T14:10:39",
       "region": "Parbold, West Lancashire",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
       "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 45,
-      "estimatedTimeOfRestoration": "2026-03-17T18:57:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-17T18:57:00",
+      "consumersOff": 47,
+      "estimatedTimeOfRestoration": "2026-03-17T20:10:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-17T20:10:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -221,49 +263,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125309441",
-      "multipleFaultNumbers": null,
-      "date": "2026-03-17T02:55:58",
-      "region": "Baguley, Manchester",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 4,
-      "estimatedTimeOfRestoration": "2026-03-17T15:10:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-17T15:10:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.389062,
-        "lng": -2.282485
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M23 2QN",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -296,7 +296,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " WN8 7AN, WN8 7BE, WN8 7BB, WN8 7BD, WN8 7PD, WN8 7EA, WN8 7DJ, WN8 7AQ, WN8 7HA, WN8 7DQ, WN8 7NJ, WN8 7DH, WN8 7NS, WN8 7HB, WN8 7HF, WN8 7DT, WN8 7DP, WN8 7NU, WN8 7HE, WN8 7HH, WN8 7DA, WN8 7NT, WN8 7HG, WN8 7AE, WN8 7DU, WN8 7NL, WN8 7DL, WN8 7JA, WN8 7ED, WN8 7AD, WN8 7NW, WN8 7DS, WN8 7HD, WN8 7HQ, WN8 7AG, WN8 7HP, WN8 7DN, WN8 7DR, WN8 7HR, WN8 7NP, WN8 7NH, WN8 7PF, WN8 7AF, WN8 7AA, WN8 7PB, WN8 7EB, WN8 7HS, WN4 0SA, WN8 7MT, WN8 7AB",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
@@ -320,24 +320,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125309973",
+      "faultNumber": "INC 125309994",
       "multipleFaultNumbers": null,
-      "date": "2026-03-17T13:46:37",
-      "region": "Broadheath, Trafford",
+      "date": "2026-03-17T14:09:08",
+      "region": "Beetham, South Lakeland",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 33,
-      "estimatedTimeOfRestoration": "2026-03-17T19:46:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-17T19:46:00",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 51,
+      "estimatedTimeOfRestoration": "2026-03-17T20:09:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-17T20:09:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.402835,
-        "lng": -2.364778
+        "lat": 54.206417,
+        "lng": -2.812419
       },
       "outageLocations": null,
-      "AffectedPostcodes": " WA14 5JZ, WA14 5JY, WA14 5JT, WA14 5TY, WA14 5TX, WA14 5TZ",
+      "AffectedPostcodes": " LA7 7LB, LA7 7JY, LA7 7JZ, LA7 7LA, LA7 7JX, LA7 7LH",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
