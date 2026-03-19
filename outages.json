@@ -152,24 +152,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125310881",
+      "faultNumber": "INC 125311164",
       "multipleFaultNumbers": null,
-      "date": "2026-03-19T06:43:05",
-      "region": "Salesbury, Ribble Valley",
+      "date": "2026-03-19T11:21:58",
+      "region": "Talbot, Blackpool",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 4,
-      "estimatedTimeOfRestoration": "2026-03-19T12:43:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-19T12:43:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 5,
+      "estimatedTimeOfRestoration": "2026-03-19T17:21:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-19T17:21:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.800276,
-        "lng": -2.495752
+        "lat": 53.816856,
+        "lng": -3.052998
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB1 9EU",
+      "AffectedPostcodes": " FY1 4RJ, FY1 4HU, FY1 1HP",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -201,19 +201,61 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 20,
+      "consumersOff": 29,
       "estimatedTimeOfRestoration": "2026-03-19T14:00:00",
       "estimatedTimeOfRestorationMajority": "2026-03-19T14:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.775836,
-        "lng": -2.975661
+        "lat": 53.775944,
+        "lng": -2.975655
       },
       "outageLocations": null,
-      "AffectedPostcodes": " FY4 5JX, FY4 5LL, FY4 5LN",
+      "AffectedPostcodes": " FY4 5JX, FY4 5LL, FY4 5LN, FY4 5JU, FY4 5RS, FY4 5XA, FY4 5JY",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125310881",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-19T06:43:05",
+      "region": "Salesbury, Ribble Valley",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 4,
+      "estimatedTimeOfRestoration": "2026-03-19T12:43:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-19T12:43:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.800276,
+        "lng": -2.495752
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BB1 9EU",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -254,48 +296,6 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " WN6 0JG, WN6 0JB",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125310967",
-      "multipleFaultNumbers": null,
-      "date": "2026-03-19T09:05:39",
-      "region": "Kirkby Ireleth, South Lakeland",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 34,
-      "estimatedTimeOfRestoration": "2026-03-19T15:05:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-19T15:05:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.229780,
-        "lng": -3.174903
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " LA17 7TQ, LA17 7TG, LA17 7TH, LA17 7TJ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
