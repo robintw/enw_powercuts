@@ -53,49 +53,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125310814",
-      "multipleFaultNumbers": null,
-      "date": "2026-03-18T23:44:36",
-      "region": "Higher Blackley, Manchester",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 41,
-      "estimatedTimeOfRestoration": "2026-03-19T05:44:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-19T05:44:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.526722,
-        "lng": -2.228916
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M9 8JB, M9 8NA, M9 8JA, M9 8JH, M9 8JE, M9 8JD, M9 8JY",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -128,7 +86,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " FY5 5AD",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -152,26 +110,68 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125310801",
+      "faultNumber": "INC 125310816",
       "multipleFaultNumbers": null,
-      "date": "2026-03-18T22:58:23",
+      "date": "2026-03-19T00:02:04",
       "region": "Higher Blackley, Manchester",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 18,
-      "estimatedTimeOfRestoration": "2026-03-19T04:58:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-19T04:58:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 35,
+      "estimatedTimeOfRestoration": "2026-03-19T06:02:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-19T06:02:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.526646,
-        "lng": -2.228846
+        "lat": 53.526843,
+        "lng": -2.228995
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M9 8NA, M9 8JA, M9 8JB, M9 8JH, M9 8DJ, M9 8JE, M9 8JD, M9 8JY",
+      "AffectedPostcodes": " M9 8JD, M9 8JY, M9 8JB, M9 8JE, M9 8JH, M9 8NA",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125310829",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-19T00:30:52",
+      "region": "Edgeley And Cheadle Heath, Stockport",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 572,
+      "estimatedTimeOfRestoration": "2026-03-19T03:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-19T03:30:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.402614,
+        "lng": -2.189399
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK3 0JE, SK3 0NS, SK3 0NW, SK3 0JD, SK3 0UH, SK3 0UJ, SK3 0JF, SK3 0UL, SK3 0JH, SK3 0LX, SK3 0UQ, SK3 0ND, SK3 0NE, SK3 0JQ, SK3 0JB, SK3 0JJ, SK3 0JL, SK3 0UB, SK3 0NF, SK3 0NL, SK3 0NN, SK3 0NQ, SK3 0NG, SK3 0NJ, SK3 0NH, SK3 0JU",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     }
   ],
