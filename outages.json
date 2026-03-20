@@ -157,8 +157,8 @@
       "date": "2026-03-20T03:16:03",
       "region": "Kirkland, Wyre",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 16,
       "estimatedTimeOfRestoration": "2026-03-20T09:16:00",
       "estimatedTimeOfRestorationMajority": "2026-03-20T09:16:00",
@@ -194,24 +194,66 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125311483",
+      "faultNumber": "INC 125311504",
       "multipleFaultNumbers": null,
-      "date": "2026-03-20T01:54:36",
-      "region": "Egton With Newland, South Lakeland",
+      "date": "2026-03-20T03:36:05",
+      "region": "Denton South, Tameside",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 23,
-      "estimatedTimeOfRestoration": "2026-03-20T07:54:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-20T07:54:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 11,
+      "estimatedTimeOfRestoration": "2026-03-20T09:36:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-20T09:36:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.233731,
-        "lng": -3.054193
+        "lat": 53.445162,
+        "lng": -2.115093
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA12 7RB, LA12 7RF, LA12 7RA, LA12 7RG, LA12 7RU, LA12 7QZ, LA12 7QY",
+      "AffectedPostcodes": " M34 6ES, M34 6EG, M34 6EU, M34 6ET, M34 6NB, M34 6JU",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125311507",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-20T03:36:58",
+      "region": "Didsbury East, Manchester",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 35,
+      "estimatedTimeOfRestoration": "2026-03-20T09:36:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-20T09:36:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.420705,
+        "lng": -2.217383
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M20 6EY, M20 6FL, M20 6EL, M20 6EX, M20 6FJ, M20 6EW",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -236,24 +278,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125311485",
+      "faultNumber": "INC 125311508",
       "multipleFaultNumbers": null,
-      "date": "2026-03-20T02:38:47",
-      "region": "North Manor, Bury",
+      "date": "2026-03-20T03:45:07",
+      "region": "Hyde Newton, Tameside",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 55,
-      "estimatedTimeOfRestoration": "2026-03-20T05:38:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-20T05:38:00",
+      "consumersOff": 99,
+      "estimatedTimeOfRestoration": "2026-03-20T06:45:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-20T06:45:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.647285,
-        "lng": -2.376379
+        "lat": 53.463015,
+        "lng": -2.091167
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BL8 4JJ, BL8 4LD, BL7 0DD, BL7 0BZ, BL7 0JX, BL7 0JE, BL7 0BP, BL7 0DA, BL7 0DB, BL7 0BY, BL8 4LB, BL8 4JX, BL8 4JT",
+      "AffectedPostcodes": " SK14 4XP, SK14 4QF, SK14 4GA, SK14 4QQ, SK14 4QG",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -266,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
