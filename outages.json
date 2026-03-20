@@ -138,6 +138,48 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125311935",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-20T15:21:43",
+      "region": "Higher Irlam & Peel Green, Salford",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 989,
+      "estimatedTimeOfRestoration": "2026-03-20T18:21:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-20T18:21:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.451231,
+        "lng": -2.419709
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M44 6NH, M44 6LL, M44 6JN, M44 6HX, M44 6LE, M44 6LP, M44 6WF, M44 6JD, M44 6LT, M44 6JX, M44 6WL, M44 6HZ, M44 6PA, M44 6LA, M44 6PL, M44 6NJ, M44 6LB, M44 6PY, M44 6JY, M44 6PE, M44 6WH, M44 6LD, M44 6WN, M44 6WT, M44 6JP, M44 6GX, M44 6LS, M44 6LF, M44 6LG, M44 6JH, M44 6PD, M44 6PF, M44 6JT, M44 6HY, M44 6NR, M44 6PW, M44 6LQ, M44 6LJ, M44 6LY, M44 6QH, M44 6PT, M44 6FY, M44 6WE, M44 6PJ, M44 6JZ, M44 6PN, M44 6LZ, M44 6HR, M44 6LR, M44 6LN, M44 6JU, M44 6JJ, M44 6LH, M44 6EF, M44 6JQ, M44 6JS, M44 6JB, M44 6PH, M44 6PU, M44 6LW, M44 6QG, M44 6JA, M44 6PX, M44 6PZ, M44 6LX, M44 6NU, M44 6WW, M44 6LU, M44 6HT, M44 6PB, M44 6PG, M44 6NL, M44 6HA, M44 6FF, WA3 7AH, M30 6LZ, M44 6HG, M44 6NB, M44 5LZ, M44 6DF, M44 6GJ, M44 6DN, M44 6NF, M44 6DU, M44 6DD, M44 6BA, M44 6QN, M44 6DA, M44 6YB, M44 6WX, M44 6DH, M44 6RD, M44 6DL, M44 6EE, M44 6NS, M44 6DQ, M44 6WJ, M44 6GG, M44 6DT, M44 6WD, M44 6RB, M44 6DW, M44 6DR, M44 6DE, M44 6NW, M44 6DB, M44 6NE, M44 6DX, M44 6FE, M44 6NT, M44 6DP, M44 6DJ, M44 6DY, M44 6NX, M44 6WU, M44 6WG, M44 6EA, M44 5DX, M44 6YA, M44 6EN, M44 6WA",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -159,7 +201,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 31,
+      "consumersOff": 32,
       "estimatedTimeOfRestoration": "2026-03-20T19:57:00",
       "estimatedTimeOfRestorationMajority": "2026-03-20T19:57:00",
       "information": "",
@@ -179,7 +221,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -194,67 +236,25 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125311680",
+      "faultNumber": "INC 125311933",
       "multipleFaultNumbers": null,
-      "date": "2026-03-20T10:08:24",
-      "region": "Walkden North, Salford",
+      "date": "2026-03-20T15:19:25",
+      "region": "North Meols, West Lancashire",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 17,
-      "estimatedTimeOfRestoration": "2026-03-20T15:30:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-20T15:30:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 20,
+      "estimatedTimeOfRestoration": "2026-03-20T21:18:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-20T21:18:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.523974,
-        "lng": -2.400066
+        "lat": 53.667505,
+        "lng": -2.914460
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M28 3AX, M28 3NJ, M28 3AD, M28 3JE",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125311567",
-      "multipleFaultNumbers": null,
-      "date": "2026-03-20T08:15:03",
-      "region": "Penwortham, South Ribble",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 59,
-      "estimatedTimeOfRestoration": "2026-03-20T14:14:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-20T14:14:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.745154,
-        "lng": -2.742323
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " PR1 0JJ, PR1 0LY, PR1 0QE",
-      "UnderReviewStatusTimeCheck": true,
+      "AffectedPostcodes": " PR9 8BY, PR9 8BX, PR9 8DB",
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     }
