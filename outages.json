@@ -68,48 +68,6 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125312605",
-      "multipleFaultNumbers": null,
-      "date": "2026-03-22T16:01:45",
-      "region": "Newton-Le-Willows West, St. Helens",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 13,
-      "estimatedTimeOfRestoration": "2026-03-22T22:01:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-22T22:01:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.460552,
-        "lng": -2.632450
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " WA12 0NE, WA12 0NW",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
       "faultNumber": "INC 125312646",
       "multipleFaultNumbers": null,
       "date": "2026-03-22T19:46:19",
@@ -138,7 +96,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -152,26 +110,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125312606",
+      "faultNumber": "INC 125312659",
       "multipleFaultNumbers": null,
-      "date": "2026-03-22T16:37:54",
-      "region": "Breck, Wyre",
+      "date": "2026-03-22T21:49:32",
+      "region": "Moorside, Bury",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 6,
-      "estimatedTimeOfRestoration": "2026-03-22T22:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-22T22:00:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 15,
+      "estimatedTimeOfRestoration": "2026-03-23T03:49:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-23T03:49:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.833799,
-        "lng": -2.947572
+        "lat": 53.600850,
+        "lng": -2.274460
       },
       "outageLocations": null,
-      "AffectedPostcodes": " FY6 8NG, PR4 3LA, FY6 8LT, PR4 3LQ, PR4 3LB, FY6 8LW, PR4 3JP, PR4 3LJ, FY6 8LG, FY6 8NQ, FY6 8LJ, PR4 3LE, PR4 3LD, FY6 8NL, FY6 8LL, FY6 8LQ, FY6 8LN, FY6 8LD, PR4 3LH, PR4 3LL, FY6 8LF, FY6 8LP, FY6 8LH, FY6 8LS, PR4 3JJ, FY6 8NE, PR4 3PA",
+      "AffectedPostcodes": " BL9 6JD, BL9 6JY",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -224,7 +182,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 3,
   "ShowPolygons": false,
   "Regions": [
     {
