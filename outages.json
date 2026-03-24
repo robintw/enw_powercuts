@@ -53,7 +53,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -86,7 +86,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " M34 3DN, M34 6FF, M34 3FF, M34 6FE, M34 6EE, M34 6FD, M34 6EF",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -137,7 +137,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -152,26 +152,68 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125313946",
+      "faultNumber": "INC 125314149",
       "multipleFaultNumbers": null,
-      "date": "2026-03-24T15:41:22",
-      "region": "Heapey, Chorley",
+      "date": "2026-03-24T22:50:53",
+      "region": "Marple South And High Lane, Stockport",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 18,
-      "estimatedTimeOfRestoration": "2026-03-24T23:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-24T23:00:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 609,
+      "estimatedTimeOfRestoration": "2026-03-25T01:50:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-25T01:50:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.654942,
-        "lng": -2.582614
+        "lat": 53.397985,
+        "lng": -2.078866
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR6 9DQ, PR6 9DG, PR6 9BU, PR6 9DH",
-      "UnderReviewStatusTimeCheck": true,
+      "AffectedPostcodes": " SK6 6DL, SK6 6DW, SK6 6DN, SK6 6DR, SK6 6GB, SK6 6DQ, SK6 6EA, SK6 6EB, SK6 6DT, SK6 6ED, SK6 6DS, SK6 6HU, SK6 6EE, SK6 6HA, SK6 6DX, SK6 6EN, SK6 6EY, SK6 6EZ, SK6 6DZ, SK6 6EW, SK6 6ES, SK6 6DY, SK6 6EX, SK6 6JB, SK6 6DU, SK6 6JZ, SK6 6JD, SK6 6ER, SK6 6JG, SK6 6ET, SK6 6JN, SK6 6EP, SK6 6EU, SK6 6JX, SK6 6JE, SK6 6JP, SK6 6JL, SK6 6JQ, SK6 6FX, SK6 6JH, SK6 6JW, SK6 6JF, SK6 6HP, SK6 7EH, SK6 6JY, SK6 6HG, SK6 6NF, SK6 6ND, SK6 6HQ, SK6 6HF, SK6 6JJ, SK6 6LT, SK6 6HS, SK6 6HD, SK6 6HH, SK6 6XP, SK6 6HJ, SK6 6HE, SK6 6NU, SK6 6NT, SK6 6HB, SK3 9HL, SK6 6HL, SK6 6NH, SK6 6XN, SK6 6PJ, SK6 6GE, SK6 6NJ, SK6 6HN, SK6 6NQ, SK6 6GD, SK6 6NL, SK6 6NW, SK6 6HW, SK6 6LJ, SK6 6NP, SK6 6NR",
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125314151",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-24T23:17:13",
+      "region": "Marple South And High Lane, Stockport",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 110,
+      "estimatedTimeOfRestoration": "2026-03-25T05:07:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-25T05:07:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.396734,
+        "lng": -2.068223
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK6 6AA, SK6 6AB, SK6 6AE, SK6 2AA, SK6 6AF, SK6 7AE, SK6 7AD, SK6 6AH, SK6 6BD, SK6 6BA, SK6 7EA, SK6 6DQ, SK6 6DE, SK6 6AJ, SK6 6AL",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -199,8 +241,8 @@
       "date": "2026-03-24T21:31:05",
       "region": "Disley, Cheshire East",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 14,
       "estimatedTimeOfRestoration": "2026-03-25T03:20:00",
       "estimatedTimeOfRestorationMajority": "2026-03-25T03:20:00",
@@ -367,19 +409,19 @@
       "date": "2026-03-24T22:20:52",
       "region": "Nelson, Pendle",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 60,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 19,
       "estimatedTimeOfRestoration": "2026-03-25T04:20:00",
       "estimatedTimeOfRestorationMajority": "2026-03-25T04:20:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.832542,
-        "lng": -2.215846
+        "lat": 53.833943,
+        "lng": -2.212701
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB9 9BP, BB9 9AU, BB9 5PJ, BB9 9BW, BB9 9DU, BB9 9AH, BB9 9EH",
+      "AffectedPostcodes": " BB9 9BP, BB9 9BW, BB9 9DU, BB9 9AH, BB9 9EH",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -389,7 +431,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -422,7 +464,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " CA7 2QX, CA7 2QT, CA7 2QZ",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -579,17 +621,17 @@
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
       "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 115,
+      "consumersOff": 151,
       "estimatedTimeOfRestoration": "2026-03-25T04:55:00",
       "estimatedTimeOfRestorationMajority": "2026-03-25T04:55:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.397251,
-        "lng": -2.074835
+        "lat": 53.397047,
+        "lng": -2.074111
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK6 7BF, SK6 7PZ, SK6 6DU, SK6 7AP, SK6 1BS, SK6 6DJ, SK6 6GA, SK6 6DN, SK6 6DH, SK6 6DQ, SK6 1NS",
+      "AffectedPostcodes": " SK6 7BF, SK6 7PZ, SK6 6DU, SK6 7AP, SK6 1BS, SK6 6DJ, SK6 6GA, SK6 6DN, SK6 6DH, SK6 6DQ, SK6 1NS, SK6 6DT",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -644,7 +686,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 14,
+  "TotalResults": 15,
   "ShowPolygons": false,
   "Regions": [
     {
