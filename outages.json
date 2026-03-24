@@ -152,6 +152,48 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 125314063",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-24T19:06:38",
+      "region": "Up Holland, West Lancashire",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 20,
+      "estimatedTimeOfRestoration": "2026-03-24T22:06:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-24T22:06:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.523068,
+        "lng": -2.756236
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " WN8 9PN, WN8 9RN, WN8 9PR, WN8 9PB, WN8 9QP, WN8 9PA, WN8 9QJ, WN8 9AT, WN8 9QS, WN8 9QT, WN8 9QZ, WN8 9QR, WN8 9QU, WN8 9DA",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 125313946",
       "multipleFaultNumbers": null,
       "date": "2026-03-24T15:41:22",
@@ -202,8 +244,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 22,
-      "estimatedTimeOfRestoration": "2026-03-25T23:33:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-25T23:33:00",
+      "estimatedTimeOfRestoration": "2026-03-26T01:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-26T01:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -370,8 +412,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 142,
-      "estimatedTimeOfRestoration": "2026-03-24T20:49:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-24T20:49:00",
+      "estimatedTimeOfRestoration": "2026-03-25T00:15:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-25T00:15:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -412,8 +454,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 18,
-      "estimatedTimeOfRestoration": "2026-03-24T20:52:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-24T20:52:00",
+      "estimatedTimeOfRestoration": "2026-03-24T22:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-24T22:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -518,7 +560,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 11,
+  "TotalResults": 12,
   "ShowPolygons": false,
   "Regions": [
     {
