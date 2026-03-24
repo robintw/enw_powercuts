@@ -370,8 +370,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 58,
-      "estimatedTimeOfRestoration": "2026-03-24T20:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-24T20:00:00",
+      "estimatedTimeOfRestoration": "2026-03-24T21:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-24T21:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -407,21 +407,21 @@
       "faultNumber": "INC 125314010",
       "multipleFaultNumbers": null,
       "date": "2026-03-24T17:49:51",
-      "region": "Talbot, Blackpool",
+      "region": "Bloomfield, Blackpool",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 134,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 142,
       "estimatedTimeOfRestoration": "2026-03-24T20:49:00",
       "estimatedTimeOfRestorationMajority": "2026-03-24T20:49:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.815369,
-        "lng": -3.051610
+        "lat": 53.813895,
+        "lng": -3.051756
       },
       "outageLocations": null,
-      "AffectedPostcodes": " FY1 4TA, FY1 4PD, FY1 4PW, FY1 4PR, FY1 4LA, FY1 4QB, FY1 4PB, FY1 4LE, FY1 5PY, FY1 5PZ, FY1 4HU",
+      "AffectedPostcodes": " FY1 4QD, FY1 5AW, FY1 4QE, FY1 4QG, FY1 5DA, FY1 4PD, FY1 5AJ, FY1 5QA, FY1 5AE, FY1 4PE, FY1 4PX, FY1 5PZ, FY1 5QE, FY1 4SW, FY1 5QB, FY1 5AP, FY1 5AH, FY1 5DS, FY1 4TA, FY1 4PW, FY1 4PR, FY1 4LA, FY1 4QB, FY1 4PB, FY1 4LE, FY1 5PY, FY1 4HU",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -451,7 +451,7 @@
       "date": "2026-03-24T17:52:14",
       "region": "Clapham Cum Newby, Craven",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
+      "faultStatus": "We're on site",
       "previousFaultStatus": "Team on their way",
       "consumersOff": 105,
       "estimatedTimeOfRestoration": "2026-03-24T20:52:00",
@@ -509,48 +509,6 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125314094",
-      "multipleFaultNumbers": null,
-      "date": "2026-03-24T19:26:48",
-      "region": "Bloomfield, Blackpool",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 8,
-      "estimatedTimeOfRestoration": "2026-03-24T22:26:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-24T22:26:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.813047,
-        "lng": -3.051873
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " FY1 4QD, FY1 5AW, FY1 4QE, FY1 4QG, FY1 5DA, FY1 4PD, FY1 5AJ, FY1 5QA, FY1 5AE, FY1 4PE, FY1 4PX, FY1 5PZ, FY1 5QE, FY1 4SW, FY1 5QB, FY1 5AP, FY1 5AH, FY1 5DS",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -560,7 +518,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 12,
+  "TotalResults": 11,
   "ShowPolygons": false,
   "Regions": [
     {
