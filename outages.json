@@ -74,7 +74,7 @@
       "region": "Disley, Cheshire East",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 6,
       "estimatedTimeOfRestoration": "2026-03-25T23:00:00",
       "estimatedTimeOfRestorationMajority": "2026-03-25T23:00:00",
@@ -116,7 +116,7 @@
       "region": "South Middleton, Rochdale",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 55,
       "estimatedTimeOfRestoration": "2026-03-26T06:00:00",
       "estimatedTimeOfRestorationMajority": "2026-03-26T06:00:00",
@@ -128,48 +128,6 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " M24 4DH, M24 4BN, M24 4BE, M24 4BH, M24 4BL, M24 4DJ",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125314701",
-      "multipleFaultNumbers": null,
-      "date": "2026-03-25T22:06:00",
-      "region": "Milnrow & Newhey, Rochdale",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 13,
-      "estimatedTimeOfRestoration": "2026-03-26T03:55:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-26T03:55:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.618824,
-        "lng": -2.111425
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " OL16 3TW, OL16 3UU",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -200,7 +158,7 @@
       "region": "Morecambe, Lancaster",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 91,
       "estimatedTimeOfRestoration": "2026-03-25T21:30:00",
       "estimatedTimeOfRestorationMajority": "2026-03-25T21:30:00",
@@ -236,13 +194,55 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 125314701",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-25T22:06:00",
+      "region": "Milnrow & Newhey, Rochdale",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": null,
+      "consumersOff": 13,
+      "estimatedTimeOfRestoration": "2026-03-26T03:55:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-26T03:55:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.618824,
+        "lng": -2.111425
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL16 3TW, OL16 3UU",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 125314499",
       "multipleFaultNumbers": null,
       "date": "2026-03-25T14:15:56",
       "region": "Poynton-With-Worth, Cheshire East",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 3,
       "estimatedTimeOfRestoration": "2026-03-26T03:00:00",
       "estimatedTimeOfRestorationMajority": "2026-03-26T03:00:00",
@@ -278,24 +278,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125314710",
+      "faultNumber": "INC 125314708",
       "multipleFaultNumbers": null,
-      "date": "2026-03-25T23:05:32",
-      "region": "Denton South, Tameside",
+      "date": "2026-03-25T22:56:39",
+      "region": "Bamford, Rochdale",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
       "previousFaultStatus": null,
-      "consumersOff": 14,
-      "estimatedTimeOfRestoration": "2026-03-26T05:05:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-26T05:05:00",
+      "consumersOff": 40,
+      "estimatedTimeOfRestoration": "2026-03-26T04:56:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-26T04:56:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.439041,
-        "lng": -2.109219
+        "lat": 53.606535,
+        "lng": -2.176634
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M34 7XE, M34 7XD, M34 7WD, M34 7WB, M34 7ND, M34 7DB",
+      "AffectedPostcodes": " OL11 4QN, OL11 4QW, OL11 4QH",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -320,24 +320,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125314708",
+      "faultNumber": "INC 125314710",
       "multipleFaultNumbers": null,
-      "date": "2026-03-25T22:56:39",
-      "region": "Bamford, Rochdale",
+      "date": "2026-03-25T23:05:32",
+      "region": "Denton South, Tameside",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 40,
-      "estimatedTimeOfRestoration": "2026-03-26T04:56:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-26T04:56:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": null,
+      "consumersOff": 14,
+      "estimatedTimeOfRestoration": "2026-03-26T05:05:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-26T05:05:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.606535,
-        "lng": -2.176634
+        "lat": 53.439041,
+        "lng": -2.109219
       },
       "outageLocations": null,
-      "AffectedPostcodes": " OL11 4QN, OL11 4QW, OL11 4QH",
+      "AffectedPostcodes": " M34 7XE, M34 7XD, M34 7WD, M34 7WB, M34 7ND, M34 7DB",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -368,7 +368,7 @@
       "region": "Pilling, Wyre",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 31,
       "estimatedTimeOfRestoration": "2026-03-25T23:59:00",
       "estimatedTimeOfRestorationMajority": "2026-03-25T23:59:00",
