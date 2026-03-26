@@ -68,6 +68,48 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 125315240",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-26T15:14:22",
+      "region": "Irwell, Rossendale",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 128,
+      "estimatedTimeOfRestoration": "2026-03-26T18:14:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-26T18:14:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.684129,
+        "lng": -2.183843
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL13 9AY, OL13 9RX, OL13 9RY, OL13 9TN, OL13 9TD, OL13 9TH, OL13 9TW, OL13 9TG, OL13 9TA, OL13 9SA, OL13 9BE, OL13 9AU, OL13 9WU, OL13 9SU, OL13 9RU, OL13 0BY, OL13 9XB, OL13 9TB, OL13 9XE, OL13 0AN, OL13 9SB, OL13 9TL, SK14 1LJ, OL13 9RZ, OL13 9RN, OL13 9RL, OL13 9RR, OL13 9RW, OL13 9RS",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 125314793",
       "multipleFaultNumbers": null,
       "date": "2026-03-26T07:54:39",
@@ -159,17 +201,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 12,
+      "consumersOff": 68,
       "estimatedTimeOfRestoration": "2026-03-26T20:56:00",
       "estimatedTimeOfRestorationMajority": "2026-03-26T20:56:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.712933,
-        "lng": -2.479677
+        "lat": 53.711922,
+        "lng": -2.480598
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB3 0AX",
+      "AffectedPostcodes": " BB3 0AX, BB3 0AB",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -214,48 +256,6 @@
       "AffectedPostcodes": " LA3 3AZ, LA3 3AY",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125315226",
-      "multipleFaultNumbers": null,
-      "date": "2026-03-26T14:58:02",
-      "region": "Wray-With-Botton, Lancaster",
-      "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": null,
-      "consumersOff": 70,
-      "estimatedTimeOfRestoration": "2026-03-26T17:58:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-26T17:58:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.106994,
-        "lng": -2.551701
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " LA2 8QD, LA2 8QA, LA2 8PH, LA2 8QF, LA2 7HP, LA2 8QQ, LA2 8QB, LA2 8BA, LA2 8QP, LA2 8QE, LA2 8QS, LA2 8RZ",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     }
   ],
