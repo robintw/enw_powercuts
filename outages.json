@@ -53,7 +53,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -68,67 +68,25 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125314569",
+      "faultNumber": "INC 125314116",
       "multipleFaultNumbers": null,
-      "date": "2026-03-25T15:53:14",
-      "region": "South Middleton, Rochdale",
+      "date": "2026-03-24T21:31:05",
+      "region": "Disley, Cheshire East",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 35,
-      "estimatedTimeOfRestoration": "2026-03-26T06:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-26T06:00:00",
+      "consumersOff": 10,
+      "estimatedTimeOfRestoration": "2026-03-26T01:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-26T01:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.550356,
-        "lng": -2.201173
+        "lat": 53.356755,
+        "lng": -2.030220
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M24 4DH, M24 4BN, M24 4BE, M24 4BH, M24 4BL, M24 4DJ",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125314499",
-      "multipleFaultNumbers": null,
-      "date": "2026-03-25T14:15:56",
-      "region": "Poynton-With-Worth, Cheshire East",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 3,
-      "estimatedTimeOfRestoration": "2026-03-26T03:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-26T03:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.342515,
-        "lng": -2.105933
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " SK12 1SU, SK12 1SX, SK12 1XD, SK12 1XB, SK12 1SZ, SK12 1XA, SK12 1RZ, SK12 1ST, SK12 1SY",
-      "UnderReviewStatusTimeCheck": false,
+      "AffectedPostcodes": " SK12 2DF",
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -212,6 +170,48 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " SK12 1TJ, SK12 1TN, SK12 1TL, SK12 1TS, SK12 1TT",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125314738",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-26T02:39:32",
+      "region": "Clitheroe, Ribble Valley",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 43,
+      "estimatedTimeOfRestoration": "2026-03-26T08:39:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-26T08:39:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.882421,
+        "lng": -2.383435
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BB7 4PX, BB7 4PU, BB7 4PY",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
