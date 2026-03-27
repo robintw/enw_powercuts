@@ -241,8 +241,8 @@
       "date": "2026-03-27T10:17:10",
       "region": "Colne, Pendle",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 48,
       "estimatedTimeOfRestoration": "2026-03-27T16:17:00",
       "estimatedTimeOfRestorationMajority": "2026-03-27T16:17:00",
@@ -327,17 +327,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 121,
+      "consumersOff": 24,
       "estimatedTimeOfRestoration": "2026-03-27T20:40:00",
       "estimatedTimeOfRestorationMajority": "2026-03-27T20:40:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.530559,
-        "lng": -2.401479
+        "lat": 53.530871,
+        "lng": -2.402710
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M28 3RX, M28 3FL, M28 3RB, M28 3RU, M28 3QB, M28 3RD, M28 3RE, M28 3BZ, M28 3QQ, M28 5BZ, M28 3FJ, M28 3RF, M28 3QG, M28 3TD",
+      "AffectedPostcodes": " M28 3BZ, M28 3RD, M28 3RU, M28 3RX, M28 3RE, M28 3RF",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -390,7 +390,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -404,26 +404,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125315441",
+      "faultNumber": "INC 125315762",
       "multipleFaultNumbers": null,
-      "date": "2026-03-27T02:32:50",
-      "region": "Wardle, Shore & West Littleborough, Rochdale",
+      "date": "2026-03-27T11:50:15",
+      "region": "Natland, South Lakeland",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 5,
-      "estimatedTimeOfRestoration": "2026-03-27T12:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-27T12:00:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 492,
+      "estimatedTimeOfRestoration": "2026-03-27T14:50:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-27T14:50:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.650827,
-        "lng": -2.136061
+        "lat": 54.280729,
+        "lng": -2.725930
       },
       "outageLocations": null,
-      "AffectedPostcodes": " OL12 9PG",
+      "AffectedPostcodes": " LA7 7NP, LA9 7FY, LA8 9LX, LA8 0BJ, LA8 0EL, LA8 0BQ, LA8 0LG, LA8 0EW, LA8 0LE, LA8 0AA, LA8 0EJ, LA8 0DX, LA8 0LQ, LA8 0EN, LA8 0EE, LA9 7FZ, LA8 0LF, LA8 0LH, LA8 0FB, LA8 0EY, LA8 0ED, LA9 7PT, LA8 0JG, LA9 7PS, LA8 0LB, LA9 7PR, LA8 0EU, LA8 0BG, LA8 0EP, LA8 0DU, LA8 0EQ, LA8 0AB, LA8 0DZ, LA8 0JH, LA8 0BF, LA8 0DY, LA8 0EH, LA8 0AD, LA8 0JB, LA8 0EX, LA9 4LR, LA8 0EG, LA8 0ER, LA8 0EF, LA9 7QW, LA9 6ET, LA8 0LR",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     }
   ],
