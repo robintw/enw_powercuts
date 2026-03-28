@@ -117,17 +117,59 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 190,
+      "consumersOff": 41,
       "estimatedTimeOfRestoration": "2026-03-28T18:55:00",
       "estimatedTimeOfRestorationMajority": "2026-03-28T18:55:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.468185,
-        "lng": -2.238886
+        "lat": 53.466770,
+        "lng": -2.225577
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M13 9SY, M13 9XQ, M13 9SB, M13 9SH, M13 9XP, M13 9ES, M13 9RQ, M13 9SN, M13 9SA, M13 9SZ, M13 9SL, M13 9JS, M13 9SW, M13 9JJ, M13 9YB, M13 9EH, M13 9JG, M13 9AU, M13 9SD",
+      "AffectedPostcodes": " M13 9SY, M13 9XQ, M13 9SB, M13 9RQ, M13 9SA, M13 9ES, M13 9JS, M13 9AU, M13 9SD, M13 9JJ, M13 9JG",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125316301",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-28T13:55:33",
+      "region": "Cheetham, Manchester",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 54,
+      "estimatedTimeOfRestoration": "2026-03-28T19:55:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-28T19:55:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.504067,
+        "lng": -2.244742
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M8 9BX, M8 9BW, M8 9DD, M8 9BZ, M8 9BS, M8 9DA, M8 9BT, M8 9DE, M8 9BU",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -434,7 +476,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 9,
+  "TotalResults": 10,
   "ShowPolygons": false,
   "Regions": [
     {
