@@ -110,6 +110,48 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 125316432",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-28T23:04:42",
+      "region": "Bastwell & Daisyfield, Blackburn With Darwen",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 123,
+      "estimatedTimeOfRestoration": "2026-03-29T06:04:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-29T06:04:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.758763,
+        "lng": -2.474218
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BB1 6NT, BB1 6NJ, BB1 6PR, BB1 6PU, BB1 6PS, BB1 6NN, BB1 6NS, BB1 6NY",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 125316355",
       "multipleFaultNumbers": null,
       "date": "2026-03-28T16:43:56",
@@ -172,48 +214,6 @@
       "AffectedPostcodes": " PR3 2FE, PR3 2JX, PR3 2FJ, PR3 2WD, PR3 2WE, PR3 2FD, PR3 2EP, PR3 2ED, PR3 2NL, PR3 2NE, PR3 2EX, PR3 2EN, PR3 2NJ, PR3 2EJ, PR3 2FW, PR3 2WH, PR3 2EF, PR3 2EH, PR3 2FP, PR3 2NH, PR3 2EQ, PR3 2HD, PR3 2EB, PR3 2LH, PR3 2ND, PR3 2NX, PR3 2ES",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125316417",
-      "multipleFaultNumbers": null,
-      "date": "2026-03-28T19:47:10",
-      "region": "Barrow Island, Barrow-In-Furness",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 129,
-      "estimatedTimeOfRestoration": "2026-03-29T02:47:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-29T02:47:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.103311,
-        "lng": -3.229757
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " LA14 2RB, LA14 2RD, LA14 2SH, LA14 2SG, LA14 2QN",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     }
   ],
