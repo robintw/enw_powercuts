@@ -283,8 +283,8 @@
       "date": "2026-03-29T18:54:13",
       "region": "Hesket, Eden",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 138,
       "estimatedTimeOfRestoration": "2026-03-29T21:54:00",
       "estimatedTimeOfRestorationMajority": "2026-03-29T21:54:00",
@@ -367,8 +367,8 @@
       "date": "2026-03-29T19:10:03",
       "region": "Rockcliffe, Carlisle",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 13,
       "estimatedTimeOfRestoration": "2026-03-29T22:10:00",
       "estimatedTimeOfRestorationMajority": "2026-03-29T22:10:00",
@@ -410,7 +410,7 @@
       "region": "Workington, Allerdale",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Preparing to send team",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 130,
       "estimatedTimeOfRestoration": "2026-03-30T01:10:00",
       "estimatedTimeOfRestorationMajority": "2026-03-30T01:10:00",
@@ -473,7 +473,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -506,7 +506,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " CA4 8RE, CA4 8QF, CA4 8FN, CA4 8QR, CA4 8RP, CA4 8QU, CA4 8QQ, CA4 8QW, CA4 8RA, CA4 8QY, CA4 8RT, CA6 4NQ, CA4 8QN, CA4 8RD, CA4 8QX, CA6 4ND, CA4 8QP, CA4 8RG, CA6 4RA, CA4 8RL, CA4 8RN, CA6 4QY, CA4 8PA, CA6 4QX, CA4 8RZ, CA4 8RR, CA6 4NH, CA4 8RW, CA4 8QS, CA6 4NF, CA4 8QZ, CA4 8RS, CA4 8RJ, CA8 9EX, CA4 8QL, CA6 4NE, CA4 8SA, CA3 8DP, CA4 8RX, CA4 8QJ, CA6 4NW, CA4 8RF, CA4 8QG, CA4 8DR",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
@@ -593,6 +593,48 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125316703",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-29T20:09:03",
+      "region": "Tatham, Lancaster",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 5,
+      "estimatedTimeOfRestoration": "2026-03-30T02:08:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-30T02:08:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.072895,
+        "lng": -2.529499
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA2 8QZ",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -602,7 +644,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 13,
+  "TotalResults": 14,
   "ShowPolygons": false,
   "Regions": [
     {
