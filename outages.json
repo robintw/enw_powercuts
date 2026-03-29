@@ -179,7 +179,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -212,7 +212,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " CA2 4UH, CA2 4UJ, CA2 4UQ, CA2 4UP",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
@@ -367,8 +367,8 @@
       "date": "2026-03-29T19:10:05",
       "region": "Workington, Allerdale",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 130,
       "estimatedTimeOfRestoration": "2026-03-30T01:10:00",
       "estimatedTimeOfRestorationMajority": "2026-03-30T01:10:00",
@@ -409,8 +409,8 @@
       "date": "2026-03-29T20:50:21",
       "region": "Lakes, South Lakeland",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 72,
       "estimatedTimeOfRestoration": "2026-03-29T23:50:00",
       "estimatedTimeOfRestorationMajority": "2026-03-29T23:50:00",
@@ -431,7 +431,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -451,11 +451,11 @@
       "date": "2026-03-29T18:15:33",
       "region": "Setmurthy, Allerdale",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 33,
-      "estimatedTimeOfRestoration": "2026-03-29T21:15:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-29T21:15:00",
+      "estimatedTimeOfRestoration": "2026-03-29T23:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-29T23:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -464,50 +464,8 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " CA12 4QP, CA12 4RG, CA12 4QE, CA12 4RJ, CA12 4QW, CA12 4QG, CA12 4RL, CA13 9ST, CA12 4QZ, CA12 4QL, CA12 4RE, CA12 4PY, CA12 4QX, CA12 4QH, CA12 4QD, CA12 4QY, CA12 4QT, CA12 4RD, CA12 4QR, CA13 9SL, CA13 9SX, CA12 4QS, CA13 9SU, CA12 4QJ, CA7 1HL, CA12 4PZ, CA13 0PN, CA13 9SY, CA12 4OX, CA12 5TG, CA12 4RQ, CA12 4PG",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125316540",
-      "multipleFaultNumbers": null,
-      "date": "2026-03-29T11:34:16",
-      "region": "Moorside, Bury",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 25,
-      "estimatedTimeOfRestoration": "2026-03-29T23:32:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-29T23:32:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.606006,
-        "lng": -2.291215
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " BL9 6NN, BL9 6NH, BL9 6NQ",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -560,7 +518,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 12,
+  "TotalResults": 11,
   "ShowPolygons": false,
   "Regions": [
     {
