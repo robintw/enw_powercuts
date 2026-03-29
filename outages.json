@@ -110,48 +110,6 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125316786",
-      "multipleFaultNumbers": null,
-      "date": "2026-03-29T23:04:38",
-      "region": "Hesket, Eden",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 135,
-      "estimatedTimeOfRestoration": "2026-03-30T02:04:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-30T02:04:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.814245,
-        "lng": -2.883118
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " CA4 0LB, CA4 0SA, CA4 0JX, CA4 0LL, CA4 0LE, CA4 0RR, CA4 0DA, CA7 2QN, CA4 9TF, CA4 0LQ, CA4 0RZ, CA4 0NX, CA4 0LH, CA4 0NU, CA4 0EN, CA4 0LF, CA4 0DB, CA4 0LN, CA4 0JP, CA4 0JR, CA4 0RL, CA4 0QA, CA4 0PY, CA4 0EW, CA4 0NT, CA4 0PZ, CA4 0RT, CA4 0LJ, CA4 0LG, CA4 0LD",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
       "faultNumber": "INC 125316707",
       "multipleFaultNumbers": null,
       "date": "2026-03-29T20:15:54",
@@ -535,8 +493,8 @@
       "date": "2026-03-29T21:59:56",
       "region": "Burscough, West Lancashire",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 6,
       "estimatedTimeOfRestoration": "2026-03-30T00:59:00",
       "estimatedTimeOfRestorationMajority": "2026-03-30T00:59:00",
@@ -572,24 +530,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125316775",
+      "faultNumber": "INC 125316774",
       "multipleFaultNumbers": null,
-      "date": "2026-03-29T22:08:39",
+      "date": "2026-03-29T22:07:42",
       "region": "Dinting, High Peak",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
       "consumersOff": 58,
-      "estimatedTimeOfRestoration": "2026-03-30T01:08:00",
-      "estimatedTimeOfRestorationMajority": "2026-03-30T01:08:00",
+      "estimatedTimeOfRestoration": "2026-03-30T01:07:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-30T01:07:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.458099,
-        "lng": -1.949400
+        "lat": 53.451993,
+        "lng": -1.940338
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK13 7RH, SK13 7RA, SK13 7RE, SK13 7QD, SK13 7QE, SK13 7DP, SK13 7QG, SK13 7HR",
+      "AffectedPostcodes": " SK13 7SB, SK13 7RE, SK13 7RW, SK13 7RQ, SK13 7SN, SK13 7TP, SK13 7RZ, SK13 7ST, SK13 7RS, SK13 7SL, SK13 7TL, SK13 7RN, SK13 7SX, SK13 7QA, SK13 7PH, SK13 7SU, SK13 7RL, SK13 7SE, SK13 7SQ, SK13 7RG, SK13 7RX, SK13 7RR, SK13 7SG, SK13 7RF, SK13 7RU, SK13 7PZ, SK13 7RY, SK13 7GB, SK13 7GE, SK13 7SS, SK13 7SF, SK13 7SJ, SK13 7RJ, SK13 7QR, SK13 7SW, SK13 7RH, SK13 7RA, SK13 7QD, SK13 7QE, SK13 7DP, SK13 7QG, SK13 7HR",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -621,7 +579,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 72,
+      "consumersOff": 4,
       "estimatedTimeOfRestoration": "2026-03-30T03:00:00",
       "estimatedTimeOfRestorationMajority": "2026-03-30T03:00:00",
       "information": "",
@@ -716,6 +674,48 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " LA2 8RE, LA2 8QZ, LA2 8QY, LA2 8QX, LA2 8PS, LA2 8RB",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125316814",
+      "multipleFaultNumbers": null,
+      "date": "2026-03-30T00:22:10",
+      "region": "Wray-With-Botton, Lancaster",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 63,
+      "estimatedTimeOfRestoration": "2026-03-30T03:22:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-30T03:22:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.089617,
+        "lng": -2.541551
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA2 8RD, LA2 8RB, LA2 8RA, LA2 8PS, LA2 8QU, LA2 8QX, LA2 8PU, LA2 8PD, LA2 8PQ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
