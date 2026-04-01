@@ -54,7 +54,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -68,26 +68,68 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125318413",
+      "faultNumber": "INC 125317463",
       "multipleFaultNumbers": null,
-      "date": "2026-04-01T12:47:31",
-      "region": "Preston Richard, South Lakeland",
+      "date": "2026-03-31T03:44:06",
+      "region": "Worsley, Rossendale",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 150,
-      "estimatedTimeOfRestoration": null,
-      "estimatedTimeOfRestorationMajority": null,
+      "consumersOff": 64,
+      "estimatedTimeOfRestoration": "2026-03-31T09:44:00",
+      "estimatedTimeOfRestorationMajority": "2026-03-31T09:44:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.263349,
-        "lng": -2.722622
+        "lat": 53.704470,
+        "lng": -2.326192
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA8 0HF, LA8 0JA, LA8 0HQ, LA8 0HE, LA8 0ET, LA8 0HG, LA8 0EA, LA8 0ES, LA8 0HP, LA8 0HH, LA8 0NY",
+      "AffectedPostcodes": " BB4 5QQ, BB4 5SU, BB4 5EA, BB4 5SN, BB4 5SX, BB4 5SL",
       "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "HVFL",
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125318583",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-01T16:44:47",
+      "region": "Macclesfield, Cheshire East",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 67,
+      "estimatedTimeOfRestoration": "2026-04-01T22:44:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-01T22:44:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.244733,
+        "lng": -2.128532
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK11 7TP, SK11 7XG, SK11 7SP, SK11 7SS, SK11 7ST, SK11 7QX, SK11 7SW, SK11 7SY",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -128,6 +170,48 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " PR6 0LL, PR6 0FG, PR6 0SN, PR7 4GZ, PR6 0LW, PR6 0SZ, PR6 0NU, PR6 0SG, PR6 9FH, PR6 0NB, PR6 0FJ, PR6 0SH, PR6 0LH, PR6 9FL, PR6 0QN, PR6 0LB, PR6 0SD, PR6 9FN, PR6 0QB, PR6 0LZ, PR6 0NG, PR6 0PX, PR6 0QF, PR6 0NJ, PR6 0QP, PR6 0UH, PR6 0PG, PR6 0RT, PR6 9DW, PR6 0LN, PR6 0SY, PR6 0ST, PR6 9DR, PR6 0LX, PR6 0SJ, PR6 9FG, PR6 0QW, PR6 0LD, PR6 0SS, PR7 3BS, PR6 9DU, PR6 0PT, PR6 0NS, PR6 0PL, PR6 0RX, PR6 0TA, PR6 0NT, PR6 0SQ, PR6 0LU, PR6 0HD, PR6 9FF, PR6 0LJ, PR6 9AD, PR6 9FJ, PR6 0NA, PR6 0RY, PR7 4AW, PR6 0PZ, PR6 0QD, PR6 0SU, PR6 9DL, PR6 0NW, PR6 0LG, PR6 0PY, PR6 0SE, PR6 0QA, PR6 0NH, PR6 9EA, PR6 0QE, PR6 0NX, PR6 0HB, PR6 0LF, PR6 0NN, PR6 0TU, PR6 0PP, PR6 0SR, PR6 0BB, PR6 0QJ, PR6 0QG, PR6 0QQ, PR6 9DJ, PR6 9AR, PR6 0BU, PR6 9AN, PR6 9EB, PR6 0SF, PR6 0NQ, PR6 0NF, PR6 0SW, PR6 0QH, PR6 0NR, PR6 9FY, PR6 0LE, PR6 0PF, PR6 9AW, PR6 0LQ, PR6 9DZ, PR6 0RZ, PR6 0SB, PR7 3BE, PR6 0TB, PR6 0QL, PR6 9AL",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125318553",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-01T15:29:10",
+      "region": "Bootle, Copeland",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 20,
+      "estimatedTimeOfRestoration": "2026-04-01T19:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-01T19:30:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.288608,
+        "lng": -3.385480
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA19 5XU, LA19 5TB, LA19 5AD, LA19 5XT, LA19 5XL",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -215,48 +299,6 @@
       "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125318566",
-      "multipleFaultNumbers": null,
-      "date": "2026-04-01T15:54:35",
-      "region": "Silloth-On-Solway, Allerdale",
-      "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 82,
-      "estimatedTimeOfRestoration": "2026-04-01T18:54:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-01T18:54:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.816427,
-        "lng": -3.388781
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " CA15 6QJ, CA7 4NQ, CA15 6RA, CA7 4LA, CA7 4NB, CA15 6QY, CA15 6QT, CA7 4JT, CA15 6QS, CA15 6QZ, CA7 4LW, CA7 3LD, CA7 4JZ, CA15 6QX, CA7 4LF, CA7 4NE, CA7 4QB, CA7 4LQ, CA7 3LE, CA7 4ND, CA7 4NF, CA7 4NG, CA15 6QL, CA7 4SR, CA7 4LL, CA15 6QH, CA15 6QF, CA7 4LN, CA7 4LG, CA7 4LT, CA5 4LA, CA15 6QU, CA7 4NH",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -266,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
