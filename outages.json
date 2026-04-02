@@ -110,24 +110,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125318737",
+      "faultNumber": "INC 125319062",
       "multipleFaultNumbers": null,
-      "date": "2026-04-02T06:41:56",
-      "region": "Atherton, Wigan",
+      "date": "2026-04-02T10:52:10",
+      "region": "Reddish South, Stockport",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 194,
-      "estimatedTimeOfRestoration": "2026-04-02T12:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-02T12:00:00",
+      "consumersOff": 1605,
+      "estimatedTimeOfRestoration": "2026-04-02T13:52:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-02T13:52:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.525507,
-        "lng": -2.475189
+        "lat": 53.450441,
+        "lng": -2.155614
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M46 9FZ, M46 9LW, M29 8NH, M46 9XA, M29 8LN, M46 9RL, M46 9JW, M46 9LQ, M46 9LE, M29 8SD, M29 8LU, M46 9LD, M29 8RS, M46 9RJ, M29 8NF, M46 9JQ, M29 8LY, M46 9HQ, M29 8LL, M46 9DN, M29 8LP, M29 8FU, M29 8LX, M46 9DJ, M29 8ET, M46 9EE, M29 8FS, M29 8EZ, M46 9EA, M46 9HP, M29 8FX, M46 9EB, M29 8FG, M46 9HN, M46 9DY, M46 9HR, M46 9LT, M46 9RG, M46 9DS, M29 8LS, M46 9LS, M29 8LJ, M46 9EU, M29 8LR, M29 8LH, M46 9DR, M29 8LW, M46 9DU, M29 8FY, M29 8ES, M46 9GG, M46 9QP, M46 9FD, M46 9RX, M46 9LF, M46 9RN, M29 8LT, M46 9JN, M46 9TZ, M46 9RF, M29 8SJ, M46 9LR, M29 8LQ, M46 9DW, M29 8LG, M46 9DB, M46 9DZ, M29 8EY, M46 9FA, M29 8FT, M46 9GW, M46 9LN, M46 9LH, M46 9LP, M46 9WA, M46 9HT, M46 9HW, M46 9GN, M46 9LG, M46 9RH, M29 8EX, M46 9DX, M46 9JZ, M46 9RR, M46 0JH, M46 9RP, M29 8SF, M46 9JY, M46 9HU, M29 8RR, M46 9DL, M46 9DF, M29 8EU, M29 8ER, M46 9HG, M29 8FN, M29 8QZ, M46 9QL, M46 9QN, M29 8FR, M46 9FQ, M46 9RQ, M46 9ET, M46 9FL, M46 9EY, M46 9EL, M46 9LJ, M46 9RE, M46 9FR, M29 8HA, M46 9JP, M29 8LZ, M46 9JG, M46 9DD, M46 9RZ, M46 9AW",
+      "AffectedPostcodes": " SK5 6PY, SK5 6PU, SK5 6FS, SK5 6PP, SK5 6NR, SK5 6GB, SK5 6LR, SK5 6GA, SK5 6LA, SK5 6QL, SK5 6QW, SK5 6NU, SK5 6PZ, SK5 6PX, SK5 6QQ, SK5 6QG, SK5 6PA, SK5 6NZ, SK5 6PB, SK5 6LE, SK5 6NP, SK5 6SF, SK5 6NT, SK5 6QJ, SK5 6TA, SK5 6ND, SK5 6PT, SK5 6LT, SK5 6QB, SK5 6QE, SK5 6QF, SK5 6QA, SK5 6QD, SK5 6NX, SK5 6SH, SK5 6SQ, SK5 6QU, SK5 6QH, SK5 6XN, SK5 6QP, SK56 6QG, SK5 6NY, SK5 6SG, SK5 6NW, M34 2HG, M34 2HQ, SK5 6SJ, SK5 6PE, SK5 6RA, SK5 6NN, SK5 6QZ, M34 2HT, SK5 6SE, SK5 6RZ, SK5 6NS, SK5 6PF, SK5 6QS, M34 2HS, SK5 6NH, SK5 6QN, SK5 6QY, SK5 6QR, SK5 6NG, SK5 6RB, M34 2HR, SK5 6RE, SK5 6PD, SK5 6NJ, SK5 6RD, SK5 6NL, SK5 6LX",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -306,48 +306,6 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125318853",
-      "multipleFaultNumbers": null,
-      "date": "2026-04-02T09:04:02",
-      "region": "Orton, Eden",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 7,
-      "estimatedTimeOfRestoration": "2026-04-02T15:03:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-02T15:03:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.446820,
-        "lng": -2.585081
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " CA10 3SZ",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -367,9 +325,9 @@
       "date": "2026-04-02T08:53:31",
       "region": "Wrightington, West Lancashire",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 979,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 980,
       "estimatedTimeOfRestoration": "2026-04-02T15:00:00",
       "estimatedTimeOfRestorationMajority": "2026-04-02T15:00:00",
       "information": "",
@@ -434,7 +392,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 9,
+  "TotalResults": 8,
   "ShowPolygons": false,
   "Regions": [
     {
