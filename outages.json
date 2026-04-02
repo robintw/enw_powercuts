@@ -95,7 +95,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -118,8 +118,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 30,
-      "estimatedTimeOfRestoration": "2026-04-03T00:17:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-03T00:17:00",
+      "estimatedTimeOfRestoration": "2026-04-03T02:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-03T02:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -128,7 +128,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " PR7 4LL, PR7 4LW, PR7 4LQ, PR7 4LX, PR7 4BH, PR7 5JH, PR7 5JB, PR7 4LY, PR7 4DS, PR7 4DT, PR7 4DU, PR7 4BN, PR7 4AT, PR7 4BS, WN1 2XJ, WN1 2XL, PR7 4DN, PR7 4BW, WN1 2XQ, PR7 4BL",
-      "UnderReviewStatusTimeCheck": true,
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
@@ -157,7 +157,7 @@
       "date": "2026-04-02T23:05:54",
       "region": "Dinting, High Peak",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
+      "faultStatus": "We're on site",
       "previousFaultStatus": "Team on their way",
       "consumersOff": 30,
       "estimatedTimeOfRestoration": "2026-04-03T05:05:00",
