@@ -75,17 +75,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 19,
+      "consumersOff": 69,
       "estimatedTimeOfRestoration": "2026-04-02T05:00:00",
       "estimatedTimeOfRestorationMajority": "2026-04-02T05:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.706291,
-        "lng": -3.455416
+        "lat": 54.706572,
+        "lng": -3.456426
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA15 7ED",
+      "AffectedPostcodes": " CA15 7ED, CA15 7FA",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -152,66 +152,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125318651",
+      "faultNumber": "INC 125318718",
       "multipleFaultNumbers": null,
-      "date": "2026-04-01T21:08:17",
-      "region": "Brookfield, Preston",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 19,
-      "estimatedTimeOfRestoration": "2026-04-02T03:08:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-02T03:08:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.773263,
-        "lng": -2.672792
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " PR2 6BN",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125318712",
-      "multipleFaultNumbers": null,
-      "date": "2026-04-02T02:17:20",
-      "region": "Sharoe Green, Preston",
+      "date": "2026-04-02T02:47:48",
+      "region": "Alexandra, Oldham",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 114,
-      "estimatedTimeOfRestoration": "2026-04-02T08:17:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-02T08:17:00",
+      "consumersOff": 70,
+      "estimatedTimeOfRestoration": "2026-04-02T08:47:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-02T08:47:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.792983,
-        "lng": -2.709395
+        "lat": 53.532930,
+        "lng": -2.098374
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR2 9RR, PR2 9TD, PR2 9HB, PR2 9SU, PR2 9SA, PR2 9RS, PR2 9SB, PR2 9RZ",
+      "AffectedPostcodes": " OL8 2BZ, OL8 2BD, OL8 2BG, OL8 2BE",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -224,7 +182,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 3,
   "ShowPolygons": false,
   "Regions": [
     {
