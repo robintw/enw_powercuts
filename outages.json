@@ -76,8 +76,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 6,
-      "estimatedTimeOfRestoration": "2026-04-04T09:30:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-04T09:30:00",
+      "estimatedTimeOfRestoration": "2026-04-04T10:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-04T10:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -88,48 +88,6 @@
       "AffectedPostcodes": " LA2 0AX, LA2 0AY, LA2 0AR, LA2 0AZ, LA2 0EQ, LA2 0DY, LA2 0ER, LA1 1PE, LA2 0EJ, PR3 6AT, LA2 0EW, LA2 0ET, LA2 0EP, LA2 0EL, PR3 0AR, LA2 0EN, PR3 0LD, PR3 0BW, LA2 0ES, LA2 0EH, OL11 4AB, PR3 0AQ, PR3 0BX, LA2 0EG, LA2 0KT, LA2 0AU, PR3 0JL, PR3 0AP, PR3 0JP, PR3 1AH, PR3 0AN, PR3 1AE, PR3 0JX, PR3 0AX, PR3 0JY, PR3 0JJ, PR3 0JU, PR3 0AL, PR3 1AA, PR3 0JN, PR3 0AJ, PR3 1ZB, PR3 1RS",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125319802",
-      "multipleFaultNumbers": null,
-      "date": "2026-04-04T06:45:57",
-      "region": "Radcliffe North & Ainsworth, Bury",
-      "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 81,
-      "estimatedTimeOfRestoration": "2026-04-04T12:45:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-04T12:45:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.570586,
-        "lng": -2.338386
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M26 4QD, M26 4PT, M26 4EZ, M26 4EY, M26 4FX, M26 4FU, M26 4EE, M26 4PY, M26 4PS, M26 4PU, M26 4PZ, M26 4PE, M26 4PX, M26 4QB, M26 4GD",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -170,6 +128,48 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " BL3 4QQ, BL3 4QF, BL3 4QE",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125319802",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-04T06:45:57",
+      "region": "Radcliffe North & Ainsworth, Bury",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 81,
+      "estimatedTimeOfRestoration": "2026-04-04T12:45:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-04T12:45:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.570586,
+        "lng": -2.338386
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M26 4QD, M26 4PT, M26 4EZ, M26 4EY, M26 4FX, M26 4FU, M26 4EE, M26 4PY, M26 4PS, M26 4PU, M26 4PZ, M26 4PE, M26 4PX, M26 4QB, M26 4GD",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
