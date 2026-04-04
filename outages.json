@@ -74,7 +74,7 @@
       "region": "Radcliffe North & Ainsworth, Bury",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 81,
       "estimatedTimeOfRestoration": "2026-04-04T15:40:00",
       "estimatedTimeOfRestorationMajority": "2026-04-04T15:40:00",
@@ -116,7 +116,7 @@
       "region": "Heaton And Lostock, Bolton",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 18,
       "estimatedTimeOfRestoration": "2026-04-04T14:30:00",
       "estimatedTimeOfRestorationMajority": "2026-04-04T14:30:00",
@@ -130,48 +130,6 @@
       "AffectedPostcodes": " BL3 4QQ, BL3 4QF, BL3 4QE",
       "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125319858",
-      "multipleFaultNumbers": null,
-      "date": "2026-04-04T10:45:56",
-      "region": "Bulk, Lancaster",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": null,
-      "consumersOff": 3,
-      "estimatedTimeOfRestoration": "2026-04-04T14:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-04T14:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.022367,
-        "lng": -2.770447
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " LA1 3JY, LA2 0PY",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -199,8 +157,8 @@
       "date": "2026-04-04T13:08:16",
       "region": "Shap, Eden",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": null,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 208,
       "estimatedTimeOfRestoration": "2026-04-04T16:08:00",
       "estimatedTimeOfRestorationMajority": "2026-04-04T16:08:00",
@@ -242,18 +200,18 @@
       "region": "Pilling, Wyre",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
-      "consumersOff": 26,
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 7,
       "estimatedTimeOfRestoration": "2026-04-04T20:49:00",
       "estimatedTimeOfRestorationMajority": "2026-04-04T20:49:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.929260,
-        "lng": -2.896695
+        "lat": 53.928956,
+        "lng": -2.897153
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR3 6AB, PR3 6AU, PR3 6AG, PR3 6AP",
+      "AffectedPostcodes": " PR3 6AB, PR3 6AG",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -265,7 +223,7 @@
     "ResolvedFault",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 4,
   "ShowPolygons": false,
   "Regions": [
     {
