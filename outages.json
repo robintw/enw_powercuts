@@ -201,7 +201,7 @@
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 229,
+      "consumersOff": 227,
       "estimatedTimeOfRestoration": "2026-04-05T01:28:00",
       "estimatedTimeOfRestorationMajority": "2026-04-05T01:28:00",
       "information": "",
@@ -278,24 +278,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125320169",
+      "faultNumber": "INC 125320171",
       "multipleFaultNumbers": null,
-      "date": "2026-04-04T22:41:52",
-      "region": "Grange-Over-Sands, South Lakeland",
+      "date": "2026-04-04T22:43:52",
+      "region": "Skelmersdale South, West Lancashire",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 404,
-      "estimatedTimeOfRestoration": "2026-04-05T01:41:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-05T01:41:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 6,
+      "estimatedTimeOfRestoration": "2026-04-05T01:43:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-05T01:43:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.206642,
-        "lng": -2.897659
+        "lat": 53.542944,
+        "lng": -2.803741
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA11 6QR, LA11 6DX, LA11 6LG, LA11 6EB, LA11 6EZ, LA11 6LL, LA11 6LJ, LA11 6EQ, LA11 6PB, LA11 6SP, LA11 6RF, LA11 6RE, LA11 6EY, LA11 6LT, LA11 6EP, LA11 6EH, LA11 6DW, LA11 6DP, LA11 6PA, LA11 6RB, LA11 6LQ, LA11 6DY, LA11 6LR, LA11 6EG, LA11 6PQ, LA11 6QX, LA11 6LU, LA11 7RW, LA11 6UU, LA11 6QZ, LA11 6ER, LA11 6EU, LA11 7PT, LA11 6ED, LA11 6QY, LA11 6PD, LA11 6EL, LA11 6RG, LA11 6ES, LA11 6SX, LA11 6LN, LA11 6NB, LA11 6QS, LA11 6JF, LA11 7JZ, LA11 6RZ, LA11 6DU, LA11 6EA, LA11 6LS, LA11 6RX, LA11 6LE, LA11 6OX, LA11 6EN, LA11 6EF, LA11 6ET, LA11 6DR, LA11 6RY, LA11 6RA, LA11 6ND, LA11 6AX, LA11 6FE, LA11 6AB, LA11 6LP, LA11 6EJ, LA11 6RD, LA11 6LX, LA11 6QT, LA11 6QR",
+      "AffectedPostcodes": " WN8 9TH",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -362,6 +362,48 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 125320177",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-04T22:56:32",
+      "region": "St. James', Oldham",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 30,
+      "estimatedTimeOfRestoration": "2026-04-05T04:56:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-05T04:56:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.564616,
+        "lng": -2.064120
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL4 2LE",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 125320058",
       "multipleFaultNumbers": null,
       "date": "2026-04-04T20:29:55",
@@ -382,48 +424,6 @@
       "AffectedPostcodes": " BL9 0AY, BL9 0EN, BL9 0DA",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125320141",
-      "multipleFaultNumbers": null,
-      "date": "2026-04-04T21:37:40",
-      "region": "Dufton, Eden",
-      "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 39,
-      "estimatedTimeOfRestoration": "2026-04-05T00:37:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-05T00:37:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.600023,
-        "lng": -2.488467
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " CA16 6JS, CA16 6BZ, CA16 6DD, CA16 6JN, CA16 6DF, CA16 6DB, CA16 6BD, CA16 6NG, CA16 6JW, CA16 6JH, CA16 6HD, CA16 6DG, CA16 6JT, CA16 6JJ, CA16 6JR, CA16 6JL, CA16 6JU, CA16 6JQ, CA16 6JL, CA16 6DE",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -493,8 +493,8 @@
       "date": "2026-04-04T21:44:51",
       "region": "Great Mitton, Ribble Valley",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 10,
       "estimatedTimeOfRestoration": "2026-04-05T03:44:00",
       "estimatedTimeOfRestorationMajority": "2026-04-05T03:44:00",
