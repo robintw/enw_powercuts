@@ -159,7 +159,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 23,
+      "consumersOff": 62,
       "estimatedTimeOfRestoration": "2026-04-05T18:00:00",
       "estimatedTimeOfRestorationMajority": "2026-04-05T18:00:00",
       "information": "",
@@ -200,10 +200,10 @@
       "region": "Setmurthy, Allerdale",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 11,
-      "estimatedTimeOfRestoration": "2026-04-05T18:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-05T18:00:00",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 47,
+      "estimatedTimeOfRestoration": "2026-04-05T13:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-05T13:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -325,7 +325,7 @@
       "date": "2026-04-04T21:32:12",
       "region": "Wrightington, West Lancashire",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
+      "faultStatus": "We're on site",
       "previousFaultStatus": "Team on their way",
       "consumersOff": 20,
       "estimatedTimeOfRestoration": "2026-04-05T18:00:00",
@@ -537,17 +537,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 129,
+      "consumersOff": 118,
       "estimatedTimeOfRestoration": "2026-04-05T14:34:00",
       "estimatedTimeOfRestorationMajority": "2026-04-05T14:34:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.544334,
-        "lng": -2.107886
+        "lat": 53.543915,
+        "lng": -2.106853
       },
       "outageLocations": null,
-      "AffectedPostcodes": " OL1 3UQ, OL1 3UH, OL1 3SE",
+      "AffectedPostcodes": " OL1 3UH",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -577,8 +577,8 @@
       "date": "2026-04-05T05:31:58",
       "region": "Bowland Forest Low, Ribble Valley",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 16,
       "estimatedTimeOfRestoration": "2026-04-05T18:00:00",
       "estimatedTimeOfRestorationMajority": "2026-04-05T18:00:00",
@@ -745,7 +745,7 @@
       "date": "2026-04-05T00:38:59",
       "region": "Mellor, Ribble Valley",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
+      "faultStatus": "We're on site",
       "previousFaultStatus": "Team on their way",
       "consumersOff": 12,
       "estimatedTimeOfRestoration": "2026-04-05T18:00:00",
@@ -758,6 +758,48 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " BB1 9DL, BB1 9DN, BB1 9DW",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "O/HM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125320347",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-05T09:08:31",
+      "region": "Matterdale, Eden",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 3,
+      "estimatedTimeOfRestoration": "2026-04-05T12:08:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-05T12:08:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.584808,
+        "lng": -2.959376
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " CA11 0LG",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "O/HM",
       "addressMpanList": null
@@ -782,24 +824,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125320302",
+      "faultNumber": "INC 125320349",
       "multipleFaultNumbers": null,
-      "date": "2026-04-05T06:13:09",
-      "region": "Werneth, Oldham",
+      "date": "2026-04-05T09:14:08",
+      "region": "St. Mary's, Oldham",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 167,
-      "estimatedTimeOfRestoration": "2026-04-05T12:13:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-05T12:13:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 3,
+      "estimatedTimeOfRestoration": "2026-04-05T15:14:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-05T15:14:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.532577,
-        "lng": -2.136838
+        "lat": 53.545901,
+        "lng": -2.099700
       },
       "outageLocations": null,
-      "AffectedPostcodes": " OL9 7BZ, OL9 7BY, OL9 7SD, OL9 7SW, OL9 7SB, OL9 7BF, OL9 7DA, OL9 7BX, OL9 7DQ, OL9 7EB, OL9 7BU, OL9 7DF, OL9 7BT, OL9 7DD, OL9 7EE",
+      "AffectedPostcodes": " OL1 3HS, OL1 3HT",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -844,6 +886,48 @@
       "AffectedPostcodes": " LA5 9BJ, LA5 9BH",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125320352",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-05T09:17:43",
+      "region": "Kirkby Lonsdale, South Lakeland",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 158,
+      "estimatedTimeOfRestoration": "2026-04-05T18:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-05T18:00:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.229354,
+        "lng": -2.616531
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA6 2ED, LA6 2DZ, LA6 2EQ, LA6 2ET, LA6 2NG, LA6 2EP, LA6 2EW, LA6 2DY, LA6 2EB, LA6 2EL, LA6 2EJ, LA6 2QE, LA6 2NQ, LA6 2EN, LA6 2EG, LA6 2ES, LA6 2LE, LA6 2ER, LA6 2LS, LA6 2LW, LA6 2HE, LA6 1HR, LA6 2EF, LA6 2LJ, LA9 6EJ, LA6 2EH, LA6 2EE, LA6 2DF",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -979,7 +1063,7 @@
     "ResolvedFault",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 22,
+  "TotalResults": 24,
   "ShowPolygons": false,
   "Regions": [
     {
