@@ -199,7 +199,7 @@
       "date": "2026-04-04T22:28:37",
       "region": "Setmurthy, Allerdale",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
+      "faultStatus": "We're on site",
       "previousFaultStatus": "Team on their way",
       "consumersOff": 11,
       "estimatedTimeOfRestoration": "2026-04-05T18:00:00",
@@ -411,7 +411,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 30,
+      "consumersOff": 29,
       "estimatedTimeOfRestoration": "2026-04-05T18:00:00",
       "estimatedTimeOfRestorationMajority": "2026-04-05T18:00:00",
       "information": "",
@@ -493,8 +493,8 @@
       "date": "2026-04-05T07:45:40",
       "region": "Blackburn Central, Blackburn With Darwen",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 52,
       "estimatedTimeOfRestoration": "2026-04-05T13:45:00",
       "estimatedTimeOfRestorationMajority": "2026-04-05T13:45:00",
@@ -535,8 +535,8 @@
       "date": "2026-04-05T08:34:38",
       "region": "St. Mary's, Oldham",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 129,
       "estimatedTimeOfRestoration": "2026-04-05T14:34:00",
       "estimatedTimeOfRestorationMajority": "2026-04-05T14:34:00",
@@ -684,6 +684,48 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125320339",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-05T08:46:27",
+      "region": "Grange-Over-Sands, South Lakeland",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 129,
+      "estimatedTimeOfRestoration": "2026-04-05T18:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-05T18:00:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.192950,
+        "lng": -2.925316
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA11 6AT, LA11 6AN, LA11 6AR, LA11 6AP, LA11 6AH, LA11 6AW, LA11 6HD, LA11 7QA, LA11 6HA, LA11 6HB, LA11 6AU",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
       "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
       "UpdateInfo": null,
       "CTAs": [
@@ -718,48 +760,6 @@
       "AffectedPostcodes": " BB1 9DL, BB1 9DN, BB1 9DW",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "O/HM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125320339",
-      "multipleFaultNumbers": null,
-      "date": "2026-04-05T08:46:27",
-      "region": "Grange-Over-Sands, South Lakeland",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 129,
-      "estimatedTimeOfRestoration": "2026-04-05T11:46:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-05T11:46:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.192950,
-        "lng": -2.925316
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " LA11 6AT, LA11 6AN, LA11 6AR, LA11 6AP, LA11 6AH, LA11 6AW, LA11 6HD, LA11 7QA, LA11 6HA, LA11 6HB, LA11 6AU",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
