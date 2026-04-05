@@ -158,7 +158,7 @@
       "region": "Chelford, Cheshire East",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 95,
       "estimatedTimeOfRestoration": "2026-04-05T19:00:00",
       "estimatedTimeOfRestorationMajority": "2026-04-05T19:00:00",
@@ -170,6 +170,48 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " SK10 4TD, SK10 4TN, SK10 4RU, SK10 4RS, SK11 9JY, SK10 4SZ, SK10 4TA, SK10 4SY, SK10 4RX, SK11 9JX, SK10 4RT, SK10 4TG, SK11 9AH, SK10 4TW, SK10 4SN, SK10 4TE, SK11 9AG",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125320529",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-05T16:42:13",
+      "region": "Hawkshead, South Lakeland",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 19,
+      "estimatedTimeOfRestoration": "2026-04-05T19:42:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-05T19:42:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.359712,
+        "lng": -2.993974
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA22 0QE, LA22 0QD, LA22 0QF",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -201,17 +243,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 261,
+      "consumersOff": 52,
       "estimatedTimeOfRestoration": "2026-04-05T20:46:00",
       "estimatedTimeOfRestorationMajority": "2026-04-05T20:46:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.467351,
-        "lng": -2.203532
+        "lat": 53.462819,
+        "lng": -2.206155
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M12 4NQ, M12 4LN, M12 4UP, M12 4LQ, M12 4LP, M12 4US, M12 4WD, M12 4UQ, M12 4WG, M12 4UR, M12 4WQ, M12 4PL, M12 4RL, M12 4RR, M12 4RN, M12 4WH, M12 4RJ, M12 4DH, M12 4PQ, M12 4QT, M12 4PN, M12 4DT, M12 4WR, M12 4LR, M12 4PP",
+      "AffectedPostcodes": " M12 4UT, M12 4PN, M12 4UU, M12 4WR, M12 4DT, M12 4DH, M12 4PP, M12 4PQ, M12 4RL, M12 4QT, M12 4PL, M12 4RR, M12 4RN, M12 4WQ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -254,48 +296,6 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " OL1 3UH, OL1 3UQ, OL1 3SE",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125320498",
-      "multipleFaultNumbers": null,
-      "date": "2026-04-05T14:46:48",
-      "region": "Ardwick, Manchester",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 26,
-      "estimatedTimeOfRestoration": "2026-04-05T20:46:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-05T20:46:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.463421,
-        "lng": -2.207284
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M12 4PN, M12 4UT, M12 4UU, M12 4FA, M12 4WR",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
