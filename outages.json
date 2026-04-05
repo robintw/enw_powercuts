@@ -116,7 +116,7 @@
       "region": "Embleton, Allerdale",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 18,
       "estimatedTimeOfRestoration": "2026-04-05T18:00:00",
       "estimatedTimeOfRestorationMajority": "2026-04-05T18:00:00",
@@ -578,10 +578,10 @@
       "region": "Walkden North, Salford",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Preparing to send team",
       "consumersOff": 199,
-      "estimatedTimeOfRestoration": "2026-04-05T07:35:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-05T07:35:00",
+      "estimatedTimeOfRestoration": "2026-04-05T18:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-05T18:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -590,6 +590,48 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " M28 1NW, M28 1GZ, M28 1SG, M28 7AH, M28 3BW, M28 1JN, M28 1ZR, M28 3AS, M28 7AG, M28 1DE, M28 1SL, M28 1JH, M28 3AL, M28 7GS, M28 1HW, M28 1GN, M28 1DH, M28 3AW, M28 1JJ, M28 7LH, M28 3AN, M28 1JS, M28 1JB, M28 1JZ, M28 7AJ, M28 1JQ, M28 7AT, M28 1BZ, M28 1ZQ, M28 7AE, M28 1HR, M28 1JP, M28 1HS, M11 2ZZ, M28 7AB, M28 7GT, M28 1HX, M28 1GJ, M28 1JA, M28 1JT, M28 1PZ, M28 1DB, M28 1JL, M28 1GU, M28 1DJ, M28 1GF, M28 1JW, M28 5BG, M28 3JA, M28 1ZS, M28 3EE, M28 7XW, M28 1DF, M28 3DS, M28 1DD, M28 7AS, M28 7AF, M28 3AH, M28 3DT, M28 7GP, M28 1JU, M28 7AD, M28 1HG, M28 7AL, M28 1FL, M28 1BQ, M28 3AJ, M28 7XN, M28 1DG, M28 1JG, M28 1DA, M28 3ND, M28 1PP, M28 7XL, M28 1HQ, M28 1SJ, M28 1GY, M28 3AG, M28 7GR, M28 1NJ, M28 3AU, M28 1FE, M28 1JY, M28 3BS, M28 1JR, M28 1GW, M28 1UX, M29 7JS, M28 3BB, M28 3JE, M28 3ZH, M28 3GA, M28 3AB, M28 1LZ, M11 2ED",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125320295",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-05T05:31:58",
+      "region": "Bowland Forest Low, Ribble Valley",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 16,
+      "estimatedTimeOfRestoration": "2026-04-05T18:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-05T18:00:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.893977,
+        "lng": -2.481184
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BB7 3DF, BB7 3DH, BB7 3ED, BB7 3DQ, BB7 3DG, BB7 3DE",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -853,7 +895,7 @@
     "ResolvedFault",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 19,
+  "TotalResults": 20,
   "ShowPolygons": false,
   "Regions": [
     {
