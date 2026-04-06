@@ -46,11 +46,404 @@
   "OverviewDescription": "Important information on the power cut in your area, <b>please read</b>:",
   "TrackPowerCutLabel": "Get Updates",
   "TrackPowerCutLink": null,
-  "ResultType": "NoOutageFound",
-  "Items": [],
+  "ResultType": null,
+  "Items": [
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125320728",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-06T11:46:46",
+      "region": "Pilling, Wyre",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 9,
+      "estimatedTimeOfRestoration": "2026-04-06T18:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-06T18:00:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.925138,
+        "lng": -2.872226
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR3 6AB, PR3 6AU, PR3 6AG, PR3 6AP, PR3 6AE",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125320818",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-06T15:14:05",
+      "region": "Birch Green, West Lancashire",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 97,
+      "estimatedTimeOfRestoration": "2026-04-06T21:14:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-06T21:14:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.552256,
+        "lng": -2.762470
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " WN8 6PD, WN8 6PB, WN8 6PA",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125320826",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-06T15:31:30",
+      "region": "Saddleworth, Oldham",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 32,
+      "estimatedTimeOfRestoration": "2026-04-06T21:31:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-06T21:31:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.555501,
+        "lng": -2.017372
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL3 5AY, OL3 5AN, OL3 5BS, OL3 5LE, OL3 5BU, OL3 5AZ, OL3 5EF",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125320671",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-06T10:46:13",
+      "region": "Macclesfield, Cheshire East",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 14,
+      "estimatedTimeOfRestoration": "2026-04-06T18:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-06T18:30:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.265696,
+        "lng": -2.163905
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK10 4XJ, SK10 3RN, SK10 3RL, SK10 3HY, SK10 3HZ",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125320801",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-06T14:36:50",
+      "region": "Lower Allithwaite, South Lakeland",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 190,
+      "estimatedTimeOfRestoration": "2026-04-06T17:36:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-06T17:36:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.205496,
+        "lng": -2.952349
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA11 6PH, LA11 7SR, LA11 6PN, LA11 6PJ, LA11 6QB, LA11 6PU, LA11 6HF, LA11 6HD, LA11 6QA, LA12 8PF, LA11 7SB, LA11 6RW, LA11 7LD, LA11 7SW, LA11 6PW, LA11 7SS, LA11 6PR, LA12 8PE, LA11 7SD, LA11 6PX, LA11 7SH, LA11 7SJ, LA11 6PF, LA11 7PR, LA11 7PS, LA11 6PP, LA11 7SN, LA11 6HG, LA11 6QD, LA11 7SF, LA11 6ST, LA11 6HE, LA11 7SP, LA11 6QG, LA11 7SG, LA11 7SE, LA11 7PH, LA11 6HH, LA11 6PY, LA11 7SA, LA11 6QF, LA11 6PL, LA11 7ST, LA11 6PS, LA11 6HQ, LA11 6PT, LA12 8PD, LA11 6HJ, LA11 6PG, LA11 6QQ, LA12 8EY, LA11 7PP, LA11 6P, LA11 7NZ, LA11 7SQ, LA11 7SL, LA11 7NY, LA11 6HL, LA11 7PE, LA12 8PB, LA11 6LP",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": true,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125320646",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-06T09:04:53",
+      "region": "Chorley North West, Chorley",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 152,
+      "estimatedTimeOfRestoration": "2026-04-06T16:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-06T16:00:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.643878,
+        "lng": -2.629057
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR7 1JY, PR7 1DX, PR7 1HR, PR7 1HU, PR7 2SE, PR7 1JA, PR7 1JB, WN7 4LJ, PR7 1JD, PR7 1JZ, PR7 1JE, PR7 1LA, PR7 1JX, PR7 2BX, PR7 1LB, PR7 1JF",
+      "UnderReviewStatusTimeCheck": true,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    }
+  ],
   "Markers": null,
-  "AvailableItemTypes": [],
-  "TotalResults": 0,
+  "AvailableItemTypes": [
+    "CurrentFault",
+    "ResolvedFault",
+    "FuturePlannedWorks"
+  ],
+  "TotalResults": 6,
   "ShowPolygons": false,
-  "Regions": []
+  "Regions": [
+    {
+      "name": ""
+    },
+    {
+      "name": "allerdale"
+    },
+    {
+      "name": "barrow-in-furness"
+    },
+    {
+      "name": "blackburn with darwen"
+    },
+    {
+      "name": "blackpool"
+    },
+    {
+      "name": "bolton"
+    },
+    {
+      "name": "burnley"
+    },
+    {
+      "name": "bury"
+    },
+    {
+      "name": "carlisle"
+    },
+    {
+      "name": "cheshire"
+    },
+    {
+      "name": "cheshire east"
+    },
+    {
+      "name": "chorley"
+    },
+    {
+      "name": "copeland"
+    },
+    {
+      "name": "craven"
+    },
+    {
+      "name": "cumbria"
+    },
+    {
+      "name": "derbyshire"
+    },
+    {
+      "name": "eden"
+    },
+    {
+      "name": "fylde"
+    },
+    {
+      "name": "high peak"
+    },
+    {
+      "name": "hulme cheadle cheshire"
+    },
+    {
+      "name": "hyndburn"
+    },
+    {
+      "name": "lancashire"
+    },
+    {
+      "name": "lancaster"
+    },
+    {
+      "name": "manchester"
+    },
+    {
+      "name": "meathop and ulpha"
+    },
+    {
+      "name": "merseyside"
+    },
+    {
+      "name": "oldham"
+    },
+    {
+      "name": "pendle"
+    },
+    {
+      "name": "preston"
+    },
+    {
+      "name": "ribble valley"
+    },
+    {
+      "name": "richmondshire"
+    },
+    {
+      "name": "rochdale"
+    },
+    {
+      "name": "rossendale"
+    },
+    {
+      "name": "salford"
+    },
+    {
+      "name": "shore & west littleborough"
+    },
+    {
+      "name": "south lakeland"
+    },
+    {
+      "name": "south ribble"
+    },
+    {
+      "name": "st. helens"
+    },
+    {
+      "name": "stockport"
+    },
+    {
+      "name": "tameside"
+    },
+    {
+      "name": "trafford"
+    },
+    {
+      "name": "warrington"
+    },
+    {
+      "name": "west lancashire"
+    },
+    {
+      "name": "wigan"
+    },
+    {
+      "name": "wyre"
+    }
+  ]
 }
