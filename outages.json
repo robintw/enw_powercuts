@@ -74,7 +74,7 @@
       "region": "New Mills, High Peak",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 202,
       "estimatedTimeOfRestoration": "2026-04-06T12:00:00",
       "estimatedTimeOfRestorationMajority": "2026-04-06T12:00:00",
@@ -110,24 +110,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125320632",
+      "faultNumber": "INC 125320641",
       "multipleFaultNumbers": null,
-      "date": "2026-04-06T08:14:07",
-      "region": "Failsworth West, Oldham",
+      "date": "2026-04-06T09:06:07",
+      "region": "Wigton, Allerdale",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 26,
-      "estimatedTimeOfRestoration": "2026-04-06T14:14:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-06T14:14:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": null,
+      "consumersOff": 27,
+      "estimatedTimeOfRestoration": "2026-04-06T15:06:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-06T15:06:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.505954,
-        "lng": -2.176982
+        "lat": 54.822836,
+        "lng": -3.171023
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M35 0BN",
+      "AffectedPostcodes": " CA7 9QZ, CA7 9RA, CA7 9QY, CA7 9RG, CA7 9RF, CA7 9RB, CA7 9RH",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -152,24 +152,66 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125320641",
+      "faultNumber": "INC 125320642",
       "multipleFaultNumbers": null,
-      "date": "2026-04-06T09:06:07",
-      "region": "Wigton, Allerdale",
+      "date": "2026-04-06T09:10:55",
+      "region": "Central Rochdale, Rochdale",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
       "previousFaultStatus": null,
-      "consumersOff": 27,
-      "estimatedTimeOfRestoration": "2026-04-06T15:06:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-06T15:06:00",
+      "consumersOff": 24,
+      "estimatedTimeOfRestoration": "2026-04-06T15:10:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-06T15:10:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.822836,
-        "lng": -3.171023
+        "lat": 53.619247,
+        "lng": -2.157387
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA7 9QZ, CA7 9RA, CA7 9QY, CA7 9RG, CA7 9RF, CA7 9RB, CA7 9RH",
+      "AffectedPostcodes": " OL16 1JP, OL16 1BZ, OL16 1DG, OL16 1BT, OL16 1BX, OL16 1DL, OL16 1YL, OL12 0NS, OL12 0NZ",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125320646",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-06T09:04:53",
+      "region": "Chorley North West, Chorley",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": null,
+      "consumersOff": 125,
+      "estimatedTimeOfRestoration": "2026-04-06T15:04:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-06T15:04:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.643878,
+        "lng": -2.629057
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR7 1DX, PR7 1HR, PR7 1HU, PR7 2SE, PR7 1JA, PR7 1JB, WN7 4LJ, PR7 1JD, PR7 1JZ, PR7 1JE, PR7 1LA, PR7 1JY, PR7 1JX, PR7 2BX, PR7 1JF, PR7 1LB",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -181,7 +223,7 @@
     "ResolvedFault",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 3,
+  "TotalResults": 4,
   "ShowPolygons": false,
   "Regions": [
     {
