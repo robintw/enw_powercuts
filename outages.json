@@ -68,6 +68,48 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 125321063",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-07T06:58:19",
+      "region": "Longford, Trafford",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 501,
+      "estimatedTimeOfRestoration": "2026-04-07T09:58:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-07T09:58:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.457847,
+        "lng": -2.265655
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M16 7NQ, M16 9GT, M16 7PQ, M16 0EL, M16 9NY, M16 0EG, M16 7GD, M15 6DD, M16 0FJ, M16 0ET, M16 9QS, M16 0LY, M16 7PR, M16 9WS, M16 0FL, M16 9NU, M16 0EQ, M16 7PS, M15 4AL, M16 7QB, M16 9NX, M16 0GB, M16 9WX, M16 7NG, M16 9QT, M16 0LS, M16 0GE, M16 9GR, M18 7JR, M16 9NZ, M16 9NT, M16 0FT, M16 0LZ, M16 9WU, M15 4AD, M16 9WT, M15 4AN, M16 7QD, M16 9WY, M15 6DH",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 125321049",
       "multipleFaultNumbers": null,
       "date": "2026-04-07T04:36:25",
@@ -98,7 +140,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 1,
+  "TotalResults": 2,
   "ShowPolygons": false,
   "Regions": [
     {
