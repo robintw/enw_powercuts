@@ -54,7 +54,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers fix the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -68,26 +68,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125321104",
+      "faultNumber": "INC 125321263",
       "multipleFaultNumbers": null,
-      "date": "2026-04-07T08:45:25",
-      "region": "Spring Hill, Hyndburn",
+      "date": "2026-04-07T11:00:32",
+      "region": "Grange-Over-Sands, South Lakeland",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 3,
-      "estimatedTimeOfRestoration": "2026-04-07T12:45:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-07T12:45:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 101,
+      "estimatedTimeOfRestoration": "2026-04-07T14:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-07T14:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.747253,
-        "lng": -2.366555
+        "lat": 54.192678,
+        "lng": -2.923644
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB5 0PG",
+      "AffectedPostcodes": " LA11 6AN, LA11 6AR, LA11 6AT, LA11 6AP, LA11 6AH, LA11 6AU, LA11 6AW",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GS",
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -152,97 +152,13 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125321232",
-      "multipleFaultNumbers": null,
-      "date": "2026-04-07T10:29:36",
-      "region": "Wilmslow, Cheshire East",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 45,
-      "estimatedTimeOfRestoration": "2026-04-07T16:27:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-07T16:27:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.342698,
-        "lng": -2.210959
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " SK9 2PL, SK7 2PL, SK9 2LE, SK9 2TA, SK9 2PN, SK9 2EW",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125321152",
-      "multipleFaultNumbers": null,
-      "date": "2026-04-07T09:27:42",
-      "region": "Spring Hill, Hyndburn",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 6,
-      "estimatedTimeOfRestoration": "2026-04-07T15:27:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-07T15:27:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.747253,
-        "lng": -2.366555
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " BB5 0PG, BB5 0PJ",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
       "faultNumber": "INC 125321199",
       "multipleFaultNumbers": null,
       "date": "2026-04-07T10:01:26",
       "region": "Great Lever, Bolton",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 28,
       "estimatedTimeOfRestoration": "2026-04-07T16:01:00",
       "estimatedTimeOfRestorationMajority": "2026-04-07T16:01:00",
@@ -278,24 +194,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125321241",
+      "faultNumber": "INC 125321294",
       "multipleFaultNumbers": null,
-      "date": "2026-04-07T10:38:19",
-      "region": "Spring Hill, Hyndburn",
+      "date": "2026-04-07T11:12:52",
+      "region": "Didsbury East, Manchester",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 6,
-      "estimatedTimeOfRestoration": "2026-04-07T16:38:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-07T16:38:00",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 62,
+      "estimatedTimeOfRestoration": "2026-04-07T17:05:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-07T17:05:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.747666,
-        "lng": -2.368004
+        "lat": 53.419220,
+        "lng": -2.225393
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB5 0PN, BB5 0PG",
+      "AffectedPostcodes": " M20 6SS, M20 6SZ, M20 6SQ, M20 6SG",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -308,7 +224,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 6,
+  "TotalResults": 4,
   "ShowPolygons": false,
   "Regions": [
     {
