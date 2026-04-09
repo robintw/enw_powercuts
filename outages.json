@@ -157,7 +157,7 @@
       "date": "2026-04-09T14:41:32",
       "region": "Hardhorn With High Cross, Wyre",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
       "previousFaultStatus": "Preparing to send team",
       "consumersOff": 8,
       "estimatedTimeOfRestoration": "2026-04-09T20:41:00",
@@ -211,7 +211,7 @@
         "lng": -3.211764
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA7 8ND, CA7 8PF, CA7 8PA, CA7 8NE, CA7 8PG, CA7 8NH, CA7 8PW, CA7 8PH, CA7 8NX, CA7 8PE, CA7 8PB, CA7 8NB, CA7 8PR, CA7 8NJ, CA7 8PD, CA7 8PN, CA7 8LX, CA7 8LR, CA7 8PJ, CA7 3ND, CA7 0BZ, CA7 0AP, CA7 0AA, CA7 0AE, CA7 0DP, CA7 9DS, CA7 0DL, CA7 3NG, CA7 9GQ, CA7 0EJ, CA7 0BP, CA7 3NF, CA7 8NR, CA7 0BY, CA7 4TL, CA7 0AB, CA7 8NS, CA7 0AJ, CA7 9DP, CA7 0DH, CA7 3NB, CA7 0AW, CA7 3SJ, CA7 8NU, CA7 0BL, CA7 0EA, CA7 3SP, CA7 0DG, CA7 0BT, CA7 4TJ, CA7 3NL, CA7 9DX, CA7 3SN, CA7 0DT, CA7 9HQ, CA7 0DF, CA7 0AD, CA7 8NT, CA7 0EL, CA7 9DN, CA7 0AL, CA7 0AF, CA7 0BQ, CA7 0BX, CA7 3SH, CA7 3NE, CA7 0AG, CA7 0BW, CA7 3SR, CA7 0AZ, CA7 0AX, CA7 0AN, CA7 9DL, CA7 0AT, CA7 3LU, CA7 0BN, CA7 0AY, CA7 9DW, CA7 0EN, CA7 0NB, CA7 0EG, CA7 0DU, CA7 3SQ, CA7 0DQ, CA7 0DE, CA7 0BE, CA7 0BJ, CA7 3NW, CA7 3NQ, CA7 3LX, CA7 0AS, CA7 0BS, CA7 9RZ, CA7 0AH, CA7 0BH, CA7 9HS, CA7 8PP, CA7 3SW",
+      "AffectedPostcodes": " CA7 8ND, CA7 8PF, CA7 8PA, CA7 8NE, CA7 8PG, CA7 8NH, CA7 8PW, CA7 8PH, CA7 8NX, CA7 8PE, CA7 8PB, CA7 8NB, CA7 8PR, CA7 8NJ, CA7 8PD, CA7 8PN, CA7 8LX, CA7 8LR, CA7 3ND, CA7 0BZ, CA7 0AP, CA7 0AA, CA7 0AE, CA7 0DP, CA7 9DS, CA7 0DL, CA7 3NG, CA7 9GQ, CA7 0EJ, CA7 0BP, CA7 3NF, CA7 8NR, CA7 0BY, CA7 4TL, CA7 0AB, CA7 8NS, CA7 0AJ, CA7 9DP, CA7 0DH, CA7 3NB, CA7 0AW, CA7 3SJ, CA7 8NU, CA7 0BL, CA7 0EA, CA7 3SP, CA7 0DG, CA7 0BT, CA7 4TJ, CA7 3NL, CA7 9DX, CA7 3SN, CA7 0DT, CA7 9HQ, CA7 0DF, CA7 0AD, CA7 8NT, CA7 0EL, CA7 9DN, CA7 0AL, CA7 0AF, CA7 0BQ, CA7 0BX, CA7 3SH, CA7 3NE, CA7 0AG, CA7 0BW, CA7 3SR, CA7 0AZ, CA7 0AX, CA7 0AN, CA7 9DL, CA7 0AT, CA7 3LU, CA7 0BN, CA7 0AY, CA7 9DW, CA7 0EN, CA7 0NB, CA7 0EG, CA7 0DU, CA7 3SQ, CA7 0DQ, CA7 0DE, CA7 0BE, CA7 0BJ, CA7 3NW, CA7 3NQ, CA7 3LX, CA7 0AS, CA7 0BS, CA7 9RZ, CA7 0AH, CA7 0BH, CA7 9HS, CA7 8PP, CA7 3SW, CA7 8PJ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -264,48 +264,6 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125322537",
-      "multipleFaultNumbers": null,
-      "date": "2026-04-09T09:51:40",
-      "region": "Waberthwaite, Copeland",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 9,
-      "estimatedTimeOfRestoration": "2026-04-09T16:30:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-09T16:30:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.312098,
-        "lng": -3.368881
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " LA19 5TR, LA19 5XJ, LA19 5TN, LA19 5TX, LA19 5XD, LA19 5UL, LA19 5UH, LA19 5TJ, LA19 5TZ, LA19 5XN, LA19 5TW, LA19 5XT, LA19 5XL, LA19 5TU, LA19 5TL, LA19 5XS, LA19 5OX, LA19 5YP, LA19 5UN, LA19 5UJ, LA19 5TP, LA19 5UW, LA19 5TS, CA18 1RT, LA19 5YN, LA19 5YJ, LA19 5YH, CA18 1RW, CA18 1RL, CA18 1RN, CA18 1SU, CA18 1RR, CA18 1RS, LA19 5YL, LA19 5TT",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -325,8 +283,8 @@
       "date": "2026-04-09T15:34:23",
       "region": "Lea & Larches, Preston",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 3,
       "estimatedTimeOfRestoration": "2026-04-09T21:34:00",
       "estimatedTimeOfRestorationMajority": "2026-04-09T21:34:00",
@@ -350,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 7,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
