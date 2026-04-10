@@ -68,24 +68,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125323552",
+      "faultNumber": "INC 125323559",
       "multipleFaultNumbers": null,
-      "date": "2026-04-10T22:52:01",
-      "region": "Heaton And Lostock, Bolton",
+      "date": "2026-04-10T23:58:58",
+      "region": "Bulk, Lancaster",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 110,
-      "estimatedTimeOfRestoration": "2026-04-11T04:52:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-11T04:52:00",
+      "consumersOff": 101,
+      "estimatedTimeOfRestoration": "2026-04-11T05:58:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-11T05:58:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.573071,
-        "lng": -2.478047
+        "lat": 54.048596,
+        "lng": -2.792296
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BL3 4PL, BL3 4PT, BL3 4PW, BL3 4PQ, BL3 4PG, BL3 4PS, BL3 4PN, BL3 4PJ, BL3 4PB",
+      "AffectedPostcodes": " LA1 3PX, LA1 3PY, LA1 3QA, LA1 3QS, LA1 3QB, LA1 3QF, LA1 3PZ, LA1 3QP, LA1 3QE",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -110,24 +110,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125323559",
+      "faultNumber": "INC 125323552",
       "multipleFaultNumbers": null,
-      "date": "2026-04-10T23:58:58",
-      "region": "Bulk, Lancaster",
+      "date": "2026-04-10T22:52:01",
+      "region": "Heaton And Lostock, Bolton",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 101,
-      "estimatedTimeOfRestoration": "2026-04-11T05:58:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-11T05:58:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 72,
+      "estimatedTimeOfRestoration": "2026-04-11T04:52:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-11T04:52:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.048596,
-        "lng": -2.792296
+        "lat": 53.573248,
+        "lng": -2.477962
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA1 3PX, LA1 3PY, LA1 3QA, LA1 3QS, LA1 3QB, LA1 3QF, LA1 3PZ, LA1 3QP, LA1 3QE",
+      "AffectedPostcodes": " BL3 4PT, BL3 4PW, BL3 4PL, BL3 4PG, BL3 4PQ, BL3 4PS, BL3 4PN, BL3 4PB",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -221,7 +221,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -241,8 +241,8 @@
       "date": "2026-04-11T00:03:56",
       "region": "Barton, Preston",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 10,
       "estimatedTimeOfRestoration": "2026-04-11T00:30:00",
       "estimatedTimeOfRestorationMajority": "2026-04-11T00:30:00",
@@ -254,7 +254,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " PR3 2JS, PR3 5AX",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     }
