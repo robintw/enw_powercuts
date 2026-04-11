@@ -68,48 +68,6 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125323559",
-      "multipleFaultNumbers": null,
-      "date": "2026-04-10T23:58:58",
-      "region": "Bulk, Lancaster",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 9,
-      "estimatedTimeOfRestoration": "2026-04-11T21:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-11T21:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.048596,
-        "lng": -2.792296
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " LA1 3PY, LA1 3QA, LA1 3QS, LA1 3QB, LA1 3QF, LA1 3PZ, LA1 3PX, LA1 3QP, LA1 3QE",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
       "faultNumber": "INC 125323244",
       "multipleFaultNumbers": null,
       "date": "2026-04-10T12:19:59",
@@ -214,6 +172,48 @@
       "AffectedPostcodes": " SK10 4TD, SK10 4TN, SK10 4RU, SK10 4RS, SK11 9JY, SK10 4SZ, SK10 4TA, SK10 4SY, SK10 4RX, SK11 9JX, SK10 4RT, SK10 4TG, SK11 9AH, SK10 4TW, SK10 4SN, SK10 4TE, SK11 9AG",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125323846",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-11T21:25:58",
+      "region": "Bromley Cross, Bolton",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 117,
+      "estimatedTimeOfRestoration": "2026-04-12T03:23:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-12T03:23:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.616148,
+        "lng": -2.428088
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BL7 9HD, BL7 9XS, BL7 9XT, BL7 9XU, BL7 9DT",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
