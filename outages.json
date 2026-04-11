@@ -152,26 +152,68 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125323808",
+      "faultNumber": "INC 125323821",
       "multipleFaultNumbers": null,
-      "date": "2026-04-11T17:23:56",
-      "region": "Padiham, Burnley",
+      "date": "2026-04-11T18:33:41",
+      "region": "City Centre, Preston",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 22,
-      "estimatedTimeOfRestoration": "2026-04-11T23:23:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-11T23:23:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 76,
+      "estimatedTimeOfRestoration": "2026-04-12T00:33:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-12T00:33:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.809568,
-        "lng": -2.316113
+        "lat": 53.757888,
+        "lng": -2.694472
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB12 9AB, BB12 9AA",
+      "AffectedPostcodes": " PR1 3YH, PR1 3BT, PR1 3AG, PR1 3XQ, PR1 3XD, PR1 3YD, PR1 3XP, PR1 3XY, PR1 3XX, PR1 3UE, PR1 3YB, PR1 3SD, PR1 3TP, PR1 3XJ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125323805",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-11T17:04:42",
+      "region": "Thurnham, Lancaster",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 44,
+      "estimatedTimeOfRestoration": "2026-04-11T20:04:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-11T20:04:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.981134,
+        "lng": -2.843005
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA2 0AZ, LA2 0DY, LA1 1PE, LA2 0AY, LA2 0AX, LA2 0EQ, LA2 0AR, LA2 0ER",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -201,61 +243,19 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 18,
+      "consumersOff": 20,
       "estimatedTimeOfRestoration": "2026-04-11T19:25:00",
       "estimatedTimeOfRestorationMajority": "2026-04-11T19:25:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.616118,
-        "lng": -2.430609
+        "lat": 53.616489,
+        "lng": -2.430979
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BL7 9DT",
+      "AffectedPostcodes": " BL7 9DT, BL7 9HS",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125323773",
-      "multipleFaultNumbers": null,
-      "date": "2026-04-11T15:33:18",
-      "region": "Wigan Central, Wigan",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 335,
-      "estimatedTimeOfRestoration": "2026-04-11T18:33:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-11T18:33:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.545653,
-        "lng": -2.638208
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " WN1 1HA, WN1 1HZ, WN1 1NF, WN1 1NA, WN1 1HP, WN1 1HG, WN1 1HB, WN1 1EX, WN1 1HT, WN1 1HR, WN1 1HW, WN1 1HE, WN1 1EY, WN1 1HS, WN6 7DD, WN1 1HD, WN6 7DB, WN6 7DE, WN1 1HH, WN6 7DF, WN6 7DA, WN6 7DG, WN6 7DQ, WN6 7DP, WN6 7DS, WN1 1EZ, WN6 7DU, WN6 7DR, WN6 7DX, WN6 7DH, WN6 7DJ",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     }
   ],
