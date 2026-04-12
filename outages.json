@@ -95,7 +95,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -128,92 +128,8 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " LA2 0AZ, LA2 0DY, LA1 1PE, LA2 0AY, LA2 0AX, LA2 0EQ, LA2 0AR, LA2 0ER",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125324035",
-      "multipleFaultNumbers": null,
-      "date": "2026-04-12T10:11:47",
-      "region": "Saddleworth, Oldham",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 47,
-      "estimatedTimeOfRestoration": "2026-04-12T13:11:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-12T13:11:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.540760,
-        "lng": -1.992282
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " OL3 7NF, OL3 7NW, OL3 7NP, OL3 7PD, OL3 7NN, OL3 7NL, OL3 7NT, OL3 7NY, OL3 7PB, OL3 7NU, OL3 7NX, OL3 7PA, OL3 7JR",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125323995",
-      "multipleFaultNumbers": null,
-      "date": "2026-04-12T08:36:26",
-      "region": "Newton-Le-Willows West, St. Helens",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 54,
-      "estimatedTimeOfRestoration": "2026-04-12T14:36:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-12T14:36:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.451337,
-        "lng": -2.638989
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " WA12 9PJ, WA12 9AS, WA12 9AH, WA12 9QX, WA12 9XH, WA12 9PB, WA12 9AU",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -241,8 +157,8 @@
       "date": "2026-04-12T09:46:26",
       "region": "Brampton, Carlisle",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 12,
       "estimatedTimeOfRestoration": "2026-04-12T15:46:00",
       "estimatedTimeOfRestorationMajority": "2026-04-12T15:46:00",
@@ -266,7 +182,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 3,
   "ShowPolygons": false,
   "Regions": [
     {
