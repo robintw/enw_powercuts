@@ -89,48 +89,6 @@
       "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125324126",
-      "multipleFaultNumbers": null,
-      "date": "2026-04-12T14:44:26",
-      "region": "Little Hulton, Salford",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 634,
-      "estimatedTimeOfRestoration": "2026-04-12T17:44:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-12T17:44:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.520700,
-        "lng": -2.430370
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M38 0EG, M28 1PS, M28 0HS, M28 1AG, M38 0GQ, M28 0JA, M28 1AS, M28 0HR, M29 8QX, M28 0JY, M28 1BG, M28 0BL, M29 8SF, M38 0DT, M38 0DJ, M28 1BP, M38 0BF, M29 8SP, M38 0PU, M28 1BQ, M29 8PR, M29 8SD, M38 0DU, M28 1AY, M28 1AU, M29 8SJ, M28 1AP, M29 8QH, M28 1DN, M38 0DG, M28 1PA, M28 1PE, M28 0YR, M28 0LB, M28 0JT, M38 0EN, M28 0HY, M38 0FN, M28 0YG, M38 0FU, M38 0DD, M38 0FG, M38 0DH, M38 0FL, M29 8RG, M38 0ET, M28 1NX, M28 1PF, M38 0GR, M28 1PN, M29 8RZ, M38 0ES, M28 1PJ, M28 1SA, M38 0DQ, M28 1PT, M28 0HG, M28 1AT, M28 0BW, M29 8QY, M28 0GP, M28 0LJ, M28 0BJ, M29 8SG, M38 0DS, M28 0BD, M38 0DZ, M28 1AZ, M28 1AL, M28 1AW, M28 1GD, M28 1AF, M28 0YP, M38 0EE, M28 0JU, M38 0ED, M29 8SQ, M28 0HF, M28 1AH, M29 8RB, M38 0PT, M28 1NU, M38 0FQ, M28 1PH, M38 0DP, M28 0BB, M28 0HL, M28 0HN, M28 1AX, M28 0BH, M38 0DL, M28 1AN, M28 1FF, M28 1SD, M38 0DN, M28 1QA, M28 0JS, M38 0EW, M38 0DB, M38 0ER, M38 0FW, M38 0PA, M38 0FT, M38 0EQ, M28 1PG, M38 0FY, M28 1PR, M28 0JX, M38 0NL, M28 1PU, M28 0JB, M38 0FS, M38 0PJ, M38 0EY, M28 0HA, M28 1EL, M29 8AP, M38 0EP, M38 0EU, M29 8SN, M28 1EJ, M38 0FE, M28 1SB, M28 1AR, M29 8RH, M28 0JZ, M38 0DF, M38 0DR, M28 1PQ, M28 0EL, M28 0BE, M29 8SE, M38 0FR, M28 1PY, M38 0BR, M28 1AQ, M28 1DP, M38 9EG, M38 0EA, M28 0DW, M29 8RA, M38 0AA, M28 1BW, M28 1PD, M38 0FP, M29 8PG, M38 0YR, M38 0DE, M28 3BS, M38 0EX, M38 0FB, M21 9AW, M38 9AP",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -140,7 +98,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 2,
+  "TotalResults": 1,
   "ShowPolygons": false,
   "Regions": [
     {
