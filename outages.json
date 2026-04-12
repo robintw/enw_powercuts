@@ -159,17 +159,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 16,
+      "consumersOff": 47,
       "estimatedTimeOfRestoration": "2026-04-12T13:11:00",
       "estimatedTimeOfRestorationMajority": "2026-04-12T13:11:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.539710,
-        "lng": -1.981140
+        "lat": 53.540760,
+        "lng": -1.992282
       },
       "outageLocations": null,
-      "AffectedPostcodes": " OL3 7NF, OL3 7NW, OL3 7NP, OL3 7PD, OL3 7NN, OL3 7NL",
+      "AffectedPostcodes": " OL3 7NF, OL3 7NW, OL3 7NP, OL3 7PD, OL3 7NN, OL3 7NL, OL3 7NT, OL3 7NY, OL3 7PB, OL3 7NU, OL3 7NX, OL3 7PA, OL3 7JR",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -222,7 +222,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -236,26 +236,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125323930",
+      "faultNumber": "INC 125324038",
       "multipleFaultNumbers": null,
-      "date": "2026-04-12T04:32:59",
-      "region": "Halton-With-Aughton, Lancaster",
+      "date": "2026-04-12T09:46:26",
+      "region": "Brampton, Carlisle",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 11,
-      "estimatedTimeOfRestoration": "2026-04-12T11:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-12T11:00:00",
+      "consumersOff": 12,
+      "estimatedTimeOfRestoration": "2026-04-12T15:46:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-12T15:46:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.084663,
-        "lng": -2.746638
+        "lat": 54.943760,
+        "lng": -2.721511
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA2 6NL, LA2 6QR, LA2 6QE, LA2 6NY, LA2 6PG, LA2 6NZ, LA2 6RL, LA2 6QG, LA2 6QH, LA2 6FG, LA2 6NH, LA2 6QT, LA2 6QX, LA2 6PY, LA2 6PE, LA2 6NP, LA2 6FL, LA2 6QU, LA2 9HU, LA2 6QL, LA2 6QN, LA2 6QQ, LA6 1HF, LA2 6QF, LA2 6QA, LA2 6NT, LA2 6NN, LA2 6NJ, LA2 6QP, LA2 6NU, LA2 6QS, LA2 6NR, LA2 6PD, LA2 6QW, LA2 6NX, LA2 6PZ, LA2 6PX, LA2 6FH, LA2 6QJ, LA2 6QY, LA2 6PU, LA6 1DY, LA2 6NS, LA2 6QB, LA2 6PQ, LA2 6NW, LA2 6PA, LA6 1DZ, LA2 6PF, LA2 6QZ, LA2 6PH, LA2 6ZZ, LA6 1HD, LA2 6PB",
+      "AffectedPostcodes": " CA8 1EN, CA8 1BE, CA8 1EW, CA8 2EY",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     }
   ],
