@@ -75,59 +75,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 24,
-      "estimatedTimeOfRestoration": "2026-04-14T16:30:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-14T16:30:00",
+      "consumersOff": 9,
+      "estimatedTimeOfRestoration": "2026-04-14T15:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-14T15:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.795918,
-        "lng": -2.315469
+        "lat": 53.795850,
+        "lng": -2.315956
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB12 7AT, BB12 7AX, BB12 7AY, BB12 7BA, BB12 7BN, BB12 7AN, BB12 7AZ",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125325616",
-      "multipleFaultNumbers": null,
-      "date": "2026-04-14T10:46:47",
-      "region": "Orrell, Wigan",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 57,
-      "estimatedTimeOfRestoration": "2026-04-14T16:46:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-14T16:46:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.533741,
-        "lng": -2.706482
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " WN5 8SB, WN5 8SP, WN5 8RG, WN5 8SF, WN5 8SG, WN5 8RZ",
+      "AffectedPostcodes": " BB12 7AT, BB12 7AN, BB12 7BN",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -214,6 +172,48 @@
       "AffectedPostcodes": " CA23 3AD, CA23 3EY, CA23 3EX, CA23 3DG",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125325674",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-14T11:33:29",
+      "region": "Denton Holme & Morton South, Carlisle",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 217,
+      "estimatedTimeOfRestoration": "2026-04-14T17:33:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-14T17:33:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.882466,
+        "lng": -2.945287
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " CA2 5SG, CA2 6AJ, CA2 6EQ, CA2 5SA, CA2 6AG, CA2 5SF, CA2 5SE, CA2 5SJ, CA2 6EH, CA2 6AA, CA2 6AB, CA2 6AL, CA2 6EG, CA2 6AE",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -325,8 +325,8 @@
       "date": "2026-04-14T09:55:54",
       "region": "Hyde Werneth, Tameside",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 7,
       "estimatedTimeOfRestoration": "2026-04-14T15:55:00",
       "estimatedTimeOfRestorationMajority": "2026-04-14T15:55:00",
