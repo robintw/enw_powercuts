@@ -95,7 +95,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -128,7 +128,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " PR4 3RJ, PR4 3RL",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -157,19 +157,19 @@
       "date": "2026-04-16T04:24:28",
       "region": "Saddleworth West And Lees, Oldham",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 159,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 87,
       "estimatedTimeOfRestoration": "2026-04-16T10:24:00",
       "estimatedTimeOfRestorationMajority": "2026-04-16T10:24:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.546559,
-        "lng": -2.070605
+        "lat": 53.546853,
+        "lng": -2.070537
       },
       "outageLocations": null,
-      "AffectedPostcodes": " OL4 3NE, OL4 3JP, OL4 3JL, OL4 3NW, OL4 3JH, OL4 3JB, OL4 3JJ",
+      "AffectedPostcodes": " OL4 3NE, OL4 3JP, OL4 3JL, OL4 3NW, OL4 3JH, OL4 3JB",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
