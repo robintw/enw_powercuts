@@ -110,24 +110,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241191314",
+      "faultNumber": "INC 1241191453",
       "multipleFaultNumbers": null,
-      "date": "2026-04-16T16:56:02",
-      "region": "Ashton, Wigan",
+      "date": "2026-04-17T07:00:56",
+      "region": "St. Mary's, Oldham",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 6,
+      "consumersOff": 14,
       "estimatedTimeOfRestoration": "2026-04-17T15:30:00",
       "estimatedTimeOfRestorationMajority": "2026-04-17T15:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.497413,
-        "lng": -2.617490
+        "lat": 53.544923,
+        "lng": -2.107581
       },
       "outageLocations": null,
-      "AffectedPostcodes": " WN4 8UQ",
+      "AffectedPostcodes": " OL1 3UQ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -152,24 +152,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241191453",
+      "faultNumber": "INC 1241191784",
       "multipleFaultNumbers": null,
-      "date": "2026-04-17T07:00:56",
-      "region": "St. Mary's, Oldham",
+      "date": "2026-04-17T14:23:59",
+      "region": "Lakes, South Lakeland",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 14,
-      "estimatedTimeOfRestoration": "2026-04-17T15:30:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-17T15:30:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 23,
+      "estimatedTimeOfRestoration": "2026-04-17T20:23:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-17T20:23:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.544923,
-        "lng": -2.107581
+        "lat": 54.430807,
+        "lng": -2.961281
       },
       "outageLocations": null,
-      "AffectedPostcodes": " OL1 3UQ",
+      "AffectedPostcodes": " LA22 0BL, LA22 0AD, LA22 9DB, LA22 9BU, LA22 0AB, LA22 0DN, LA22 0AA, LA22 0QY",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -221,7 +221,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -254,7 +254,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " BL1 4DL, BL1 4DH, BL1 4DN, BL1 4DW",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -299,6 +299,48 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241191801",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-17T14:41:07",
+      "region": "Marple North, Stockport",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 116,
+      "estimatedTimeOfRestoration": "2026-04-17T20:41:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-17T20:41:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.390343,
+        "lng": -2.076349
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK6 7PZ, SK6 7RE, SK6 7QQ, SK6 7RH, SK6 7RD, SK6 7QZ, SK6 7RJ, SK6 7QX, SK6 7RB",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -308,7 +350,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 6,
+  "TotalResults": 7,
   "ShowPolygons": false,
   "Regions": [
     {
