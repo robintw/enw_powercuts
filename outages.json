@@ -263,7 +263,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -286,8 +286,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 24,
-      "estimatedTimeOfRestoration": null,
-      "estimatedTimeOfRestorationMajority": null,
+      "estimatedTimeOfRestoration": "2026-04-18T16:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-18T16:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -296,7 +296,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " LA2 8NG, LA2 8ND, LA2 8NF, LA2 8NE, LA2 8NH, LA2 8QY, LA2 8PS, LA2 8PH, LA2 8PN, LA2 8PW, LA2 8PP, LA2 8PJ, LA2 7DW, LA2 8PX, LA2 8PR, LA2 7DN, LA2 8PT, LA2 7DL, LA2 8PQ, LA2 8PE, LA2 8PG, LA2 8PF",
-      "UnderReviewStatusTimeCheck": true,
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
