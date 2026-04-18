@@ -76,8 +76,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 9,
-      "estimatedTimeOfRestoration": "2026-04-18T15:05:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-18T15:05:00",
+      "estimatedTimeOfRestoration": "2026-04-18T18:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-18T18:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -159,17 +159,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 216,
-      "estimatedTimeOfRestoration": "2026-04-18T15:13:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-18T15:13:00",
+      "consumersOff": 68,
+      "estimatedTimeOfRestoration": "2026-04-18T18:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-18T18:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.206823,
-        "lng": -3.273347
+        "lat": 54.205927,
+        "lng": -3.271941
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA18 4PQ, LA18 4PE, LA18 4QS, LA18 4PD, LA18 4PL, LA18 4PB, LA18 4PN, LA18 4PJ, LA18 4QT, LA18 4PP, LA18 4PW, LA18 4JD, LA18 4PF, LA18 4PH, LA18 4QX, LA18 4QR, LA18 4PX",
+      "AffectedPostcodes": " LA18 4PE, LA18 4PH, LA18 4PF, LA18 4PB, LA18 4PQ, LA18 4PD",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -200,7 +200,7 @@
       "region": "Colne, Pendle",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 20,
       "estimatedTimeOfRestoration": "2026-04-18T18:41:00",
       "estimatedTimeOfRestorationMajority": "2026-04-18T18:41:00",
@@ -404,6 +404,48 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 1241192205",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-18T14:39:13",
+      "region": "Holme St. Cuthbert, Allerdale",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 97,
+      "estimatedTimeOfRestoration": "2026-04-18T17:39:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-18T17:39:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.807985,
+        "lng": -3.369910
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " CA15 6RA, CA15 6QU, CA15 6QZ, CA15 6QY, CA15 6QX, CA7 4NG, CA7 4NF, CA7 4NQ, CA7 4NE, CA7 3LE, CA7 3LD, CA7 4ND, CA7 4NB",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": true,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 1241192165",
       "multipleFaultNumbers": null,
       "date": "2026-04-18T12:14:54",
@@ -422,7 +464,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " CA18 1SE, CA18 1SP, CA18 1SL, CA18 1SQ, CA18 1SW, CA18 1SR, CA18 1SD, CA18 1SG, CA18 1SF, CA18 1RG, CA18 1RD, CA18 1RJ, CA18 1SH, CA18 1RF, CA18 1SJ, CA18 1RQ, CA18 1SN, CA18 1RT",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
@@ -476,7 +518,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 10,
+  "TotalResults": 11,
   "ShowPolygons": false,
   "Regions": [
     {
