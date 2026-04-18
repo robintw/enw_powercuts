@@ -53,6 +53,48 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
+      "UnderReview": true,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241191438",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-17T03:27:51",
+      "region": "Kirkham, Fylde",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 15,
+      "estimatedTimeOfRestoration": "2026-04-17T10:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-17T10:00:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.781527,
+        "lng": -2.878350
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR4 2AU",
+      "UnderReviewStatusTimeCheck": true,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
       "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
@@ -172,48 +214,6 @@
       "AffectedPostcodes": " LA18 4PE, LA18 4PH, LA18 4PF, LA18 4PB, LA18 4PQ, LA18 4PD",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241192219",
-      "multipleFaultNumbers": null,
-      "date": "2026-04-18T15:58:21",
-      "region": "Holme St. Cuthbert, Allerdale",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 19,
-      "estimatedTimeOfRestoration": "2026-04-18T17:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-18T17:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.796398,
-        "lng": -3.400318
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " CA15 6RA",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -367,8 +367,8 @@
       "date": "2026-04-18T16:21:09",
       "region": "Tarleton, West Lancashire",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 38,
       "estimatedTimeOfRestoration": "2026-04-18T22:21:00",
       "estimatedTimeOfRestorationMajority": "2026-04-18T22:21:00",
@@ -409,8 +409,8 @@
       "date": "2026-04-18T16:28:18",
       "region": "Fleetwood, Wyre",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 52,
       "estimatedTimeOfRestoration": "2026-04-18T22:28:00",
       "estimatedTimeOfRestorationMajority": "2026-04-18T22:28:00",
