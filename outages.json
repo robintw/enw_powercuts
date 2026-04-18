@@ -68,24 +68,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241191965",
+      "faultNumber": "INC 1241191995",
       "multipleFaultNumbers": null,
-      "date": "2026-04-17T22:02:05",
-      "region": "Tottington, Bury",
+      "date": "2026-04-17T23:42:47",
+      "region": "Longton, South Ribble",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 8,
-      "estimatedTimeOfRestoration": "2026-04-18T15:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-18T15:00:00",
+      "consumersOff": 9,
+      "estimatedTimeOfRestoration": "2026-04-18T15:05:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-18T15:05:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.607254,
-        "lng": -2.339029
+        "lat": 53.724699,
+        "lng": -2.787582
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BL8 3JU, BL8 3JW, BL8 3JL, BL8 3JN",
+      "AffectedPostcodes": " PR4 5AL, PR4 5AN",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -110,24 +110,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241192049",
+      "faultNumber": "INC 1241191965",
       "multipleFaultNumbers": null,
-      "date": "2026-04-18T07:35:40",
-      "region": "Longton, South Ribble",
+      "date": "2026-04-17T22:02:05",
+      "region": "Tottington, Bury",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 24,
-      "estimatedTimeOfRestoration": "2026-04-18T13:35:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-18T13:35:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 8,
+      "estimatedTimeOfRestoration": "2026-04-18T15:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-18T15:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.725232,
-        "lng": -2.787025
+        "lat": 53.607254,
+        "lng": -2.339029
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR4 5AN, PR4 5AL, PR4 5AA",
+      "AffectedPostcodes": " BL8 3JU, BL8 3JW, BL8 3JL, BL8 3JN",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -236,6 +236,48 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 1241192121",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-18T10:15:10",
+      "region": "Bickerstaffe, West Lancashire",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 117,
+      "estimatedTimeOfRestoration": "2026-04-18T13:15:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-18T13:15:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.516336,
+        "lng": -2.832125
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " L39 0ET, L39 0HR, L39 0EU, L39 0EX, L39 0HW, L39 0HL, L33 4YH, L33 4YB, L39 0HX, L39 0HP, L39 0HF, L39 0HN",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 1241192004",
       "multipleFaultNumbers": null,
       "date": "2026-04-18T01:13:19",
@@ -266,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
