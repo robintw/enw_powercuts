@@ -76,8 +76,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 122,
-      "estimatedTimeOfRestoration": "2026-04-19T23:02:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-19T23:02:00",
+      "estimatedTimeOfRestoration": "2026-04-19T22:45:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-19T22:45:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -194,24 +194,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241192846",
+      "faultNumber": "INC 1241192892",
       "multipleFaultNumbers": null,
-      "date": "2026-04-19T18:48:44",
-      "region": "Farington, South Ribble",
+      "date": "2026-04-19T21:33:13",
+      "region": "Clifford, Trafford",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 38,
-      "estimatedTimeOfRestoration": "2026-04-20T00:48:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-20T00:48:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 137,
+      "estimatedTimeOfRestoration": "2026-04-20T03:33:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-20T03:33:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.702638,
-        "lng": -2.686085
+        "lat": 53.464366,
+        "lng": -2.264082
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR25 4GJ, PR25 4QJ",
+      "AffectedPostcodes": " M16 9AE, M16 9AF, M15 5OX, M15 5TN, M15 5TQ, M16 9AB, M16 9DQ, M16 9DG, M16 9BQ, M16 9DA, M16 7PG, M16 7PF, M16 9BJ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -236,24 +236,66 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241192892",
+      "faultNumber": "INC 1241192900",
       "multipleFaultNumbers": null,
-      "date": "2026-04-19T21:33:13",
-      "region": "Clifford, Trafford",
+      "date": "2026-04-19T22:03:44",
+      "region": "Milnrow & Newhey, Rochdale",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 137,
-      "estimatedTimeOfRestoration": "2026-04-20T03:33:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-20T03:33:00",
+      "consumersOff": 22,
+      "estimatedTimeOfRestoration": "2026-04-20T04:03:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-20T04:03:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.464366,
-        "lng": -2.264082
+        "lat": 53.611008,
+        "lng": -2.103698
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M16 9AE, M16 9AF, M15 5OX, M15 5TN, M15 5TQ, M16 9AB, M16 9DQ, M16 9DG, M16 9BQ, M16 9DA, M16 7PG, M16 7PF, M16 9BJ",
+      "AffectedPostcodes": " OL16 3DX, OL16 3DS, OL16 3DY",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241192901",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-19T22:04:21",
+      "region": "Farington, South Ribble",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 38,
+      "estimatedTimeOfRestoration": "2026-04-20T01:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-20T01:00:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.702638,
+        "lng": -2.686085
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR25 4GJ, PR25 4QJ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -266,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
