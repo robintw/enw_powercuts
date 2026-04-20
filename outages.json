@@ -68,26 +68,68 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241193065",
+      "faultNumber": "INC 1241192054",
       "multipleFaultNumbers": null,
-      "date": "2026-04-20T09:28:01",
-      "region": "Milkstone & Deeplish, Rochdale",
+      "date": "2026-04-18T07:52:30",
+      "region": "Clayton-Le-Moors, Hyndburn",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 45,
-      "estimatedTimeOfRestoration": "2026-04-20T15:27:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-20T15:27:00",
+      "consumersOff": 12,
+      "estimatedTimeOfRestoration": "2026-04-20T16:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-20T16:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.604926,
-        "lng": -2.165400
+        "lat": 53.778086,
+        "lng": -2.387232
       },
       "outageLocations": null,
-      "AffectedPostcodes": " OL11 3RH, OL11 3RF, OL11 3QS, OL11 3PU, OL11 3PZ, OL11 3PW, OL11 3PX, OL11 3PY",
+      "AffectedPostcodes": " BB5 5PZ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241193207",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-20T11:23:02",
+      "region": "Waddington, Ribble Valley",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 197,
+      "estimatedTimeOfRestoration": "2026-04-20T14:23:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-20T14:23:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.927305,
+        "lng": -2.464424
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BB7 3JJ, BB7 3AX, BB7 3AF, BB7 3BE, BB7 3DZ, BB7 3JQ, BB7 3DL, BB7 3BG, BB7 3OX, BB7 3BB, BB7 3DY, BB7 3BL, BB7 3ED, BB7 3BA, BB7 3BQ, BB7 3DJ, BB7 3AY, BB7 3EA, BB7 3NB, BB7 3JH, BB7 3AA, BB7 3EE, BB7 3AZ, BB7 3BJ, BB7 3BD, BB7 3NA, BB7 3JZ, BB7 3BH, BB7 4BN, BB7 4TR, BB7 3JD, BB7 3ES, BB7 3AB, BB7 4TL, BB7 3AW",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -131,6 +173,90 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241193065",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-20T09:28:01",
+      "region": "Milkstone & Deeplish, Rochdale",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 45,
+      "estimatedTimeOfRestoration": "2026-04-20T15:27:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-20T15:27:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.604926,
+        "lng": -2.165400
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL11 3RH, OL11 3RF, OL11 3QS, OL11 3PU, OL11 3PZ, OL11 3PW, OL11 3PX, OL11 3PY",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241193189",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-20T11:07:56",
+      "region": "Central Rochdale, Rochdale",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 22,
+      "estimatedTimeOfRestoration": "2026-04-20T17:01:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-20T17:01:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.614892,
+        "lng": -2.147139
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL16 2AX, OL16 2AB, OL16 2AU, OL16 2BG, OL16 2AP, OL16 2AR, OL16 2AT, OL16 2AW, OL16 1UD, OL16 2AS",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -140,7 +266,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 2,
+  "TotalResults": 5,
   "ShowPolygons": false,
   "Regions": [
     {
