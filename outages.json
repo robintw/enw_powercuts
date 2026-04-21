@@ -131,6 +131,48 @@
       "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241194250",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-22T00:40:01",
+      "region": "Penwortham, South Ribble",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 238,
+      "estimatedTimeOfRestoration": "2026-04-22T03:40:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-22T03:40:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.732744,
+        "lng": -2.765084
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR4 5FE, PR4 5SU, PR4 5TF, PR4 4AQ, PR4 5EE, PR4 5FL, PR4 5SF, PR4 5SJ, PR4 5FJ, PR4 5SE, PR4 5SR, PR4 5EH, PR4 5TJ, PR4 5SX, PR4 5TE, PR4 5SN, PR4 5SS, PR4 5HA, PR4 5SA, PR4 5SP, PR4 5SQ, PR4 5FH, PR4 5SZ, PR4 5SH, PR4 5HD, PR4 5ST, PR4 5EJ, PR4 5FN, PR4 5TD, PR4 5EN, PR4 5SL, PR4 5EL, PR4 5SD, PR4 5HL, PR4 5SY, PR4 5BG, PR4 5TA, PR4 5HE, PR4 5HJ, PR4 5HH, PR4 5TB, PR1 0LY, PR4 4AS, PR4 4AR, PR4 5HB, PR1 0NS, PR26 9AX, PR4 5SB",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -140,7 +182,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 2,
+  "TotalResults": 3,
   "ShowPolygons": false,
   "Regions": [
     {
