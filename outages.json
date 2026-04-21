@@ -96,48 +96,6 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241193922",
-      "multipleFaultNumbers": null,
-      "date": "2026-04-21T12:20:49",
-      "region": "Newbarns, Barrow-In-Furness",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 478,
-      "estimatedTimeOfRestoration": "2026-04-21T15:20:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-21T15:20:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.122712,
-        "lng": -3.157613
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " LA12 0QN, LA12 0PA, LA13 0LY, LA13 0PF, LA12 0TY, LA12 0QZ, LA13 0NB, LA12 0RJ, LA12 9RT, LA12 0RG, LA13 0LR, LA13 0QB, LA12 0QP, LA12 0RE, LA13 0LT, LA12 0TZ, LA12 0QS, LA12 0TR, LA13 0LX, LA12 0TS, LA12 0RF, LA13 0PY, LA12 0QR, LA12 0TT, LA13 0PL, LA13 0QA, LA12 9RU, LA12 0QT, LA12 0QX, LA13 0NT, LA13 0LZ, LA13 0NE, LA12 0RD, LA12 0QU, LA13 0QR, LA13 0ND, LA13 0PJ, LA12 0TU, LA13 0PD, LA13 0PE, LA13 0NA, LA13 0LU, LA12 0QY, LA13 0NR, LA12 0RH, LA13 0QW, LA12 0QW, LA13 0LS, LA13 0JQ, LA12 0RA, LA12 0RB, LA13 0HB, LA13 0PH, LA13 0QP, LA13 0SG, LA12 0RQ, LA13 0JH, LA12 9DS, LA12 0GR",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -266,7 +224,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 4,
   "ShowPolygons": false,
   "Regions": [
     {
