@@ -75,17 +75,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 37,
+      "consumersOff": 30,
       "estimatedTimeOfRestoration": null,
       "estimatedTimeOfRestorationMajority": null,
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.597630,
-        "lng": -2.392926
+        "lat": 53.597692,
+        "lng": -2.392275
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BL2 3QU, BL2 3QT, BL2 3QX, BL2 3QS",
+      "AffectedPostcodes": " BL2 3QX, BL2 3QS",
       "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -115,11 +115,11 @@
       "date": "2026-04-22T09:36:32",
       "region": "Cumwhitton, Carlisle",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 3,
-      "estimatedTimeOfRestoration": "2026-04-22T12:36:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-22T12:36:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 4,
+      "estimatedTimeOfRestoration": "2026-04-22T14:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-22T14:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -130,48 +130,6 @@
       "AffectedPostcodes": " CA4 9RP, CA4 9SF",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241194297",
-      "multipleFaultNumbers": null,
-      "date": "2026-04-22T07:33:01",
-      "region": "Westward, Allerdale",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 7,
-      "estimatedTimeOfRestoration": "2026-04-22T11:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-22T11:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.808641,
-        "lng": -3.099945
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " CA7 8AS",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "O/HM",
       "addressMpanList": null
     },
     {
@@ -241,8 +199,8 @@
       "date": "2026-04-22T10:51:22",
       "region": "Marple South And High Lane, Stockport",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 96,
       "estimatedTimeOfRestoration": "2026-04-22T16:51:00",
       "estimatedTimeOfRestorationMajority": "2026-04-22T16:51:00",
@@ -283,8 +241,8 @@
       "date": "2026-04-22T10:51:44",
       "region": "Marple South And High Lane, Stockport",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 72,
       "estimatedTimeOfRestoration": "2026-04-22T16:51:00",
       "estimatedTimeOfRestorationMajority": "2026-04-22T16:51:00",
@@ -325,8 +283,8 @@
       "date": "2026-04-22T10:53:28",
       "region": "Hayfield, High Peak",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 82,
       "estimatedTimeOfRestoration": "2026-04-22T13:53:00",
       "estimatedTimeOfRestorationMajority": "2026-04-22T13:53:00",
@@ -338,48 +296,6 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " SK22 2JW, SK22 2LE, SK22 2LJ, SK22 2LL, SK22 2JL, SK22 2LH, SK22 2JF, SK22 2LN, SK22 2LQ, SK22 2JT, SK22 2JP",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241194520",
-      "multipleFaultNumbers": null,
-      "date": "2026-04-22T11:02:03",
-      "region": "Seascale, Copeland",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 32,
-      "estimatedTimeOfRestoration": "2026-04-22T14:02:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-22T14:02:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.398629,
-        "lng": -3.487021
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " CA20 1QN, CA20 1QJ, CA20 1QL, CA20 1PT, CA20 1QW",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -412,8 +328,8 @@
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
       "consumersOff": 3,
-      "estimatedTimeOfRestoration": "2026-04-22T11:35:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-22T11:35:00",
+      "estimatedTimeOfRestoration": "2026-04-22T14:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-22T14:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -434,7 +350,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 9,
+  "TotalResults": 7,
   "ShowPolygons": false,
   "Regions": [
     {
