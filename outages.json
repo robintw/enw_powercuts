@@ -53,6 +53,48 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
+      "UnderReview": true,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125319862",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-04T10:53:32",
+      "region": "Coldhurst, Oldham",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 8,
+      "estimatedTimeOfRestoration": "2026-04-04T13:53:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-04T13:53:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.540432,
+        "lng": -2.111364
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL1 1PF, OL1 1PJ",
+      "UnderReviewStatusTimeCheck": true,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
       "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
@@ -68,24 +110,66 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241195226",
+      "faultNumber": "INC 1241195559",
       "multipleFaultNumbers": null,
-      "date": "2026-04-23T10:29:46",
-      "region": "Carnforth, Lancaster",
+      "date": "2026-04-23T16:21:16",
+      "region": "Ribbleton, Preston",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 13,
-      "estimatedTimeOfRestoration": "2026-04-23T17:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-23T17:00:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 102,
+      "estimatedTimeOfRestoration": "2026-04-23T19:21:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-23T19:21:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.121631,
-        "lng": -2.777695
+        "lat": 53.810569,
+        "lng": -2.662186
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA5 9JA, LA5 9EG",
+      "AffectedPostcodes": " PR3 2DS, PR3 2BD, PR3 2LZ, PR3 2BE, PR3 2LX, PR3 2JW, PR3 2BQ, PR3 2AQ, PR3 2BA, PR3 2LG, PR3 2AT, PR3 2LR, PR2 5EA, PR2 6SP, PR3 2BU, PR3 2NF, PR3 2LW, PR3 2AX, PR3 2LU, PR3 2JR, PR3 2AR, PR3 2AY, PR3 2AU, PR3 2JG, PR2 5SH, PR2 5SN, PR3 2LT, PR3 2BB, PR3 2AN, PR3 2BX, PR3 2BS, PR2 5DY, PR3 2JZ, PR2 5SE, PR2 5NZ, PR3 2BT, PR2 5LH, PR3 2JF, PR3 2BY, PR2 5RU, PR2 5RP, PR2 5DS, PR2 5DW, PR2 5LS, PR3 2LS, PR3 2BH, PR2 5SL, PR2 5DT, PR2 5LZ, PR3 0ZB, PR3 2AF, PR3 2JJ, PR3 2JE, PR3 2JY, PR3 2NW, PR2 5DU, PR2 5SQ, PR3 2PA, PR2 5SJ, PR2 5LG, PR3 2JH, PR2 5TR, PR2 5SB, PR2 5WY, PR3 2FZ, PR3 2RU",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241195562",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-23T16:26:02",
+      "region": "Thurnham, Lancaster",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 45,
+      "estimatedTimeOfRestoration": "2026-04-23T19:26:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-23T19:26:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.967971,
+        "lng": -2.848989
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA2 0AX, LA2 0AY, LA2 0AZ, LA2 0ER, LA2 0EQ, LA2 0DY",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -115,11 +199,11 @@
       "date": "2026-04-23T13:50:50",
       "region": "Waberthwaite, Copeland",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 4,
-      "estimatedTimeOfRestoration": "2026-04-23T16:50:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-23T16:50:00",
+      "estimatedTimeOfRestoration": "2026-04-23T18:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-23T18:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -140,7 +224,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 2,
+  "TotalResults": 4,
   "ShowPolygons": false,
   "Regions": [
     {
