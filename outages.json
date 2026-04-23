@@ -73,19 +73,61 @@
       "date": "2026-04-23T08:26:58",
       "region": "Brampton, Carlisle",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 75,
+      "estimatedTimeOfRestoration": "2026-04-23T13:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-23T13:00:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.945888,
+        "lng": -2.733946
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " CA8 1DJ, CA8 1DA, CA8 1DL, CA8 1DH, CA8 1BX, CA8 1DR, CA8 1DY",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241195117",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-23T09:07:11",
+      "region": "Mungrisdale, Eden",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 27,
-      "estimatedTimeOfRestoration": "2026-04-23T14:26:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-23T14:26:00",
+      "consumersOff": 9,
+      "estimatedTimeOfRestoration": "2026-04-23T15:07:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-23T15:07:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.945372,
-        "lng": -2.734520
+        "lat": 54.663550,
+        "lng": -2.988828
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA8 1DJ, CA8 1DA, CA8 1DL, CA8 1DH, CA8 1BX",
+      "AffectedPostcodes": " CA11 0XR",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -110,108 +152,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241195108",
+      "faultNumber": "INC 1241195164",
       "multipleFaultNumbers": null,
-      "date": "2026-04-23T09:03:41",
-      "region": "Blackfriars & Trinity, Salford",
+      "date": "2026-04-23T09:32:40",
+      "region": "Longford, Trafford",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 14,
-      "estimatedTimeOfRestoration": "2026-04-23T15:03:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-23T15:03:00",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 31,
+      "estimatedTimeOfRestoration": "2026-04-23T15:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-23T15:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.484177,
-        "lng": -2.255465
+        "lat": 53.449421,
+        "lng": -2.278867
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M3 6AJ",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241195109",
-      "multipleFaultNumbers": null,
-      "date": "2026-04-23T09:03:41",
-      "region": "Blackfriars & Trinity, Salford",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 13,
-      "estimatedTimeOfRestoration": "2026-04-23T15:03:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-23T15:03:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.484177,
-        "lng": -2.255465
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M3 6AJ",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241195110",
-      "multipleFaultNumbers": null,
-      "date": "2026-04-23T09:03:58",
-      "region": "Blackfriars & Trinity, Salford",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 13,
-      "estimatedTimeOfRestoration": "2026-04-23T15:03:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-23T15:03:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.484097,
-        "lng": -2.255565
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M3 6AJ, M3 6BU",
+      "AffectedPostcodes": " M16 0EX, M21 9GW, M21 9QP, M21 9QW, M21 9AZ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -241,19 +199,19 @@
       "date": "2026-04-23T08:34:01",
       "region": "Spring Hill, Hyndburn",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 26,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 14,
       "estimatedTimeOfRestoration": "2026-04-23T14:34:00",
       "estimatedTimeOfRestorationMajority": "2026-04-23T14:34:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.746715,
-        "lng": -2.368096
+        "lat": 53.747750,
+        "lng": -2.368617
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB5 0PY, BB5 0PG, BB5 0PX, BB5 0PU, BB5 0PS",
+      "AffectedPostcodes": " BB5 0PN, BB5 0PZ, BB5 0PG",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -278,24 +236,66 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241195086",
+      "faultNumber": "INC 1241195168",
       "multipleFaultNumbers": null,
-      "date": "2026-04-23T08:46:41",
-      "region": "Spring Hill, Hyndburn",
+      "date": "2026-04-23T09:36:58",
+      "region": "Saint Anne's On The Sea, Fylde",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
       "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 6,
-      "estimatedTimeOfRestoration": "2026-04-23T14:46:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-23T14:46:00",
+      "consumersOff": 42,
+      "estimatedTimeOfRestoration": "2026-04-23T15:36:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-23T15:36:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.747253,
-        "lng": -2.366555
+        "lat": 53.754014,
+        "lng": -3.012483
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB5 0PG, BB5 0PJ",
+      "AffectedPostcodes": " FY8 3SX, FY8 3NJ, FY8 3TG, FY8 3TD, FY8 3TJ",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241195134",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-23T09:18:06",
+      "region": "Timperley, Trafford",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 33,
+      "estimatedTimeOfRestoration": "2026-04-23T15:16:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-23T15:16:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.407401,
+        "lng": -2.330172
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " WA15 6AG, WA15 6AF, WA15 6AH",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
