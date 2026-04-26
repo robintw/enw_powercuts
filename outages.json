@@ -137,7 +137,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -152,25 +152,25 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241196946",
+      "faultNumber": "INC 1241196782",
       "multipleFaultNumbers": null,
-      "date": "2026-04-26T14:47:23",
+      "date": "2026-04-26T07:53:09",
       "region": "Spotland & Falinge, Rochdale",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 4,
-      "estimatedTimeOfRestoration": "2026-04-26T20:47:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-26T20:47:00",
+      "consumersOff": 5,
+      "estimatedTimeOfRestoration": "2026-04-26T20:03:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-26T20:03:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.620751,
-        "lng": -2.164835
+        "lat": 53.619174,
+        "lng": -2.165269
       },
       "outageLocations": null,
-      "AffectedPostcodes": " OL12 6QW",
-      "UnderReviewStatusTimeCheck": false,
+      "AffectedPostcodes": " OL12 6TA, OL12 6PQ, OL12 6TJ, OL12 6SZ, OL12 6TG, OL12 6TE, OL12 6TQ, OL12 6PE, OL12 6TH, OL12 6TL, OL12 6PJ, OL12 6SG, OL12 6RX, OL12 6TP, OL12 6QW",
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -199,8 +199,8 @@
       "date": "2026-04-26T19:33:51",
       "region": "Knowsley, West Lancashire",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 3,
       "estimatedTimeOfRestoration": "2026-04-27T01:33:00",
       "estimatedTimeOfRestorationMajority": "2026-04-27T01:33:00",
@@ -256,6 +256,48 @@
       "AffectedPostcodes": " FY1 2NX, FY1 2NW, FY1 2NP, FY1 2NR, FY1 2NU, FY1 2PP, FY1 2JJ, FY1 2HQ, FY1 2JL, FY1 2JH, FY1 2HH, FY1 2LW, FY1 2HL, FY1 2HJ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241197072",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-26T19:55:16",
+      "region": "Arnside, South Lakeland",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 205,
+      "estimatedTimeOfRestoration": "2026-04-26T22:55:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-26T22:55:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.169305,
+        "lng": -2.818273
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA5 0TF, LA5 0UG, LA5 0UB, LA5 0JF, LA5 0RR, LA5 0TG, LA5 0US, LA5 0TP, LA5 0TY, LA5 0RD, LA5 0SS, LA5 0UH, LA5 0TU, LA5 0RF, LA5 0TA, LA5 0SR, LA5 0TE, LA5 0TJ, LA5 9ST, LA5 0SU, LA5 0TW, LA5 0RS, LA5 0RA, LA5 0TX, LA5 0UT, LA5 0ST, LA5 0TT, LA5 0RJ, LA5 0TL, LA5 0UA, LA5 0RH, LA5 0TQ, LA5 0SP, LA5 0TZ, LA5 0TD, LA5 0TN, LA5 0JG, LA5 9RZ, LA5 0SW, LA5 0UR, LA5 0TR, LA5 0TH, LA5 9SB, LA5 0TS, LA5 0RN, LA5 0UL, LA5 0RE, LA5 0RG, LA5 9SA, LA5 0UF, LA5 0UE, LA5 0RQ, LA5 0TB, LA5 0UD, LA5 0AF, LA5 0UJ, LA5 0SB, LA5 0UQ, LA5 0AB, LA5 0EG",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -327,7 +369,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 12,
+      "consumersOff": 4,
       "estimatedTimeOfRestoration": "2026-04-26T21:30:00",
       "estimatedTimeOfRestorationMajority": "2026-04-26T21:30:00",
       "information": "",
@@ -392,7 +434,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 8,
+  "TotalResults": 9,
   "ShowPolygons": false,
   "Regions": [
     {
