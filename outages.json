@@ -115,8 +115,8 @@
       "date": "2026-04-26T07:06:41",
       "region": "Ulverston, South Lakeland",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 67,
       "estimatedTimeOfRestoration": "2026-04-26T13:06:00",
       "estimatedTimeOfRestorationMajority": "2026-04-26T13:06:00",
@@ -152,16 +152,16 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241196771",
+      "faultNumber": "INC 1241196741",
       "multipleFaultNumbers": null,
-      "date": "2026-04-26T07:19:38",
+      "date": "2026-04-26T01:25:54",
       "region": "Ashton, Wigan",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 4,
-      "estimatedTimeOfRestoration": "2026-04-26T13:19:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-26T13:19:00",
+      "estimatedTimeOfRestoration": "2026-04-26T13:25:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-26T13:25:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -194,24 +194,66 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241196741",
+      "faultNumber": "INC 1241196782",
       "multipleFaultNumbers": null,
-      "date": "2026-04-26T01:25:54",
-      "region": "Ashton, Wigan",
+      "date": "2026-04-26T07:53:09",
+      "region": "Spotland & Falinge, Rochdale",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 42,
-      "estimatedTimeOfRestoration": "2026-04-26T09:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-26T09:00:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": null,
+      "consumersOff": 96,
+      "estimatedTimeOfRestoration": "2026-04-26T13:53:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-26T13:53:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.491714,
-        "lng": -2.632384
+        "lat": 53.619061,
+        "lng": -2.165300
       },
       "outageLocations": null,
-      "AffectedPostcodes": " WN4 8QR, WN4 8AE, WN4 8PF, WN4 8QS, WN4 8QP",
+      "AffectedPostcodes": " OL12 6TA, OL12 6PQ, OL12 6TJ, OL12 6SZ, OL12 6TG, OL12 6TE, OL12 6TQ, OL12 6PE, OL12 6TH, OL12 6TL, OL12 6PJ, OL12 6SG, OL12 6RX, OL12 6TP",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241196744",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-26T03:48:50",
+      "region": "Claremont, Blackpool",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 74,
+      "estimatedTimeOfRestoration": "2026-04-26T09:48:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-26T09:48:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.828413,
+        "lng": -3.051271
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " FY1 2NX, FY1 2NW, FY1 2NP, FY1 2NR, FY1 2NU, FY1 2PP",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -244,8 +286,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 17,
-      "estimatedTimeOfRestoration": "2026-04-26T08:11:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-26T08:11:00",
+      "estimatedTimeOfRestoration": "2026-04-26T13:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-26T13:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -266,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
