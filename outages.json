@@ -200,10 +200,10 @@
       "region": "Chelford, Cheshire East",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 52,
-      "estimatedTimeOfRestoration": "2026-04-28T19:10:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-28T19:10:00",
+      "estimatedTimeOfRestoration": "2026-04-28T22:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-28T22:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -212,48 +212,6 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " SK11 9AE, SK11 9BR, SK11 9AD, SK11 9BW, SK11 9BP, SK11 9AF, SK11 9AW, SK11 9DS",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241198487",
-      "multipleFaultNumbers": null,
-      "date": "2026-04-28T18:21:48",
-      "region": "Cathedral & Castle, Carlisle",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 63,
-      "estimatedTimeOfRestoration": "2026-04-28T21:21:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-28T21:21:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.891640,
-        "lng": -2.927357
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " CA1 1EE, CA1 2HB, CA1 1SN, CA1 1BJ, CA1 2LY, CA1 2HX, CA1 2ET, CA1 1SQ, CA1 2JF, CA3 8DH, CA1 2AF, CA1 2EW, CA1 1BB, CA1 1HQ, CA1 2HT, CA1 1BE, CA1 2BW, CA1 2HL, CA1 1SH, CA1 2LP, CA1 1SR, CA1 2JU, CA1 2DL, CA1 1DP, CA1 1RP, CA1 2HU, CA1 2EP, CA1 2DN, CA1 1SG, CA1 1DB, CA1 2LL, CA2 5AN, CA1 2EX, CA1 2BH, CA1 1DN, CA1 2AG, CA1 2HR, CA1 2HJ, CA1 1DU, CA1 1RZ, CA1 1QL, CA1 2JB, CA1 1PE, CA1 1HJ, CA1 2HS, CA1 1BG, CA1 1QS, CA1 1DH, CA1 1AE, CA1 2HD, CA6 4QD, CA1 2DS, CA1 1QP, CA1 2HE, CA1 1QW, CA1 1NL, CA1 2DT, CA1 1AB, CA3 8DA, CA1 1RY, CA1 2JL, CA1 1AJ, CA1 1NS, CA1 1RU, CA1 2ES, CA1 1PQ, CA1 1DQ, CA1 1QN, CA1 1DR, CA1 1AG, CA1 2HY, CA1 1PN, CA1 2EU, CA1 1EB, CA1 1QX, CA1 1RS, CA1 1PY, CA3 8EQ, CA1 1PU, CA1 1AF, CA1 1RD, CA1 1RX, CA1 2HA, CA1 1BZ, CA1 2ER, CA1 2JP, CA1 2HW, CA1 2HP, CA3 8DG, CA1 1SL, CA1 1DD, CA1 1PP, CA1 1QY, CA1 1QQ, CA1 1BA, CA3 8JW, CA1 2HQ, CA1 1RN, CA1 2PN, CA2 5AF, CA2 4SD, CA1 1DG, CA1 1PX, CA3 0LJ, CA1 2JD, CA1 1HL, CA1 1RQ, CA2 5AB, CA1 3ET, CA1 1LE, CA1 2HN, CA2 5AW, CA1 1BP, CA3 8ES, CA1 1DJ, CA1 1SW, CA1 1PB",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -326,7 +284,7 @@
       "region": "Reddish North, Stockport",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Preparing to send team",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 76,
       "estimatedTimeOfRestoration": "2026-04-28T23:49:00",
       "estimatedTimeOfRestorationMajority": "2026-04-28T23:49:00",
@@ -350,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 7,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
