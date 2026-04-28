@@ -68,6 +68,48 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 1241196559",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-25T10:50:06",
+      "region": "Waterloo, Blackpool",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 23,
+      "estimatedTimeOfRestoration": "2026-04-28T21:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-28T21:00:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.795014,
+        "lng": -3.055854
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " FY4 1BE, FY4 1BA, FY4 1AZ, FY4 1BB",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": true,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 1241197049",
       "multipleFaultNumbers": null,
       "date": "2026-04-26T18:20:54",
@@ -86,7 +128,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " OL16 5AB",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -118,8 +160,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 5,
-      "estimatedTimeOfRestoration": "2026-04-28T16:30:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-28T16:30:00",
+      "estimatedTimeOfRestoration": "2026-04-28T15:45:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-28T15:45:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -201,7 +243,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 106,
+      "consumersOff": 112,
       "estimatedTimeOfRestoration": "2026-04-28T16:00:00",
       "estimatedTimeOfRestorationMajority": "2026-04-28T16:00:00",
       "information": "",
@@ -320,24 +362,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241198202",
+      "faultNumber": "INC 1241198243",
       "multipleFaultNumbers": null,
-      "date": "2026-04-28T12:27:06",
-      "region": "Fishwick & Frenchwood, Preston",
+      "date": "2026-04-28T13:04:59",
+      "region": "Waterloo, Blackpool",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
       "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 17,
-      "estimatedTimeOfRestoration": "2026-04-28T18:27:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-28T18:27:00",
+      "consumersOff": 10,
+      "estimatedTimeOfRestoration": "2026-04-28T19:04:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-28T19:04:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.756841,
-        "lng": -2.692696
+        "lat": 53.795211,
+        "lng": -3.055027
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR1 3RL, PR1 3XL, PR1 3QT",
+      "AffectedPostcodes": " FY4 1BE, FY4 1HS",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -369,7 +411,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 24,
+      "consumersOff": 25,
       "estimatedTimeOfRestoration": "2026-04-28T19:30:00",
       "estimatedTimeOfRestorationMajority": "2026-04-28T19:30:00",
       "information": "",
@@ -382,6 +424,48 @@
       "AffectedPostcodes": " BL6 5BH, BL6 5TZ, BL6 5BE",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241198292",
+      "multipleFaultNumbers": null,
+      "date": "2026-04-28T13:38:57",
+      "region": "Coldhurst, Oldham",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 90,
+      "estimatedTimeOfRestoration": "2026-04-28T16:38:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-28T16:38:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.542786,
+        "lng": -2.116068
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL1 1NH, OL1 3AA, OL1 3AB, OL1 1JG, OL1 3BG, OL1 1NG, OL1 3BX, OL1 1NU, OL1 3AJ, OL1 3HB, OL1 3BN, OL1 3AE, OL1 3BQ, OL1 1NJ, OL11NH, OL1 3BJ, OL1 1HD, OL1 3EY",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -434,7 +518,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 9,
+  "TotalResults": 11,
   "ShowPolygons": false,
   "Regions": [
     {
