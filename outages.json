@@ -96,7 +96,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -110,26 +110,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241198606",
+      "faultNumber": "INC 1241198614",
       "multipleFaultNumbers": null,
-      "date": "2026-04-29T03:48:05",
-      "region": "Horwich, Bolton",
+      "date": "2026-04-29T04:28:50",
+      "region": "Broadheath, Trafford",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 60,
-      "estimatedTimeOfRestoration": "2026-04-29T09:48:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-29T09:48:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 57,
+      "estimatedTimeOfRestoration": "2026-04-29T10:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-29T10:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.591477,
-        "lng": -2.537798
+        "lat": 53.388466,
+        "lng": -2.351991
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BL6 6EL, BL6 6EJ, BL6 6DY, BL6 6GE, BL6 6DT",
+      "AffectedPostcodes": " WA14 2QS, WA14 1PS, WA14 1EE, WA14 1RZ, WA14 4HJ, WA14 1DG, WA14 1RS, WA14 2AB, WA14 4EF, WA14 1EB, WA14 2QT, WA14 4DW, WA14 1BS, WA14 1DW, WA14 1SF, WA14 2QX, WA14 1RF, WA14 1QB, WA14 1BD, WA14 1RP, WA14 4DL, WA14 1DY, WA14 1JB, WA14 1DU, WA14 2QP, WA14 2WF, WA14 1QE, WA14 1DF, WA14 1RY, WA14 1RU, WA14 1QU, WA14 2AE, WA14 1DP, WA14 1DE, WA14 1BW, WA14 1DQ, WA14 1DA, WA14 1PF, WA14 2QU, WA14 4NU, WA14 1PE, WA14 1BA, WA14 1RR, WA14 1PQ, WA14 4RG, WA14 1QS, WA14 1PJ, WA14 4HW, WA14 4RQ, WA14 2SS, WA14 1BN, WA14 4TT, WA14 4DF, WA14 1PG, WA14 4HN, WA14 4EX, WA14 1DS, WA14 1EZ, WA14 1AS, WA14 1RX, WA14 4DN, WA14 2WE, WA14 4EZ, WA14 4NS, WA14 1RH, WA14 1PZ, WA14 1QP, WA14 4DD, WA14 2RL, WA14 4HL, WA14 2AD, WA14 1AH, WA14 4NP, WA14 1RN, WA14 1EN, WA14 4EW, WA14 4PG, WA14 2WG, WA14 4EQ, WA14 1AT, WA14 4DB, WA14 1JA, WA14 1BL, WA14 1ET, WA14 1RL, WA14 4PJ, WA14 2AB, WA12 2QT, WA14 1DX, WA14 1QA, WA14 1SA, WA14 1EQ, WA14 1QN, WA14 1BH, WA14 4GX, WA14 4NX, WA14 1EJ, WA14 1EU, WA14 1SE, WA14 4PA, WA14 1RJ, WA14 1DB, WA14 1EX, WA14 4QG, WA14 4EG, WA14 5GR, WA14 1ED, WA14 1QD, WA14 1AJ, WA14 1RE, WA14 4WE, WA14 1RG, WA14 1PN, WA14 1DN, WA14 5GZ, WA14 1EG, WA14 2DD, WA14 4NZ, WA14 4DE",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -152,24 +152,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241198607",
+      "faultNumber": "INC 1241198627",
       "multipleFaultNumbers": null,
-      "date": "2026-04-29T03:48:14",
-      "region": "Horwich, Bolton",
+      "date": "2026-04-29T05:34:26",
+      "region": "Winstanley, Wigan",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
       "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 147,
-      "estimatedTimeOfRestoration": "2026-04-29T09:48:00",
-      "estimatedTimeOfRestorationMajority": "2026-04-29T09:48:00",
+      "consumersOff": 17,
+      "estimatedTimeOfRestoration": "2026-04-29T11:34:00",
+      "estimatedTimeOfRestorationMajority": "2026-04-29T11:34:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.588615,
-        "lng": -2.533711
+        "lat": 53.524448,
+        "lng": -2.666429
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BL6 6EX, BL6 6EF, BL6 6ET, BL6 6ES, BL6 6EQ, BL6 6FA, BL6 6EE, BL6 6SQ, BL6 6JT, BL6 6FY",
+      "AffectedPostcodes": " WN3 6HX",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
