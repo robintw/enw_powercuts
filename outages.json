@@ -160,8 +160,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 4,
-      "estimatedTimeOfRestoration": "2026-05-03T18:08:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-03T18:08:00",
+      "estimatedTimeOfRestoration": "2026-05-03T21:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-03T21:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -201,7 +201,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 171,
+      "consumersOff": 139,
       "estimatedTimeOfRestoration": "2026-05-03T18:58:00",
       "estimatedTimeOfRestorationMajority": "2026-05-03T18:58:00",
       "information": "",
@@ -222,7 +222,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -241,11 +241,11 @@
       "date": "2026-05-03T16:36:58",
       "region": "Westhoughton, Bolton",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 96,
-      "estimatedTimeOfRestoration": "2026-05-03T19:36:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-03T19:36:00",
+      "estimatedTimeOfRestoration": "2026-05-03T22:36:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-03T22:36:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -253,9 +253,9 @@
         "lng": -2.546631
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BL5 2BX, BL5 2BZ, BL5 2DB, BL5 2BY, BL5 2BU",
+      "AffectedPostcodes": " BL5 2BX, BL5 2BZ, BL5 2BY, BL5 2BU, BL5 2DB",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
