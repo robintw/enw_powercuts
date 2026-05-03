@@ -95,7 +95,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -118,17 +118,17 @@
       "faultStatus": "Preparing to send team",
       "previousFaultStatus": "Preparing to send team",
       "consumersOff": 8,
-      "estimatedTimeOfRestoration": "2026-05-03T05:57:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-03T05:57:00",
+      "estimatedTimeOfRestoration": "2026-05-03T12:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-03T12:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.561622,
-        "lng": -2.491630
+        "lat": 53.563998,
+        "lng": -2.502720
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BL6 4HQ, BL6 4HU, BL3 4SF",
-      "UnderReviewStatusTimeCheck": true,
+      "AffectedPostcodes": " BL6 4HQ, BL6 4HU, BL3 4SF, BL6 4HA, BL6 4EN, BL6 4HP, BL6 4HF, BL6 4ES, BL6 4ET, BL6 4HZ, BL6 4HY, BL6 4JA, BL5 3LP, BL6 4HB, BL6 4HL, BL6 4HN, BL6 4HR, BL5 3LT, BL6 4HT, BL6 4HX, BL6 4HD, BL6 4HS, BL6 4FA, BL6 4EB, BL6 4EY, BL6 4EZ, BL6 4HG, BL5 3LR, BL6 4ER, BL6 4HW, BL6 4EP, BL5 3LS, BL6 4EX, BL6 4HJ, BL6 4EW, BL6 4EU",
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
@@ -201,9 +201,9 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 130,
-      "estimatedTimeOfRestoration": "2026-05-03T11:19:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-03T11:19:00",
+      "consumersOff": 60,
+      "estimatedTimeOfRestoration": "2026-05-03T15:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-03T15:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
