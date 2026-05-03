@@ -74,7 +74,7 @@
       "region": "Ribchester, Ribble Valley",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 5,
       "estimatedTimeOfRestoration": "2026-05-03T16:00:00",
       "estimatedTimeOfRestorationMajority": "2026-05-03T16:00:00",
@@ -95,8 +95,8 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -110,26 +110,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241200676",
+      "faultNumber": "INC 1241200833",
       "multipleFaultNumbers": null,
-      "date": "2026-05-03T02:57:35",
-      "region": "Westhoughton North And Chew Moor, Bolton",
+      "date": "2026-05-03T14:41:53",
+      "region": "Saddleworth, Oldham",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
+      "faultStatus": "Preparing to send team",
       "previousFaultStatus": null,
-      "consumersOff": 8,
-      "estimatedTimeOfRestoration": "2026-05-03T14:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-03T14:00:00",
+      "consumersOff": 197,
+      "estimatedTimeOfRestoration": "2026-05-03T20:41:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-03T20:41:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.563998,
-        "lng": -2.502720
+        "lat": 53.550506,
+        "lng": -2.007526
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BL6 4HQ, BL6 4HU, BL3 4SF, BL6 4HA, BL6 4EN, BL6 4HP, BL6 4HF, BL6 4ES, BL6 4ET, BL6 4HZ, BL6 4HY, BL6 4JA, BL5 3LP, BL6 4HB, BL6 4HL, BL6 4HN, BL6 4HR, BL5 3LT, BL6 4HT, BL6 4HX, BL6 4HD, BL6 4HS, BL6 4FA, BL6 4EB, BL6 4EY, BL6 4EZ, BL6 4HG, BL5 3LR, BL6 4ER, BL6 4HW, BL6 4EP, BL5 3LS, BL6 4EX, BL6 4HJ, BL6 4EW, BL6 4EU",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "HVFL",
+      "AffectedPostcodes": " OL3 6BT, OL3 6AX, OL3 6BQ, OL3 6BE, OL3 6EY, OL3 6BS, OL3 6AQ, OL3 6AW, OL3 6AU, OL3 6DL, OL3 6DN, OL3 6ET, OL3 6AT, OL3 6AP, OL3 6BD, OL3 6AN, OL3 6AL, OL3 6BH, OL3 6AZ, OL3 6AH, OL3 6BX, OL4 3BP, OL3 6HS",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -158,7 +158,7 @@
       "region": "Kirkland, Wyre",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 17,
       "estimatedTimeOfRestoration": "2026-05-03T18:03:00",
       "estimatedTimeOfRestorationMajority": "2026-05-03T18:03:00",
@@ -200,7 +200,7 @@
       "region": "Hareholme, Rossendale",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 4,
       "estimatedTimeOfRestoration": "2026-05-03T18:08:00",
       "estimatedTimeOfRestorationMajority": "2026-05-03T18:08:00",
@@ -242,7 +242,7 @@
       "region": "Queensgate, Burnley",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 13,
       "estimatedTimeOfRestoration": "2026-05-03T16:00:00",
       "estimatedTimeOfRestorationMajority": "2026-05-03T16:00:00",
@@ -283,8 +283,8 @@
       "date": "2026-05-03T13:13:02",
       "region": "Harper Green, Bolton",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": null,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 52,
       "estimatedTimeOfRestoration": "2026-05-03T19:13:00",
       "estimatedTimeOfRestorationMajority": "2026-05-03T19:13:00",
@@ -320,58 +320,16 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241200706",
-      "multipleFaultNumbers": null,
-      "date": "2026-05-03T05:19:40",
-      "region": "Preesall, Wyre",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": null,
-      "consumersOff": 30,
-      "estimatedTimeOfRestoration": "2026-05-03T15:30:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-03T15:30:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.928600,
-        "lng": -2.972305
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " FY6 0PU, FY6 0PX, FY6 0EY, FY6 0FE, FY6 0GL, FY6 0HA",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
       "faultNumber": "INC 1241200707",
       "multipleFaultNumbers": null,
       "date": "2026-05-03T05:15:54",
       "region": "Ewood, Blackburn With Darwen",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 9,
-      "estimatedTimeOfRestoration": "2026-05-03T17:15:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-03T17:15:00",
+      "estimatedTimeOfRestoration": "2026-05-03T15:15:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-03T15:15:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -392,7 +350,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 8,
+  "TotalResults": 7,
   "ShowPolygons": false,
   "Regions": [
     {
