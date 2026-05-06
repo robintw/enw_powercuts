@@ -110,6 +110,48 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 1241202463",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-06T15:02:46",
+      "region": "Bank Hall, Burnley",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": null,
+      "consumersOff": 21,
+      "estimatedTimeOfRestoration": "2026-05-06T21:02:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-06T21:02:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.790745,
+        "lng": -2.226753
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BB10 4AX, BB10 4AY, BB10 4AP, BB10 4AE, BB11 3BX, BB10 4AU, BB11 3BS",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 1241201978",
       "multipleFaultNumbers": null,
       "date": "2026-05-06T04:16:57",
@@ -202,8 +244,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": null,
       "consumersOff": 396,
-      "estimatedTimeOfRestoration": "2026-05-06T15:30:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-06T15:30:00",
+      "estimatedTimeOfRestoration": "2026-05-06T17:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-06T17:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -236,24 +278,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241202400",
+      "faultNumber": "INC 1241202036",
       "multipleFaultNumbers": null,
-      "date": "2026-05-06T13:56:14",
-      "region": "Hoghton, Chorley",
+      "date": "2026-05-06T08:49:15",
+      "region": "Bowdon, Trafford",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
+      "faultStatus": "We're on site",
       "previousFaultStatus": null,
-      "consumersOff": 22,
-      "estimatedTimeOfRestoration": "2026-05-06T19:56:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-06T19:56:00",
+      "consumersOff": 18,
+      "estimatedTimeOfRestoration": "2026-05-06T16:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-06T16:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.741523,
-        "lng": -2.588226
+        "lat": 53.380145,
+        "lng": -2.350441
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR5 0RR, PR5 0RS, PR5 0RT, PR5 0RU, PR5 0RG",
+      "AffectedPostcodes": " WA14 2EQ, WA14 2EG",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -266,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
