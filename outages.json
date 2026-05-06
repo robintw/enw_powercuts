@@ -74,7 +74,7 @@
       "region": "Wardle, Shore & West Littleborough, Rochdale",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 103,
       "estimatedTimeOfRestoration": "2026-05-07T15:51:00",
       "estimatedTimeOfRestorationMajority": "2026-05-07T15:51:00",
@@ -110,55 +110,13 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241202384",
-      "multipleFaultNumbers": null,
-      "date": "2026-05-06T13:36:00",
-      "region": "Ashton, Wigan",
-      "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 20,
-      "estimatedTimeOfRestoration": "2026-05-06T19:36:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-06T19:36:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.496181,
-        "lng": -2.622058
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " WN4 8TH, WN4 8UN, WN4 8UW",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
       "faultNumber": "INC 1241201978",
       "multipleFaultNumbers": null,
       "date": "2026-05-06T04:16:57",
       "region": "Milnrow & Newhey, Rochdale",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 31,
       "estimatedTimeOfRestoration": "2026-05-07T13:16:00",
       "estimatedTimeOfRestorationMajority": "2026-05-07T13:16:00",
@@ -200,7 +158,7 @@
       "region": "St. Peter's, Tameside",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": null,
       "consumersOff": 308,
       "estimatedTimeOfRestoration": "2026-05-06T16:05:00",
       "estimatedTimeOfRestorationMajority": "2026-05-06T16:05:00",
@@ -242,7 +200,7 @@
       "region": "Aspull New Springs Whelley, Wigan",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
+      "previousFaultStatus": null,
       "consumersOff": 396,
       "estimatedTimeOfRestoration": "2026-05-06T15:30:00",
       "estimatedTimeOfRestorationMajority": "2026-05-06T15:30:00",
@@ -256,6 +214,48 @@
       "AffectedPostcodes": " WN1 3YB, WN1 3UJ, WN1 3YA, WN1 3UL, WN1 3YU, WN1 3NP, WN1 3YZ, WN1 3YT, WN1 3NF, WN1 3YY, WN1 3YP, WN1 3NN, WN1 3NQ, WN1 3YX, WN1 3YD",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241202400",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-06T13:56:14",
+      "region": "Hoghton, Chorley",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 22,
+      "estimatedTimeOfRestoration": "2026-05-06T19:56:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-06T19:56:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.741523,
+        "lng": -2.588226
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR5 0RR, PR5 0RS, PR5 0RT, PR5 0RU, PR5 0RG",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     }
   ],
