@@ -74,7 +74,7 @@
       "region": "Wardle, Shore & West Littleborough, Rochdale",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 103,
       "estimatedTimeOfRestoration": "2026-05-07T15:51:00",
       "estimatedTimeOfRestorationMajority": "2026-05-07T15:51:00",
@@ -116,8 +116,8 @@
       "region": "Bank Hall, Burnley",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
-      "consumersOff": 21,
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 23,
       "estimatedTimeOfRestoration": "2026-05-06T21:02:00",
       "estimatedTimeOfRestorationMajority": "2026-05-06T21:02:00",
       "information": "",
@@ -158,7 +158,7 @@
       "region": "Milnrow & Newhey, Rochdale",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 31,
       "estimatedTimeOfRestoration": "2026-05-07T13:16:00",
       "estimatedTimeOfRestorationMajority": "2026-05-07T13:16:00",
@@ -179,7 +179,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -200,7 +200,7 @@
       "region": "St. Peter's, Tameside",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 308,
       "estimatedTimeOfRestoration": "2026-05-06T16:05:00",
       "estimatedTimeOfRestorationMajority": "2026-05-06T16:05:00",
@@ -212,91 +212,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " OL7 0HD, OL7 0HB, OL7 0EX, OL7 0LL, OL7 0JP, OL7 0PD, OL7 0EZ, OL7 0JR, OL7 0JN, OL7 0JW, SK15 3EX, OL7 0DD, OL7 0BT, OL7 0BS, OL7 0JL, OL7 0JG, OL7 0FQ, OL7 0JJ, OL7 0BP, OL7 0HA, OL7 0EE, OL7 0JQ, OL7 0PL, OL7 0NW, OL7 0JE, OL7 0JD",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241202156",
-      "multipleFaultNumbers": null,
-      "date": "2026-05-06T10:07:36",
-      "region": "Aspull New Springs Whelley, Wigan",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": null,
-      "consumersOff": 396,
-      "estimatedTimeOfRestoration": "2026-05-06T17:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-06T17:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.550464,
-        "lng": -2.609863
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " WN1 3YB, WN1 3UJ, WN1 3YA, WN1 3UL, WN1 3YU, WN1 3NP, WN1 3YZ, WN1 3YT, WN1 3NF, WN1 3YY, WN1 3YP, WN1 3NN, WN1 3NQ, WN1 3YX, WN1 3YD",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241202036",
-      "multipleFaultNumbers": null,
-      "date": "2026-05-06T08:49:15",
-      "region": "Bowdon, Trafford",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": null,
-      "consumersOff": 18,
-      "estimatedTimeOfRestoration": "2026-05-06T16:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-06T16:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.380145,
-        "lng": -2.350441
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " WA14 2EQ, WA14 2EG",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     }
@@ -308,7 +224,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 6,
+  "TotalResults": 4,
   "ShowPolygons": false,
   "Regions": [
     {
