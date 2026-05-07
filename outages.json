@@ -73,19 +73,19 @@
       "date": "2026-05-07T17:45:18",
       "region": "Victoria, Blackpool",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": null,
-      "consumersOff": 113,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 109,
       "estimatedTimeOfRestoration": "2026-05-07T23:45:00",
       "estimatedTimeOfRestorationMajority": "2026-05-07T23:45:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.799133,
-        "lng": -3.043008
+        "lat": 53.799189,
+        "lng": -3.042055
       },
       "outageLocations": null,
-      "AffectedPostcodes": " FY4 3AA, FY4 2AN, FY4 2AE, FY4 3AQ, FY4 3AH, FY4 3AE, FY4 2AL, FY4 2AB",
+      "AffectedPostcodes": " FY4 3AA, FY4 2AN, FY4 3AQ, FY4 2AE, FY4 3AH, FY4 3AE, FY4 2AL",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -116,7 +116,7 @@
       "region": "Kirkbride, Allerdale",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 3,
       "estimatedTimeOfRestoration": "2026-05-07T22:00:00",
       "estimatedTimeOfRestorationMajority": "2026-05-07T22:00:00",
@@ -158,7 +158,7 @@
       "region": "Failsworth East, Oldham",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 21,
       "estimatedTimeOfRestoration": "2026-05-07T21:00:00",
       "estimatedTimeOfRestorationMajority": "2026-05-07T21:00:00",
@@ -194,13 +194,55 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 125328066",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-07T18:32:06",
+      "region": "Westhoughton, Bolton",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 1448,
+      "estimatedTimeOfRestoration": "2026-05-07T21:32:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-07T21:32:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.549570,
+        "lng": -2.515290
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BL5 3TF, BL5 3FQ, BL5 3QD, BL5 3SP, BL5 3RS, BL5 3PX, BL5 3TP, BL5 3LW, BL5 3AH, BL5 3EZ, BL5 3QE, BL5 3TS, BL5 3RD, BL5 3AN, BL5 3QS, BL5 3DU, BL5 3FL, BL5 3BR, BL5 3TU, BL5 3AX, BL5 3BL, BL5 3LE, BL5 3BP, BL5 3AS, BL5 3JX, BL5 3LD, BL5 3RU, BL5 3QX, BL5 3XS, BL5 3SB, BL5 3NX, BL5 3GD, BL5 3FX, BL5 3SW, BL5 3ST, BL5 3FJ, BL5 3FU, BL5 3YX, BL5 3FD, BL5 3QU, BL5 3FP, BL5 3DT, BL5 1ZZ, BL5 3SX, BL5 3PR, BL5 3AA, BL5 3TB, BL5 3LQ, BL5 3BS, BL5 3LF, BL5 3YA, BL5 3QP, BL5 3SN, BL5 3SY, BL5 3FG, BL5 3QR, BL5 3SF, BL5 3BW, BL5 3AZ, BL5 3FF, BL5 3RY, BL5 3TT, BL5 3AL, BL5 3PT, BL5 3RF, BL5 3AE, BL5 3TA, BL5 3FW, BL5 3AG, BL5 3SE, BL5 3RH, BL5 3RZ, BL5 3TX, BL5 3QQ, BL5 3HZ, BL5 3GJ, BL5 3PY, BL5 3RR, BL5 3QZ, BL5 3AJ, BL5 3PZ, BL5 3SL, BL5 3NY, BL5 3AB, BL5 3FE, BL5 3SH, BL5 3QW, BL5 3PD, BL5 3AT, BL5 3YB, BL5 3DG, BL5 3TQ, BL5 3WG, BL5 3FY, BL5 3JW, BL5 3SJ, BL5 3GZ, BL5 2BD, BL5 2BG, BL5 3FB, BL5 3TD, BL5 3TR, BL5 3TL, BL5 3QB, BL5 3AY, BL5 3AQ, BL5 3EY, BL5 3QG, BL5 3SS, BL5 3RJ, BL5 3SZ, BL5 3GL, BL5 3NQ, BL5 3AR, BL5 3BT, BL5 3TG, BL5 3SU, BL5 3QF, BL5 3PU, BL5 2GH, BL5 3FH, BL5 3QT, BL5 3FS, BL5 3QN, BL5 3BH, BL5 3TH, BL5 3RA, BL5 3RQ, BL5 2BE, BL5 3RB, BL5 3PS, BL5 3AP, BL5 3RX, BL5 3BE, BL5 3TJ, BL5 3SR, BL5 3PA, BL5 3RT, BL5 3QL, BL5 2BR, SK14 4RN, BL5 3ZS, BL5 3AD, BL5 3AU, BL5 3BD, BL1 3AG, BL5 3BG, M13 9RU, BL5 3DL, BL5 3TE, BL5 3QJ, BL5 3AF, BL7 9BH, BL5 3FR, BL5 3BB, BL5 3DN, BL5 3SA, BL5 3DQ, BL5 3SQ, BL5 3SG, BL5 3NA, BL5 3GB, BL5 3ZT, BL5 3QY, SK8 6BB, BL5 3AW, M27 5QW, BL1 1BQ",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 125328027",
       "multipleFaultNumbers": null,
       "date": "2026-05-07T16:29:59",
       "region": "Bolton-By-Bowland, Ribble Valley",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 41,
       "estimatedTimeOfRestoration": "2026-05-07T19:29:00",
       "estimatedTimeOfRestorationMajority": "2026-05-07T19:29:00",
@@ -215,6 +257,48 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125328072",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-07T18:52:53",
+      "region": "Victoria, Blackpool",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 12,
+      "estimatedTimeOfRestoration": "2026-05-08T00:52:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-08T00:52:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.798955,
+        "lng": -3.046886
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " FY4 2AE, FY4 2AB",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -224,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
