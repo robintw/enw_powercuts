@@ -53,6 +53,48 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
+      "UnderReview": true,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125327711",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-07T11:27:50",
+      "region": "St. Andrew's, Hyndburn",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 5,
+      "estimatedTimeOfRestoration": "2026-05-07T15:27:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-07T15:27:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.747482,
+        "lng": -2.405657
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BB5 4QU",
+      "UnderReviewStatusTimeCheck": true,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
       "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
@@ -68,24 +110,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125328264",
+      "faultNumber": "INC 125328580",
       "multipleFaultNumbers": null,
-      "date": "2026-05-08T08:57:20",
-      "region": "Swinton &Ley, Salford",
+      "date": "2026-05-08T13:22:00",
+      "region": "Whittlefield With Ightenhill, Burnley",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 23,
-      "estimatedTimeOfRestoration": "2026-05-08T15:30:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-08T15:30:00",
+      "consumersOff": 16,
+      "estimatedTimeOfRestoration": "2026-05-08T16:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-08T16:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.510499,
-        "lng": -2.345472
+        "lat": 53.799943,
+        "lng": -2.270773
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M27 0WD, M27 0WH",
+      "AffectedPostcodes": " BB12 0LN, BB12 0RP",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -110,24 +152,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125328518",
+      "faultNumber": "INC 125328264",
       "multipleFaultNumbers": null,
-      "date": "2026-05-08T12:16:28",
-      "region": "Offerton, Stockport",
+      "date": "2026-05-08T08:57:20",
+      "region": "Swinton &Ley, Salford",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 90,
-      "estimatedTimeOfRestoration": "2026-05-08T18:16:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-08T18:16:00",
+      "consumersOff": 23,
+      "estimatedTimeOfRestoration": "2026-05-08T14:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-08T14:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.391874,
-        "lng": -2.118846
+        "lat": 53.510499,
+        "lng": -2.345472
       },
       "outageLocations": null,
-      "AffectedPostcodes": " SK2 5PF, SK2 5PE, SK2 5PU, SK2 5PD, SK2 5PR",
+      "AffectedPostcodes": " M27 0WD, M27 0WH",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -182,7 +224,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 3,
+  "TotalResults": 4,
   "ShowPolygons": false,
   "Regions": [
     {
