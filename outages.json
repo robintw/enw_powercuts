@@ -68,14 +68,14 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125329457",
+      "faultNumber": "INC 125329516",
       "multipleFaultNumbers": null,
-      "date": "2026-05-10T17:04:33",
+      "date": "2026-05-10T22:03:43",
       "region": "Workington, Allerdale",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 27,
+      "consumersOff": 59,
       "estimatedTimeOfRestoration": "2026-05-11T01:00:00",
       "estimatedTimeOfRestorationMajority": "2026-05-11T01:00:00",
       "information": "",
@@ -85,7 +85,49 @@
         "lng": -3.518252
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA14 1XN, CA14 1XL, CA14 1YY",
+      "AffectedPostcodes": " CA14 1YY, CA14 1XN, CA14 1XL",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125329483",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-10T18:58:55",
+      "region": "Cleveleys Park, Wyre",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 210,
+      "estimatedTimeOfRestoration": "2026-05-11T00:58:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-11T00:58:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.882724,
+        "lng": -3.026205
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " FY5 2AG, FY5 2DD, FY5 2JR, FY5 2PQ, FY5 2PG, FY5 2PL, FY5 2BY, FY5 2PH, FY5 2PJ, FY5 2PN, FY5 2DF, FY5 2PF, FY5 2JE",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -98,7 +140,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 1,
+  "TotalResults": 2,
   "ShowPolygons": false,
   "Regions": [
     {
