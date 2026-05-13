@@ -95,7 +95,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -128,7 +128,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " BB9 7XF, BB9 7XG, BB9 7XP, BB9 7XU, BB9 7XX, BB9 7XE",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -180,7 +180,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -194,26 +194,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125331557",
+      "faultNumber": "INC 125331593",
       "multipleFaultNumbers": null,
-      "date": "2026-05-13T17:50:02",
-      "region": "Whitewell, Rossendale",
+      "date": "2026-05-13T19:47:11",
+      "region": "Cleveleys Park, Wyre",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 9,
-      "estimatedTimeOfRestoration": "2026-05-13T20:50:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-13T20:50:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 160,
+      "estimatedTimeOfRestoration": "2026-05-14T01:47:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-14T01:47:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.727266,
-        "lng": -2.246078
+        "lat": 53.882724,
+        "lng": -3.026205
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB4 9NG, BB4 9PX, BB4 9NQ",
+      "AffectedPostcodes": " FY5 2AG, FY5 2PF, FY5 2JR, FY5 2PL, FY5 2PQ, FY5 2PG, FY5 2BY, FY5 2PN, FY5 2PJ, FY5 2DF, FY5 2PH, FY5 2JE, FY5 2DD",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -283,9 +283,9 @@
       "date": "2026-05-13T18:54:32",
       "region": "St. Peter's, Tameside",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 20,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 21,
       "estimatedTimeOfRestoration": "2026-05-14T00:54:00",
       "estimatedTimeOfRestorationMajority": "2026-05-14T00:54:00",
       "information": "",
