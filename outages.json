@@ -68,66 +68,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125331809",
+      "faultNumber": "INC 125332355",
       "multipleFaultNumbers": null,
-      "date": "2026-05-14T09:21:14",
-      "region": "Ansdell, Fylde",
+      "date": "2026-05-14T21:03:19",
+      "region": "Farnworth, Bolton",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 3,
-      "estimatedTimeOfRestoration": "2026-05-15T10:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-15T10:00:00",
+      "consumersOff": 8,
+      "estimatedTimeOfRestoration": "2026-05-15T17:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-15T17:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.745544,
-        "lng": -2.992222
+        "lat": 53.543272,
+        "lng": -2.404528
       },
       "outageLocations": null,
-      "AffectedPostcodes": " FY8 4DS, FY8 4DU, FY8 4DX, FY8 4DT, FY8 4AT",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125332412",
-      "multipleFaultNumbers": null,
-      "date": "2026-05-15T04:21:47",
-      "region": "Adlington, Chorley",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 34,
-      "estimatedTimeOfRestoration": "2026-05-15T16:30:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-15T16:30:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.611243,
-        "lng": -2.606198
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " PR7 4HZ, PR7 4HE, PR7 4HG, PR7 4HQ, PR7 4HP",
+      "AffectedPostcodes": " BL4 9NU, BL4 9NY, BL4 9PA, BL4 9NX, BL4 9PP, BL4 9SR",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -182,7 +140,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 3,
+  "TotalResults": 2,
   "ShowPolygons": false,
   "Regions": [
     {
