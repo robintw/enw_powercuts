@@ -138,7 +138,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -152,26 +152,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125332402",
+      "faultNumber": "INC 125332412",
       "multipleFaultNumbers": null,
-      "date": "2026-05-15T02:51:20",
-      "region": "St. Mary's, Oldham",
+      "date": "2026-05-15T04:21:47",
+      "region": "Adlington, Chorley",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 17,
-      "estimatedTimeOfRestoration": "2026-05-15T05:51:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-15T05:51:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 81,
+      "estimatedTimeOfRestoration": "2026-05-15T10:21:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-15T10:21:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.544562,
-        "lng": -2.093762
+        "lat": 53.611380,
+        "lng": -2.604350
       },
       "outageLocations": null,
-      "AffectedPostcodes": " OL1 3PJ, OL1 4BE, OL4 1DE, OL1 4BQ, OL1 3NE, OL1 4EZ, OL1 4EW, OL1 3NB, OL4 1YS, OL1 4HA, OL1 4EY, OL1 3PH, OL4 1JE, OL1 3NR, OL4 1AT, OL4 1JF, OL4 1HU, OL1 4LE, OL1 3PA, OL4 1YT, OL1 3PQ, OL1 4EN, OL4 1BD, OL1 3LY, OL4 1BA, OL1 3PF, OL1 3NS, OL4 1JU, OL4 1BB, OL1 3PB, OL4 1YU, OL1 4GY, OL4 1AX",
+      "AffectedPostcodes": " PR7 4HB, PR7 4HH, PR7 4HE, PR7 4HG, PR7 4HQ, PR7 4HP",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     }
   ],
