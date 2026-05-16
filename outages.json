@@ -68,24 +68,66 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125333251",
+      "faultNumber": "INC 125333261",
       "multipleFaultNumbers": null,
-      "date": "2026-05-16T14:45:55",
-      "region": "Caton-With-Littledale, Lancaster",
+      "date": "2026-05-16T15:11:25",
+      "region": "Greyfriars, Preston",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 5,
-      "estimatedTimeOfRestoration": "2026-05-16T20:33:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-16T20:33:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 38,
+      "estimatedTimeOfRestoration": "2026-05-16T21:11:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-16T21:11:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.047454,
-        "lng": -2.677597
+        "lat": 53.791651,
+        "lng": -2.717886
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA2 9EU",
+      "AffectedPostcodes": " PR2 9YE, PR2 9TY, PR2 9TP, PR2 9TH, PR2 9BU, PR2 3EL",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125333264",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-16T15:27:38",
+      "region": "Adlington, Chorley",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 63,
+      "estimatedTimeOfRestoration": "2026-05-16T21:27:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-16T21:27:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.611243,
+        "lng": -2.606198
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR7 4HZ, PR7 4HE, PR7 4HG, PR7 4HQ, PR7 4HP",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -115,8 +157,8 @@
       "date": "2026-05-16T13:16:09",
       "region": "Middleton, Lancaster",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": null,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 14,
       "estimatedTimeOfRestoration": "2026-05-16T16:16:00",
       "estimatedTimeOfRestorationMajority": "2026-05-16T16:16:00",
@@ -158,7 +200,7 @@
       "region": "Skelmersdale North, West Lancashire",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 6,
       "estimatedTimeOfRestoration": "2026-05-16T17:06:00",
       "estimatedTimeOfRestorationMajority": "2026-05-16T17:06:00",
@@ -199,19 +241,19 @@
       "date": "2026-05-16T14:33:24",
       "region": "Caton-With-Littledale, Lancaster",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 19,
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 58,
       "estimatedTimeOfRestoration": "2026-05-16T17:33:00",
       "estimatedTimeOfRestorationMajority": "2026-05-16T17:33:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.069434,
-        "lng": -2.709354
+        "lat": 54.054102,
+        "lng": -2.684577
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA2 9PN, LA2 9PR, LA2 9PP, LA2 9PW, LA2 9PH",
+      "AffectedPostcodes": " LA2 9PW, LA2 9PN, LA2 9PR, LA2 9PP, LA2 9EX, LA2 9ET, LA2 9EU, LA2 9HF, LA2 9PH, LA2 9BN, LA2 9EZ, LA2 9EY",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -224,7 +266,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 5,
   "ShowPolygons": false,
   "Regions": [
     {
