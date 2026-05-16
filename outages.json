@@ -54,7 +54,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -68,26 +68,152 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125333029",
+      "faultNumber": "INC 125333047",
       "multipleFaultNumbers": null,
-      "date": "2026-05-16T09:03:25",
-      "region": "Withnell, Chorley",
+      "date": "2026-05-16T09:32:46",
+      "region": "North Manor, Bury",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 99,
-      "estimatedTimeOfRestoration": "2026-05-16T12:03:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-16T12:03:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 18,
+      "estimatedTimeOfRestoration": "2026-05-16T12:32:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-16T12:32:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.703550,
-        "lng": -2.588292
+        "lat": 53.631208,
+        "lng": -2.363914
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR6 8BA, PR6 8AR, PR6 8AW, PR6 8BF, PR6 8AZ",
+      "AffectedPostcodes": " BL8 4LF, BL8 4JL, BL8 4JQ, BL8 4JN",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
+      "WebTMSFaultType": "O/HM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers fix the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125333064",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-16T09:33:54",
+      "region": "Dalton Town With Newton, Barrow-In-Furness",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 3,
+      "estimatedTimeOfRestoration": "2026-05-16T13:33:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-16T13:33:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.170905,
+        "lng": -3.173211
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA15 8JR",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GS",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers fix the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125333079",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-16T09:34:39",
+      "region": "Askam And Ireleth, Barrow-In-Furness",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 4,
+      "estimatedTimeOfRestoration": "2026-05-16T13:34:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-16T13:34:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.202763,
+        "lng": -3.163091
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA12 0NS",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GS",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the overhead cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers fix the issue. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125333082",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-16T09:35:03",
+      "region": "Askam And Ireleth, Barrow-In-Furness",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 3,
+      "estimatedTimeOfRestoration": "2026-05-16T13:35:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-16T13:35:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.183348,
+        "lng": -3.182589
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA16 7HD",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "O/HS",
       "addressMpanList": null
     },
     {
@@ -110,24 +236,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125333030",
+      "faultNumber": "INC 125333084",
       "multipleFaultNumbers": null,
-      "date": "2026-05-16T09:03:24",
-      "region": "Withnell, Chorley",
+      "date": "2026-05-16T09:35:58",
+      "region": "Lindal And Marton, Barrow-In-Furness",
       "faultType": "Current Fault",
       "faultStatus": "Preparing to send team",
       "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 5,
-      "estimatedTimeOfRestoration": "2026-05-16T15:03:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-16T15:03:00",
+      "consumersOff": 10,
+      "estimatedTimeOfRestoration": "2026-05-16T15:33:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-16T15:33:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.621799,
-        "lng": -2.604297
+        "lat": 54.173958,
+        "lng": -3.151046
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR6 8JB",
+      "AffectedPostcodes": " LA12 0TJ, LA12 0LX, LA12 0LY, LA12 0TW",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -140,7 +266,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 2,
+  "TotalResults": 5,
   "ShowPolygons": false,
   "Regions": [
     {
