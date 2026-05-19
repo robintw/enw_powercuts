@@ -96,6 +96,48 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241203786",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-19T21:32:49",
+      "region": "Bury East, Bury",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 2461,
+      "estimatedTimeOfRestoration": "2026-05-20T00:32:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-20T00:32:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.598104,
+        "lng": -2.275930
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BL9 7SA, BL9 6DG, BL9 7LT, BL9 7SE, BL9 7PS, BL9 7NE, BL9 7SH, BL9 7PP, BL9 7PX, BL9 7QJ, BL9 7AT, BL9 6LD, BL9 7RH, BL9 7LZ, BL9 6JU, BL9 7QH, BL9 7QN, BL9 6JE, BL9 7TA, BL9 7PN, BL9 7NB, BL9 6UG, BL9 6JF, BL9 7QS, BL9 7LE, BL9 6JH, BL9 7NN, BL9 6JN, BL9 7SF, BL9 7QU, BL9 6JZ, BL9 7NF, BL9 6JT, BL9 7RZ, BL9 7QL, BL9 6JY, BL9 7NJ, BL9 6JW, BL9 7QZ, BL9 7LQ, BL9 7RG, BL9 7SG, BL9 7QA, BL9 7PZ, BL9 7ND, BL9 7RQ, BL9 7PT, BL9 6JS, BL9 7RL, BL9 6BT, BL9 7SW, BL9 7AH, BL9 7NW, BL9 6JG, BL9 7NS, BL9 7AY, BL9 6JD, BL9 7QW, BL9 7LR, BL9 7LU, BL9 6HS, BL9 7SB, BL9 7QP, BL9 7LX, BL9 7NA, BL9 7RX, BL9 7LD, BL9 6JJ, BL9 6JR, BL9 6LA, BL9 6FX, BL9 7NQ, BL9 7SQ, BL9 7QD, BL9 7LY, BL9 7RP, BL9 7QQ, BL9 7NL, BL9 7NG, BL9 6JL, BL9 7PY, BL9 7AJ, BL9 7LP, BL9 7RJ, BL9 7DH, BL9 7LW, BL9 7QR, BL9 0BZ, BL9 7QF, BL9 6JQ, BL9 7BL, BL9 7NR, BL9 6LB, BL9 7NH, BL9 7PU, BL9 7AR, BL9 6JX, BL9 7LN, BL9 7NU, BL9 7AN, BL9 7LH, BL9 7BG, BL9 7AU, BL9 7LS, BL9 7BN, BL9 6AS, BL9 6BA, BL9 7AX, BL9 6JP, BL9 7BW, BL9 7AQ, BL9 6AR, BL9 7LF, BL9 7LJ, BL9 6HR, BL9 7BT, BL9 7BE, BL9 7DT, BL9 0RH, BL9 7QT, WA3 1OX, BL9 6LJ, BL9 7DL, BL9 7OX, BL9 7QB, BL9 6HH, BL9 6LE, BL9 0QZ, BL9 7BF, BL9 7AZ",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -140,7 +182,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 2,
+  "TotalResults": 3,
   "ShowPolygons": false,
   "Regions": [
     {
