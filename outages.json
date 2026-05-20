@@ -54,7 +54,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -68,26 +68,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241204590",
+      "faultNumber": "INC 1241204329",
       "multipleFaultNumbers": null,
-      "date": "2026-05-20T21:49:00",
-      "region": "Wray-With-Botton, Lancaster",
+      "date": "2026-05-20T13:47:37",
+      "region": "Sedbergh, South Lakeland",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 37,
-      "estimatedTimeOfRestoration": "2026-05-21T03:49:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-21T03:49:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 55,
+      "estimatedTimeOfRestoration": "2026-05-21T00:01:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-21T00:01:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.103524,
-        "lng": -2.569783
+        "lat": 54.356653,
+        "lng": -2.576165
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA2 8QJ, LA2 8QN, LA2 8QG, LA2 8RF, LA2 8QF, LA2 8JH, LA2 8QW, LA2 8BB",
+      "AffectedPostcodes": " LA10 5HY, LA10 5HZ, LA10 5JB, LA10 5JD, LA10 5JA, LA8 0BW, LA8 0BP, LA8 0BN, LA8 0BL, LA8 0BS",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -221,7 +221,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -254,7 +254,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " OL8 4LT, OL8 4LU, OL8 4LS",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
