@@ -53,7 +53,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -86,7 +86,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " M22 9WE",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -201,17 +201,17 @@
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
       "previousFaultStatus": "Team on their way",
-      "consumersOff": 233,
+      "consumersOff": 310,
       "estimatedTimeOfRestoration": "2026-05-21T01:53:00",
       "estimatedTimeOfRestorationMajority": "2026-05-21T01:53:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.464393,
-        "lng": -2.252215
+        "lat": 53.464554,
+        "lng": -2.252149
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M15 5FP, M15 5FT, M15 5DY, M15 5TB, M15 5RP, M15 5EX, M15 5HR, M15 5EP, M15 5EY, M15 5EQ, M15 5EW, M15 5ER, M15 5EN, M15 5EG, M15 5DZ, M15 5EL, M15 5EJ, M15 5RG, M15 5UP, M15 5GL, M15 5EU, M15 5SS, M15 5AF, M15 5JZ, M15 5GD, M15 5TF, M15 5ET, M15 5TE, M15 5FZ",
+      "AffectedPostcodes": " M15 5FP, M15 5FT, M15 5DY, M15 5TB, M15 5RP, M15 5EX, M15 5HR, M15 5EP, M15 5EY, M15 5EQ, M15 5EW, M15 5ER, M15 5EN, M15 5EG, M15 5DZ, M15 5EL, M15 5EJ, M15 5RG, M15 5UP, M15 5GL, M15 5EU, M15 5SS, M15 5AF, M15 5JZ, M15 5GD, M15 5TF, M15 5ET, M15 5TE, M15 5FZ, M15 5FD",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -244,8 +244,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 27,
-      "estimatedTimeOfRestoration": "2026-05-21T00:05:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-21T00:05:00",
+      "estimatedTimeOfRestoration": "2026-05-21T03:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-21T03:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -362,6 +362,48 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
+      "faultNumber": "INC 1241204566",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-20T20:32:17",
+      "region": "Greenfield, Rossendale",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 14,
+      "estimatedTimeOfRestoration": "2026-05-21T02:32:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-21T02:32:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.697425,
+        "lng": -2.319485
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BB4 6PX, BB4 6PW, BB4 6PP, BB4 6PS, BB4 6QQ",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
       "faultNumber": "INC 1241204527",
       "multipleFaultNumbers": null,
       "date": "2026-05-20T18:36:07",
@@ -369,7 +411,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 77,
+      "consumersOff": 148,
       "estimatedTimeOfRestoration": "2026-05-21T00:36:00",
       "estimatedTimeOfRestorationMajority": "2026-05-21T00:36:00",
       "information": "",
@@ -379,7 +421,7 @@
         "lng": -2.303526
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M5 3NS, M5 3NR, M50 3UQ, M5 4GL, M5 0JX, M50 3UT, M50 3UP, M5 4LF, M50 3XZ, M5 4GS, M5 4TL, M5 4QR, M5 4QY, M50 2XD, M5 4QS, M5 4UA, M5 4GJ, M5 4GR, M5 4GH, M50 2UW",
+      "AffectedPostcodes": " M5 3NS, M5 3NR, M50 3UQ, M5 0JX, M50 3UT, M50 3UP, M5 4LF, M50 3XZ, M5 4GL, M5 4GS, M5 4GR, M5 4GJ, M5 4QS, M5 4UA, M5 4QY, M5 4TL, M50 2UW, M5 4QR, M5 4GH, M50 2XD",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -392,7 +434,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 8,
+  "TotalResults": 9,
   "ShowPolygons": false,
   "Regions": [
     {
