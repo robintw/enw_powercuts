@@ -53,7 +53,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -75,9 +75,9 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 135,
-      "estimatedTimeOfRestoration": "2026-05-21T16:30:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-21T16:30:00",
+      "consumersOff": 71,
+      "estimatedTimeOfRestoration": "2026-05-21T18:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-21T18:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -86,7 +86,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " LA22 9BW, LA22 9AD, LA22 9AG, LA22 9AN, LA22 9DS, LA22 9AH, LA22 9AJ, LA22 9DH, LA22 9AF",
-      "UnderReviewStatusTimeCheck": true,
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -110,24 +110,66 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241205273",
+      "faultNumber": "INC 1241205309",
       "multipleFaultNumbers": null,
-      "date": "2026-05-21T16:12:47",
-      "region": "St. Ambrose, South Ribble",
+      "date": "2026-05-21T17:07:57",
+      "region": "Quays, Salford",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 29,
-      "estimatedTimeOfRestoration": "2026-05-21T22:10:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-21T22:10:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 215,
+      "estimatedTimeOfRestoration": "2026-05-21T23:07:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-21T23:07:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.697735,
-        "lng": -2.695994
+        "lat": 53.491806,
+        "lng": -2.320043
       },
       "outageLocations": null,
-      "AffectedPostcodes": " PR25 2NX, PR25 2NY, PR25 3PG, PR25 2NU",
+      "AffectedPostcodes": " M5 4QR, M5 4QY, M50 2XD, M5 4QS, M5 4TL, M5 4UA, M5 4GJ, M5 4GL, M5 4GR, M5 4GH, M50 2UW",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 24074168",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-21T14:35:30",
+      "region": "Livesey, Blackburn With Darwen",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 74,
+      "estimatedTimeOfRestoration": "2026-05-21T20:35:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-21T20:35:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.731720,
+        "lng": -2.521837
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BB2 5LP, BB2 5LW, BB2 5LZ, BB2 5NB, BB2 5LL, BB2 5NA, BB2 5ND, BB2 5LX",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -172,48 +214,6 @@
       "AffectedPostcodes": " LA22 0BD",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241205134",
-      "multipleFaultNumbers": null,
-      "date": "2026-05-21T13:47:25",
-      "region": "Waterhead, Oldham",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 70,
-      "estimatedTimeOfRestoration": "2026-05-21T16:47:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-21T16:47:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.546654,
-        "lng": -2.088756
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " OL4 2RS, OL4 2DH, OL1 4BQ, OL4 2DG, OL4 2RQ, OL4 2BN, OL1 3PJ, OL4 2RT, OL4 2DU, OL1 4HP, OL4 2ET, OL4 2RH, OL1 4HA, OL4 2DX, OL4 2BD, OL1 3NR, OL4 2RR, OL4 2DT, OL4 1HU, OL1 4LE, OL4 2RP, OL4 2DS, OL4 2BL, OL1 4ET, OL4 2DY, OL4 2BB, OL4 2EA, OL1 4EY, OL4 2RB, OL1 4EN, OL4 2RY, OL1 4EP, OL1 4EW, OL4 2RD, OL1 3PH, OL1 3NS, OL1 3NE, OL1 4EZ, OL1 4EQ, OL1 3PQ, OL4 2EB, OL4 2DQ, OL1 3PA, OL1 4EL, OL1 4ER, OL1 4LQ, OL4 2AH, OL4 2RN, OL1 3PF, OL1 4LA, OL1 3NB, OL1 3LY, OL3 6AA, OL1 4BE, OL4 2RJ, OL1 3PB, OL1 4ES, OL1 4GY, OL4 2AX, OL4 1AX, OL4 1BD, OL4 1BB, OL4 1YT, OL4 1YS, OL4 1YU, OL4 1AT, OL4 1JU, OL4 1BA, OL4 1JE, OL4 1DE, OL4 1JF",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     }
   ],
