@@ -53,7 +53,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -86,7 +86,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " LA14 3QD, LA14 3PS",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -180,6 +180,48 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241206328",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-23T00:32:56",
+      "region": "Burton-In-Kendal, South Lakeland",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 27,
+      "estimatedTimeOfRestoration": "2026-05-23T06:32:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-23T06:32:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.169848,
+        "lng": -2.692229
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " LA6 1LY, LA6 1FU, LA6 1LZ, LA6 1NA, LA6 1JE, LA6 3EH, LA6 1LU",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -194,24 +236,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241206054",
+      "faultNumber": "INC 1241206309",
       "multipleFaultNumbers": null,
-      "date": "2026-05-22T21:20:11",
-      "region": "Ormside, Eden",
+      "date": "2026-05-23T00:11:18",
+      "region": "Holme, South Lakeland",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 10,
-      "estimatedTimeOfRestoration": "2026-05-23T00:30:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-23T00:30:00",
+      "consumersOff": 339,
+      "estimatedTimeOfRestoration": "2026-05-23T03:11:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-23T03:11:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.551128,
-        "lng": -2.490684
+        "lat": 54.186835,
+        "lng": -2.715336
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA16 6EJ, CA16 6TF, CA16 6LH, CA16 6HP, CA16 6TA, CA16 6EG, CA16 6TD, CA16 6EF, CA16 6EL, CA16 6EE, CA16 6TG, CA16 6HR, CA16 6HX, CA16 6EB, CA16 6EZ, CA16 6LL, CA16 6EQ, CA16 6TH, CA16 6EH, CA16 6EA, CA10 3SJ, CA16 6HE, CA16 6HW, CA16 6TE, CA16 6SZ",
+      "AffectedPostcodes": " LA6 1HR, LA6 1RB, LA6 1NT, LA6 1NU, LA6 1RE, LA6 1RD, LA6 1QZ, LA6 1NX, LA6 1RP, LA6 1RZ, LA6 1PA, LA6 1QY, LA6 1QU, LA6 1NZ, LA6 1PZ, LA6 1NY, LA6 1HY, LA6 1JB, LA6 1JE, LA6 1NR, LA6 1NS, LA6 1PL, LA6 1HU, LA6 1JA, LA6 1HS, LA6 1HZ, LA6 1SF, LA6 1HX, LA6 1HT, LA6 1JD, LA6 1NW, LA6 1AG",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -224,7 +266,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 5,
   "ShowPolygons": false,
   "Regions": [
     {
