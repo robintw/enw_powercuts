@@ -54,7 +54,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -68,26 +68,68 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241205403",
+      "faultNumber": "INC 1241205467",
       "multipleFaultNumbers": null,
-      "date": "2026-05-22T00:04:10",
-      "region": "Gosforth, Copeland",
+      "date": "2026-05-22T05:15:21",
+      "region": "Clitheroe, Ribble Valley",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 45,
-      "estimatedTimeOfRestoration": "2026-05-22T06:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-22T06:00:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 17,
+      "estimatedTimeOfRestoration": "2026-05-22T11:14:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-22T11:14:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.452557,
-        "lng": -3.450283
+        "lat": 53.881727,
+        "lng": -2.365106
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA22 2ND, CA20 1DN, CA22 2SU, CA20 1DH, CA20 1AQ, CA22 2NY, CA20 1BS, CA22 2PD, CA20 1BZ, CA20 1DF, CA22 2NH, CA20 1DE, CA20 1BX, CA20 1DB, CA22 2PE, CA22 2PB, CA20 1AA, CA20 1BP, CA20 1BU, CA20 1DX, CA20 1DZ, CA22 2PQ, CA20 1AG, CA20 1BT, CA22 2PA, CA20 1DY, CA20 1EA, CA20 1DL, CA20 1BY, CA22 2NX, CA20 1AJ, CA20 1DQ, CA20 1DJ, CA20 1AF, CA20 1DW, CA22 2VV, CA20 1DG, CA20 1AB, CA20 1ET, CA20 1AH, CA20 1PG",
+      "AffectedPostcodes": " BB7 1PD, BB7 1PB, BB7 4AP",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241205452",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-22T04:45:56",
+      "region": "Church, Hyndburn",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 13,
+      "estimatedTimeOfRestoration": "2026-05-22T10:45:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-22T10:45:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.754941,
+        "lng": -2.388544
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " BB5 4EP, BB5 4JB, BB5 4JA",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     }
   ],
@@ -98,7 +140,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 1,
+  "TotalResults": 2,
   "ShowPolygons": false,
   "Regions": [
     {
