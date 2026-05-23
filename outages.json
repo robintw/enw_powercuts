@@ -160,8 +160,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 5,
-      "estimatedTimeOfRestoration": "2026-05-23T18:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-23T18:00:00",
+      "estimatedTimeOfRestoration": "2026-05-23T19:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-23T19:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -199,9 +199,9 @@
       "date": "2026-05-23T16:01:02",
       "region": "Walkden South, Salford",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": null,
-      "consumersOff": 54,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 84,
       "estimatedTimeOfRestoration": "2026-05-23T22:00:00",
       "estimatedTimeOfRestorationMajority": "2026-05-23T22:00:00",
       "information": "",
@@ -278,48 +278,6 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241206432",
-      "multipleFaultNumbers": null,
-      "date": "2026-05-23T10:41:25",
-      "region": "Morecambe, Lancaster",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 196,
-      "estimatedTimeOfRestoration": "2026-05-23T16:41:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-23T16:41:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.063356,
-        "lng": -2.881125
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " LA3 1QR, LA3 1SB, LA3 1SD, LA3 1RS, LA3 1SF, LA3 1RT, LA3 1TG, LA3 1RR, LA3 1SN, LA3 1SW, LA3 1SL, LA3 1BL, LA3 1SR, LA3 1SQ, LA3 1BU, LA3 1BS, LA3 1SS, LA3 1UE, LA3 1RN, LA3 1SJ, LA3 1FU, LA3 1UW",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
       "faultNumber": "INC 1241206475",
       "multipleFaultNumbers": null,
       "date": "2026-05-23T12:03:40",
@@ -340,6 +298,48 @@
       "AffectedPostcodes": " PR3 6BS, PR3 6TQ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241206558",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-23T16:29:34",
+      "region": "West Heywood, Rochdale",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 1217,
+      "estimatedTimeOfRestoration": "2026-05-23T19:29:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-23T19:29:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.591060,
+        "lng": -2.228076
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL10 3BG, OL10 3AD, OL10 1AE, OL10 1JB, OL10 3AX, OL10 3EE, OL10 3AY, OL10 3EN, OL10 3AG, OL10 3DZ, OL10 1AZ, OL10 3EQ, OL10 3BE, OL10 3DS, OL10 3FH, OL10 3BP, OL10 1BA, OL10 3DX, OL10 3FJ, OL10 1HH, OL10 3DL, OL10 3FL, OL10 3AT, OL10 3DW, OL10 3AW, OL10 3DY, OL10 3AU, OL10 3EZ, OL10 3BA, OL10 3AN, OL10 3EP, OL10 3EH, OL10 3DR, OL10 3FG, OL10 1AS, OL10 3BH, OL10 3DU, OL10 1HL, OL10 3DQ, OL10 3ED, OL10 3AP, OL10 3EW, OL10 1AP, OL10 3HG, OL10 1HJ, OL10 3BJ, OL10 1AN, OL10 3EJ, OL10 3AF, OL10 3RS, OL10 3BN, OL10 3FN, OL10 3AS, OL10 3AE, OL10 3BL, OL10 3ES, OL10 3AR, OL10 3AZ, OL10 3EG, OL10 3BB, OL10 1EZ, OL10 1AR, OL10 3DJ, OL10 3AB, OL10 3EA, OL10 3AH, OL10 3ER, OL10 3BQ, OL10 3AJ, OL10 3DT, OL10 3FP, OL10 1HP, OL10 1AH, OL10 3AA, OL10 1AX, OL10 3DN, BB5 1QT, OL10 3EF, OL10 3DH, OL10 1JF, OL10 1HN, OL10 3EL, OL10 1JG, OL10 3AQ, OL10 1HB, OL10 2TA, OL10 2TL, OL10 1AU, OL10 3BD, OL10 3EB, OL10 1HG, OL10 2, OL10 3SP, OL10 1HD, OL10 2TT, OL10 3DG, OL10 2TU, OL10 2WP",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -369,17 +369,17 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 12,
-      "estimatedTimeOfRestoration": "2026-05-23T16:54:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-23T16:54:00",
+      "consumersOff": 8,
+      "estimatedTimeOfRestoration": "2026-05-23T23:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-23T23:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.836530,
-        "lng": -3.053044
+        "lat": 53.836549,
+        "lng": -3.053226
       },
       "outageLocations": null,
-      "AffectedPostcodes": " FY2 9SB, FY2 9SE",
+      "AffectedPostcodes": " FY2 9SB, FY2 9SE, FY2 9RU, FY2 9RN",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
