@@ -95,7 +95,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -117,7 +117,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 35,
+      "consumersOff": 4,
       "estimatedTimeOfRestoration": "2026-05-23T04:00:00",
       "estimatedTimeOfRestorationMajority": "2026-05-23T04:00:00",
       "information": "",
@@ -128,7 +128,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " WN5 8DH, WN5 8EG, WN5 8JG, WN5 8JE, WN5 8JF, WN5 8JQ",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -152,66 +152,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241206328",
+      "faultNumber": "INC 1241206351",
       "multipleFaultNumbers": null,
-      "date": "2026-05-23T00:32:56",
-      "region": "Burton-In-Kendal, South Lakeland",
+      "date": "2026-05-23T04:09:38",
+      "region": "Hindley, Wigan",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 27,
-      "estimatedTimeOfRestoration": "2026-05-23T06:32:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-23T06:32:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 296,
+      "estimatedTimeOfRestoration": "2026-05-23T10:09:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-23T10:09:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.169848,
-        "lng": -2.692229
+        "lat": 53.532759,
+        "lng": -2.581791
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA6 1LY, LA6 1FU, LA6 1LZ, LA6 1NA, LA6 1JE, LA6 3EH, LA6 1LU",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241206335",
-      "multipleFaultNumbers": null,
-      "date": "2026-05-23T02:45:42",
-      "region": "Blackburn South & Lower Darwen, Blackburn With Darwen",
-      "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 76,
-      "estimatedTimeOfRestoration": "2026-05-23T08:45:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-23T08:45:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.727679,
-        "lng": -2.466664
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " BB2 3UA, BB2 3UR, BB2 3WE, BB2 3WG, BB2 3WJ, BB2 3WR, BB2 3WL, BB2 3WN",
+      "AffectedPostcodes": " WN2 3HY, WN2 3JD, WN2 3HE, WN2 3HQ, WN2 3HU, WN2 3HJ, WN2 3HG, WN2 3HB, WN2 3HA, WN2 3JB, WN2 3BA, WN2 3AT, WN2 3JE, WN2 3EU, WN2 3LF, WN2 3EZ, WN2 3HD, WN2 3HF, WN2 3ET, WN2 3HX, WN2 3JA, WN2 3EW, WN2 3JZ",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -224,7 +182,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 3,
   "ShowPolygons": false,
   "Regions": [
     {
