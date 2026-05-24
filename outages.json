@@ -54,6 +54,48 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241206889",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-24T18:47:57",
+      "region": "New Mills, High Peak",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 70,
+      "estimatedTimeOfRestoration": "2026-05-25T00:47:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-25T00:47:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.368989,
+        "lng": -1.991744
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK22 4LE, SK22 4LJ, SK22 4LN, SK22 4LA, SK22 4LD",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -74,8 +116,8 @@
       "region": "Grange-Over-Sands, South Lakeland",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
-      "consumersOff": 109,
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 209,
       "estimatedTimeOfRestoration": "2026-05-24T21:00:00",
       "estimatedTimeOfRestorationMajority": "2026-05-24T21:00:00",
       "information": "",
@@ -88,48 +130,6 @@
       "AffectedPostcodes": " LA11 6UU, LA11 6QR, LA11 6LG, LA11 6LR, LA11 6LL, LA11 6LJ, LA11 6PB, LA11 6ND, LA11 6LT, LA11 6QS, LA11 6PD, LA11 6JF, LA11 6PA, LA11 6LQ, LA11 6PQ, LA11 6LN, LA11 6LU, LA11 6FE, LA11 7RW, LA11 6RY, LA11 6LE, LA11 6NB, LA11 6RZ, LA11 6LP, LA11 6LS, LA11 6RX, LA11 6LX, LA11 6QR",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 1241206874",
-      "multipleFaultNumbers": null,
-      "date": "2026-05-24T17:37:18",
-      "region": "Burnage, Manchester",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": null,
-      "consumersOff": 194,
-      "estimatedTimeOfRestoration": "2026-05-24T23:37:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-24T23:37:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.439538,
-        "lng": -2.207440
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M19 2WW, M19 2NU, M19 2NP, M19 1GX, M19 2NQ, M19 1GY, M19 1HQ, M19 1XS, M19 1ET, M19 1EU, M19 1FT, M19 1FS, M19 1EX, M19 2WH, M19 2WN, M28 2DA, M19 1GZ, M19 1HR",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -158,7 +158,7 @@
       "region": "Wilmslow, Cheshire East",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "We're on site",
       "consumersOff": 4,
       "estimatedTimeOfRestoration": "2026-05-24T20:00:00",
       "estimatedTimeOfRestorationMajority": "2026-05-24T20:00:00",
@@ -200,7 +200,7 @@
       "region": "Workington, Allerdale",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": null,
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 6,
       "estimatedTimeOfRestoration": "2026-05-24T22:00:00",
       "estimatedTimeOfRestorationMajority": "2026-05-24T22:00:00",
