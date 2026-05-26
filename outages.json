@@ -73,8 +73,8 @@
       "date": "2026-05-26T07:19:41",
       "region": "Maryport, Allerdale",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 164,
       "estimatedTimeOfRestoration": "2026-05-26T13:19:00",
       "estimatedTimeOfRestorationMajority": "2026-05-26T13:19:00",
@@ -202,8 +202,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 29,
-      "estimatedTimeOfRestoration": "2026-05-26T13:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-26T13:00:00",
+      "estimatedTimeOfRestoration": "2026-05-26T11:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-26T11:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -244,8 +244,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 19,
-      "estimatedTimeOfRestoration": "2026-05-26T11:14:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-26T11:14:00",
+      "estimatedTimeOfRestoration": "2026-05-26T17:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-26T17:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -283,19 +283,19 @@
       "date": "2026-05-26T01:55:23",
       "region": "Halton-With-Aughton, Lancaster",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 128,
-      "estimatedTimeOfRestoration": "2026-05-26T14:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-26T14:00:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 18,
+      "estimatedTimeOfRestoration": "2026-05-26T15:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-26T15:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.078770,
-        "lng": -2.762177
+        "lat": 54.078767,
+        "lng": -2.763607
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA2 6PS, LA2 6PP, LA2 6PR, LA2 6PL, LA2 6PW, LA2 6PT, LA2 6RA, LA2 6PN, LA2 6QY, LA2 6RB",
+      "AffectedPostcodes": " LA2 6PW, LA2 6PN",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -348,6 +348,48 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241207486",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-26T09:16:48",
+      "region": "Cleator Moor, Copeland",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 22,
+      "estimatedTimeOfRestoration": "2026-05-26T12:16:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-26T12:16:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 54.487622,
+        "lng": -3.519578
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " CA22 2EL, CA22 2NP, CA22 2NR, CA23 3EY, CA22 2PL, CA23 3EX, CA22 2DH",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -369,9 +411,9 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 18,
-      "estimatedTimeOfRestoration": "2026-05-26T13:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-26T13:00:00",
+      "consumersOff": 95,
+      "estimatedTimeOfRestoration": "2026-05-26T16:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-26T16:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -380,6 +422,48 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " WN3 5PS, WN3 5RW, WN3 5QJ, WN3 5SA, WN3 5RS, WN3 5SB, WN3 5RR",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241207570",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-26T10:15:41",
+      "region": "Withington, Manchester",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": null,
+      "consumersOff": 58,
+      "estimatedTimeOfRestoration": "2026-05-26T16:07:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-26T16:07:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.434642,
+        "lng": -2.205460
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M20 4XA, M20 4SA, M20 4XF, M20 4XE, M20 4RZ, M20 4XJ, M20 4XL, M20 4XH, M20 4XD, SK16 4DH",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -392,7 +476,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 8,
+  "TotalResults": 10,
   "ShowPolygons": false,
   "Regions": [
     {
