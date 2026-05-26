@@ -160,8 +160,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 50,
-      "estimatedTimeOfRestoration": "2026-05-26T18:43:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-26T18:43:00",
+      "estimatedTimeOfRestoration": "2026-05-26T23:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-26T23:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -286,8 +286,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 102,
-      "estimatedTimeOfRestoration": "2026-05-26T18:06:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-26T18:06:00",
+      "estimatedTimeOfRestoration": "2026-05-26T23:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-26T23:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -298,6 +298,48 @@
       "AffectedPostcodes": " BL2 4DR, BL2 4DS, BL2 4DP, BL2 4DW, BL2 4LJ, BL2 4DN, BL2 4JH, BL2 4LL, BL2 4JS, BL8 3QP, BL8 3QW, BL2 4JP, BL8 3QN, BL8 3QR, BL8 3QL, BL7 0HW, BL2 4JR, BL7 0HU, BL2 4JL, BL7 0HX, BL7 9AX, BL7 0BX, BL7 0BS, BL7 0HT, BL7 0HR, BL7 0HS, BL7 0H, BL7 0BS, BL7 0HP, BL7 9AU, BL7 0BT, BL7 0AR, BL7 0BU, BL7 0BR, BL7 0ED, BL7 0AY, BL7 0QG, BL7 0DU, BL7 0AT, BL7 0AX",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241208091",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-26T17:32:43",
+      "region": "Central Rochdale, Rochdale",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 82,
+      "estimatedTimeOfRestoration": "2026-05-26T23:32:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-26T23:32:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.620996,
+        "lng": -2.157538
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL16 2HS, OL12 8BN, OL10 4LJ, OL16 2HW, OL16 2BX, OL16 2DF, OL16 2DA, OL16 2DD, OL16 2HN, OL16 2BL, OL16 2DG, OL16 2DL, OL16 2EB",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -370,8 +412,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 31,
-      "estimatedTimeOfRestoration": "2026-05-26T17:44:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-26T17:44:00",
+      "estimatedTimeOfRestoration": "2026-05-26T19:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-26T19:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -392,7 +434,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 8,
+  "TotalResults": 9,
   "ShowPolygons": false,
   "Regions": [
     {
