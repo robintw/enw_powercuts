@@ -159,7 +159,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 181,
+      "consumersOff": 73,
       "estimatedTimeOfRestoration": "2026-05-28T01:00:00",
       "estimatedTimeOfRestorationMajority": "2026-05-28T01:00:00",
       "information": "",
@@ -202,8 +202,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 19,
-      "estimatedTimeOfRestoration": "2026-05-28T00:30:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-28T00:30:00",
+      "estimatedTimeOfRestoration": "2026-05-28T01:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-28T01:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -325,19 +325,19 @@
       "date": "2026-05-27T22:35:54",
       "region": "Hindley, Wigan",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 25,
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 10,
       "estimatedTimeOfRestoration": "2026-05-28T04:35:00",
       "estimatedTimeOfRestorationMajority": "2026-05-28T04:35:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.538335,
-        "lng": -2.574179
+        "lat": 53.538587,
+        "lng": -2.575074
       },
       "outageLocations": null,
-      "AffectedPostcodes": " WN2 2RP, WN2 2RL, WN2 3LD, WN2 3LB, WN2 4ED, WN2 4EG",
+      "AffectedPostcodes": " WN2 2RP",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -494,7 +494,7 @@
       "region": "Bredbury Green And Romiley, Stockport",
       "faultType": "Current Fault",
       "faultStatus": "Team on their way",
-      "previousFaultStatus": "Preparing to send team",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 332,
       "estimatedTimeOfRestoration": "2026-05-28T02:25:00",
       "estimatedTimeOfRestorationMajority": "2026-05-28T02:25:00",
@@ -551,6 +551,48 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241209044",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-28T00:14:21",
+      "region": "Brinnington And Central, Stockport",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 40,
+      "estimatedTimeOfRestoration": "2026-05-28T06:14:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-28T06:14:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.411282,
+        "lng": -2.157957
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK1 1NB, SK1 1PD, SK1 1NF, SK1 1PP, SK1 1LX, SK1 1NA, SK1 1PR, SK1 1PN, SK1 1QE, SK1 1PT, SK1 1PW, SK1 1PY",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -560,7 +602,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 12,
+  "TotalResults": 13,
   "ShowPolygons": false,
   "Regions": [
     {
