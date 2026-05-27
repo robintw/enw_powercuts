@@ -158,7 +158,7 @@
       "region": "Hornby-With-Farleton, Lancaster",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "Team on their way",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 181,
       "estimatedTimeOfRestoration": "2026-05-28T01:00:00",
       "estimatedTimeOfRestorationMajority": "2026-05-28T01:00:00",
@@ -221,7 +221,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -254,7 +254,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " M50 3XA, M50 3XZ, M5 3DR, M5 3LN, M5 3DL, M5 3DH, M5 3DU, M5 3DE, M5 3FN, M5 3FP, M5 3FY, M5 3LL, M5 3DB, M5 3LH, M5 3DA, M5 3DT, M5 3DD, M5 3DG, M5 3DQ, M5 3DJ, M5 3EY, M5 3EX, M5 3HA, M5 3FU, M5 3AW, M5 3FW, M5 3FX, M5 3BL, M5 3LZ, M5 3EZ, M5 3GD, M5 3FR",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -285,9 +285,9 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 22,
-      "estimatedTimeOfRestoration": "2026-05-28T01:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-28T01:00:00",
+      "consumersOff": 7,
+      "estimatedTimeOfRestoration": "2026-05-28T03:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-28T03:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -473,7 +473,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -488,26 +488,68 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 1241208550",
+      "faultNumber": "INC 1241209037",
       "multipleFaultNumbers": null,
-      "date": "2026-05-27T11:06:20",
-      "region": "Bury East, Bury",
+      "date": "2026-05-27T23:25:23",
+      "region": "Bredbury Green And Romiley, Stockport",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 46,
-      "estimatedTimeOfRestoration": null,
-      "estimatedTimeOfRestorationMajority": null,
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 332,
+      "estimatedTimeOfRestoration": "2026-05-28T02:25:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-28T02:25:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.603041,
-        "lng": -2.218211
+        "lat": 53.424061,
+        "lng": -2.086066
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BL9 7TB, BL9 7TH, BL9 7TG, OL16 4GH",
-      "UnderReviewStatusTimeCheck": true,
+      "AffectedPostcodes": " SK6 4PU, SK6 1JQ, SK6 1JH, SK6 1JE, SK6 1HZ, SK6 4PX, SK6 1HY, SK6 4PZ, SK6 1HX, SK6 1HU, SK6 1JF, SK6 1JJ, SK6 1JD, SK6 1JB, SK6 1HR, SK6 4QA, SK6 1JA, SK6 4PY, SK6 1JG, SK14 3AD",
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241209040",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-27T23:31:00",
+      "region": "Brinnington And Central, Stockport",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 56,
+      "estimatedTimeOfRestoration": "2026-05-28T05:31:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-28T05:31:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.411587,
+        "lng": -2.158710
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " SK1 1SE, SK1 1XR, SK1 1TA, SK1 1XF, SK1 1XY, SK1 1LD, SK1 1EU, SK1 1LH, SK1 1LF, SK1 1LW, SK1 1NA, SK1 1LX, SK1 1LT, SK1 1LL, SK1 1PJ, SK1 1PN",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     }
   ],
@@ -518,7 +560,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 11,
+  "TotalResults": 12,
   "ShowPolygons": false,
   "Regions": [
     {
