@@ -53,7 +53,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -75,9 +75,9 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 40,
-      "estimatedTimeOfRestoration": "2026-05-29T19:49:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-29T19:49:00",
+      "consumersOff": 5,
+      "estimatedTimeOfRestoration": "2026-05-30T00:15:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-30T00:15:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -86,7 +86,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " SK7 1RN, SK10 4EF, SK10 4PJ, SK10 4PB, SK10 4ND, SK10 4LD, SK10 4JZ, SK10 4NA, SK10 4LF, SK10 4NF, SK10 4NU, SK10 4JX, SK10 4NY, SK10 4JU, SK10 4NE, SK10 4NX, SK10 4LP, SK10 4LB, SK10 4NB, SK10 4PL, SK10 4DX, SK10 4LR, SK10 4LA, SK10 4PA, SK10 4DT, SK10 4DU, SK10 4NT, SK10 4DY, SK10 4LE, SK10 4DS, SK10 4PF",
-      "UnderReviewStatusTimeCheck": true,
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
@@ -116,8 +116,8 @@
       "region": "Cathedral & Castle, Carlisle",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 415,
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 291,
       "estimatedTimeOfRestoration": "2026-05-29T22:11:00",
       "estimatedTimeOfRestorationMajority": "2026-05-29T22:11:00",
       "information": "",
@@ -152,24 +152,24 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125334884",
+      "faultNumber": "INC 125334896",
       "multipleFaultNumbers": null,
-      "date": "2026-05-29T19:17:47",
-      "region": "Cathedral & Castle, Carlisle",
+      "date": "2026-05-29T19:55:59",
+      "region": "Myerscough And Bilsborrow, Wyre",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
-      "consumersOff": 9,
-      "estimatedTimeOfRestoration": "2026-05-30T01:17:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-30T01:17:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 7,
+      "estimatedTimeOfRestoration": "2026-05-30T01:49:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-30T01:49:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.895089,
-        "lng": -2.937807
+        "lat": 53.849710,
+        "lng": -2.757753
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA3 8SY, CA3 8JA",
+      "AffectedPostcodes": " PR3 0RS",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
@@ -179,7 +179,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -212,7 +212,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " M33 2UX, M33 2UY",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     }
