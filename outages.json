@@ -117,7 +117,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 291,
+      "consumersOff": 258,
       "estimatedTimeOfRestoration": "2026-05-29T22:11:00",
       "estimatedTimeOfRestorationMajority": "2026-05-29T22:11:00",
       "information": "",
@@ -179,8 +179,8 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -194,26 +194,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125334580",
+      "faultNumber": "INC 125334906",
       "multipleFaultNumbers": null,
-      "date": "2026-05-29T11:17:40",
-      "region": "Sale Moor, Trafford",
+      "date": "2026-05-29T20:52:42",
+      "region": "Penwortham, South Ribble",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 8,
-      "estimatedTimeOfRestoration": "2026-05-29T20:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-29T20:00:00",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 96,
+      "estimatedTimeOfRestoration": "2026-05-29T23:52:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-29T23:52:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.411212,
-        "lng": -2.298644
+        "lat": 53.745979,
+        "lng": -2.736572
       },
       "outageLocations": null,
-      "AffectedPostcodes": " M33 2UX, M33 2UY",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "U/GM",
+      "AffectedPostcodes": " PR1 0QS, PR1 0LX, PR1 0QE, PR1 0YE, PR1 0NL, PR1 0PS, PR1 0XY, PR1 0LS, PR1 0QL, PR1 0JN, PR1 0QD, PR1 0YB, PR1 0NA, PR1 0QJ, PR1 0PA, PR1 0QT, PR1 0PB, PR1 0YJ, PR1 0QH, PR1 0JA, PR1 0XX, PR1 0DU, PR1 0XQ, PR1 0LL, PR1 0DT, PR1 0BA, PR1 0UY, PR1 0HU, PR1 0LN, PR1 9XB, PR1 0BB, PR1 0SE, PR1 0JD, PR1 0LP, PR1 9UW, PR1 0XJ, PR1 0LY, PR1 0JX, PR1 0QP, PR1 0NS, PR1 0JJ, PR1 0NN, PR1 0YH, PR1 0QN, PR1 0PH, PR1 0ND, PR1 0JH, PR1 0PJ, PR1 0YQ, PR1 0PL, PR1 0DX, PR1 0QX, PR1 0XP, PR1 0JS, PR1 0QB, PR1 0EA, PR1 0HX, PR1 0HY, PR1 0QQ, PR1 0JB, PR1 0JT, PR1 0NR, PR1 0LU, PR1 0QA, PR1 0XA, PR1 0DS, PR1 0EE, PR1 0JE, PR1 0LJ, PR1 0BJ, PR1 0JR, PR1 0JU, PR1 0NH, PR1 0YA, PR1 0NE, PR1 0JL, PR1 0PE, PR1 0QY, PR1 0ED, PR1 0XR, PR1 0DQ, PR1 0NQ, PR1 0PT, PR1 0QR, PR1 0LT, PR1 0PP, PR1 0QU, PR1 0HT, PR1 0XS, PR1 0YD, PR1 0BH, PR1 9UX, PR1 0WZ, PR1 0LH, PR1 0TL, PR1 0NP, PR1 0NJ, PR1 0RE, PR1 0HS, PR1 0AR, PR1 0PR, PR1 9UY, PR1 0DY, PR1 0RH, PR1 0PG, PR1 9XD, PR1 0TA, PR1 0AS, PR1 0EB, PR1 0BD, PR1 0DA, PR1 0EH, PR1 0NB, PR2 8EU",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     }
   ],
