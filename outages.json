@@ -95,7 +95,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -128,7 +128,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " PR3 0RS",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -137,7 +137,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -152,26 +152,68 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125334913",
+      "faultNumber": "INC 125334927",
       "multipleFaultNumbers": null,
-      "date": "2026-05-29T21:56:23",
-      "region": "Spring Hill, Hyndburn",
+      "date": "2026-05-30T00:57:54",
+      "region": "Miles Platting & Newton Heath, Manchester",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
-      "consumersOff": 83,
-      "estimatedTimeOfRestoration": "2026-05-30T00:56:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-30T00:56:00",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 218,
+      "estimatedTimeOfRestoration": "2026-05-30T03:57:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-30T03:57:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.736261,
-        "lng": -2.377499
+        "lat": 53.502048,
+        "lng": -2.181816
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BB5 3SN, BB5 3TF, BB5 3SD, BB5 3SJ, BB5 3SF, BB5 3SL, BB5 3TE, BB5 0NY, BB5 3SW, BB5 3SQ, BB5 3RY, BB5 3TD, BB5 3RT, BB5 3SB, BB5 2RH, BB5 3SA, BB5 3SE, BB5 3SG, BB5 3SR, BB5 3RZ, BB5 3SS, BB5 0NW, BB5 3SH, BB5 0NU, BB5 3FB, BB5 2RJ",
-      "UnderReviewStatusTimeCheck": true,
+      "AffectedPostcodes": " M40 2EF, M40 3WA, M40 1AB, M40 3NF, M35 0LH, M40 2LA, M40 1EY, M40 1EZ, M35 0JH, M35 0BN, M40 3NU, M40 2FY, M40 3NJ, M40 2FW, M35 0UF, M40 1GX, M40 1DB, M40 2JF, M40 2FG, M40 2EQ, M40 1AH, M35 0JF, M40 2JW, M35 0TQ, M40 3AN, M35 0BH, M40 2EH, M40 3ND, M40 2BL, M40 3WD, M40 1AG, M35 0JE, M35 0UA, M40 1EP, M35 0BR, M40 2FE, M40 2FQ, SK7 6AU, M40 3NT, M35 0JD, M40 2EG, M40 3AT, M40 3NH, M40 1AE, M40 3AL, M40 3AD, M40 1HB, M35 0JN, M40 3AJ, M40 3WB, M40 2BN, M40 2FD, M40 1EN, M35 0BW, M40 2JN, M40 3AX, M35 0BG, M40 3BA, M35 0BJ, M35 0BP, M40 2FF, M40 2FU, M40 3AE, M40 3AA, M40 2EP, M35 0BX, M35 0UE, M35 0BY, M40 2JE, M40 2FA, M35 0JJ, M40 1HA, M40 3AR, M40 1EL, M40 3AG, M40 1WT",
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125334930",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-30T01:13:37",
+      "region": "Pilkington Park, Bury",
+      "faultType": "Current Fault",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 127,
+      "estimatedTimeOfRestoration": "2026-05-30T07:13:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-30T07:13:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.546246,
+        "lng": -2.311254
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M45 7LL, M26 1JA, M45 7LJ, M26 1JB, M45 7LE, M45 7LH, M45 7JL, M45 7LN, M26 1JR, M45 7HU, M45 7QW, M45 7QQ, M45 7GW, M45 7QN, M45 7LP, M45 7JH",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     }
   ],
@@ -182,7 +224,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 3,
+  "TotalResults": 4,
   "ShowPolygons": false,
   "Regions": [
     {
