@@ -137,6 +137,48 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125335336",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-30T09:47:19",
+      "region": "Chorley North & Astley, Chorley",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 69,
+      "estimatedTimeOfRestoration": "2026-05-30T15:47:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-30T15:47:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.670653,
+        "lng": -2.611589
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR6 8UH, PR6 8UB, PR6 8UL, PR6 8UJ",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
       "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
@@ -171,48 +213,6 @@
       "outageLocations": null,
       "AffectedPostcodes": " M45 7LL, M26 1JA, M45 7LJ, M26 1JB, M45 7LE, M45 7LH, M45 7JL, M45 7LN, M26 1JR, M45 7HU, M45 7QW, M45 7QQ, M45 7GW, M45 7QN, M45 7LP, M45 7JH",
       "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125335225",
-      "multipleFaultNumbers": null,
-      "date": "2026-05-30T07:35:14",
-      "region": "Chorley North & Astley, Chorley",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 69,
-      "estimatedTimeOfRestoration": "2026-05-30T13:35:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-30T13:35:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.670653,
-        "lng": -2.611589
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " PR6 8UB, PR6 8UH, PR6 8UL, PR6 8UJ",
-      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -283,8 +283,8 @@
       "date": "2026-05-30T04:46:18",
       "region": "Chapel-En-Le-Frith, High Peak",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 7,
       "estimatedTimeOfRestoration": "2026-05-30T10:30:00",
       "estimatedTimeOfRestorationMajority": "2026-05-30T10:30:00",
@@ -296,48 +296,6 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " SK23 9UQ",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125335071",
-      "multipleFaultNumbers": null,
-      "date": "2026-05-30T06:00:21",
-      "region": "Kirkby Thore, Eden",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 188,
-      "estimatedTimeOfRestoration": "2026-05-30T09:30:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-30T09:30:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.622847,
-        "lng": -2.550116
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " CA16 6JP, CA16 6BH, CA16 6BT, CA16 6BU, CA16 6AQ, CA16 6BX, CA16 6BN, CA16 6BJ, CA10 1XW, CA16 6BW, CA10 1XL, CA16 6DZ, CA10 1XN, CA10 1XT, CA10 1XX, CA10 1, CA10 1UY, CA10 1XA, CA10 1UN, CA10 1XP, CA10 1UE, CA11 0AU",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
@@ -367,8 +325,8 @@
       "date": "2026-05-30T09:02:50",
       "region": "Radcliffe North & Ainsworth, Bury",
       "faultType": "Current Fault",
-      "faultStatus": "Preparing to send team",
-      "previousFaultStatus": "Preparing to send team",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
       "consumersOff": 110,
       "estimatedTimeOfRestoration": "2026-05-30T15:02:00",
       "estimatedTimeOfRestorationMajority": "2026-05-30T15:02:00",
@@ -451,8 +409,8 @@
       "date": "2026-05-30T05:34:22",
       "region": "North Manor, Bury",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 51,
       "estimatedTimeOfRestoration": "2026-05-30T11:34:00",
       "estimatedTimeOfRestorationMajority": "2026-05-30T11:34:00",
@@ -476,7 +434,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 10,
+  "TotalResults": 9,
   "ShowPolygons": false,
   "Regions": [
     {
