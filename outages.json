@@ -159,7 +159,7 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 40,
+      "consumersOff": 41,
       "estimatedTimeOfRestoration": "2026-05-31T12:00:00",
       "estimatedTimeOfRestorationMajority": "2026-05-31T12:00:00",
       "information": "",
@@ -241,8 +241,8 @@
       "date": "2026-05-31T07:42:57",
       "region": "Whitworth, Rossendale",
       "faultType": "Current Fault",
-      "faultStatus": "Team on their way",
-      "previousFaultStatus": "Team on their way",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
       "consumersOff": 43,
       "estimatedTimeOfRestoration": "2026-05-31T13:42:00",
       "estimatedTimeOfRestorationMajority": "2026-05-31T13:42:00",
@@ -264,7 +264,7 @@
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
       "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers fix the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -278,68 +278,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125335658",
+      "faultNumber": "INC 125335720",
       "multipleFaultNumbers": null,
-      "date": "2026-05-31T02:15:56",
-      "region": "Blennerhasset And Torpenhow, Allerdale",
+      "date": "2026-05-31T09:12:36",
+      "region": "Westhoughton, Bolton",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 60,
-      "estimatedTimeOfRestoration": "2026-05-31T10:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-31T10:00:00",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 3,
+      "estimatedTimeOfRestoration": "2026-05-31T13:12:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-31T13:12:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.761570,
-        "lng": -3.227894
+        "lat": 53.554307,
+        "lng": -2.521497
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA7 1JF, CA7 1JY, CA7 1JJ, CA7 1HT, CA7 1HX, CA7 1HW, CA7 1JA, CA7 5DR, CA7 1HU, CA7 1HY, CA7 1JZ, CA7 1HZ",
+      "AffectedPostcodes": " BL5 3JG, BL5 3QR",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125335679",
-      "multipleFaultNumbers": null,
-      "date": "2026-05-31T06:32:31",
-      "region": "Hollinwood, Oldham",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 89,
-      "estimatedTimeOfRestoration": "2026-05-31T12:32:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-31T12:32:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.520438,
-        "lng": -2.120318
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " OL8 3AN, OL8 3AP, OL8 3AQ, OL8 3AR, OL8 3AW, OL8 3AZ, OL8 3BA",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
+      "WebTMSFaultType": "U/GS",
       "addressMpanList": null
     }
   ],
@@ -350,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 7,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
