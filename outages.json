@@ -76,8 +76,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 99,
-      "estimatedTimeOfRestoration": "2026-05-31T15:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-31T15:00:00",
+      "estimatedTimeOfRestoration": "2026-05-31T18:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-31T18:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -130,6 +130,48 @@
       "AffectedPostcodes": " BL4 8RP",
       "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125335819",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-31T14:14:12",
+      "region": "Chorley South East & Heath Charnock, Chorley",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 12,
+      "estimatedTimeOfRestoration": "2026-05-31T17:14:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-31T17:14:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.633818,
+        "lng": -2.656120
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " PR7 5NB, PR7 5LP, PR7 2WJ, PR7 2WD, PR7 5RY, PR7 5BW, PR7 5XQ, PR7 2RA, PR7 4PP, PR7 4PG, PR7 2FU, PR7 2FB, PR7 4LS, PR7 2JZ, PR7 2FG, PR7 4NL, PR7 2FS, PR7 3QL, PR7 4QF, PR7 4PU, PR7 2FP, PR7 4NU, PR7 4NS, PR7 5WP, PR7 4QT, PR7 4QH, PR7 4QY, PR7 4NX, PR7 5EZ, PR7 4PS, PR7 4QB, PR7 4PX, PR7 2FF, PR7 5EP, PR7 4NY, PR7 2RS, PR7 3RB, PR7 4PJ, PR7 5AW, PR7 4QP, PR7 5HB, PR7 4NZ, PR7 5AN, PR7 4BY, PR7 5EY, PR7 5AX, PR7 5NL, PR7 5LZ, PR7 5FJ, PR7 2WE, PR7 5UA, PR7 5RX, PR7 4PN, PR7 4PE, PR7 2RH, PR7 2FJ, PR7 4PY, PR7 4QJ, PR7 2FR, PR7 4QA, PR7 4QX, PR7 4NW, PR7 5ER, PR7 4PR, PR7 2RF, PR7 4PL, PR7 4QD, PR7 4PB, PR7 4PZ, PR7 5EX, PR7 5AQ, PR7 5NA, PR7 3QP, PR7 2WB, PR7 2WL, PR7 4DE, PR7 5XR, PR7 4PQ, PR7 2FT, PR7 2FE, PR7 5LR, PR7 2FH, PR7 3PY, PR7 2FW, PR7 4NT, PR7 4QU, PR7 5WJ, PR7 3RD, PR7 4PA, PR7 5EU, PR7 4NP, PR7 2RD, PR7 4AX, PR7 4LR, PR7 4PT, PR7 3QS, PR7 4DA, PR7 5LF, PR7 2FL, PR7 9QY, PR7 4QL, PR7 4QZ, PR7 2FD, PR7 5BS, PR7 4NB, PR7 4BZ, PR7 2WA, PR7 5ES, PR7 4BX, PR7 5LE, PR7 2RB, PR7 2FN, PR7 2FQ, PR7 5AZ, PR7 2WF, PR7 4DZ, PR7 4NR, PR7 5LY, PR7 5BX, PR7 4PH, PR7 2WH, PR7 5HE, PR7 5TT, PR7 4QG, PR6 8HQ, PR7 1PA, PR7 2EG, PR7 5LQ, PR7 5HA, PR7 4BJ, PR7 2EU, PR7 5ND, PR7 2RE, PR7 3QR, PR7 2FA, PR7 5NH, PR7 2RG, PR7 2W, PR7 3RA, PR7 3RE, PR7 3BN, PR7 5QH, PR7 4NN, PR7 2WG, PR7 4PF, PR7 4LP, PR7 4DF, PR7 4LX, PR7 5AB, PR7 5ET, PR7 3QA, PR7 4QR, PR7 4PD, PR7 3QD, PR7 4BU, PR7 1PT, PR7 4QQ, PR7 4BP, PR7 5NJ, PR7 3QN, PR7 5LL",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
     {
@@ -202,8 +244,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 15,
-      "estimatedTimeOfRestoration": "2026-05-31T17:13:00",
-      "estimatedTimeOfRestorationMajority": "2026-05-31T17:13:00",
+      "estimatedTimeOfRestoration": "2026-05-31T23:15:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-31T23:15:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -308,7 +350,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 6,
+  "TotalResults": 7,
   "ShowPolygons": false,
   "Regions": [
     {
