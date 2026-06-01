@@ -118,8 +118,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 15,
-      "estimatedTimeOfRestoration": "2026-06-01T23:30:00",
-      "estimatedTimeOfRestorationMajority": "2026-06-01T23:30:00",
+      "estimatedTimeOfRestoration": "2026-06-02T03:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-06-02T03:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -179,7 +179,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -202,8 +202,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 15,
-      "estimatedTimeOfRestoration": "2026-06-01T23:15:00",
-      "estimatedTimeOfRestorationMajority": "2026-06-01T23:15:00",
+      "estimatedTimeOfRestoration": "2026-06-02T03:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-06-02T03:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -212,7 +212,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " CA10 2RS, CA10 2QT, CA10 2QX, CA10 3PZ, CA10 3QF, CA10 2QU, CA10 2QL, CA10 2RE, CA10 2RW, CA10 2QR, CA10 2RJ, CA10 2PU, CA10 2RL, CA10 3PW, CA10 2RQ, CA10 2QZ, CA10 2QQ, CA10 2QS, CA10 3PY, CA10 3NE, CA10 2RH, CA10 3PP, CA10 3NB, CA10 2PT, CA10 2RF, CA10 2RP, CA10 3QD, CA10 2QJ, CA10 2QP, CA10 2NX, CA10 3ND, CA10 2RA, CA10 2RB, CA10 2RR, CA10 2QY, CA10 3QE, CA10 2RG, CA10 3PR, CA10 2QB, CA10 3NG, CA10 2QG",
-      "UnderReviewStatusTimeCheck": true,
+      "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
     },
