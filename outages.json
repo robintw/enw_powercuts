@@ -53,8 +53,8 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UnderReview": true,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
         {
@@ -68,26 +68,68 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125336543",
+      "faultNumber": "INC 1241208554",
       "multipleFaultNumbers": null,
-      "date": "2026-06-01T14:17:41",
-      "region": "North Turton, Blackburn With Darwen",
+      "date": "2026-05-27T11:08:15",
+      "region": "Coupe Green & Gregson Lane, South Ribble",
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 6,
-      "estimatedTimeOfRestoration": "2026-06-01T21:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-06-01T21:00:00",
+      "consumersOff": 8,
+      "estimatedTimeOfRestoration": "2026-06-01T20:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-06-01T20:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 53.657452,
-        "lng": -2.394475
+        "lat": 53.741536,
+        "lng": -2.615587
       },
       "outageLocations": null,
-      "AffectedPostcodes": " BL7 0QJ, BL7 0JQ, BL7 0JR, BL7 0PH, BL7 0PW, BL7 0JF, BL7 0PL, BL7 0QY, BL7 0JJ, BL7 0JH, BL7 0QZ, BL7 0PP, BL7 0JL, BL7 0JT, BL7 0PR, BL7 0LB, BL7 0PJ, BL7 0BB, BL7 0PU, BL7 0JY, BL7 0LA, BL7 0LD, BL7 0JZ, BL7 0JS, BL7 0PS, BL7 0JP, BL7 0JU, BL7 0PN, BL7 0JN, BL7 0JD, BL7 0FR, BL7 0PQ, BL7 0JG, BL7 0JW, BL7 0PG, BL7 0PT, BL1 8NJ, BL7 0JX",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "HVFL",
+      "AffectedPostcodes": " PR5 0EJ, PR5 0EL",
+      "UnderReviewStatusTimeCheck": true,
+      "WebTMSFaultType": "U/GM",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": true,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125335401",
+      "multipleFaultNumbers": null,
+      "date": "2026-05-30T12:44:25",
+      "region": "Cheetham, Manchester",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 25,
+      "estimatedTimeOfRestoration": "2026-05-30T18:44:00",
+      "estimatedTimeOfRestorationMajority": "2026-05-30T18:44:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.495602,
+        "lng": -2.256050
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M8 9TZ, M7 1UH, M8 9TY, M7 1UF",
+      "UnderReviewStatusTimeCheck": true,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -160,8 +202,8 @@
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
       "consumersOff": 44,
-      "estimatedTimeOfRestoration": "2026-06-02T00:25:00",
-      "estimatedTimeOfRestorationMajority": "2026-06-02T00:25:00",
+      "estimatedTimeOfRestoration": "2026-06-02T20:00:00",
+      "estimatedTimeOfRestorationMajority": "2026-06-02T20:00:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -179,7 +221,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": false,
+      "UnderReview": true,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -201,9 +243,9 @@
       "faultType": "Current Fault",
       "faultStatus": "We're on site",
       "previousFaultStatus": "We're on site",
-      "consumersOff": 18,
-      "estimatedTimeOfRestoration": "2026-06-02T00:25:00",
-      "estimatedTimeOfRestorationMajority": "2026-06-02T00:25:00",
+      "consumersOff": 3,
+      "estimatedTimeOfRestoration": "2026-06-01T20:30:00",
+      "estimatedTimeOfRestorationMajority": "2026-06-01T20:30:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
@@ -212,7 +254,7 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " BB1 6JY, BB1 6NN, BB1 6JZ, BB1 6PW",
-      "UnderReviewStatusTimeCheck": false,
+      "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
@@ -266,7 +308,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 5,
+  "TotalResults": 6,
   "ShowPolygons": false,
   "Regions": [
     {
