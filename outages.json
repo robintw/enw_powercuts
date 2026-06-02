@@ -53,7 +53,7 @@
       "Type": "CurrentFault",
       "Icon": "icon-warning",
       "ShowViewOnMapCTA": false,
-      "UnderReview": true,
+      "UnderReview": false,
       "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
       "UpdateInfo": null,
       "CTAs": [
@@ -68,68 +68,26 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125334730",
+      "faultNumber": "INC 125337360",
       "multipleFaultNumbers": null,
-      "date": "2026-05-29T13:48:28",
-      "region": "Lower Allithwaite, South Lakeland",
+      "date": "2026-06-02T18:48:09",
+      "region": "Ancoats & Beswick, Manchester",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 4,
-      "estimatedTimeOfRestoration": "2026-06-02T17:30:00",
-      "estimatedTimeOfRestorationMajority": "2026-06-02T17:30:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 13,
+      "estimatedTimeOfRestoration": "2026-06-03T00:46:00",
+      "estimatedTimeOfRestorationMajority": "2026-06-03T00:46:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.183226,
-        "lng": -2.941990
+        "lat": 53.480873,
+        "lng": -2.214496
       },
       "outageLocations": null,
-      "AffectedPostcodes": " LA11 7RD, LA11 7RE, LA11 7RB, LA11 7RF, LA11 7RR, LA11 7QZ, LA11 7QH, LA11 7RU, LA11 7QQ, LA11 7QN, LA11 7QJ",
-      "UnderReviewStatusTimeCheck": true,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "The power cut in your area has been caused by an unexpected incident with the overhead cable that provides electricity to your property.",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125337154",
-      "multipleFaultNumbers": null,
-      "date": "2026-06-02T13:38:10",
-      "region": "Stanwix Rural, Carlisle",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 5,
-      "estimatedTimeOfRestoration": "2026-06-02T20:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-06-02T20:00:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 54.897439,
-        "lng": -2.980388
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " CA6 4QX",
+      "AffectedPostcodes": " M4 7DU, M4 7DY, M4 7DT",
       "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "O/HM",
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -173,48 +131,6 @@
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125337298",
-      "multipleFaultNumbers": null,
-      "date": "2026-06-02T16:13:27",
-      "region": "Pendlebury & Clifton, Salford",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 18,
-      "estimatedTimeOfRestoration": "2026-06-02T22:13:00",
-      "estimatedTimeOfRestorationMajority": "2026-06-02T22:13:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.511466,
-        "lng": -2.321586
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " M27 8UX, M27 8UN, M27 8UL",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -224,7 +140,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 4,
+  "TotalResults": 2,
   "ShowPolygons": false,
   "Regions": [
     {
