@@ -110,26 +110,68 @@
           "Url": "/about-us/contact-us/report-a-power-cut-105/"
         }
       ],
-      "faultNumber": "INC 125336688",
+      "faultNumber": "INC 125336766",
       "multipleFaultNumbers": null,
-      "date": "2026-06-01T20:15:41",
-      "region": "Shap, Eden",
+      "date": "2026-06-02T04:11:13",
+      "region": "Medlock Vale, Oldham",
       "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 15,
-      "estimatedTimeOfRestoration": "2026-06-02T04:00:00",
-      "estimatedTimeOfRestorationMajority": "2026-06-02T04:00:00",
+      "faultStatus": "Team on their way",
+      "previousFaultStatus": "Team on their way",
+      "consumersOff": 524,
+      "estimatedTimeOfRestoration": "2026-06-02T07:11:00",
+      "estimatedTimeOfRestorationMajority": "2026-06-02T07:11:00",
       "information": "",
       "actualTimeOfRestoration": null,
       "outageCentrePoint": {
-        "lat": 54.544654,
-        "lng": -2.729029
+        "lat": 53.515049,
+        "lng": -2.104396
       },
       "outageLocations": null,
-      "AffectedPostcodes": " CA10 2RS, CA10 2QT, CA10 2QX, CA10 3PZ, CA10 3QF, CA10 2QU, CA10 2QL, CA10 2RE, CA10 2RW, CA10 2QR, CA10 2RJ, CA10 2PU, CA10 2RL, CA10 3PW, CA10 2RQ, CA10 2QZ, CA10 2QQ, CA10 2QS, CA10 3PY, CA10 3NE, CA10 2RH, CA10 3PP, CA10 3NB, CA10 2PT, CA10 2RF, CA10 2RP, CA10 3QD, CA10 2QJ, CA10 2QP, CA10 2NX, CA10 3ND, CA10 2RA, CA10 2RB, CA10 2RR, CA10 2QY, CA10 3QE, CA10 2RG, CA10 3PR, CA10 2QB, CA10 3NG, CA10 2QG",
+      "AffectedPostcodes": " OL8 2TN, OL8 2TR, OL8 2UB, OL8 2TP, OL8 2TL, OL8 2TS, OL8 3HX, OL8 2TU, OL8 2RT, OL8 2TD, OL8 2UA, OL8 2TW, OL8 2TT, OL8 3HS, OL7 9RU, OL8 2RJ, OL8 2TE, OL8 2TH, OL8 3JP, OL6 8AH, OL8 2TZ, OL8 2TJ, OL8 3HP, OL8 2TG, OL8 2TB, OL8 3HW, OL8 3HT, OL8 2RS, OL8 2TX, OL8 2TY, OL8 2RR, OL8 2TQ, OL6 8AQ, OL8 3HZ, OL6 8AW, OL8 3HU, OL7 9RT, OL8 2RG, OL8 2RW",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 125336772",
+      "multipleFaultNumbers": null,
+      "date": "2026-06-02T04:17:02",
+      "region": "Medlock Vale, Oldham",
+      "faultType": "Current Fault",
+      "faultStatus": "Preparing to send team",
+      "previousFaultStatus": "Preparing to send team",
+      "consumersOff": 132,
+      "estimatedTimeOfRestoration": "2026-06-02T10:17:00",
+      "estimatedTimeOfRestorationMajority": "2026-06-02T10:17:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.519599,
+        "lng": -2.108846
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " OL8 2RA, OL8 2RB, OL8 3HW, OL8 2RE, OL8 2RF, OL8 2RD, OL8 2RG",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "U/GM",
       "addressMpanList": null
     },
     {
@@ -170,48 +212,6 @@
       },
       "outageLocations": null,
       "AffectedPostcodes": " SK6 7QL, SK6 7QN, SK6 7NT, SK6 7QW",
-      "UnderReviewStatusTimeCheck": false,
-      "WebTMSFaultType": "U/GM",
-      "addressMpanList": null
-    },
-    {
-      "FaultLabel": "Live power cut",
-      "Type": "CurrentFault",
-      "Icon": "icon-warning",
-      "ShowViewOnMapCTA": false,
-      "UnderReview": false,
-      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident with the underground cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please note that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With underground power cuts, we may need to dig to repair the cable and this can sometime extend the length of time you are without power. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
-      "UpdateInfo": null,
-      "CTAs": [
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "What to do in a power cut",
-          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
-        },
-        {
-          "Icon": "icon-arrow-right",
-          "Text": "I'm involved in this power cut",
-          "Url": "/about-us/contact-us/report-a-power-cut-105/"
-        }
-      ],
-      "faultNumber": "INC 125336738",
-      "multipleFaultNumbers": null,
-      "date": "2026-06-02T01:29:16",
-      "region": "Bamber Bridge East, South Ribble",
-      "faultType": "Current Fault",
-      "faultStatus": "We're on site",
-      "previousFaultStatus": "We're on site",
-      "consumersOff": 66,
-      "estimatedTimeOfRestoration": "2026-06-02T07:29:00",
-      "estimatedTimeOfRestorationMajority": "2026-06-02T07:29:00",
-      "information": "",
-      "actualTimeOfRestoration": null,
-      "outageCentrePoint": {
-        "lat": 53.726864,
-        "lng": -2.660465
-      },
-      "outageLocations": null,
-      "AffectedPostcodes": " PR5 6LJ, PR5 6LH, PR5 6LP, PR5 6LN, PR5 6LB, PR5 6LD",
       "UnderReviewStatusTimeCheck": false,
       "WebTMSFaultType": "U/GM",
       "addressMpanList": null
