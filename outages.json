@@ -89,6 +89,48 @@
       "UnderReviewStatusTimeCheck": true,
       "WebTMSFaultType": "HVFL",
       "addressMpanList": null
+    },
+    {
+      "FaultLabel": "Live power cut",
+      "Type": "CurrentFault",
+      "Icon": "icon-warning",
+      "ShowViewOnMapCTA": false,
+      "UnderReview": false,
+      "AdditionalFaultInfo": "This power cut has been caused by an unexpected incident on the high voltage cable that provides electricity to your home or business. We didn't know before your electricity went off that this was going to happen but now we know, rest assured we will get your power back on safely and as quickly as possible.<br/><br/>Please be aware that all our timescales are estimated based on previous experience and may change if new information becomes available while our engineers are fixing the issue.  With high voltage power cuts, we're often able to get many of the homes involved back on before our estimated time of restoration. Click the link to find out <a class=\"c-fault-back__link ng-binding\" href=\"/power-cuts/why-do-we-experience-power-cuts/\">why power cuts happen</a>",
+      "UpdateInfo": null,
+      "CTAs": [
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "What to do in a power cut",
+          "Url": "/power-cuts/helpful-tips/tips-to-help-you-during-a-power-cut/"
+        },
+        {
+          "Icon": "icon-arrow-right",
+          "Text": "I'm involved in this power cut",
+          "Url": "/about-us/contact-us/report-a-power-cut-105/"
+        }
+      ],
+      "faultNumber": "INC 1241210673",
+      "multipleFaultNumbers": null,
+      "date": "2026-06-04T02:59:43",
+      "region": "Ardwick, Manchester",
+      "faultType": "Current Fault",
+      "faultStatus": "We're on site",
+      "previousFaultStatus": "We're on site",
+      "consumersOff": 76,
+      "estimatedTimeOfRestoration": "2026-06-04T05:59:00",
+      "estimatedTimeOfRestorationMajority": "2026-06-04T05:59:00",
+      "information": "",
+      "actualTimeOfRestoration": null,
+      "outageCentrePoint": {
+        "lat": 53.475981,
+        "lng": -2.224346
+      },
+      "outageLocations": null,
+      "AffectedPostcodes": " M12 6JL, M12 6EL, M1 2JP, M1 2DH, M1 2ND, M1 2NQ, M1 2WR, M12 6FJ, M12 6FP, M1 2NT, M1 2QF, M1 2AH, M12 6AE, M12 6FB, M1 2WW, M1 7JG, M1 2NS, M1 2WS, M1 2NG, M12 6EH, M1 2AR, M60 7RA, M1 2PG, M1 2PS, M1 2WG, M12 6EJ, M12 6HW, M60 7LP, M12 6DY",
+      "UnderReviewStatusTimeCheck": false,
+      "WebTMSFaultType": "HVFL",
+      "addressMpanList": null
     }
   ],
   "Markers": null,
@@ -98,7 +140,7 @@
     "TodaysPlannedWorks",
     "FuturePlannedWorks"
   ],
-  "TotalResults": 1,
+  "TotalResults": 2,
   "ShowPolygons": false,
   "Regions": [
     {
